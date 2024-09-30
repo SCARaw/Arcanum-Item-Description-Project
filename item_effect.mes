@@ -16,7 +16,7 @@
 {6037}{} Staff
 {6038}{} Envenomed Sword
 {6039}{} Elephant Gun
-{6040}{ED:10-40 Requires Charges}Tesla Rod Tesla Rod
+{6040}{ED:10-40 Requires Charges}Tesla Rod
 {6041}{} Flame Thrower
 {6042}{} Enchanted Sword
 {6043}{} UNUSED
@@ -31,7 +31,7 @@
 {6052}{} Throwing Dagger
 {6053}{} Mechanical Dagger
 {6054}{D:1-4 FT:1-2 (Mana:10)} Mage's Dagger
-{6055}{D:1-4 FT:1-2 (Speed +4)}Dagger of speed Dagger of Speed
+{6055}{D:1-4 FT:1-2 (Speed +4)}Dagger of speed
 {6056}{} Rusty Sword
 {6057}{} Quality Sword
 {6058}{} Caladon Elite Sword
@@ -41,20 +41,20 @@
 {6062}{} Katana
 {6063}{} Falchion
 {6064}{D:1-8 FT:1-4 (AC+15)} Sword of Defense
-{6065}{D:1-8(+4) FT:1-4 (Summon Animal)}Steelwater Blade Stillwater Blade
+{6065}{D:1-8(+4) FT:1-4 (Summon Animal)}Stillwater Blade
 {6066}{} Rusty Axe
 {6067}{} Quality Axe
 {6068}{} Power Axe
 {6069}{} Feather-Weight Axe
-{6070}{D:1-12(+10 Undead) FT:1-9}Reaper's Axe Reaper's Axe
-{6071}{D:1-12 FT:1-9 (ST:+1 CN:+1)}Axe of Strength Axe of Strength
+{6070}{D:1-12(+10 Undead) FT:1-9}Reaper's Axe
+{6071}{D:1-12 FT:1-9 (ST:+1 CN:+1)}Axe of Strength
 {6072}{} Rusty Mace
 {6073}{} Quality Mace
 {6074}{} Hammer
 {6075}{} Rusty Hammer
 {6076}{} Quality Hammer
 {6077}{} Machined Hammer
-{6078}{D:1-8 FT:1-10 (Crit Hit:+10%)}Crushing Hammer Crushing Hammer
+{6078}{D:1-8 FT:1-10 (Crit Hit:+10%)}Crushing Hammer
 {6079}{} Inferno Hammer
 {6080}{} Old Revolver
 {6081}{} Flintlock Pistol
@@ -70,7 +70,7 @@
 {6091}{} Claymore
 {6092}{} Flamberge
 {6093}{} Barbarian's Heavy Blade
-{6094}{D:4-16 FT:3-11 (Weight:20)}Blade of the Wind Sword of Air
+{6094}{D:4-16 FT:3-11 (Weight:20)}Sword of Air
 {6095}{} Sword of Sickness
 {6096}{} Compound Bow
 {6097}{} Short Bow
@@ -88,15 +88,15 @@
 {6109}{} Rusted Rifle
 {6110}{ED:5-10 Requires Charges} Shocking Staff
 {6111}{} Quality Staff
-{6112}{D:1-8 FT:3-12 Major Healing}Staff of healing Staff of Healing
-{6113}{D:1-8 FT:3-12 Major Healing, Charm Beast, Regenerate} Shaman Staff Shaman's Staff
-{6114}{D:1-8 FT:3-12 (Mana:50) Illuminate, Dweomer Shield} Mage Staff Mage's Staff
+{6112}{D:1-8 FT:3-12 Major Healing} Staff of Healing
+{6113}{D:1-8 FT:3-12 Major Healing, Charm Beast, Regenerate} Shaman's Staff
+{6114}{D:1-8 FT:3-12 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
 {6115}{} Hushed Revolver
 {6116}{} Hand Crafted Flintlock
 {6117}{} Large Pipe
 {6118}{} Hand Cannon
 {6119}{} Clarington Rifle
-{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20}Filmament Sword Filament Sword
+{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20} Filament Sword
 {6123}{D:1-4(+6) FT:1-2(+1) (Mana:5)} Magick Dagger
 {6124}{D:1-4(+9) FT:1-2(+2) (Mana:10)} Mystic Dagger
 {6125}{D:1-6(+12) FT:1-2(+4) (Mana:20)} Arcane Dagger
@@ -114,7 +114,7 @@
 {6143}{D:4-16(+8) FT:3-11(+8) (Mana:12)} Magick Great Sword
 {6144}{D:4-16(+12) FT:3-11(+12) (Mana:16)} Mystic Great Sword
 {6145}{D:4-16(+16) FT:3-11(+16) (Mana:20)} Arcane Great Sword
-{6154}{ED:10-80 Requires Charges} Tesla Gun Tesla Gun
+{6154}{ED:10-80 Requires Charges} Tesla Gun
 {6160}{D:1-8 FT:3-12(+6) (Mana:20)} Charmed Staff
 {6161}{D:1-8 FT:3-12(+12) (Mana:40)} Magick Staff
 {6162}{D:1-8 FT:3-12(+18) (Mana:60)} Mystic Staff
@@ -131,7 +131,7 @@
 {6173}{} Droch's Warbringer
 {6174}{} Large Bore Vendigrothian Rifle
 {6175}{} Oak Axe Handle
-{6176}{D:3-6 Bypasses AC/DR}Stiletto Stiletto
+{6176}{D:3-6 Bypasses AC/DR}Stiletto
 
 
 //Ammo
@@ -156,7 +156,7 @@
 {8054}{} Fancy Ring
 {8055}{} Medallion
 {8056}{} Leather Gloves
-{8057}{DX:+2}Gloves of Dexterity Charged Ring
+{8057}{DX:+2} Charged Ring
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
 {8060}{} Small Chainmail
@@ -170,7 +170,7 @@
 {8068}{} Large Mithril Platemail
 {8069}{} Large Nice Suit
 {8070}{} Suede Jacket
-{8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1}Thieves armor Oiled Thieves Leather
+{8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1} Oiled Thieves Leather
 {8072}{} Mithril Chainmail
 {8073}{} Machined Plate
 {8074}{AC:5 DR:7 FR:3 Prowling +2} Shadowing Robes
@@ -178,7 +178,7 @@
 {8076}{} Red Barbarian Clothes
 {8077}{AC:2  DR:1  +20 Reaction} Smoking Jacket
 {8078}{} Small Suede Jacket
-{8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1}Thieves Armor small Small Oiled Thieves Leather
+{8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1} Small Oiled Thieves Leather
 {8080}{} Small Mithril Chainmail
 {8081}{} Small Machined Plate
 {8082}{AC:5 DR:7 FR:3 Prowling +2} Small Robe of the Chameleon
@@ -186,7 +186,7 @@
 {8084}{} Small Red Barbarian Clothes
 {8085}{AC:2  DR:1  +20 Reaction} Small Smoking Jacket
 {8086}{} Heavy Rags
-{8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Thieves Armor Large Large Oiled Thieves Leather
+{8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Large Oiled Thieves Leather
 {8088}{} Large Basic Platemail
 {8089}{AC:2  DR:1  +20 Reaction} Large Smoking Jacket
 {8090}{} Wool Jacket
@@ -264,7 +264,7 @@
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates Ring
 {8164}{} Ring of Protection
-{8165}{Crit Hit Chance +5, Gambling +1}Fate ring Fated Ring
+{8165}{Crit Hit Chance +5, Gambling +1} Fated Ring
 {8166}{} Metal Boots
 {8167}{} Fine Stout Boots
 {8168}{} Shoes
@@ -273,12 +273,12 @@
 {8171}{} Ladies Fancy Boots
 {8172}{} Worn Ladies Boots
 {8173}{} Elven Boots
-{8174}{AC:5 DR:+6 NP:-10 Speed +5} Boots of speed Enchanted War Boots
+{8174}{AC:5 DR:+6 NP:-10 Speed +5} Enchanted War Boots
 {8175}{} Dwarven Gauntlets
 {8176}{} Machined Gauntlets
 {8177}{} War Gauntlets
 {8178}{} Chain Gloves
-{8179}{DR:+5  Bonus Pickpocket}Gloves of theft Light-Fingered Gauntlets
+{8179}{DR:+5  Bonus Pickpocket} Light-Fingered Gauntlets
 {8180}{DR:+5 DX:+2} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
@@ -303,7 +303,7 @@
 {8201}{} Officer's Uniform Officer's Uniform
 {8202}{} Small Officer's Uniform Small Officer's Uniform
 {8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership
-{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark helmet Dark Helm
+{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves
 {8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} Serpentine Necklace
 {8207}{} Wheel Clan Spectacles
