@@ -431,7 +431,7 @@
 {10090}{}Potion of Paralysis
 {10091}{}
 {10092}{}
-{10093}{}Wine, Duration 360
+{10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine
 {10094}{}
 {10095}{}
 {10096}{}
