@@ -1,0 +1,748 @@
+// this file holds the descriptions of item effects that the player
+// will see when he or she hovers over the item
+// NOTE: leave the first message 0 blank
+
+{0}{}
+
+//Weapons
+{6029}{} Dagger
+{6030}{} Sword
+{6031}{} Axe
+{6032}{} Mace
+{6033}{} Revolver
+{6034}{} Broadsword
+{6035}{} Bow
+{6036}{} Shotgun
+{6037}{} Staff
+{6038}{} Envenomed Sword
+{6039}{} Elephant Gun
+{6040}{ED:10-40 Requires Charges}Tesla Rod Tesla Rod
+{6041}{} Flame Thrower
+{6042}{} Enchanted Sword
+{6043}{} UNUSED
+{6044}{} Fine Revolver
+{6045}{} Repeater Rifle
+{6046}{} Hunting Rifle
+{6047}{} Railroad Spike
+{6048}{} Balanced Sword
+{6049}{} Bronwyck's Gun
+{6050}{} Rusty Dagger
+{6051}{} Fine Steel Dagger
+{6052}{} Throwing Dagger
+{6053}{} Mechanical Dagger
+{6054}{D:1-4 FT:1-2 (Mana:10)} Mage's Dagger
+{6055}{D:1-4 FT:1-2 (Speed +4)}Dagger of speed Dagger of Speed
+{6056}{} Rusty Sword
+{6057}{} Quality Sword
+{6058}{} Caladon Elite Sword
+{6059}{} Rapier
+{6060}{} Short Sword
+{6061}{} Scimitar
+{6062}{} Katana
+{6063}{} Falchion
+{6064}{D:1-8 FT:1-4 (AC+15)} Sword of Defense
+{6065}{D:1-8(+4) FT:1-4 (Summon Animal)}Steelwater Blade Stillwater Blade
+{6066}{} Rusty Axe
+{6067}{} Quality Axe
+{6068}{} Power Axe
+{6069}{} Feather-Weight Axe
+{6070}{D:1-12(+10 Undead) FT:1-9}Reaper's Axe Reaper's Axe
+{6071}{D:1-12 FT:1-9 (ST:+1 CN:+1)}Axe of Strength Axe of Strength
+{6072}{} Rusty Mace
+{6073}{} Quality Mace
+{6074}{} Hammer
+{6075}{} Rusty Hammer
+{6076}{} Quality Hammer
+{6077}{} Machined Hammer
+{6078}{D:1-8 FT:1-10 (Crit Hit:+10%)}Crushing Hammer Crushing Hammer
+{6079}{} Inferno Hammer
+{6080}{} Old Revolver
+{6081}{} Flintlock Pistol
+{6082}{} Old Flintlock Pistol
+{6083}{} Quality Revolver
+{6084}{} Hushed Pistol
+{6085}{} High Velocity Pistol
+{6086}{} Fancy Pistol
+{6087}{} Schreck's Pistol
+{6088}{} Long Range Pistol
+{6089}{} Quality Broadsword
+{6090}{} Rusty Broadsword
+{6091}{} Claymore
+{6092}{} Flamberge
+{6093}{} Barbarian's Heavy Blade
+{6094}{D:4-16 FT:3-11 (Weight:20)}Blade of the Wind Sword of Air
+{6095}{} Sword of Sickness
+{6096}{} Compound Bow
+{6097}{} Short Bow
+{6098}{} Long Bow
+{6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15} Elven Hunter's Bow
+{6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20} Bow of Terror
+{6101}{} Folding Rifle
+{6102}{} Repeater Rifle Variant 1
+{6103}{} Repeater Rifle Variant 2
+{6104}{} Mechanized Gun
+{6105}{} Looking Glass Rifle
+{6106}{} Marksman Rifle
+{6107}{} Levered Machine Gun
+{6108}{} Rifle
+{6109}{} Rusted Rifle
+{6110}{ED:5-10 Requires Charges} Shocking Staff
+{6111}{} Quality Staff
+{6112}{D:1-8 FT:3-12 Major Healing}Staff of healing Staff of Healing
+{6113}{D:1-8 FT:3-12 Major Healing, Charm Beast, Regenerate} Shaman Staff Shaman's Staff
+{6114}{D:1-8 FT:3-12 (Mana:50) Illuminate, Dweomer Shield} Mage Staff Mage's Staff
+{6115}{} Hushed Revolver
+{6116}{} Hand Crafted Flintlock
+{6117}{} Large Pipe
+{6118}{} Hand Cannon
+{6119}{} Clarington Rifle
+{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20}Filmament Sword Filament Sword
+{6123}{D:1-4(+6) FT:1-2(+1) (Mana:5)} Magick Dagger
+{6124}{D:1-4(+9) FT:1-2(+2) (Mana:10)} Mystic Dagger
+{6125}{D:1-6(+12) FT:1-2(+4) (Mana:20)} Arcane Dagger
+{6128}{D:1-8(+8) FT:1-4(+2) (Mana:4)} Magick Sword
+{6129}{D:1-8(+12) FT:1-4(+4) (Mana:8)} Mystic Sword
+{6130}{D:1-8(+16) FT:1-4(+8) (Mana:16)} Arcane Sword
+{6135}{D:1-12(+10) FT:1-9(+3) (Mana:4)} Magick Axe
+{6136}{D:1-13(+15) FT:1-9(+6) (Mana:8)} Mystic Axe
+{6137}{D:3-14(+20) FT:2-10(+9) (Mana:16)} Arcane Axe
+{6138}{D:1-5(+4) FT:1-9(+2) (Mana:8)} Charmed Mace
+{6139}{D:2-5(+8) FT:2-9(+4) (Mana:16)} Magick Mace
+{6140}{D:1-9(+12) FT:1-12(+8) (Mana:24)} Mystic Mace
+{6141}{D:3-9(+16) FT:3-12(+12) (Mana:32)} Arcane Mace
+{6142}{D:4-16(+4) FT:3-11(+4) (Mana:8)} Charmed Great Sword
+{6143}{D:4-16(+8) FT:3-11(+8) (Mana:12)} Magick Great Sword
+{6144}{D:4-16(+12) FT:3-11(+12) (Mana:16)} Mystic Great Sword
+{6145}{D:4-16(+16) FT:3-11(+16) (Mana:20)} Arcane Great Sword
+{6154}{ED:10-80 Requires Charges} Tesla Gun Tesla Gun
+{6160}{D:1-8 FT:3-12(+6) (Mana:20)} Charmed Staff
+{6161}{D:1-8 FT:3-12(+12) (Mana:40)} Magick Staff
+{6162}{D:1-8 FT:3-12(+18) (Mana:60)} Mystic Staff
+{6163}{D:1-8 FT:3-12(+24) (Mana:80)} Arcane Staff
+{6164}{} Boomerang
+{6165}{} Bladed Boomerang
+{6166}{} Balanced Boomerang
+{6167}{} Chakram
+{6168}{} Serrated Chakram
+{6169}{} Mystical Chakram
+{6170}{} Azram's Star
+{6171}{} Aerial Decapitator
+{6172}{} Void Sword
+{6173}{} Droch's Warbringer
+{6174}{} Large Bore Vendigrothian Rifle
+{6175}{} Oak Axe Handle
+{6176}{D:3-6 Bypasses AC/DR}Stiletto Stiletto
+
+
+//Ammo
+{7038}{Arrow} Arrow
+{7039}{Bullet} Bullet
+{7040}{Battery} Battery
+{7041}{Fuel} Fuel
+
+//Armour
+{8042}{} Heavy Wool Clothes
+{8043}{} Guard Leather
+{8044}{} Chainmail
+{8045}{} Machined Platemail
+{8046}{} Priest Robes
+{8047}{} Mithril Platemail
+{8048}{} Dread Armour
+{8049}{} Nice Suit
+{8050}{} Battered Wooden Shield
+{8051}{AC:2 DR:5 PE:-1} Helmet
+{8052}{} Gauntlets
+{8053}{} Boots
+{8054}{} Fancy Ring
+{8055}{} Medallion
+{8056}{} Leather Gloves
+{8057}{DX:+2}Gloves of Dexterity Charged Ring
+{8058}{} Small Heavy Wool Clothes
+{8059}{} Small Guard Leather
+{8060}{} Small Chainmail
+{8061}{} Small Machined Platemail
+{8062}{} Small Priest Robes
+{8063}{} Small Mithril Platemail
+{8064}{} Small Dread Armour
+{8065}{} Small Nice Suit
+{8066}{} Large Heavy Wool Clothes
+{8067}{} Large Guard Leather
+{8068}{} Large Mithril Platemail
+{8069}{} Large Nice Suit
+{8070}{} Suede Jacket
+{8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1}Thieves armor Oiled Thieves Leather
+{8072}{} Mithril Chainmail
+{8073}{} Machined Plate
+{8074}{AC:5 DR:7 FR:3 Prowling +2} Shadowing Robes
+{8075}{} Basic Platemail
+{8076}{} Red Barbarian Clothes
+{8077}{AC:2  DR:1  +20 Reaction} Smoking Jacket
+{8078}{} Small Suede Jacket
+{8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1}Thieves Armor small Small Oiled Thieves Leather
+{8080}{} Small Mithril Chainmail
+{8081}{} Small Machined Plate
+{8082}{AC:5 DR:7 FR:3 Prowling +2} Small Robe of the Chameleon
+{8083}{} Small Basic Platemail
+{8084}{} Small Red Barbarian Clothes
+{8085}{AC:2  DR:1  +20 Reaction} Small Smoking Jacket
+{8086}{} Heavy Rags
+{8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Thieves Armor Large Large Oiled Thieves Leather
+{8088}{} Large Basic Platemail
+{8089}{AC:2  DR:1  +20 Reaction} Large Smoking Jacket
+{8090}{} Wool Jacket
+{8091}{} Leather Armour
+{8092}{} Oiled Chainmail
+{8093}{} Basic Machined Plate
+{8094}{} Robes
+{8095}{} Bronzed Plate
+{8096}{} Bronze Barbarian Clothes
+{8097}{} Servants Clothes
+{8098}{} Small Wool Jacket
+{8099}{} Small Leather Armour
+{8100}{} Small Oiled Chainmail
+{8101}{} Small Basic Machined Platemail
+{8102}{} Small Robes
+{8103}{} Small Bronzed Plate
+{8104}{} Small Bronze Barbarian Clothes
+{8105}{} Small Manservants Clothes
+{8106}{} Large Wool Jacket
+{8107}{} Large Leather Armour
+{8108}{} Large Bronzed Plate
+{8109}{} Large Manservants Uniform
+{8110}{} Jacket
+{8111}{} Studded Leather
+{8112}{} Guard Chainmail
+{8113}{} Guard Plate
+{8114}{} Magick Robes
+{8115}{} Elite Plate
+{8116}{} Barbarian Clothes
+{8117}{} Rustic Finery
+{8118}{} Small Jacket
+{8119}{} Small Studded Leather
+{8120}{} Small Guard Chainmail
+{8121}{} Small Guard Plate
+{8122}{} Small Magick Robes
+{8123}{} Small Elite Plate
+{8124}{} Small Barbarian Clothes
+{8125}{} Small Rustic Finery
+{8126}{} Rags
+{8127}{} Large Studded Leather
+{8128}{} Large Elite Plate
+{8129}{} Large Rustic Finery
+{8130}{} Feather-Weight Chain
+{8131}{} Small Feather-Weight Chain
+{8132}{} Copper Ring
+{8133}{} Plain Dress
+{8134}{} Small Plain Dress Small Ladies City Dweller Clothes
+{8135}{} NO GOOD Large Ladies City Dweller Clothes
+{8136}{AC:2  DR:1  +20 Reaction} Elegant Dress Ladies Smoking Jacket
+{8137}{AC:2  DR:1  +20 Reaction} Small Elegant Dress Small Ladies Smoking Jacket
+{8138}{AC:2  DR:1  +20 Reaction} NO GOOD Large Ladies Smoking Jacket
+{8139}{} Servant's Dress FEMALE
+{8140}{} Small Servant's Dress Small Ladyservants Clothes
+{8141}{} NO GOOD Large Ladyservants Clothes
+{8142}{} Rustic Dress FEMALE
+{8143}{} Small Rustic Dress Small Ladies Rustic Finery
+{8144}{} NO GOOD Large Ladies Rustic Finery
+{8145}{} Venom-Shielded Garment
+{8146}{} Small Venom-Shielded Garment
+{8147}{} Large Venom-Shielded Garment
+{8148}{AC:8 DR:14 FR:5 Accelerated Healing, Requires Charges} Regenerative Jacket
+{8149}{AC:8 DR:14 FR:5 Accelerated Healing, Requires Charges} Small Regenerative Jacket
+{8150}{AC:8 DR:14 FR:5 Accelerated Healing, Requires Charges} Large Regenerative Jacket
+{8151}{} Dragon Skin Leather
+{8152}{} Small Dragon Skin Leather
+{8153}{} Large Dragon Skin Leather
+{8154}{AC:10 DR:+5 FR:+5 NP:-10(+15) Backstab, Prowling +2} Creep Armour
+{8155}{} Caladon Elite Guard Chainmail
+{8156}{} Dwarven Chainmail
+{8157}{} Elven Chainmail
+{8158}{} Gnomish Chainmail
+{8159}{} Molochean Hand Amulet
+{8160}{BE:+2}Medalion of Beuty Medallion of Beauty
+{8161}{MR:+40}Dorian Amulet Dorian Amulet
+{8162}{} Decent Gold Ring
+{8163}{} Gilbert Bates Ring
+{8164}{} Ring of Protection
+{8165}{Crit Hit Chance +5, Gambling +1}Fate ring Fated Ring
+{8166}{} Metal Boots
+{8167}{} Fine Stout Boots
+{8168}{} Shoes
+{8169}{} Worn Shoes
+{8170}{} Worn Boots
+{8171}{} Ladies Fancy Boots
+{8172}{} Worn Ladies Boots
+{8173}{} Elven Boots
+{8174}{AC:5 DR:+6 NP:-10 Speed +5} Boots of speed Enchanted War Boots
+{8175}{} Dwarven Gauntlets
+{8176}{} Machined Gauntlets
+{8177}{} War Gauntlets
+{8178}{} Chain Gloves
+{8179}{DR:+5  Bonus Pickpocket}Gloves of theft Light-Fingered Gauntlets
+{8180}{DR:+5 DX:+2} Gloves of Dexterity
+{8181}{AC:6 DR:9 PE:-1} Fine Helmet
+{8182}{AC:10 DR:12 PE:-1} Pig Face Basset
+{8183}{PE:+2}Eye Gear Eye Gear
+{8184}{PE <8 +1 else -1}Eyeglasses Eye Glasses
+{8185}{} Top Hat
+{8186}{} Helmet of Vision
+{8187}{DR:+20} Chapeau of Magnetic Inversion
+{8188}{AC:3 DR:7 PE:-1 Light} Helm of Light
+{8189}{AC:3(+15) DR:7 PE:-1} Geleam's Helm
+{8190}{} Wooden Shield
+{8191}{} Dented Iron Shield
+{8192}{} Quality Iron Shield
+{8193}{} Kite Shield Kite Shield
+{8194}{Detects Traps, Requires Charges} Flow Specktrometer
+{8195}{AC:30 ED:1-10 to Attacker} Shield of Force
+{8196}{AC=Evil Alignment/2} Shield of Darkness Shadow Shield
+{8197}{} Dwarven Platemail
+{8198}{} Minute Platemail of Regeneration
+{8199}{AC:3 DR:7 PE:-1} Great Helm
+{8200}{AC:2  DR:+1  NP:-10 +20 Reaction} Sunday's Best Dress
+{8201}{} Officer's Uniform Officer's Uniform
+{8202}{} Small Officer's Uniform Small Officer's Uniform
+{8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership
+{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark helmet Dark Helm
+{8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves
+{8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} Serpentine Necklace
+{8207}{} Wheel Clan Spectacles
+{8208}{} Charmed Leather Armour
+{8209}{} Small Charmed Leather Armour
+{8210}{} Large Charmed Leather Armour
+{8211}{} Magick Leather Armour
+{8212}{} Small Magick Leather Armour
+{8213}{} Large Magick Leather Armour
+{8214}{} Mystic Leather Armour
+{8215}{} Small Mystic Leather Armour
+{8216}{} Large Mystic Leather Armour
+{8217}{} Arcane Leather Armour
+{8218}{} Small Arcane Leather Armour
+{8219}{} Large Arcane Leather Armour
+{8220}{} Qintarra Chainmail
+{8221}{AC:12(+5) DR:23 FR:5 ER:-10 All Resistances(+5)} Charmed Chainmail
+{8222}{AC:12(+5) DR:10 FR:5 ER:-10 All Resistances(+5)} Small Charmed Chainmail
+{8223}{AC:12(+10) DR:23 FR:5 ER:-10 All Resistances(+10)} Magick Chainmail
+{8224}{AC:12(+10) DR:10 FR:5 ER:-10 All Resistances(+10)} Small Magick Chainmail
+{8225}{AC:12(+15) DR:23 FR:5 ER:-10 All Resistances(+15)} Mystic Chainmail
+{8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Resistances(+15)} Small Mystic Chainmail
+{8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Resistances(+20)} Arcane Chainmail
+{8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Resistances(+20)} Small Arcane Chainmail
+{8229}{} Electro-Armor
+{8230}{} Small Electro-Armor
+{8231}{} Large Electro-Armor
+{8232}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Charmed Robes
+{8233}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Small Charmed Robes
+{8234}{AC:3 DR:3 FR:2(+20) All Other Resistances(+20)} Magick Robes
+{8235}{AC:3 DR:3 FR:2(+20) All Other Resistances(+20)} Small Magick Robes
+{8236}{AC:3 DR:3 FR:2(+35) All Other Resistances(+35)} Mystic Robes
+{8237}{AC:3 DR:3 FR:2(+35) All Other Resistances(+35)} Small Mystic Robes
+{8238}{AC:3 DR:3 FR:2(+50) All Other Resistances(+50)} Arcane Robes
+{8239}{AC:3 DR:3 FR:2(+50) All Other Resistances(+50)} Small Arcane Robes
+{8240}{} Charmed Traveler's Cloak
+{8241}{} Small Charmed Traveler's Cloak
+{8242}{} Magick Traveler's Cloak
+{8243}{} Small Magick Traveler's Cloak
+{8244}{} Mystic Traveler's Cloak
+{8245}{} Small Mystic Traveler's Cloak
+{8246}{} Arcane Traveler's Cloak
+{8247}{} Small Arcane Traveler's Cloak
+{8248}{} Quality Robes
+{8249}{} Small Quality Robes
+{8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Resistances(+4)} Charmed Platemail
+{8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Resistances(+4)} Small Charmed Platemail
+{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Resistances(+6)} Magick Platemail
+{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Resistances(+6)} Small Magick Platemail
+{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Resistances(+8)} Mystic Platemail
+{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Resistances(+8)} Small Mystic Platemail
+{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Resistances(+10)} Arcane Platemail
+{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Resistances(+10)} Small Arcane Platemail
+{8258}{} Flow Disruptor Shield
+{8259}{} Charmed Shield
+{8260}{} Magick Shield
+{8261}{} Mystic Shield
+{8262}{} Arcane Shield
+{8263}{} Miner's Helmet
+{8264}{AC:10(+4) DR:12(+2) PE:-1} Charmed Helmet
+{8265}{AC:10(+6) DR:12(+4) PE:-1} Magick Helmet
+{8266}{AC:10(+8) DR:12(+6) PE:-1} Mystic Helmet
+{8267}{AC:10(+10) DR:12(+8) PE:-1} Arcane Helmet
+{8268}{} Charmed Gauntlets
+{8269}{} Magick Gauntlets
+{8270}{} Mystic Gauntlets
+{8271}{} Arcane Gauntlets
+{8272}{} Charmed Ring
+{8273}{} Magick Ring
+{8274}{} Mystic Ring
+{8275}{} Arcane Ring
+{8276}{} Vendigrothian Padded Leather Gloves
+{8277}{} Vendigrothian War Gauntlets
+{8278}{} Void Ring
+{8279}{} Emerald Ring
+{8280}{} Ruby Ring
+{8281}{} Sapphire Ring
+{8282}{} Diamond Ring
+{8283}{} Wooden Ring
+{8284}{} Silver Ring
+{8285}{} Mithril Ring
+{8286}{} Emerald Necklace
+{8287}{} Ruby Necklace
+{8288}{} Sapphire Necklace
+{8289}{} Diamond Necklace
+{8290}{AC:6 DR:9 PE:+3} Goggled Helmet
+
+//Gold
+{9056}{} Gold
+
+// Food
+{10057}{} Wall Wood Fence
+{10058}{} Wall Wood Fence
+{10059}{Heals light wounds} Wall Wood Fence
+{10060}{} Wall Metal Fence
+{10061}{} Wall Metal Fence
+{10062}{} Wall Metal Fence
+{10063}{} Wall Metal Fence
+{10064}{} Wall Metal Fence
+{10065}{} Wall Metal Fence
+{10066}{} Wall Metal Fence
+{10067}{} Wall Metal Fence
+{10068}{} Wall Metal Fence
+{10069}{} Wall Metal Fence
+{10070}{} Wall Facade Wall
+{10071}{} Wall Facade Wall
+{10072}{} Wall Facade Wall
+{10073}{} Wall Facade Wall
+{10074}{Heals up to 20pts of Health} Wall Facade Wall
+{10075}{}Strong Poison Wall Facade Wall
+{10076}{Heals up to 60pts of Health and Fatigue} Wall Facade Wall
+{10077}{Reduces poison levels} Wall Facade Wall
+{10078}{}Fatigue Limiter Wall Facade Wall
+{10079}{}Heal Accelerator Wall Facade Wall
+{10080}{} Witchbane
+{10081}{} Poppy Flowers
+{10082}{} Big Chief Snake Oil
+{10083}{} Venom
+{10084}{}Wonder Drug Wonder Drug
+{10085}{} Corrosive Acid
+{10086}{} Animal Lure
+{10087}{} Animal Scent
+{10088}{} Brewer's Yeast
+{10089}{} Pete's Carbolic Acid
+{10090}{}Potion of Paralysis Hallucinite
+{10091}{} Mushrooms
+{10092}{} Sulphur Pills
+{10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine Wine
+{10094}{} Morning Star Perfume
+{10095}{} Dragon Cologne
+{10096}{} Lingham's Belladonna
+{10097}{}Revitalizer Revitalizer
+{10098}{}Mind Marvel Mind Marvel
+{10099}{}Tonic of Increased Reflexes Tonic of Increased Reflexes
+{10100}{}Energizer Energizer
+{10101}{} Doolittle's Glyceride
+{10102}{} Nerve Pills
+{10103}{}Liquid of Awareness Liquid of Awareness
+{10104}{} Nimm's Phosphorous Tincture
+{10105}{} Quinine
+{10106}{} Witch Hazel Extract
+{10107}{} Rheumatism Cure
+{10108}{} Migraine Cure
+{10109}{} Tincture of Arnica
+{10110}{} CK Sugar
+{10111}{}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion
+{10112}{}Brain Builder Brain Builder
+{10113}{}Muscle Maker Muscle Maker
+{10114}{}Invigorator Invigorator
+{10115}{}Reanimator Reanimator
+{10116}{}Miracle Cure Miracle Cure
+{10117}{}Mental Inhibitor Mental Inhibitor
+{10118}{}Necromizer Necromizer
+{10119}{}Fortifier Fortifier
+{10120}{}Sleep Aid Anaesthisizer
+{10121}{}Potion of Paralysis Paralyzer
+{10122}{} Lemon
+{10123}{} Potato
+{10124}{} Vial of Dragon's Blood
+{10125}{} Passion Root
+{10126}{} Chateau de Be'ron Brandy
+{10127}{} Dwarven Snuff
+{10128}{} Elven Spring Water
+{10129}{} Earl Grey Tea
+{10130}{} Absinthe
+{10131}{} Sweet Cakes
+{10132}{}Vendigrothian Elixir Vendigrothian Elixir
+{10133}{}Vivifier Vivifier
+{10134}{Heals up to 80pts of Health.} Greater Healing
+{10135}{Restores up to 30pts of Fatigue.} Light Fatigue Restore
+{10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
+{10137}{Heals up to 120pts of Poison.} Heal Poison
+{10138}{Heals up to 120pts of Health, Poison and Fatigue.} Morgana's Tears
+{10139}{Slows the use of Fatigue.} Fatigue Slower
+{10140}{Boosts Intelligence.} Essence of Intellect
+{10141}{Increases Speed.} Potion of Haste
+{10142}{Increases Damage Resistance.} Liquid of Skin Thickening
+{10143}{Increases Poison Resistance.} Kalispi's Venom
+{10144}{Restores the life of the target.} Restore Life
+
+//Scrolls
+
+{11059}{Disarms your opponent.} Scroll of Disarm
+{11060}{Allows you to unlock doors and containers.} Scroll of Unlocking Cantrip
+{11061}{Pushes an opponent away from you.} Scroll of Unseen Force
+{11062}{Allows you to teleport a few feet in any direction.} Scroll of Spatial Distortion
+{11063}{Allows you to Teleport to known locations.} Scroll of Teleportation
+{11064}{Allows you to divine a creature's alignment.} Scroll of Sense Alignment
+{11065}{Allows you to see the content of a container.} Scroll of See Contents
+{11066}{Allows you to know a creature's characteristics.} Scroll of Read Aura
+{11067}{Allows you to see hidden traps and invisible creatures.} Scroll of Sense Invisible/Traps
+{11068}{Allows you to identify unknown objects.} Scroll of Divine Magic
+{11069}{Increases the target's constitution.} Scroll of Vitality of Air
+{11070}{Creates a poisonous cloud.} Scroll of Poison Vapours
+{11071}{Raises a magickal wind that moves your opponents.} Scroll of Call Winds
+{11072}{Transforms the target into an Air Elemental.} Scroll of Body of Air
+{11073}{Summons an Air Elemental.} Scroll of Call Air Elemental
+{11074}{Increases the target's strength.} Scroll of Strength of Earth
+{11075}{Casts a magickal stone at your opponents.} Scroll of Stone Throw
+{11076}{Creates a magickal stone wall.} Scroll of Wall of Stone
+{11077}{Transforms the target into an Earth Elemental.} Scroll of Body of Stone
+{11078}{Summons an Earth Elemental.} Scroll of Call Earth Elemental
+{11079}{Increases the target's dexterity.} Scroll of Agility of Fire
+{11080}{Creates a magickal wall of fire.} Scroll of Wall of Fire
+{11081}{Casts a magickal ball of fire at your opponents.} Scroll of Fireflash
+{11082}{Transforms the target into a Fire Elemental} Scroll of Body of Fire
+{11083}{Summons a Fire Elemental.} Scroll of Call Fire Elemental
+{11084}{Increases the target's beauty.} Scroll of Purity of Water
+{11085}{Creates a fog bank to muddle your opponents.} Scroll of Call Fog
+{11086}{Creates a vicious ice storm.} Scroll of Squall of Ice
+{11087}{Transforms the target into a Water Elemental.} Scroll of Body of Water
+{11088}{Summons a Water Elemental.} Scroll of Call Water Elemental
+{11089}{Creates a magickal shield.} Scroll of Shield of Protection
+{11090}{Shocks any opponents within a few feet of the caster.} Scroll of Jolt
+{11091}{Creates a magickal wall of force.} Scroll of Wall of Force
+{11092}{Casts a bolt of raw lightning} Scroll of Bolt of Lightning
+{11093}{Disintegrates both objects and opponents.} Scroll of Disintegrate
+{11094}{Increases the reaction of others to you.} Scroll of Charm
+{11095}{Stuns your opponents for a few moments.} Scroll of Stun
+{11096}{Decreases the willpower of your opponents.} Scroll of Drain Will
+{11097}{Makes your opponents run away from you in fear.} Scroll of Nightmare
+{11098}{Transforms opponents into mindless slaves.} Scroll of Dominate Will
+{11099}{Increases the target's magickal resisitance.} Scroll of Resist Magick
+{11100}{Discontinues all spells on the target.} Scroll of Disperse Magick
+{11101}{Significantly increases the target's magickal resisitance.} Scroll of Dweomer Shield
+{11102}{Prohibits the target to cast magickal spells.} Scroll of Bonds of Magic
+{11103}{Reflects magickal spells back at the caster.} Scroll of Reflection Shield
+{11104}{Increases the damage levels of unarmed attacks.} Scroll of Hardened Hands
+{11105}{Decreases the strength of the target.} Scroll of Weaken
+{11106}{Shrinks the target.} Scroll of Shrink
+{11107}{Turns the target into stone.} Scroll of Flesh to Stone
+{11108}{Tranforms the target into an animal.} Scroll of Polymorph
+{11109}{Tames any animal targeted.} Scroll of Charm Beast
+{11110}{Summons magickal vines to ensnare opponents.} Scroll of Entangle
+{11111}{Summons a magickal animal familiar.} Scroll of Control Beast
+{11113}{Increases the healing rate of you and your party.} Scroll of Regenerate
+{11114}{Harms the target, decreasing their vitality.} Scroll of Harm
+{11115}{Allows the user to speak with the dead.} Scroll of Conjure Spirit
+{11116}{Summons an undead follower from beyond the grave.} Scroll of Summon Undead
+{11117}{Creates an undead follower from any nearby corpse.} Scroll of Create Undead
+{11118}{Kills the target, by stealing their soul.} Scroll of Quench Life
+{11119}{Increases the target's vitality.} Scroll of Minor Healing
+{11120}{Cures poisons within the target.} Scroll of Halt Poison
+{11121}{Increases the target's vitality.} Scroll of Major Healing
+{11122}{Allows the target to walk among the undead.} Scroll of Sanctuary
+{11123}{Raises the target from the dead.} Scroll of Resurrect
+{11124}{Casts a light around the target.} Scroll of Illuminate
+{11125}{Blinds your opponents.} Scroll of Flash
+{11126}{Makes the target harder to hit.} Scroll of Blur Sight
+{11127}{Summons an illusionary monster.} Scroll of Phantasmal Fiend
+{11128}{Makes the target invisible.} Scroll of Invisibility
+{11129}{Summons a swarm of magickal insects.} Scroll of Plague of Insects
+{11130}{Summons a fearsome orc to fight by your side.} Scroll of Orcish Champion
+{11131}{Summons a great ogre to fight by your side.} Scroll of Guardian Ogre
+{11132}{Summons a terrible demon to fight by your side.} Scroll of Hellgate
+{11133}{Summons a powerful familiar to fight by your side.} Scroll of Familiar
+{11134}{Magickally locks doors and containers.} Scroll of Magelock
+{11135}{Slows down time for youe enemies, making them slower.} Scroll of Congeal Time
+{11136}{Increases the speed of the target.} Scroll of Hasten
+{11137}{Renders the target immobile.} Scroll of Stasis
+{11138}{Increases your speed, while slowing down your opponents.} Scroll of Tempus Fugit
+{11139}{} Kerghan's Death Scroll
+{11140}{} Kerghan's Attack Scroll
+{11141}{} Scroll of Exiting
+
+// Keys
+{12060}{} Key
+
+// Key Rings
+{13061}{} Key Ring
+
+// Written
+{14062}{} Book
+{14063}{} Note
+{14064}{} Tarant Newspaper
+{14065}{} Telegram
+{14066}{} Gorad's note
+{14067}{} Schematic
+{14068}{} Image
+{14069}{} Pamphlet
+{14070}{} The Legend of T'erre-d'-V'nt
+{14071}{} Professor Eakin's Telegram
+
+// Items
+{15065}{} Generic Item 1a
+{15066}{} Mechanized Arachnid
+{15067}{} Stillwater trap (empty)
+{15068}{} Stillwater trap (full)
+{15069}{} Metal Plates
+{15070}{} Electric Light
+{15071}{} Filament
+{15072}{} Lantern
+{15073}{} Capacitor
+{15074}{} Potassium Nitrate
+{15075}{} Coal
+{15076}{} Magnesium
+{15077}{} Metal Shavings
+{15078}{} Gun Chassis
+{15079}{} Revolver Chamber
+{15080}{} Spike Trap
+{15081}{} Auto Skeleton Key
+{15082}{} Large Spring
+{15083}{} Small Spring
+{15084}{} Lockpicks
+{15085}{} Pure Ore
+{15086}{} Iron Ore
+{15087}{} Steel
+{15088}{} Fine Hilt and Guard
+{15089}{} Thermometer
+{15090}{} Small Steam Engine
+{15091}{} Large Gears
+{15092}{} Mechanized Arachnid (poison)
+{15093}{} Ancient Gun Chassis
+{15094}{} Mithril Ore
+{15095}{} Wine Glass
+{15096}{} Empty Vial
+{15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
+{15098}{} Small Statuette
+{15099}{} Chest of Gold
+{15100}{} Bear Trap
+{15101}{} Metal Clamp
+{15102}{} Trap Springer
+{15103}{} Pocket Watch Parts
+{15104}{} Vase
+{15105}{} Music Box
+{15106}{} Candle Stick
+{15107}{} Old Gears
+{15108}{} Electrical Harness
+{15109}{} Large Capacitor
+{15110}{} Tesla Coil
+{15111}{} Black Powder
+{15112}{Creates Fire Curtain}Fire Obstruction Fire Obstruction
+{15113}{} Breach Loading Chamber
+{15114}{} Auto Loading Chamber
+{15115}{} Clock Parts
+{15116}{} Clockwork Decoy
+{15117}{} Pocket Watch
+{15118}{} Small Metal Tube
+{15119}{} Leather Straps
+{15120}{} Electrical Component
+{15121}{} Looking Glass
+{15122}{} Dwarven Ore
+{15123}{} Spool of Heavy Wire
+{15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!!
+{15125}{} Sheet Metal
+{15126}{} Shovel
+{15127}{} Crystal Ball
+{15128}{} Rough-Cut Sapphire
+{15129}{} Rough-Cut Emerald
+{15130}{} Rough-Cut Diamond
+{15131}{} Rough-Cut Ruby
+{15132}{D:5-30 FT:5-30}Explosive Grenade Explosive Grenade
+{15133}{} Automaton
+{15134}{D:100-200 FT:5-20}Dynamite Dynamite
+{15135}{} Bromide
+{15136}{} Potassium Chloride
+{15137}{} Small Electrical Parts
+{15138}{} Saltpeter
+{15139}{} Nitroglycerin
+{15140}{} Electrical Coil
+{15141}{} Metal Can
+{15142}{} Engine Muffler
+{15143}{} Metal Casing
+{15144}{} Charcoal
+{15145}{} Tom's Fertilizer
+{15146}{} Stearic Acid
+{15147}{} Liquid Soap
+{15148}{} Broken Flintlock Pistol
+{15149}{} Compass
+{15150}{Blinds Target}Flash Grenade Flash Grenade
+{15151}{Creates Smoke Curtain}Smoke Grenade Smoke Grenade
+{15152}{Stuns Target}Stun Grenade Stun Grenade
+{15153}{Creates Fire Curtain}Fire Obstruction Fire Obstruction
+{15154}{} Revolver Parts
+{15155}{} Dwarven Steel
+{15156}{} Camera
+{15157}{First Component needed to create Technological Item} Component 1
+{15158}{Second Component needed to create Technological Item} Component 2
+{15159}{Casts a random spell} Jade Wizard Statuette
+{15160}{} Kathorn Crystal
+{15161}{Knocks Out Target}Knock Out Gas Grenade Knock Out Gas Grenade
+{15162}{Makes Target Flee}Hallucination Grenade Hallucination Grenade
+{15163}{D:1-5 ED:5-30}Electrocution Grenade Electrocution Grenade
+{15164}{D:25-50 FT:10-20}Concussion Grenade Concussion Grenade
+{15165}{Paralyzes Target}Paralysis Grenade Paralysis Grenade
+{15166}{Creates Poison Curtain}Mustard Gas Grenade Mustard Gas Grenade
+{15167}{} Boat Rigging
+{15168}{} Noise Maker Decoy
+{15169}{} Clockwork Physician
+{15170}{} Illuminated Decoy
+{15171}{} Explosive Decoy
+{15172}{} UNUSED Automaton Gunner
+{15173}{} Time Bomb
+{15174}{} Plastique
+{15175}{} Detonator
+{15176}{} UNUSED Medical Arachnid
+{15177}{} Minute Steam Works
+{15178}{} Crude Lockpicks
+{15179}{} Bandages
+{15180}{} Deed to the Bessie Toone Mine
+{15181}{} Li'tani
+{15182}{} Heartstone
+{15183}{} Mnura Coin
+{15184}{} Lava Rock
+{15185}{} Olive Branch
+{15186}{} Geode
+{15187}{} Black Diamond
+{15188}{Gives expertise bonus equal to Intelligence, can be stacked} Chemistry Manuals
+{15189}{Gives expertise bonus equal to Intelligence, can be stacked} Explosives Manuals
+{15190}{Gives expertise bonus equal to Intelligence, can be stacked} Herbology Manuals
+{15191}{Gives expertise bonus equal to Intelligence, can be stacked} Electrical Manuals
+{15192}{Gives expertise bonus equal to Intelligence, can be stacked} Therapeutics Manuals
+{15193}{Gives expertise bonus equal to Intelligence, can be stacked} Mechanical Manuals
+{15194}{Gives expertise bonus equal to Intelligence, can be stacked} Smithy Manuals
+{15195}{Gives expertise bonus equal to Intelligence, can be stacked} Gunsmithy Manuals
+{15196}{} Vendigrothian Sheet Metal
+{15197}{} Unknown Chemical Compound
+{15198}{} Void Animal Carcass
+{15199}{} Authentic Stillwater Giant Pelt
+{15200}{} Emerald
+{15201}{} Ruby
+{15202}{} Sapphire
+{15203}{} Diamond
+{15204}{} Star Ruby
+{15205}{} Star Sapphire
+{15206}{} Medical Kit
+{15207}{} Kerosene
+{15208}{} Rag
+{15209}{D:3-15 FT:3-15}Molotov Cocktail Molotov Cocktail
+{15210}{} Wisp Essence
+{15211}{} Volar's Wisp Essence
+{15212}{} Medical Arachnid
+{15213}{Impart your experiences to the rest of the party} Educator's Guide
+
+
+// Traps
+
+// Basic Unique NPC's
+
+
+// Monsters
+
