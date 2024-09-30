@@ -31,7 +31,7 @@
 {6052}{}
 {6053}{}
 {6054}{D:1-4 FT:1-2 (Mana:10)}
-{6055}{D:1-4 FT:1-2 (Speed +4)}
+{6055}{D:1-4 FT:1-2 (Speed +4)}Dagger of speed
 {6056}{}
 {6057}{}
 {6058}{}
@@ -41,7 +41,7 @@
 {6062}{}
 {6063}{}
 {6064}{D:1-8 FT:1-4 (AC+15)}
-{6065}{D:1-8(+4) FT:1-4 (Summon Animal)}
+{6065}{D:1-8(+4) FT:1-4 (Summon Animal)}Steelwater Blade
 {6066}{}
 {6067}{}
 {6068}{}
@@ -70,7 +70,7 @@
 {6091}{}
 {6092}{}
 {6093}{}
-{6094}{D:4-16 FT:3-11 (Weight:20)}
+{6094}{D:4-16 FT:3-11 (Weight:20)}Blade of the Wind
 {6095}{}
 {6096}{}
 {6097}{}
@@ -88,15 +88,15 @@
 {6109}{}
 {6110}{ED:5-10 Requires Charges}
 {6111}{}
-{6112}{D:1-8 FT:3-12 Major Healing}
-{6113}{D:1-8 FT:3-12 Major Healing, Charm Beast, Regenerate}
-{6114}{D:1-8 FT:3-12 (Mana:50) Illuminate, Dweomer Shield}
+{6112}{D:1-8 FT:3-12 Major Healing}Staff of healing
+{6113}{D:1-8 FT:3-12 Major Healing, Charm Beast, Regenerate} Shaman Staff
+{6114}{D:1-8 FT:3-12 (Mana:50) Illuminate, Dweomer Shield} Mage Staff
 {6115}{}
 {6116}{}
 {6117}{}
 {6118}{}
 {6119}{}
-{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20}
+{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20}Filmament Sword
 {6123}{D:1-4(+6) FT:1-2(+1) (Mana:5)}
 {6124}{D:1-4(+9) FT:1-2(+2) (Mana:10)}
 {6125}{D:1-6(+12) FT:1-2(+4) (Mana:20)}
@@ -156,7 +156,7 @@
 {8054}{}
 {8055}{}
 {8056}{}
-{8057}{DX:+2}
+{8057}{DX:+2}Gloves of Dexterity
 {8058}{}
 {8059}{}
 {8060}{}
@@ -170,7 +170,7 @@
 {8068}{}
 {8069}{}
 {8070}{}
-{8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1}
+{8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1}Thieves armor
 {8072}{}
 {8073}{}
 {8074}{AC:5 DR:7 FR:3 Prowling +2}
@@ -178,7 +178,7 @@
 {8076}{}
 {8077}{AC:2  DR:1  +20 Reaction}
 {8078}{}
-{8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1}
+{8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1}Thieves Armor small
 {8080}{}
 {8081}{}
 {8082}{AC:5 DR:7 FR:3 Prowling +2}
@@ -186,7 +186,7 @@
 {8084}{}
 {8085}{AC:2  DR:1  +20 Reaction}
 {8086}{}
-{8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} 
+{8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Thieves Armor Large
 {8088}{}
 {8089}{AC:2  DR:1  +20 Reaction}
 {8090}{}
@@ -259,12 +259,12 @@
 {8157}{}
 {8158}{}
 {8159}{}
-{8160}{BE:+2}
-{8161}{MR:+40}
+{8160}{BE:+2}Medalion of Beuty
+{8161}{MR:+40}Dorian Amulet
 {8162}{}
 {8163}{}
 {8164}{}
-{8165}{Crit Hit Chance +5, Gambling +1}
+{8165}{Crit Hit Chance +5, Gambling +1}Fate ring
 {8166}{}
 {8167}{}
 {8168}{}
@@ -273,17 +273,17 @@
 {8171}{}
 {8172}{}
 {8173}{}
-{8174}{AC:5 DR:+6 NP:-10 Speed +5} 
+{8174}{AC:5 DR:+6 NP:-10 Speed +5} Boots of speed
 {8175}{}
 {8176}{}
 {8177}{} 
 {8178}{}
-{8179}{DR:+5  Bonus Pickpocket}
+{8179}{DR:+5  Bonus Pickpocket}Gloves of theft
 {8180}{DR:+5 DX:+2}
 {8181}{AC:6 DR:9 PE:-1}
 {8182}{AC:10 DR:12 PE:-1}
 {8183}{PE:+2}Eye Gear 
-{8184}{PE <8 +1 else -1}
+{8184}{PE <8 +1 else -1}Eyeglasses
 {8185}{}
 {8186}{}
 {8187}{DR:+20}
@@ -295,7 +295,7 @@
 {8193}{} Kite Shield 
 {8194}{Detects Traps, Requires Charges} 
 {8195}{AC:30 ED:1-10 to Attacker}
-{8196}{AC=Evil Alignment/2} 
+{8196}{AC=Evil Alignment/2} Shield of Darkness
 {8197}{}
 {8198}{}  
 {8199}{AC:3 DR:7 PE:-1}
@@ -303,7 +303,7 @@
 {8201}{} Officer's Uniform 
 {8202}{} Small Officer's Uniform 
 {8203}{Max Followers: +1, Increased Reaction Adjustment} 
-{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} 
+{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark helmet
 {8205}{AC:3, Carry: +1000, WP: -2} 
 {8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} 
 {8207}{}
