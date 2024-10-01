@@ -431,7 +431,7 @@
 {10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{} Mushrooms
 {10092}{} Sulphur Pills
-{10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine Wine
+{10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine
 {10094}{} Morning Star Perfume
 {10095}{} Dragon Cologne
 {10096}{} Lingham's Belladonna
@@ -450,9 +450,9 @@
 {10109}{} Tincture of Arnica
 {10110}{} CK Sugar
 {10111}{Turns target into a mindless slave for 1 min.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
-{10112}{Permanent: +1 mental stats, -1 physical stats}Brain Builder Brain Builder
-{10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker Muscle Maker
-{10114}{+25 max. health +25 max. fatigue for 1 min.}Invigorator Invigorator
+{10112}{Permanent: +1 mental stats, -1 physical stats}Brain Builder
+{10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker
+{10114}{+25 max. health +25 max. fatigue for 1 min.}Invigorator
 {10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
 {10116}{}Miracle Cure Miracle Cure
 {10117}{}Mental Inhibitor Mental Inhibitor
@@ -471,7 +471,7 @@
 {10130}{} Absinthe
 {10131}{} Sweet Cakes
 {10132}{}Vendigrothian Elixir Vendigrothian Elixir
-{10133}{}Vivifier Vivifier
+{10133}{Legendary potion}Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
 {10135}{Restores up to 30pts of Fatigue.} Light Fatigue Restore
 {10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
@@ -635,7 +635,7 @@
 {15109}{} Large Capacitor
 {15110}{} Tesla Coil
 {15111}{} Black Powder
-{15112}{Creates Fire Curtain}Fire Obstruction Fire Obstruction
+{15112}{Creates Fire Curtain}Fire Obstruction
 {15113}{} Breach Loading Chamber
 {15114}{} Auto Loading Chamber
 {15115}{} Clock Parts
