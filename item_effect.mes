@@ -395,29 +395,29 @@
 {9056}{} Gold
 
 // Food
-{10057}{} Wall Wood Fence
-{10058}{} Wall Wood Fence
-{10059}{Heals light wounds} Wall Wood Fence
-{10060}{} Wall Metal Fence
-{10061}{} Wall Metal Fence
-{10062}{} Wall Metal Fence
-{10063}{} Wall Metal Fence
-{10064}{} Wall Metal Fence
-{10065}{} Wall Metal Fence
-{10066}{} Wall Metal Fence
-{10067}{} Wall Metal Fence
-{10068}{} Wall Metal Fence
-{10069}{} Wall Metal Fence
-{10070}{} Wall Facade Wall
-{10071}{} Wall Facade Wall
-{10072}{} Wall Facade Wall
-{10073}{} Wall Facade Wall
-{10074}{Heals up to 20pts of Health} Wall Facade Wall
-{10075}{}Strong Poison Wall Facade Wall
-{10076}{Heals up to 60pts of Health and Fatigue} Wall Facade Wall
-{10077}{Reduces poison levels} Wall Facade Wall
-{10078}{}Fatigue Limiter Wall Facade Wall
-{10079}{}Heal Accelerator Wall Facade Wall
+{10057}{} Bread
+{10058}{} Water
+{10059}{Heals light wounds} Healing Salve
+{10060}{} Fatigue Restorer
+{10061}{} Ginka Root
+{10062}{} Kadura Stem
+{10063}{} Coca Leaves
+{10064}{} Tobacco Leaves
+{10065}{} Poison
+{10066}{} Electrolyte Solution
+{10067}{} Varham's Aqua Vitae
+{10068}{} Monroe's Cleaner
+{10069}{} Potion of Persuasion
+{10070}{} Elixir of Physical Prowess
+{10071}{} Spirit of Camphor
+{10072}{} Famous Blood Pills
+{10073}{} Ammonia
+{10074}{Heals up to 20pts of Health} Heal Lesser Wounds
+{10075}{}Strong Poison
+{10076}{Heals up to 60pts of Health and Fatigue} Cure All
+{10077}{Reduces poison levels} Cure Poison
+{10078}{}Fatigue Limiter
+{10079}{}Accelerate Healing
 {10080}{} Witchbane
 {10081}{} Poppy Flowers
 {10082}{} Big Chief Snake Oil
