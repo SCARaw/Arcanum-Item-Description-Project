@@ -397,8 +397,8 @@
 // Food
 {10057}{} Bread
 {10058}{} Water
-{10059}{Heals light wounds} Healing Salve
-{10060}{} Fatigue Restorer
+{10059}{Heals 20pts of health.} Healing Salve
+{10060}{Restores 20pts of fatigue.} Fatigue Restorer
 {10061}{} Ginka Root
 {10062}{} Kadura Stem
 {10063}{} Coca Leaves
@@ -428,7 +428,7 @@
 {10087}{} Animal Scent
 {10088}{} Brewer's Yeast
 {10089}{} Pete's Carbolic Acid
-{10090}{}Potion of Paralysis Hallucinite
+{10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{} Mushrooms
 {10092}{} Sulphur Pills
 {10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine Wine
@@ -438,10 +438,10 @@
 {10097}{}Revitalizer Revitalizer
 {10098}{}Mind Marvel Mind Marvel
 {10099}{}Tonic of Increased Reflexes Tonic of Increased Reflexes
-{10100}{}Energizer Energizer
+{10100}{ST+2 CN+2 DX+2 BE+2 for 33minutes}Energizer Energizer
 {10101}{} Doolittle's Glyceride
 {10102}{} Nerve Pills
-{10103}{}Liquid of Awareness Liquid of Awareness
+{10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
 {10104}{} Nimm's Phosphorous Tincture
 {10105}{} Quinine
 {10106}{} Witch Hazel Extract
@@ -449,11 +449,11 @@
 {10108}{} Migraine Cure
 {10109}{} Tincture of Arnica
 {10110}{} CK Sugar
-{10111}{}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion
-{10112}{}Brain Builder Brain Builder
-{10113}{}Muscle Maker Muscle Maker
-{10114}{}Invigorator Invigorator
-{10115}{}Reanimator Reanimator
+{10111}{Turns target into a mindless slave for 1 min.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
+{10112}{Permanent: +1 mental stats, -1 physical stats}Brain Builder Brain Builder
+{10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker Muscle Maker
+{10114}{+25 max. health +25 max. fatigue for 1 min.}Invigorator Invigorator
+{10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
 {10116}{}Miracle Cure Miracle Cure
 {10117}{}Mental Inhibitor Mental Inhibitor
 {10118}{}Necromizer Necromizer
