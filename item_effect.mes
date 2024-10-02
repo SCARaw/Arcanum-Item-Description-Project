@@ -432,15 +432,15 @@
 {10091}{} Mushrooms
 {10092}{} Sulphur Pills
 {10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine
-{10094}{[crafting component]} Morning Star Perfume
+{10094}{[Crafting Component]} Morning Star Perfume
 {10095}{} Dragon Cologne
 {10096}{} Lingham's Belladonna
 {10097}{}Revitalizer Revitalizer
 {10098}{}Mind Marvel Mind Marvel
 {10099}{} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33minutes}Energizer Energizer
-{10101}{[crafting component]} Doolittle's Glyceride
-{10102}{[crafting component]} Nerve Pills
+{10101}{[Crafting Component]} Doolittle's Glyceride
+{10102}{[Crafting Component]} Nerve Pills
 {10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
 {10104}{} Nimm's Phosphorous Tincture
 {10105}{} Quinine
@@ -460,8 +460,8 @@
 {10119}{} Fortifier Fortifier
 {10120}{} Sleep Aid Anaesthisizer
 {10121}{} Potion of Paralysis Paralyzer
-{10122}{[crafting component]} Lemon
-{10123}{[crafting component]} Potato
+{10122}{[Crafting Component]} Lemon
+{10123}{[Crafting Component]} Potato
 {10124}{[Quest Item]} Vial of Dragon's Blood
 {10125}{} Passion Root
 {10126}{} Chateau de Be'ron Brandy
@@ -594,9 +594,9 @@
 {15068}{} Stillwater trap (full)
 {15069}{} Metal Plates
 {15070}{} Electric Light
-{15071}{} Filament
+{15071}{[Crafting Component]} Filament
 {15072}{} Lantern
-{15073}{} Capacitor
+{15073}{[Crafting Component]} Capacitor
 {15074}{} Potassium Nitrate
 {15075}{} Coal
 {15076}{} Magnesium
@@ -605,28 +605,28 @@
 {15079}{you just need all the other parts to make gun with it} Revolver Chamber
 {15080}{place on the ground to deal 15-25 damage.} Spike Trap
 {15081}{gives +10 modifier to lockpicking} Auto Skeleton Key
-{15082}{[crafting component]} Large Spring
-{15083}{[crafting component]} Small Spring
-{15084}{[crafting component]} Lockpicks
-{15085}{[crafting component]} Pure Ore
-{15086}{[crafting component]} Iron Ore
-{15087}{[crafting component]} Steel
-{15088}{[crafting component]} Fine Hilt and Guard
-{15089}{[crafting component]} Thermometer
-{15090}{[crafting component]} Small Steam Engine
-{15091}{[crafting component]} Large Gears
+{15082}{[Crafting Component]} Large Spring
+{15083}{[Crafting Component]} Small Spring
+{15084}{[Crafting Component]} Lockpicks
+{15085}{[Crafting Component]} Pure Ore
+{15086}{[Crafting Component]} Iron Ore
+{15087}{[Crafting Component]} Steel
+{15088}{[Crafting Component]} Fine Hilt and Guard
+{15089}{[Crafting Component]} Thermometer
+{15090}{[Crafting Component]} Small Steam Engine
+{15091}{[Crafting Component]} Large Gears
 {15092}{} Mechanized Arachnid (poison)
-{15093}{} Ancient Gun Chassis
+{15093}{[Crafting Component]} Ancient Gun Chassis
 {15094}{} Mithril Ore
 {15095}{} Wine Glass
-{15096}{} Empty Vial
+{15096}{[Quest Item]} Empty Vial
 {15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
 {15098}{} Small Statuette
 {15099}{This item seems very expensive} Chest of Gold
 {15100}{you can place it on the ground to deal 5-10 damage and hold target in place} Bear Trap
-{15101}{} Metal Clamp
+{15101}{[Crafting Component]} Metal Clamp
 {15102}{use it to safety defuse a trap} Trap Springer
-{15103}{} Pocket Watch Parts
+{15103}{[Crafting Component]} Pocket Watch Parts
 {15104}{} Vase
 {15105}{} Music Box
 {15106}{} Candle Stick
