@@ -592,7 +592,7 @@
 {15066}{} Mechanized Arachnid
 {15067}{} Stillwater trap (empty)
 {15068}{} Stillwater trap (full)
-{15069}{} Metal Plates
+{15069}{[Crafting Component]} Metal Plates
 {15070}{} Electric Light
 {15071}{[Crafting Component]} Filament
 {15072}{} Lantern
@@ -601,7 +601,7 @@
 {15075}{} Coal
 {15076}{} Magnesium
 {15077}{} Metal Shavings
-{15078}{} Gun Chassis
+{15078}{[Crafting Component]} Gun Chassis
 {15079}{you just need all the other parts to make gun with it} Revolver Chamber
 {15080}{place on the ground to deal 15-25 damage.} Spike Trap
 {15081}{gives +10 modifier to lockpicking} Auto Skeleton Key
@@ -631,9 +631,9 @@
 {15105}{} Music Box
 {15106}{} Candle Stick
 {15107}{} Old Gears
-{15108}{crafting component} Electrical Harness
-{15109}{} Large Capacitor
-{15110}{} Tesla Coil
+{15108}{[Crafting Component]} Electrical Harness
+{15109}{[Crafting Component]} Large Capacitor
+{15110}{[Crafting Component]} Tesla Coil
 {15111}{} Black Powder
 {15112}{Creates Fire Curtain}Fire Obstruction
 {15113}{} Breach Loading Chamber
@@ -642,10 +642,10 @@
 {15116}{} Clockwork Decoy
 {15117}{} Pocket Watch
 {15118}{} Small Metal Tube
-{15119}{} Leather Straps
+{15119}{[Crafting Component]} Leather Straps
 {15120}{} Electrical Component
-{15121}{} Looking Glass
-{15122}{} Dwarven Ore
+{15121}{[Crafting Component]} Looking Glass
+{15122}{[Crafting Component]} Dwarven Ore
 {15123}{} Spool of Heavy Wire
 {15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{} Sheet Metal
@@ -661,17 +661,17 @@
 {15135}{} Bromide
 {15136}{} Potassium Chloride
 {15137}{} Small Electrical Parts
-{15138}{} Saltpeter
+{15138}{[Crafting Component]} Saltpeter
 {15139}{} Nitroglycerin
 {15140}{} Electrical Coil
 {15141}{} Metal Can
 {15142}{} Engine Muffler
 {15143}{} Metal Casing
-{15144}{} Charcoal
+{15144}{[Crafting Component]} Charcoal
 {15145}{} Tom's Fertilizer
 {15146}{} Stearic Acid
 {15147}{} Liquid Soap
-{15148}{} Broken Flintlock Pistol
+{15148}{[Crafting Component]} Broken Flintlock Pistol
 {15149}{} Compass
 {15150}{Blinds Target}Flash Grenade
 {15151}{Creates Smoke Curtain}Smoke Grenade
@@ -705,7 +705,7 @@
 {15179}{} Bandages
 {15180}{} Deed to the Bessie Toone Mine
 {15181}{} Li'tani
-{15182}{} Heartstone
+{15182}{[Crafting Component]} Heartstone
 {15183}{} Mnura Coin
 {15184}{} Lava Rock
 {15185}{} Olive Branch
@@ -730,8 +730,8 @@
 {15204}{} Star Ruby
 {15205}{} Star Sapphire
 {15206}{} Medical Kit
-{15207}{} Kerosene
-{15208}{} Rag
+{15207}{[Crafting Component]} Kerosene
+{15208}{[Crafting Component]} Rag
 {15209}{D:3-15 FT:3-15}Molotov Cocktail Molotov Cocktail
 {15210}{} Wisp Essence
 {15211}{Quest Item} Volar's Wisp Essence
