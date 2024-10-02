@@ -258,7 +258,7 @@
 {8156}{} Dwarven Chainmail
 {8157}{} Elven Chainmail
 {8158}{} Gnomish Chainmail
-{8159}{[quest item]} Molochean Hand Amulet
+{8159}{[Quest Item]} Molochean Hand Amulet
 {8160}{BE:+2}Medalion of Beuty Medallion of Beauty
 {8161}{MR:+40}Dorian Amulet Dorian Amulet
 {8162}{} Decent Gold Ring
@@ -462,7 +462,7 @@
 {10121}{} Potion of Paralysis Paralyzer
 {10122}{[crafting component]} Lemon
 {10123}{[crafting component]} Potato
-{10124}{} Vial of Dragon's Blood
+{10124}{[Quest Item]} Vial of Dragon's Blood
 {10125}{} Passion Root
 {10126}{} Chateau de Be'ron Brandy
 {10127}{} Dwarven Snuff
@@ -734,7 +734,7 @@
 {15208}{} Rag
 {15209}{D:3-15 FT:3-15}Molotov Cocktail Molotov Cocktail
 {15210}{} Wisp Essence
-{15211}{Quest item} Volar's Wisp Essence
+{15211}{Quest Item} Volar's Wisp Essence
 {15212}{HEALING ROBO SPIDER, its absolutely awesome, but not that good} Medical Arachnid
 {15213}{Impart your experiences to the rest of the party} Educator's Guide
 
