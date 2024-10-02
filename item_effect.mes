@@ -403,7 +403,7 @@
 {10062}{[Crafting Component]} Kadura Stem
 {10063}{[Crafting Component]} Coca Leaves
 {10064}{[Crafting Component]} Tobacco Leaves
-{10065}{} Poison
+{10065}{Deals 70 points of poison damage} Poison
 {10066}{[Crafting Component]} Electrolyte Solution
 {10067}{[Crafting Component]} Varham's Aqua Vitae
 {10068}{[Crafting Component]} Monroe's Cleaner
@@ -416,8 +416,8 @@
 {10075}{+290 Poison Level to the target}Strong Poison
 {10076}{Heals up to 60pts of Health and Fatigue} Cure All
 {10077}{Reduces poison levels} Cure Poison
-{10078}{}Fatigue Limiter
-{10079}{}Accelerate Healing
+{10078}{Halves fatigue consumption for 180 seconds}Fatigue Limiter
+{10079}{1pt heal every 4 seconds for 100 seconds}Accelerate Healing
 {10080}{[Crafting Component]} Witchbane
 {10081}{[Crafting Component]} Poppy Flowers
 {10082}{[Crafting Component]} Big Chief Snake Oil
