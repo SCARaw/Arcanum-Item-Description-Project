@@ -284,7 +284,7 @@
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
 {8183}{PE:+2}Eye Gear Eye Gear
 {8184}{PE <8 +1 else -1}Eyeglasses Eye Glasses
-{8185}{} Top Hat
+{8185}{[Crafting Component]} Top Hat
 {8186}{} Helmet of Vision
 {8187}{DR:+20} Chapeau of Magnetic Inversion
 {8188}{AC:3 DR:7 PE:-1 Light} Helm of Light
