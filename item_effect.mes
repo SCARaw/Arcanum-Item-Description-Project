@@ -395,60 +395,60 @@
 {9056}{} Gold
 
 // Food
-{10057}{} Bread
-{10058}{} Water
+{10057}{This item looks completely useless} Bread
+{10058}{This item looks completely useless} Water
 {10059}{Heals 20pts of health.} Healing Salve
 {10060}{Restores 20pts of fatigue.} Fatigue Restorer
-{10061}{} Ginka Root
-{10062}{} Kadura Stem
-{10063}{} Coca Leaves
-{10064}{} Tobacco Leaves
+{10061}{[Crafting Component]} Ginka Root
+{10062}{[Crafting Component]} Kadura Stem
+{10063}{[Crafting Component]} Coca Leaves
+{10064}{[Crafting Component]} Tobacco Leaves
 {10065}{} Poison
-{10066}{} Electrolyte Solution
-{10067}{} Varham's Aqua Vitae
-{10068}{} Monroe's Cleaner
-{10069}{} Potion of Persuasion
-{10070}{} Elixir of Physical Prowess
-{10071}{} Spirit of Camphor
-{10072}{} Famous Blood Pills
-{10073}{} Ammonia
+{10066}{[Crafting Component]} Electrolyte Solution
+{10067}{[Crafting Component]} Varham's Aqua Vitae
+{10068}{[Crafting Component]} Monroe's Cleaner
+{10069}{+2 persuasion for 39 min.} Potion of Persuasion
+{10070}{ST+2 for 39 min.} Elixir of Physical Prowess
+{10071}{[Crafting Component]} Spirit of Camphor
+{10072}{[Crafting Component]} Famous Blood Pills
+{10073}{This item looks completely useless} Ammonia
 {10074}{Heals up to 20pts of Health} Heal Lesser Wounds
-{10075}{}Strong Poison
+{10075}{+290 Poison Level to the target}Strong Poison
 {10076}{Heals up to 60pts of Health and Fatigue} Cure All
 {10077}{Reduces poison levels} Cure Poison
 {10078}{}Fatigue Limiter
 {10079}{}Accelerate Healing
-{10080}{} Witchbane
-{10081}{} Poppy Flowers
-{10082}{} Big Chief Snake Oil
-{10083}{} Venom
+{10080}{[Crafting Component]} Witchbane
+{10081}{[Crafting Component]} Poppy Flowers
+{10082}{[Crafting Component]} Big Chief Snake Oil
+{10083}{[Crafting Component]} Venom
 {10084}{}Wonder Drug Wonder Drug
 {10085}{} Corrosive Acid
 {10086}{} Animal Lure
 {10087}{} Animal Scent
-{10088}{} Brewer's Yeast
+{10088}{[Crafting Component]} Brewer's Yeast
 {10089}{} Pete's Carbolic Acid
 {10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
-{10091}{} Mushrooms
-{10092}{} Sulphur Pills
+{10091}{[Crafting Component]} Mushrooms
+{10092}{[Crafting Component]} Sulphur Pills
 {10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine
 {10094}{[Crafting Component]} Morning Star Perfume
-{10095}{} Dragon Cologne
-{10096}{} Lingham's Belladonna
-{10097}{}Revitalizer Revitalizer
-{10098}{}Mind Marvel Mind Marvel
-{10099}{} Tonic of Increased Reflexes
+{10095}{This item looks completely useless} Dragon Cologne
+{10096}{This item looks completely useless} Lingham's Belladonna
+{10097}{+2 all stats for 27 min.}Revitalizer Revitalizer
+{10098}{+2 mental stats for 39 min.}Mind Marvel Mind Marvel
+{10099}{DX+2 for 39 min.} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33minutes}Energizer Energizer
 {10101}{[Crafting Component]} Doolittle's Glyceride
 {10102}{[Crafting Component]} Nerve Pills
 {10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
-{10104}{} Nimm's Phosphorous Tincture
-{10105}{} Quinine
-{10106}{} Witch Hazel Extract
-{10107}{} Rheumatism Cure
-{10108}{} Migraine Cure
-{10109}{} Tincture of Arnica
-{10110}{} CK Sugar
+{10104}{This item looks completely useless} Nimm's Phosphorous Tincture
+{10105}{[Crafting Component]} Quinine
+{10106}{This item looks completely useless} Witch Hazel Extract // Not ingame
+{10107}{[Crafting Component]} Rheumatism Cure
+{10108}{[Crafting Component]} Migraine Cure
+{10109}{[Crafting Component]} Tincture of Arnica
+{10110}{[Crafting Component]} CK Sugar
 {10111}{Turns target into a mindless slave for 1 min.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
 {10112}{Permanent: +1 mental stats, -1 physical stats}Brain Builder
 {10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker
@@ -463,13 +463,13 @@
 {10122}{[Crafting Component]} Lemon
 {10123}{[Crafting Component]} Potato
 {10124}{[Quest Item]} Vial of Dragon's Blood
-{10125}{} Passion Root
+{10125}{[Offering Item]} Passion Root
 {10126}{} Chateau de Be'ron Brandy
-{10127}{} Dwarven Snuff
-{10128}{} Elven Spring Water
-{10129}{} Earl Grey Tea
-{10130}{} Absinthe
-{10131}{} Sweet Cakes
+{10127}{[Gift]} Dwarven Snuff
+{10128}{[Gift]} Elven Spring Water
+{10129}{[Gift]} Earl Grey Tea
+{10130}{[Gift]} Absinthe
+{10131}{[Gift]} Sweet Cakes
 {10132}{}Vendigrothian Elixir
 {10133}{Legendary potion}Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
