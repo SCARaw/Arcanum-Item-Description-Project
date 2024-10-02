@@ -403,7 +403,7 @@
 {10062}{[Crafting Component]} Kadura Stem
 {10063}{[Crafting Component]} Coca Leaves
 {10064}{[Crafting Component]} Tobacco Leaves
-{10065}{Deals 70 points of poison damage} Poison
+{10065}{+70 Poison Level to the target} Poison
 {10066}{[Crafting Component]} Electrolyte Solution
 {10067}{[Crafting Component]} Varham's Aqua Vitae
 {10068}{[Crafting Component]} Monroe's Cleaner
@@ -422,8 +422,8 @@
 {10081}{[Crafting Component]} Poppy Flowers
 {10082}{[Crafting Component]} Big Chief Snake Oil
 {10083}{[Crafting Component]} Venom
-{10084}{}Wonder Drug Wonder Drug
-{10085}{} Corrosive Acid
+{10084}{Restores 100pts of health and fatigue} Wonder Drug
+{10085}{Explodes for 1-100 acid damage to items} Corrosive Acid
 {10086}{} Animal Lure
 {10087}{} Animal Scent
 {10088}{[Crafting Component]} Brewer's Yeast
