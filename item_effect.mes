@@ -422,12 +422,12 @@
 {10081}{[Crafting Component]} Poppy Flowers
 {10082}{[Crafting Component]} Big Chief Snake Oil
 {10083}{[Crafting Component]} Venom
-{10084}{Restores 100pts of health and fatigue} Wonder Drug
+{10084}{Restores 60 Health and 60 Fatigue} Wonder Drug
 {10085}{Explodes for 1-100 acid damage to items} Corrosive Acid
-{10086}{} Animal Lure
-{10087}{} Animal Scent
+{10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
+{10087}{Prevents wild animals from attacking the user for 338 sec.} Animal Scent
 {10088}{[Crafting Component]} Brewer's Yeast
-{10089}{} Pete's Carbolic Acid
+{10089}{[Crafting Component]} Pete's Carbolic Acid
 {10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{[Crafting Component]} Mushrooms
 {10092}{[Crafting Component]} Sulphur Pills
@@ -454,10 +454,10 @@
 {10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker
 {10114}{+25 max. health +25 max. fatigue for 1 min.}Invigorator
 {10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
-{10116}{} Miracle Cure
-{10117}{} Mental Inhibitor
-{10118}{} Necromizer Necromizer
-{10119}{} Fortifier Fortifier
+{10116}{Restores 100 Health and 100 Fatigue} Miracle Cure
+{10117}{Halves the target's Willpower for 1 min.} Mental Inhibitor
+{10118}{Creates an undead follower from targeted corpse for 6 min.} Necromizer Necromizer
+{10119}{+30 Damage Resistance for 2 min.} Fortifier Fortifier
 {10120}{} Sleep Aid Anaesthisizer
 {10121}{} Potion of Paralysis Paralyzer
 {10122}{[Crafting Component]} Lemon
@@ -470,18 +470,18 @@
 {10129}{[Gift]} Earl Grey Tea
 {10130}{[Gift]} Absinthe
 {10131}{[Gift]} Sweet Cakes
-{10132}{}Vendigrothian Elixir
+{10132}{+2 to all of the mental stats for 39 min.}Vendigrothian Elixir
 {10133}{Legendary potion gives +1 to all attributes permamently}Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
 {10135}{Restores up to 30pts of Fatigue.} Light Fatigue Restore
 {10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
 {10137}{Heals up to 120pts of Poison.} Heal Poison
 {10138}{Heals up to 120pts of Health, Poison and Fatigue.} Morgana's Tears
-{10139}{Slows the use of Fatigue.} Fatigue Slower
+{10139}{Halves the use of Fatigue for 1 min.} Fatigue Slower
 {10140}{Boosts Intelligence by 10 points for 60 seconds.} Essence of Intellect
-{10141}{Increases Speed.} Potion of Haste
-{10142}{Increases Damage Resistance.} Liquid of Skin Thickening
-{10143}{Increases Poison Resistance.} Kalispi's Venom
+{10141}{+20 Speed for 1 min.} Potion of Haste
+{10142}{+20 Damage Resistance for 1 min.} Liquid of Skin Thickening
+{10143}{+80 Poison Resistance for 1 min.} Kalispi's Venom
 {10144}{Restores the life of the target.} Restore Life
 
 //Scrolls
