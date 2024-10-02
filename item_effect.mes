@@ -231,7 +231,7 @@
 {8129}{} Large Rustic Finery
 {8130}{} Feather-Weight Chain
 {8131}{} Small Feather-Weight Chain
-{8132}{} Copper Ring
+{8132}{[Crafting Component]} Copper Ring
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
 {8135}{} NO GOOD Large Ladies City Dweller Clothes
@@ -258,7 +258,7 @@
 {8156}{} Dwarven Chainmail
 {8157}{} Elven Chainmail
 {8158}{} Gnomish Chainmail
-{8159}{} Molochean Hand Amulet
+{8159}{[quest item]} Molochean Hand Amulet
 {8160}{BE:+2}Medalion of Beuty Medallion of Beauty
 {8161}{MR:+40}Dorian Amulet Dorian Amulet
 {8162}{} Decent Gold Ring
@@ -295,7 +295,7 @@
 {8193}{} Kite Shield Kite Shield
 {8194}{Detects Traps, Requires Charges} Flow Specktrometer
 {8195}{AC:30 ED:1-10 to Attacker} Shield of Force
-{8196}{AC=Evil Alignment/2} Shield of Darkness Shadow Shield
+{8196}{AC=Evil Alignment/2} Shadow Shield
 {8197}{} Dwarven Platemail
 {8198}{} Minute Platemail of Regeneration
 {8199}{AC:3 DR:7 PE:-1} Great Helm
@@ -306,7 +306,7 @@
 {8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves
 {8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} Serpentine Necklace
-{8207}{} Wheel Clan Spectacles
+{8207}{[Quest Item]} Wheel Clan Spectacles
 {8208}{} Charmed Leather Armour
 {8209}{} Small Charmed Leather Armour
 {8210}{} Large Charmed Leather Armour
@@ -432,15 +432,15 @@
 {10091}{} Mushrooms
 {10092}{} Sulphur Pills
 {10093}{Effect:+1 ST +1 CN -1DX -1PE -2CH -3IN Duration:360 seconds}Wine
-{10094}{} Morning Star Perfume
+{10094}{[crafting component]} Morning Star Perfume
 {10095}{} Dragon Cologne
 {10096}{} Lingham's Belladonna
 {10097}{}Revitalizer Revitalizer
 {10098}{}Mind Marvel Mind Marvel
-{10099}{}Tonic of Increased Reflexes Tonic of Increased Reflexes
+{10099}{} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33minutes}Energizer Energizer
-{10101}{} Doolittle's Glyceride
-{10102}{} Nerve Pills
+{10101}{[crafting component]} Doolittle's Glyceride
+{10102}{[crafting component]} Nerve Pills
 {10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
 {10104}{} Nimm's Phosphorous Tincture
 {10105}{} Quinine
@@ -454,14 +454,14 @@
 {10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker
 {10114}{+25 max. health +25 max. fatigue for 1 min.}Invigorator
 {10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
-{10116}{}Miracle Cure Miracle Cure
-{10117}{}Mental Inhibitor Mental Inhibitor
-{10118}{}Necromizer Necromizer
-{10119}{}Fortifier Fortifier
-{10120}{}Sleep Aid Anaesthisizer
-{10121}{}Potion of Paralysis Paralyzer
-{10122}{} Lemon
-{10123}{} Potato
+{10116}{} Miracle Cure
+{10117}{} Mental Inhibitor
+{10118}{} Necromizer Necromizer
+{10119}{} Fortifier Fortifier
+{10120}{} Sleep Aid Anaesthisizer
+{10121}{} Potion of Paralysis Paralyzer
+{10122}{[crafting component]} Lemon
+{10123}{[crafting component]} Potato
 {10124}{} Vial of Dragon's Blood
 {10125}{} Passion Root
 {10126}{} Chateau de Be'ron Brandy
@@ -470,7 +470,7 @@
 {10129}{} Earl Grey Tea
 {10130}{} Absinthe
 {10131}{} Sweet Cakes
-{10132}{}Vendigrothian Elixir Vendigrothian Elixir
+{10132}{}Vendigrothian Elixir
 {10133}{Legendary potion}Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
 {10135}{Restores up to 30pts of Fatigue.} Light Fatigue Restore
@@ -605,16 +605,16 @@
 {15079}{you just need all the other parts to make gun with it} Revolver Chamber
 {15080}{place on the ground to deal 15-25 damage.} Spike Trap
 {15081}{gives +10 modifier to lockpicking} Auto Skeleton Key
-{15082}{} Large Spring
-{15083}{} Small Spring
-{15084}{nice set of lockpicks} Lockpicks
-{15085}{} Pure Ore
-{15086}{} Iron Ore
-{15087}{} Steel
-{15088}{Metal part of the blade} Fine Hilt and Guard
-{15089}{} Thermometer
-{15090}{} Small Steam Engine
-{15091}{} Large Gears
+{15082}{[crafting component]} Large Spring
+{15083}{[crafting component]} Small Spring
+{15084}{[crafting component]} Lockpicks
+{15085}{[crafting component]} Pure Ore
+{15086}{[crafting component]} Iron Ore
+{15087}{[crafting component]} Steel
+{15088}{[crafting component]} Fine Hilt and Guard
+{15089}{[crafting component]} Thermometer
+{15090}{[crafting component]} Small Steam Engine
+{15091}{[crafting component]} Large Gears
 {15092}{} Mechanized Arachnid (poison)
 {15093}{} Ancient Gun Chassis
 {15094}{} Mithril Ore
