@@ -395,8 +395,8 @@
 {9056}{} Gold
 
 // Food
-{10057}{This item looks completely useless} Bread
-{10058}{This item looks completely useless} Water
+{10057}{[Food item] it has no effect} Bread
+{10058}{[Food item] it has no effect} Water
 {10059}{Heals 20pts of health.} Healing Salve
 {10060}{Restores 20pts of fatigue.} Fatigue Restorer
 {10061}{[Crafting Component]} Ginka Root
