@@ -604,10 +604,10 @@
 {15078}{[Crafting Component]} Gun Chassis
 {15079}{you just need all the other parts to make gun with it} Revolver Chamber
 {15080}{place on the ground to deal 15-25 damage.} Spike Trap
-{15081}{gives +10 modifier to lockpicking} Auto Skeleton Key
+{15081}{Bonus to picklock skill +10%} Auto Skeleton Key
 {15082}{[Crafting Component]} Large Spring
 {15083}{[Crafting Component]} Small Spring
-{15084}{[Crafting Component]} Lockpicks
+{15084}{Bonus to picklock skill +5% [Crafting Component]} Lockpicks
 {15085}{[Crafting Component]} Pure Ore
 {15086}{[Crafting Component]} Iron Ore
 {15087}{[Crafting Component]} Steel
@@ -637,13 +637,13 @@
 {15111}{} Black Powder
 {15112}{Creates Fire Curtain}Fire Obstruction
 {15113}{} Breach Loading Chamber
-{15114}{} Auto Loading Chamber
-{15115}{} Clock Parts
+{15114}{[Crafting Component]} Auto Loading Chamber
+{15115}{[Crafting Component]} Clock Parts
 {15116}{} Clockwork Decoy
 {15117}{} Pocket Watch
 {15118}{} Small Metal Tube
 {15119}{[Crafting Component]} Leather Straps
-{15120}{} Electrical Component
+{15120}{[Crafting Component]} Electrical Component
 {15121}{[Crafting Component]} Looking Glass
 {15122}{[Crafting Component]} Dwarven Ore
 {15123}{} Spool of Heavy Wire
@@ -660,12 +660,12 @@
 {15134}{D:100-200 FT:5-20}Dynamite Dynamite
 {15135}{} Bromide
 {15136}{} Potassium Chloride
-{15137}{} Small Electrical Parts
+{15137}{[Crafting Component]} Small Electrical Parts
 {15138}{[Crafting Component]} Saltpeter
 {15139}{} Nitroglycerin
 {15140}{} Electrical Coil
-{15141}{} Metal Can
-{15142}{} Engine Muffler
+{15141}{[Crafting Component]} Metal Can
+{15142}{[Crafting Component]} Engine Muffler
 {15143}{} Metal Casing
 {15144}{[Crafting Component]} Charcoal
 {15145}{} Tom's Fertilizer
@@ -677,8 +677,8 @@
 {15151}{Creates Smoke Curtain}Smoke Grenade
 {15152}{Stuns Target}Stun Grenade
 {15153}{Creates Fire Curtain}Fire Obstruction
-{15154}{} Revolver Parts
-{15155}{} Dwarven Steel
+{15154}{[Crafting Component]} Revolver Parts
+{15155}{[Crafting Component]} Dwarven Steel
 {15156}{} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
@@ -690,7 +690,7 @@
 {15164}{D:25-50 FT:10-20}Concussion Grenade
 {15165}{Paralyzes Target}Paralysis Grenade
 {15166}{Creates Poison Curtain}Mustard Gas Grenade
-{15167}{} Boat Rigging
+{15167}{[Crafting Component]} Boat Rigging
 {15168}{} Noise Maker Decoy
 {15169}{} Clockwork Physician
 {15170}{} Illuminated Decoy
