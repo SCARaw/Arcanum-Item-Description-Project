@@ -397,8 +397,8 @@
 // Food
 {10057}{[Food item] it has no effect} Bread
 {10058}{[Food item] it has no effect} Water
-{10059}{Heals 20pts of health.} Healing Salve
-{10060}{Restores 20pts of fatigue.} Fatigue Restorer
+{10059}{Heals 20pts of health.[Crafting Component]} Healing Salve
+{10060}{Restores 20pts of fatigue.[Crafting Component]} Fatigue Restorer
 {10061}{[Crafting Component]} Ginka Root
 {10062}{[Crafting Component]} Kadura Stem
 {10063}{[Crafting Component]} Coca Leaves
@@ -407,7 +407,7 @@
 {10066}{[Crafting Component]} Electrolyte Solution
 {10067}{[Crafting Component]} Varham's Aqua Vitae
 {10068}{[Crafting Component]} Monroe's Cleaner
-{10069}{+2 persuasion for 39 min.} Potion of Persuasion
+{10069}{+2 persuasion for 39 min.[Crafting Component]} Potion of Persuasion
 {10070}{ST+2 for 39 min.} Elixir of Physical Prowess
 {10071}{[Crafting Component]} Spirit of Camphor
 {10072}{[Crafting Component]} Famous Blood Pills
@@ -416,7 +416,7 @@
 {10075}{+290 Poison Level to the target}Strong Poison
 {10076}{Heals up to 60pts of Health and Fatigue} Cure All
 {10077}{Reduces poison levels} Cure Poison
-{10078}{Halves fatigue consumption for 180 seconds}Fatigue Limiter
+{10078}{Halves fatigue consumption for 180 seconds[Crafting Component]}Fatigue Limiter
 {10079}{1pt heal every 4 seconds for 100 seconds}Accelerate Healing
 {10080}{[Crafting Component]} Witchbane
 {10081}{[Crafting Component]} Poppy Flowers
@@ -436,7 +436,7 @@
 {10095}{This item looks completely useless} Dragon Cologne
 {10096}{This item looks completely useless} Lingham's Belladonna
 {10097}{+2 all stats for 27 min.}Revitalizer Revitalizer
-{10098}{+2 mental stats for 39 min.}Mind Marvel Mind Marvel
+{10098}{+2 mental stats for 39 min.[Crafting Component]}Mind Marvel Mind Marvel
 {10099}{DX+2 for 39 min.} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33minutes}Energizer Energizer
 {10101}{[Crafting Component]} Doolittle's Glyceride
