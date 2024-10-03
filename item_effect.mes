@@ -72,9 +72,9 @@
 {6093}{} Barbarian's Heavy Blade
 {6094}{D:4-16 FT:3-11 (Weight:20)}Sword of Air
 {6095}{} Sword of Sickness
-{6096}{} Compound Bow
+{6096}{D: 5-18 FT: 3-9 RNG: 15 [Crafting Component]} Compound Bow
 {6097}{} Short Bow
-{6098}{} Long Bow
+{6098}{D: 1-12 FT: 3-9 RNG: 25 [Crafting Component]} Long Bow
 {6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15} Elven Hunter's Bow
 {6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20} Bow of Terror
 {6101}{} Folding Rifle
