@@ -61,10 +61,10 @@
 {6082}{} Old Flintlock Pistol
 {6083}{} Quality Revolver
 {6084}{} Hushed Pistol
-{6085}{} High Velocity Pistol
+{6085}{D: 5-12 FT: 2-5 RNG: 15 [Crafting]} High Velocity Pistol
 {6086}{D: 2-9 FT: 2-5 RNG: 10 [Crafting]} Fancy Pistol
 {6087}{} Schreck's Pistol
-{6088}{} Long Range Pistol
+{6088}{D: 10-30 FT: 2-6 RNG: 20 [Crafting]} Long Range Pistol
 {6089}{} Quality Broadsword
 {6090}{} Rusty Broadsword
 {6091}{} Claymore
@@ -81,7 +81,7 @@
 {6102}{} Repeater Rifle Variant 1
 {6103}{} Repeater Rifle Variant 2
 {6104}{} Mechanized Gun
-{6105}{} Looking Glass Rifle
+{6105}{D: 10-30 FT: 1-15 TH:+20 RNG: 25[Crafting]} Looking Glass Rifle
 {6106}{} Marksman Rifle
 {6107}{} Levered Machine Gun
 {6108}{} Rifle
