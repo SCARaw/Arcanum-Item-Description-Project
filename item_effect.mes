@@ -130,7 +130,7 @@
 {6172}{} Void Sword
 {6173}{} Droch's Warbringer
 {6174}{} Large Bore Vendigrothian Rifle
-{6175}{} Oak Axe Handle
+{6175}{[Crafting]} Oak Axe Handle
 {6176}{D:3-6 Bypasses AC/DR}Stiletto
 {6177}{D:1-3 [Offering]} Bone Dagger
 
@@ -647,7 +647,7 @@
 {15121}{[Crafting]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting]} Dwarven Ore
 {15123}{[Crafting]} Spool of Heavy Wire
-{15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!!
+{15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting]} Sheet Metal
 {15126}{you can use it to dig up couple of graves} Shovel
 {15127}{} Crystal Ball
