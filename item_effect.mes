@@ -382,7 +382,7 @@
 {8280}{[Valuable]} Ruby Ring
 {8281}{[Valuable]} Sapphire Ring
 {8282}{[Valuable]} Diamond Ring
-{8283}{} Wooden Ring
+{8283}{[Junk]} Wooden Ring
 {8284}{[Valuable]} Silver Ring
 {8285}{[Valuable]} Mithril Ring
 {8286}{[Valuable]} Emerald Necklace
@@ -584,8 +584,8 @@
 {14067}{} Schematic
 {14068}{} Image
 {14069}{} Pamphlet
-{14070}{} The Legend of T'erre-d'-V'nt
-{14071}{} Professor Eakin's Telegram
+{14070}{[Quest]} The Legend of T'erre-d'-V'nt
+{14071}{[Quest]} Professor Eakin's Telegram
 
 // Items
 {15065}{} Generic Item 1a
@@ -593,9 +593,9 @@
 {15067}{} Stillwater trap (empty)
 {15068}{} Stillwater trap (full)
 {15069}{[Crafting]} Metal Plates
-{15070}{} Electric Light
+{15070}{Produce light around the user, shield slot[Crafting]} Electric Light
 {15071}{[Crafting]} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
-{15072}{} Lantern
+{15072}{Produce light around the user, shield slot} Lantern
 {15073}{[Crafting]} Capacitor
 {15074}{} Potassium Nitrate
 {15075}{} Coal
@@ -628,7 +628,7 @@
 {15102}{use it to safety defuse a trap} Trap Springer
 {15103}{[Crafting]} Pocket Watch Parts
 {15104}{} Vase
-{15105}{} Music Box
+{15105}{[Valuable]} Music Box
 {15106}{} Candle Stick
 {15107}{} Old Gears
 {15108}{[Crafting]} Electrical Harness
@@ -640,7 +640,7 @@
 {15114}{[Crafting]} Auto Loading Chamber
 {15115}{[Crafting]} Clock Parts
 {15116}{} Clockwork Decoy
-{15117}{} Pocket Watch
+{15117}{[Valuable]} Pocket Watch
 {15118}{[crafting]} Small Metal Tube
 {15119}{[Crafting]} Leather Straps
 {15120}{[Crafting]} Electrical Component
@@ -650,7 +650,7 @@
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting]} Sheet Metal
 {15126}{you can use it to dig up couple of graves} Shovel
-{15127}{} Crystal Ball
+{15127}{[Quest][Valuable]} Crystal Ball
 {15128}{[Valuable]} Rough-Cut Sapphire
 {15129}{[Valuable]} Rough-Cut Emerald
 {15130}{[Valuable]} Rough-Cut Diamond
@@ -734,7 +734,7 @@
 {15208}{[Crafting]} Rag
 {15209}{D:3-15 FT:3-15}Molotov Cocktail Molotov Cocktail
 {15210}{} Wisp Essence
-{15211}{Quest} Volar's Wisp Essence
+{15211}{[Quest]} Volar's Wisp Essence
 {15212}{HEALING ROBO SPIDER, its absolutely awesome, but not that good} Medical Arachnid
 {15213}{Impart your experiences to the rest of the party} Educator's Guide
 
