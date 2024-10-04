@@ -20,7 +20,7 @@
 {6041}{} Flame Thrower
 {6042}{} Enchanted Sword
 {6043}{} UNUSED
-{6044}{} Fine Revolver
+{6044}{D: 3-12 FT: 3-9 +TH RNG: 15 [Crafting]} Fine Revolver
 {6045}{} Repeater Rifle
 {6046}{} Hunting Rifle
 {6047}{D: 1-2 FT 1-3 [Crafting]} Railroad Spike
@@ -59,10 +59,10 @@
 {6080}{} Old Revolver
 {6081}{} Flintlock Pistol
 {6082}{} Old Flintlock Pistol
-{6083}{D: 3-12 FT: 3-9 RNG: 12 [Crafting]} Quality Revolver
+{6083}{} Quality Revolver
 {6084}{} Hushed Pistol
 {6085}{} High Velocity Pistol
-{6086}{} Fancy Pistol
+{6086}{D: 2-9 FT: 2-5 RNG: 10 [Crafting]} Fancy Pistol
 {6087}{} Schreck's Pistol
 {6088}{} Long Range Pistol
 {6089}{} Quality Broadsword
