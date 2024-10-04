@@ -13,14 +13,14 @@
 {6034}{} Broadsword
 {6035}{} Bow
 {6036}{} Shotgun
-{6037}{} Staff
+{6037}{} Staff //changing its description effects unique item descriptions too
 {6038}{} Envenomed Sword
 {6039}{} Elephant Gun
 {6040}{ED:10-40 Requires Charges}Tesla Rod
 {6041}{} Flame Thrower
 {6042}{} Enchanted Sword
 {6043}{} UNUSED
-{6044}{} Fine Revolver
+{6044}{} Fine Revolver //changing its description effects unique item descriptions too
 {6045}{} Repeater Rifle
 {6046}{} Hunting Rifle
 {6047}{D: 1-2 FT 1-3 [Crafting]} Railroad Spike
@@ -54,7 +54,7 @@
 {6075}{} Rusty Hammer
 {6076}{} Quality Hammer
 {6077}{} Machined Hammer
-{6078}{D:1-8 FT:1-10 (Crit Hit:+10%)}Crushing Hammer
+{6078}{D:1-8 FT:1-10 (Crit Hit Chance:+10%)}Crushing Hammer
 {6079}{} Inferno Hammer
 {6080}{} Old Revolver
 {6081}{} Flintlock Pistol
@@ -231,7 +231,7 @@
 {8129}{} Large Rustic Finery
 {8130}{} Feather-Weight Chain
 {8131}{} Small Feather-Weight Chain
-{8132}{[Crafting]} Copper Ring
+{8132}{} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
 {8135}{} NO GOOD Large Ladies City Dweller Clothes
@@ -432,7 +432,7 @@
 {10091}{[Crafting]} Mushrooms
 {10092}{[Crafting]} Sulphur Pills
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]}Wine
-{10094}{[Crafting]} Morning Star Perfume
+{10094}{[Crafting]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk]} Dragon Cologne
 {10096}{[Junk]} Lingham's Belladonna
 {10097}{+2 all stats for 27 min.}Revitalizer Revitalizer
@@ -594,7 +594,7 @@
 {15068}{} Stillwater trap (full)
 {15069}{[Crafting]} Metal Plates
 {15070}{} Electric Light
-{15071}{[Crafting]} Filament
+{15071}{[Crafting]} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{} Lantern
 {15073}{[Crafting]} Capacitor
 {15074}{} Potassium Nitrate
@@ -644,7 +644,7 @@
 {15118}{[crafting]} Small Metal Tube
 {15119}{[Crafting]} Leather Straps
 {15120}{[Crafting]} Electrical Component
-{15121}{[Crafting]} Looking Glass
+{15121}{[Crafting]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting]} Dwarven Ore
 {15123}{[Crafting]} Spool of Heavy Wire
 {15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!!
