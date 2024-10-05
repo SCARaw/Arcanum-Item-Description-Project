@@ -657,7 +657,7 @@
 {15131}{[Valuable]} Rough-Cut Ruby
 {15132}{D:5-30 FT:5-30}Explosive Grenade Explosive Grenade
 {15133}{} Automaton
-{15134}{D:100-200 FT:5-20}Dynamite Dynamite
+{15134}{D:100-200 FT:5-20 [Crafting]}Dynamite
 {15135}{[Crafting]} Bromide
 {15136}{[Crafting]} Potassium Chloride
 {15137}{[Crafting]} Small Electrical Parts
@@ -666,7 +666,7 @@
 {15140}{[Crafting]} Electrical Coil
 {15141}{[Crafting]} Metal Can
 {15142}{[Crafting]} Engine Muffler
-{15143}{} Metal Casing
+{15143}{[Crafting]} Metal Casing
 {15144}{[Crafting]} Charcoal
 {15145}{[Crafting]} Tom's Fertilizer
 {15146}{[Crafting]} Stearic Acid
