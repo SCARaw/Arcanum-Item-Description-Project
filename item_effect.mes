@@ -630,7 +630,7 @@
 {15104}{} Vase
 {15105}{[Valuable]} Music Box
 {15106}{} Candle Stick
-{15107}{} Old Gears
+{15107}{[Junk]} Old Gears
 {15108}{[Crafting]} Electrical Harness
 {15109}{[Crafting]} Large Capacitor
 {15110}{[Crafting]} Tesla Coil
@@ -649,7 +649,7 @@
 {15123}{[Crafting]} Spool of Heavy Wire
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting]} Sheet Metal
-{15126}{you can use it to dig up couple of graves} Shovel
+{15126}{you can use it to dig up Graves} Shovel
 {15127}{[Quest][Valuable]} Crystal Ball
 {15128}{[Valuable]} Rough-Cut Sapphire
 {15129}{[Valuable]} Rough-Cut Emerald
@@ -664,7 +664,7 @@
 {15138}{[Crafting]} Saltpeter
 {15139}{[Crafting]} Nitroglycerin
 {15140}{[Crafting]} Electrical Coil
-{15141}{[Crafting]} Metal Can
+{15141}{Empty Can[Crafting]} Metal Can
 {15142}{[Crafting]} Engine Muffler
 {15143}{[Crafting]} Metal Casing
 {15144}{[Crafting]} Charcoal
@@ -701,7 +701,7 @@
 {15175}{} Detonator
 {15176}{} UNUSED Medical Arachnid
 {15177}{[Crafting]} Minute Steam Works
-{15178}{} Crude Lockpicks
+{15178}{Allow to use Lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
 {15180}{[Quest]} Deed to the Bessie Toone Mine
 {15181}{[Offering]} Li'tani
