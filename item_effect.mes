@@ -15,19 +15,19 @@
 {6036}{} Shotgun
 {6037}{} Staff //changing its description effects unique item descriptions too
 {6038}{} Envenomed Sword
-{6039}{} Elephant Gun
-{6040}{ED:10-40 Requires Charges}Tesla Rod
+{6039}{D:20-50 FT:1-15 RNG:15 [Crafting]} Elephant Gun
+{6040}{ED:10-40 Requires Charges [Crafting]}Tesla Rod
 {6041}{} Flame Thrower
 {6042}{} Enchanted Sword
 {6043}{} UNUSED
 {6044}{} Fine Revolver //changing its description effects unique item descriptions too
-{6045}{} Repeater Rifle
-{6046}{} Hunting Rifle
-{6047}{D: 1-2 FT 1-3 [Crafting Mechanical]} Railroad Spike
-{6048}{D: 3-12 FT: 3-9 [Crafting Smithy]} Balanced Sword
+{6045}{D:4-9 FT:1-5 RNG:15 [Crafting]} Repeater Rifle
+{6046}{D:2-14 FT:1-10 RNG:15 [Crafting]} Hunting Rifle
+{6047}{D: 1-2 FT 1-3 [Crafting]} Railroad Spike
+{6048}{D: 3-12 FT: 3-9 [Crafting]} Balanced Sword
 {6049}{} Bronwyck's Gun
 {6050}{} Rusty Dagger
-{6051}{D: 2-6 FT: 1-3 [Crafting Smithy]} Fine Steel Dagger
+{6051}{D: 2-6 FT: 1-3 [Crafting]} Fine Steel Dagger
 {6052}{} Throwing Dagger
 {6053}{} Mechanical Dagger
 {6054}{D:1-4 FT:1-2 (Mana:10)} Mage's Dagger
@@ -45,7 +45,7 @@
 {6066}{} Rusty Axe
 {6067}{} Quality Axe
 {6068}{} Power Axe
-{6069}{D: 1-16 FT: 3-11 [Crafting Smithy]} Feather-Weight Axe
+{6069}{D: 1-16 FT: 3-11 [Crafting]} Feather-Weight Axe
 {6070}{D:1-12(+10 Undead) FT:1-9}Reaper's Axe
 {6071}{D:1-12 FT:1-9 (ST:+1 CN:+1)}Axe of Strength
 {6072}{} Rusty Mace
@@ -61,10 +61,10 @@
 {6082}{} Old Flintlock Pistol
 {6083}{} Quality Revolver
 {6084}{} Hushed Pistol
-{6085}{D: 5-12 FT: 2-5 RNG: 15 [Crafting Firearms]} High Velocity Pistol
-{6086}{D: 2-9 FT: 2-5 RNG: 10 [Crafting Firearms]} Fancy Pistol
+{6085}{D: 5-12 FT: 2-5 RNG: 15 [Crafting]} High Velocity Pistol
+{6086}{D: 2-9 FT: 2-5 RNG: 10 [Crafting]} Fancy Pistol
 {6087}{} Schreck's Pistol
-{6088}{D: 10-30 FT: 2-6 RNG: 20 [Crafting Firearms]} Long Range Pistol
+{6088}{D: 10-30 FT: 2-6 RNG: 20 [Crafting]} Long Range Pistol
 {6089}{} Quality Broadsword
 {6090}{} Rusty Broadsword
 {6091}{} Claymore
@@ -72,30 +72,30 @@
 {6093}{} Barbarian's Heavy Blade
 {6094}{D:4-16 FT:3-11 (Weight:20)}Sword of Air
 {6095}{} Sword of Sickness
-{6096}{D: 5-18 FT: 3-9 RNG: 15 [Crafting Smithy]} Compound Bow
+{6096}{D: 5-18 FT: 3-9 RNG: 15 [Crafting]} Compound Bow
 {6097}{} Short Bow
-{6098}{D: 1-12 FT: 3-9 RNG: 25 [Crafting Smithy]} Long Bow
+{6098}{D: 1-12 FT: 3-9 RNG: 25 [Crafting]} Long Bow
 {6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15} Elven Hunter's Bow
 {6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20} Bow of Terror
 {6101}{} Folding Rifle
 {6102}{} Repeater Rifle Variant 1
 {6103}{} Repeater Rifle Variant 2
 {6104}{} Mechanized Gun
-{6105}{D: 10-30 FT: 1-15 TH:+20 RNG: 25[Crafting Guns]} Looking Glass Rifle
-{6106}{} Marksman Rifle
+{6105}{D: 10-30 FT: 1-15 TH:+20 RNG: 25[Crafting]} Looking Glass Rifle
+{6106}{D:4-14 FT:3-9 RNG:20 [Crafting]} Marksman Rifle
 {6107}{} Levered Machine Gun
 {6108}{} Rifle
 {6109}{} Rusted Rifle
-{6110}{ED:5-10 Requires Charges} Shocking Staff
+{6110}{ED:5-10 Requires Charges [Crafting]} Shocking Staff
 {6111}{} Quality Staff
 {6112}{D:1-8 FT:3-12 Major Healing} Staff of Healing
 {6113}{D:1-8 FT:3-12 Major Healing, Charm Beast, Regenerate} Shaman's Staff
 {6114}{D:1-8 FT:3-12 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
 {6115}{} Hushed Revolver
 {6116}{} Hand Crafted Flintlock
-{6117}{D: 1-2 FT 1-3 [Crafting Smithy]} Large Pipe
-{6118}{} Hand Cannon
-{6119}{} Clarington Rifle
+{6117}{D: 1-2 FT 1-3 [Crafting]} Large Pipe
+{6118}{D:5-35 FT:1-10 RNG:12 [Crafting]} Hand Cannon
+{6119}{D:13-26 FT:1-10 RNG:15 [Crafting]} Clarington Rifle
 {6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20} Filament Sword
 {6123}{D:1-4(+6) FT:1-2(+1) (Mana:5)} Magick Dagger
 {6124}{D:1-4(+9) FT:1-2(+2) (Mana:10)} Mystic Dagger
@@ -129,8 +129,8 @@
 {6171}{} Aerial Decapitator
 {6172}{} Void Sword
 {6173}{} Droch's Warbringer
-{6174}{} Large Bore Vendigrothian Rifle
-{6175}{[Crafting]} Oak Axe Handle
+{6174}{D:5-25 FT:1-7 RNG:15 [Crafting]} Large Bore Vendigrothian Rifle
+{6175}{D:1-1 FT:1-3 [Crafting]} Oak Axe Handle
 {6176}{D:3-6 Bypasses AC/DR}Stiletto
 {6177}{D:1-3 [Offering]} Bone Dagger
 
@@ -155,7 +155,7 @@
 {8053}{} Boots
 {8054}{} Fancy Ring
 {8055}{} Medallion
-{8056}{DR: +2 D: +1 [Crafting Smithy]} Leather Gloves
+{8056}{DR: +2 D: +1 [Crafting]} Leather Gloves
 {8057}{DX:+2} Charged Ring
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
@@ -174,7 +174,7 @@
 {8072}{} Mithril Chainmail
 {8073}{} Machined Plate
 {8074}{AC:5 DR:7 FR:3 Prowling +2} Shadowing Robes
-{8075}{} Basic Platemail
+{8075}{AC:15 DR:+36 FR:+10 ER:-20 NP:-80 [Crafting]} Basic Platemail
 {8076}{} Red Barbarian Clothes
 {8077}{AC:2  DR:1  +20 Reaction} Smoking Jacket
 {8078}{} Small Suede Jacket
@@ -190,7 +190,7 @@
 {8088}{} Large Basic Platemail
 {8089}{AC:2  DR:1  +20 Reaction} Large Smoking Jacket
 {8090}{} Wool Jacket
-{8091}{} Leather Armour
+{8091}{AC:9 DR:16 FR:+5 NP:-10 [Crafting]} Leather Armour
 {8092}{} Oiled Chainmail
 {8093}{} Basic Machined Plate
 {8094}{} Robes
@@ -198,7 +198,7 @@
 {8096}{} Bronze Barbarian Clothes
 {8097}{} Servants Clothes
 {8098}{} Small Wool Jacket
-{8099}{} Small Leather Armour
+{8099}{AC:9 DR:14 FR:+5 NP:-10 [Crafting]} Small Leather Armour
 {8100}{} Small Oiled Chainmail
 {8101}{} Small Basic Machined Platemail
 {8102}{} Small Robes
@@ -206,7 +206,7 @@
 {8104}{} Small Bronze Barbarian Clothes
 {8105}{} Small Manservants Clothes
 {8106}{} Large Wool Jacket
-{8107}{} Large Leather Armour
+{8107}{AC:9 DR:+17 FR:+5 NP:-10 [Crafting]} Large Leather Armour
 {8108}{} Large Bronzed Plate
 {8109}{} Large Manservants Uniform
 {8110}{} Jacket
@@ -214,7 +214,7 @@
 {8112}{} Guard Chainmail
 {8113}{} Guard Plate
 {8114}{} Magick Robes
-{8115}{} Elite Plate
+{8115}{AC:20 DR:40 FR:30 NP:-35 [Crafting]} Elite Plate
 {8116}{} Barbarian Clothes
 {8117}{} Rustic Finery
 {8118}{} Small Jacket
@@ -222,15 +222,15 @@
 {8120}{} Small Guard Chainmail
 {8121}{} Small Guard Plate
 {8122}{} Small Magick Robes
-{8123}{} Small Elite Plate
+{8123}{AC:20 DR:35 FR:30 NP:-35 [Crafting]} Small Elite Plate
 {8124}{} Small Barbarian Clothes
 {8125}{} Small Rustic Finery
 {8126}{} Rags
 {8127}{} Large Studded Leather
-{8128}{} Large Elite Plate
+{8128}{AC:20 DR:45 FR:30 NP:-35 [Crafting]} Large Elite Plate
 {8129}{} Large Rustic Finery
-{8130}{} Feather-Weight Chain
-{8131}{} Small Feather-Weight Chain
+{8130}{AC:13 DR:+24 FR:+5 ER:-10 NP:-25 [Crafting]} Feather-Weight Chain
+{8131}{AC:13 DR:+23 FR:+5 ER:-10 NP:-25 [Crafting]} Small Feather-Weight Chain
 {8132}{} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
@@ -282,23 +282,23 @@
 {8180}{DR:+5 DX:+2} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
-{8183}{PE:+2}Eye Gear Eye Gear
-{8184}{PE <8 +1 else -1}Eyeglasses Eye Glasses
+{8183}{PE:+2 [Crafting]}Eye Gear Eye Gear
+{8184}{PE <8 +1 else -1 [Crafting]}Eyeglasses Eye Glasses
 {8185}{[Crafting]} Top Hat
-{8186}{} Helmet of Vision
+{8186}{AC:3 DR:+7 [Crafting]} Helmet of Vision
 {8187}{DR:+20} Chapeau of Magnetic Inversion
 {8188}{AC:3 DR:7 PE:-1 Light} Helm of Light
 {8189}{AC:3(+15) DR:7 PE:-1} Geleam's Helm
 {8190}{} Wooden Shield
 {8191}{} Dented Iron Shield
-{8192}{} Quality Iron Shield
+{8192}{AC:30 [Crafting]} Quality Iron Shield
 {8193}{} Kite Shield Kite Shield
 {8194}{Detects Traps, Requires Charges} Flow Specktrometer
 {8195}{AC:30 ED:1-10 to Attacker} Shield of Force
 {8196}{AC=Evil Alignment/2} Shadow Shield
 {8197}{} Dwarven Platemail
 {8198}{} Minute Platemail of Regeneration
-{8199}{AC:3 DR:7 PE:-1} Great Helm
+{8199}{AC:3 DR:7 PE:-1 [Crafting]} Great Helm
 {8200}{AC:2  DR:+1  NP:-10 +20 Reaction} Sunday's Best Dress
 {8201}{} Officer's Uniform Officer's Uniform
 {8202}{} Small Officer's Uniform Small Officer's Uniform
@@ -375,7 +375,7 @@
 {8273}{} Magick Ring
 {8274}{} Mystic Ring
 {8275}{} Arcane Ring
-{8276}{AC: 4, D: +2 [Crafting]} Vendigrothian Padded Leather Gloves
+{8276}{AC:4 D:+2 [Crafting]} Vendigrothian Padded Leather Gloves
 {8277}{} Vendigrothian War Gauntlets
 {8278}{} Void Ring
 {8279}{[Valuable]} Emerald Ring
@@ -408,7 +408,7 @@
 {10067}{[Crafting]} Varham's Aqua Vitae
 {10068}{[Crafting]} Monroe's Cleaner
 {10069}{+2 persuasion for 39 min.[Crafting]} Potion of Persuasion
-{10070}{ST+2 for 39 min.} Elixir of Physical Prowess
+{10070}{ST+2 for 39 min. [Crafting]} Elixir of Physical Prowess
 {10071}{[Crafting]} Spirit of Camphor
 {10072}{[Crafting]} Famous Blood Pills
 {10073}{[Junk]} Ammonia
@@ -425,7 +425,7 @@
 {10084}{Restores 60 Health and 60 Fatigue} Wonder Drug
 {10085}{Explodes for 1-100 acid damage to items} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
-{10087}{Prevents wild animals from attacking the user for 338 sec.} Animal Scent
+{10087}{Prevents wild animals from attacking for 338 sec.} Animal Scent
 {10088}{[Crafting]} Brewer's Yeast
 {10089}{[Crafting]} Pete's Carbolic Acid
 {10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
@@ -438,13 +438,13 @@
 {10097}{+2 all stats for 27 min.}Revitalizer Revitalizer
 {10098}{+2 mental stats for 39 min.[Crafting]}Mind Marvel Mind Marvel
 {10099}{DX+2 for 39 min.} Tonic of Increased Reflexes
-{10100}{ST+2 CN+2 DX+2 BE+2 for 33minutes}Energizer Energizer
+{10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer Energizer
 {10101}{[Crafting]} Doolittle's Glyceride
 {10102}{[Crafting]} Nerve Pills
 {10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
 {10104}{[Junk]} Nimm's Phosphorous Tincture
 {10105}{[Crafting]} Quinine
-{10106}{[Junk]} Witch Hazel Extract // Not ingame
+{10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
 {10107}{[Crafting]} Rheumatism Cure
 {10108}{[Crafting]} Migraine Cure
 {10109}{[Crafting]} Tincture of Arnica
@@ -456,7 +456,7 @@
 {10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
 {10116}{Restores 100 Health and 100 Fatigue} Miracle Cure
 {10117}{Halves the target's Willpower for 1 min.} Mental Inhibitor
-{10118}{Creates an undead follower from targeted corpse for 6 min.} Necromizer Necromizer
+{10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer Necromizer
 {10119}{+30 Damage Resistance for 2 min.} Fortifier Fortifier
 {10120}{} Sleep Aid Anaesthisizer
 {10121}{} Potion of Paralysis Paralyzer
@@ -499,22 +499,22 @@
 {11069}{Increases the target's constitution by 4.} Scroll of Vitality of Air
 {11070}{Creates a poisonous cloud.} Scroll of Poison Vapours
 {11071}{Raises a magickal wind that moves your opponents.} Scroll of Call Winds
-{11072}{Be air:speed+10,maxdamage0,DR95,FR+7,ER+5,PR95} Scroll of Body of Air
+{11072}{Transforms the target into an Air Elemental.} Scroll of Body of Air
 {11073}{Summons an Air Elemental.} Scroll of Call Air Elemental
 {11074}{Increases the target's strength by 4.} Scroll of Strength of Earth
 {11075}{Casts a magickal stone at your opponents.} Scroll of Stone Throw
 {11076}{Creates a magickal stone wall.} Scroll of Wall of Stone
-{11077}{Become earth: speed-5, dmg+5, ST+10, DR50, FR11, PR90} Scroll of Body of Stone
+{11077}{Transforms the target into an Earth Elemental.} Scroll of Body of Stone
 {11078}{Summons an Earth Elemental.} Scroll of Call Earth Elemental
 {11079}{Increases the target's dexterity by 4.} Scroll of Agility of Fire
 {11080}{Creates a magickal wall of fire.} Scroll of Wall of Fire
 {11081}{Casts a magickal ball of fire at your opponents.} Scroll of Fireflash
-{11082}{Become fire: fire dmg +15, FR 95, ER +8, PR 95} Scroll of Body of Fire
+{11082}{Transforms the target into a Fire Elemental} Scroll of Body of Fire
 {11083}{Summons a Fire Elemental.} Scroll of Call Fire Elemental
 {11084}{Increases the target's beauty by 4.} Scroll of Purity of Water
 {11085}{Creates a fog bank to muddle your opponents.} Scroll of Call Fog
 {11086}{Creates a vicious ice storm.} Scroll of Squall of Ice
-{11087}{Be water:spd-5,FTdmg+15,dmgbonus0,DR95,ER90,PR+10} Scroll of Body of Water
+{11087}{Transforms the target into a Water Elemental.} Scroll of Body of Water
 {11088}{Summons a Water Elemental.} Scroll of Call Water Elemental
 {11089}{Creates a magickal shield.} Scroll of Shield of Protection
 {11090}{Shocks any opponents within a few feet of the caster.} Scroll of Jolt
@@ -589,7 +589,7 @@
 
 // Items
 {15065}{} Generic Item 1a
-{15066}{} Mechanized Arachnid
+{15066}{[Crafting]} Mechanized Arachnid
 {15067}{} Stillwater trap (empty)
 {15068}{} Stillwater trap (full)
 {15069}{[Crafting]} Metal Plates
@@ -598,7 +598,7 @@
 {15072}{Produce light around the user, shield slot} Lantern
 {15073}{[Crafting]} Capacitor
 {15074}{} Potassium Nitrate
-{15075}{} Coal
+{15075}{[Junk]} Coal
 {15076}{[Crafting]} Magnesium
 {15077}{[Junk]} Metal Shavings
 {15078}{[Crafting]} Gun Chassis
@@ -625,7 +625,7 @@
 {15099}{This item seems very expensive} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target} Bear Trap
 {15101}{[Crafting]} Metal Clamp
-{15102}{use it to safety defuse a trap} Trap Springer
+{15102}{Use it to safety defuse a trap} Trap Springer
 {15103}{[Crafting]} Pocket Watch Parts
 {15104}{} Vase
 {15105}{[Valuable]} Music Box
@@ -636,23 +636,23 @@
 {15110}{[Crafting]} Tesla Coil
 {15111}{[Crafting]} Black Powder
 {15112}{Creates Fire Curtain}Fire Obstruction
-{15113}{} Breach Loading Chamber
+{15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting]} Auto Loading Chamber
 {15115}{[Crafting]} Clock Parts
-{15116}{} Clockwork Decoy
+{15116}{[Crafting]} Clockwork Decoy
 {15117}{[Valuable]} Pocket Watch
 {15118}{[crafting]} Small Metal Tube
 {15119}{[Crafting]} Leather Straps
-{15120}{[Crafting]} Electrical Component
+{15120}{[Junk]} Electrical Component
 {15121}{[Crafting]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting]} Dwarven Ore
 {15123}{[Crafting]} Spool of Heavy Wire
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting]} Sheet Metal
-{15126}{you can use it to dig up Graves} Shovel
+{15126}{You can use it to dig up Graves} Shovel
 {15127}{[Quest][Valuable]} Crystal Ball
 {15128}{[Valuable]} Rough-Cut Sapphire
-{15129}{[Valuable]} Rough-Cut Emerald
+{15129}{[Valuable]} Rough-Cut Emerald //changing its description effects unique item descriptions too (Whysper's Gem)
 {15130}{[Valuable]} Rough-Cut Diamond
 {15131}{[Valuable]} Rough-Cut Ruby
 {15132}{D:5-30 FT:5-30}Explosive Grenade Explosive Grenade
@@ -683,7 +683,7 @@
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
-{15160}{[Quest][Valuable]} Kathorn Crystal
+{15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
 {15161}{Knocks Out Target}Knock Out Gas Grenade
 {15162}{Makes Target Flee}Hallucination Grenade
 {15163}{D:1-5 ED:5-30}Electrocution Grenade
