@@ -30,3 +30,7 @@ Because we ended with 100 [Crafting] items
 [Valuable] - this item sells decently
 
 [Junk] - this item is useless (please do not call Bread and Water Junk)
+
+
+![image](https://github.com/user-attachments/assets/903f90ea-efeb-4d64-9d17-6b1a72b5e1f0)
+
