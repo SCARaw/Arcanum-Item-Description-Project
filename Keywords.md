@@ -6,21 +6,21 @@ designed to be intuitive and save real estate in description
 # existing keywords and what do they mean
 [Quest] - this item is used for quest
 
-[Crafting] - this item is used for crafting
+[Crafting] - this item is used for crafting from advanced items or non-specific items
 Because we ended with 100 [Crafting] items
-[Crafting: Quest]
+[Crafting: Quest] - item is used to craft quest item
 
-[Crafting: Herbology]
+[Crafting: Herbology] - item is used as herbology material
 
-[Crafting: Explosive]
+[Crafting: Explosive] - item is used as explosive material
 
-[Crafting: Chemistry]
+[Crafting: Chemistry] - item is used as chemistry material
 
-[Crafting: Smithy]
+[Crafting: Smithy] - item is used as Smithy material
 
-[Crafting: Firearms] (or guns?) - item beed to be associated with this discipline not necessery used in this branch
+[Crafting: Guns] - item is used as Gun Smithy material (different name to avoid Smithy)
 
-[Crafting: Terapeutics]
+[Crafting: Terapeutics] - item is used as Terapeutic material
 
 
 [Offering] - this item is used as offering for pagan god
