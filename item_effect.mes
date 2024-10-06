@@ -23,7 +23,7 @@
 {6044}{} Fine Revolver //changing its description effects unique item descriptions too
 {6045}{D:4-9 FT:1-5 RNG:15 [Crafting]} Repeater Rifle
 {6046}{D:2-14 FT:1-10 RNG:15 [Crafting]} Hunting Rifle
-{6047}{D: 1-2 FT 1-3 [Crafting]} Railroad Spike
+{6047}{D: 1-2 FT 1-3 [Crafting: Mechanical]} Railroad Spike
 {6048}{D: 3-12 FT: 3-9 [Crafting]} Balanced Sword
 {6049}{} Bronwyck's Gun
 {6050}{} Rusty Dagger
@@ -409,8 +409,8 @@
 {10068}{[Crafting]} Monroe's Cleaner
 {10069}{+2 persuasion for 39 min.[Crafting]} Potion of Persuasion
 {10070}{ST+2 for 39 min. [Crafting]} Elixir of Physical Prowess
-{10071}{[Crafting]} Spirit of Camphor
-{10072}{[Crafting]} Famous Blood Pills
+{10071}{[Crafting: Therapeutics]} Spirit of Camphor
+{10072}{[Crafting: Therapeutics]} Famous Blood Pills
 {10073}{[Junk]} Ammonia
 {10074}{Heals up to 20pts of Health} Heal Lesser Wounds
 {10075}{+290 Poison Level to the target}Strong Poison
@@ -420,7 +420,7 @@
 {10079}{1pt heal every 4 seconds for 100 seconds}Accelerate Healing
 {10080}{[Crafting]} Witchbane
 {10081}{[Crafting]} Poppy Flowers
-{10082}{[Crafting]} Big Chief Snake Oil
+{10082}{[Crafting: Therapeutics]} Big Chief Snake Oil
 {10083}{[Crafting]} Venom
 {10084}{Restores 60 Health and 60 Fatigue} Wonder Drug
 {10085}{Explodes for 1-100 acid damage to items} Corrosive Acid
@@ -439,15 +439,15 @@
 {10098}{+2 mental stats for 39 min.[Crafting]}Mind Marvel Mind Marvel
 {10099}{DX+2 for 39 min.} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer Energizer
-{10101}{[Crafting]} Doolittle's Glyceride
-{10102}{[Crafting]} Nerve Pills
+{10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
+{10102}{[Crafting: Therapeutics]} Nerve Pills
 {10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
 {10104}{[Junk]} Nimm's Phosphorous Tincture
 {10105}{[Crafting]} Quinine
 {10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
-{10107}{[Crafting]} Rheumatism Cure
-{10108}{[Crafting]} Migraine Cure
-{10109}{[Crafting]} Tincture of Arnica
+{10107}{[Crafting: Therapeutics]} Rheumatism Cure
+{10108}{[Crafting: Therapeutics]} Migraine Cure
+{10109}{[Crafting: Therapeutics]} Tincture of Arnica
 {10110}{[Crafting]} CK Sugar
 {10111}{Turns target into a mindless slave for 1 min.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
 {10112}{Permanent: +1 mental stats, -1 physical stats}Brain Builder
