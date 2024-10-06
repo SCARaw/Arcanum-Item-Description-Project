@@ -192,7 +192,7 @@
 {8090}{} Wool Jacket
 {8091}{AC:9 DR:16 FR:+5 NP:-10 [Crafting]} Leather Armour
 {8092}{} Oiled Chainmail
-{8093}{} Basic Machined Plate
+{8093}{AC: 20 DR: +30 FR: +10 ER: -20 NP: -80 [Quest]} Basic Machined Plate
 {8094}{} Robes
 {8095}{} Bronzed Plate
 {8096}{} Bronze Barbarian Clothes
