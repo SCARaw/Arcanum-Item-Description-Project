@@ -589,7 +589,7 @@
 
 // Items
 {15065}{} Generic Item 1a
-{15066}{[Crafting]} Mechanized Arachnid
+{15066}{} Mechanized Arachnid
 {15067}{} Stillwater trap (empty)
 {15068}{} Stillwater trap (full)
 {15069}{[Crafting]} Metal Plates
@@ -598,11 +598,11 @@
 {15072}{Produce light around the user, shield slot} Lantern
 {15073}{[Crafting]} Capacitor
 {15074}{} Potassium Nitrate
-{15075}{[Junk]} Coal
+{15075}{} Coal
 {15076}{[Crafting]} Magnesium
 {15077}{[Junk]} Metal Shavings
-{15078}{[Crafting]} Gun Chassis
-{15079}{you just need all the other parts to make gun with it} Revolver Chamber
+{15078}{[Crafting: Guns]} Gun Chassis
+{15079}{[Crafting: Guns]} Revolver Chamber
 {15080}{Deals 15-25 damage.} Spike Trap
 {15081}{Bonus to picklock skill +10%} Auto Skeleton Key
 {15082}{[Crafting]} Large Spring
@@ -616,7 +616,7 @@
 {15090}{[Crafting]} Small Steam Engine
 {15091}{[Crafting]} Large Gears
 {15092}{} Mechanized Arachnid (poison)
-{15093}{[Crafting]} Ancient Gun Chassis
+{15093}{[Crafting: Guns]} Ancient Gun Chassis
 {15094}{} Mithril Ore
 {15095}{} Wine Glass
 {15096}{[Quest]} Empty Vial
@@ -625,7 +625,7 @@
 {15099}{This item seems very expensive} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target} Bear Trap
 {15101}{[Crafting]} Metal Clamp
-{15102}{Use it to safety defuse a trap} Trap Springer
+{15102}{use it to safety defuse a trap} Trap Springer
 {15103}{[Crafting]} Pocket Watch Parts
 {15104}{} Vase
 {15105}{[Valuable]} Music Box
@@ -636,23 +636,23 @@
 {15110}{[Crafting]} Tesla Coil
 {15111}{[Crafting]} Black Powder
 {15112}{Creates Fire Curtain}Fire Obstruction
-{15113}{} Breach Loading Chamber //UNUSED INGAME
-{15114}{[Crafting]} Auto Loading Chamber
+{15113}{} Breach Loading Chamber
+{15114}{[Crafting: Guns]} Auto Loading Chamber
 {15115}{[Crafting]} Clock Parts
-{15116}{[Crafting]} Clockwork Decoy
+{15116}{} Clockwork Decoy
 {15117}{[Valuable]} Pocket Watch
-{15118}{[crafting]} Small Metal Tube
+{15118}{[Crafting: Guns]} Small Metal Tube
 {15119}{[Crafting]} Leather Straps
-{15120}{[Junk]} Electrical Component
-{15121}{[Crafting]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
+{15120}{[Crafting]} Electrical Component
+{15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting]} Dwarven Ore
 {15123}{[Crafting]} Spool of Heavy Wire
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting]} Sheet Metal
-{15126}{You can use it to dig up Graves} Shovel
+{15126}{you can use it to dig up Graves} Shovel
 {15127}{[Quest][Valuable]} Crystal Ball
 {15128}{[Valuable]} Rough-Cut Sapphire
-{15129}{[Valuable]} Rough-Cut Emerald //changing its description effects unique item descriptions too (Whysper's Gem)
+{15129}{[Valuable]} Rough-Cut Emerald
 {15130}{[Valuable]} Rough-Cut Diamond
 {15131}{[Valuable]} Rough-Cut Ruby
 {15132}{D:5-30 FT:5-30}Explosive Grenade Explosive Grenade
@@ -665,25 +665,25 @@
 {15139}{[Crafting]} Nitroglycerin
 {15140}{[Crafting]} Electrical Coil
 {15141}{Empty Can[Crafting]} Metal Can
-{15142}{[Crafting]} Engine Muffler
+{15142}{[Crafting: Guns]} Engine Muffler
 {15143}{[Crafting]} Metal Casing
 {15144}{[Crafting]} Charcoal
 {15145}{[Crafting]} Tom's Fertilizer
 {15146}{[Crafting]} Stearic Acid
 {15147}{[Crafting]} Liquid Soap
-{15148}{[Crafting]} Broken Flintlock Pistol
+{15148}{[Crafting: Guns]]} Broken Flintlock Pistol
 {15149}{[Crafting]} Compass
 {15150}{Blinds Target}Flash Grenade
 {15151}{Creates Smoke Curtain}Smoke Grenade
 {15152}{Stuns Target}Stun Grenade
 {15153}{Creates Fire Curtain}Fire Obstruction
-{15154}{There is enough parts to build nearly entire revolver. [Crafting]} Revolver Parts
+{15154}{[Crafting: Guns]There is enough parts to build nearly entire revolver.} Revolver Parts
 {15155}{[Crafting]} Dwarven Steel
 {15156}{} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
-{15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
+{15160}{[Quest][Valuable]} Kathorn Crystal
 {15161}{Knocks Out Target}Knock Out Gas Grenade
 {15162}{Makes Target Flee}Hallucination Grenade
 {15163}{D:1-5 ED:5-30}Electrocution Grenade
