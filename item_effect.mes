@@ -472,7 +472,7 @@
 {10107}{[Crafting: Therapeutics]} Rheumatism Cure
 {10108}{[Crafting: Therapeutics]} Migraine Cure
 {10109}{[Crafting: Therapeutics]} Tincture of Arnica
-{10110}{[Crafting]} CK Sugar
+{10110}{[Crafting: Explosives]} CK Sugar
 {10111}{Turns target into a mindless slave for 1 min.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
 {10112}{Permanent: +1 mental stats, -1 physical stats}Brain Builder
 {10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker
@@ -484,8 +484,8 @@
 {10119}{+30 Damage Resistance for 2 min.} Fortifier Fortifier
 {10120}{} Sleep Aid Anaesthisizer
 {10121}{} Potion of Paralysis Paralyzer
-{10122}{[Crafting]} Lemon
-{10123}{[Crafting]} Potato
+{10122}{[Crafting: Electric]} Lemon
+{10123}{[Crafting: Electric]} Potato
 {10124}{[Quest]} Vial of Dragon's Blood
 {10125}{[Offering]} Passion Root
 {10126}{} Chateau de Be'ron Brandy
@@ -681,27 +681,27 @@
 {15068}{} Stillwater trap (full)
 {15069}{[Crafting: Chemistry]} Metal Plates
 {15070}{Produce light around the user, shield slot[Crafting]} Electric Light
-{15071}{[Crafting]} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
+{15071}{[Crafting: Electric]} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produce light around the user, shield slot} Lantern
-{15073}{[Crafting]} Capacitor
+{15073}{[Crafting: Electric]} Capacitor
 {15074}{} Potassium Nitrate
 {15075}{[Junk] Maybe blacksmith will pay you for this?} Coal
-{15076}{[Crafting]} Magnesium
+{15076}{[Crafting: Explosives]} Magnesium
 {15077}{[Junk]} Metal Shavings
 {15078}{[Crafting: Guns]} Gun Chassis
 {15079}{[Crafting: Guns]} Revolver Chamber
 {15080}{Deals 15-25 damage.} Spike Trap
 {15081}{Bonus to picklock skill +10%} Auto Skeleton Key
-{15082}{[Crafting]} Large Spring
-{15083}{[Crafting]} Small Spring
+{15082}{[Crafting: Mechanical]} Large Spring
+{15083}{[Crafting: Mechanical]} Small Spring
 {15084}{Bonus to picklock skill +5% [Crafting]} Lockpicks
 {15085}{[Crafting]} Pure Ore
 {15086}{[Crafting]} Iron Ore
 {15087}{[Crafting]} Steel
 {15088}{[Crafting]} Fine Hilt and Guard
 {15089}{[Crafting]} Thermometer
-{15090}{[Crafting]} Small Steam Engine
-{15091}{[Crafting]} Large Gears
+{15090}{[Crafting: Mechanical]} Small Steam Engine
+{15091}{[Crafting: Mechanical]} Large Gears
 {15092}{} Mechanized Arachnid (poison)
 {15093}{[Crafting: Guns]} Ancient Gun Chassis
 {15094}{} Mithril Ore
@@ -711,29 +711,29 @@
 {15098}{} Small Statuette
 {15099}{This item seems very expensive} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target} Bear Trap
-{15101}{[Crafting]} Metal Clamp
+{15101}{[Crafting: Mechanical]} Metal Clamp
 {15102}{use it to safety defuse a trap} Trap Springer
-{15103}{[Crafting]} Pocket Watch Parts
+{15103}{[Crafting: Mechanical]} Pocket Watch Parts
 {15104}{} Vase
 {15105}{[Valuable]} Music Box
 {15106}{} Candle Stick
 {15107}{[Junk]} Old Gears
-{15108}{[Crafting]} Electrical Harness
-{15109}{[Crafting]} Large Capacitor
-{15110}{[Crafting]} Tesla Coil
-{15111}{[Crafting]} Black Powder
+{15108}{[Crafting: Electric]} Electrical Harness
+{15109}{[Crafting: Electric]} Large Capacitor
+{15110}{[Crafting: Electric]} Tesla Coil
+{15111}{[Crafting: Explosives]} Black Powder
 {15112}{Creates Fire Curtain}Fire Obstruction
 {15113}{} Breach Loading Chamber
 {15114}{[Crafting: Guns]} Auto Loading Chamber
-{15115}{[Crafting]} Clock Parts
+{15115}{[Crafting: Mechanical]} Clock Parts
 {15116}{} Clockwork Decoy
 {15117}{[Valuable]} Pocket Watch
 {15118}{[Crafting: Guns]} Small Metal Tube
 {15119}{[Crafting]} Leather Straps
-{15120}{[Crafting]} Electrical Component
+{15120}{[Crafting: Electric]} Electrical Component
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting]} Dwarven Ore
-{15123}{[Crafting]} Spool of Heavy Wire
+{15123}{[Crafting: Mechanical]} Spool of Heavy Wire
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting]} Sheet Metal
 {15126}{you can use it to dig up Graves} Shovel
@@ -747,19 +747,19 @@
 {15134}{D:100-200 FT:5-20 [Crafting]}Dynamite
 {15135}{[Crafting: Chemistry]} Bromide
 {15136}{[Crafting: Chemistry]} Potassium Chloride
-{15137}{[Crafting]} Small Electrical Parts
-{15138}{[Crafting]} Saltpeter
-{15139}{[Crafting]} Nitroglycerin
-{15140}{[Crafting]} Electrical Coil
-{15141}{Empty Can[Crafting]} Metal Can
+{15137}{[Crafting: Electric]} Small Electrical Parts
+{15138}{[Crafting: Explosives]} Saltpeter
+{15139}{[Crafting: Explosives]} Nitroglycerin
+{15140}{[Crafting: Electric]} Electrical Coil
+{15141}{Empty Can [Crafting: Explosives]} Metal Can
 {15142}{[Crafting: Guns]} Engine Muffler
-{15143}{[Crafting]} Metal Casing
-{15144}{[Crafting]} Charcoal
-{15145}{[Crafting]} Tom's Fertilizer
-{15146}{[Crafting]} Stearic Acid
-{15147}{[Crafting]} Liquid Soap
+{15143}{[Crafting: Mechanical]} Metal Casing
+{15144}{[Crafting: Explosives]} Charcoal
+{15145}{[Crafting: Explosives]} Tom's Fertilizer
+{15146}{[Crafting: Explosives]} Stearic Acid
+{15147}{[Crafting: Explosives]} Liquid Soap
 {15148}{[Crafting: Guns]]} Broken Flintlock Pistol
-{15149}{[Crafting]} Compass
+{15149}{[Crafting: Mechanical]} Compass
 {15150}{Blinds Target}Flash Grenade
 {15151}{Creates Smoke Curtain}Smoke Grenade
 {15152}{Stuns Target}Stun Grenade
@@ -777,7 +777,7 @@
 {15164}{D:25-50 FT:10-20}Concussion Grenade
 {15165}{Paralyzes Target}Paralysis Grenade
 {15166}{Creates Poison Curtain}Mustard Gas Grenade
-{15167}{[Crafting]} Boat Rigging
+{15167}{[Crafting: Mechanical]} Boat Rigging
 {15168}{} Noise Maker Decoy
 {15169}{} Clockwork Physician
 {15170}{} Illuminated Decoy
@@ -787,7 +787,7 @@
 {15174}{} Plastique
 {15175}{} Detonator
 {15176}{} UNUSED Medical Arachnid
-{15177}{[Crafting]} Minute Steam Works
+{15177}{[Crafting: Mechanical]} Minute Steam Works
 {15178}{Allow to use Lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
 {15180}{[Quest]} Deed to the Bessie Toone Mine
@@ -817,7 +817,7 @@
 {15204}{[Valuable]} Star Ruby
 {15205}{[Valuable]} Star Sapphire
 {15206}{} Medical Kit
-{15207}{[Crafting]} Kerosene
+{15207}{[Crafting: Explosives]} Kerosene
 {15208}{[Crafting]} Rag
 {15209}{D:3-15 FT:3-15}Molotov Cocktail Molotov Cocktail
 {15210}{} Wisp Essence
