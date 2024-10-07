@@ -1,3 +1,13 @@
+# Guidelines
+Our goal is to answer 1 simple question, What is that for?
+
+item description need to be fast, to the point and useful
+
+Character limit is between 50 - 60 depends on size of the letters
+
+ALL the weapons include MSR Value (minimal strength requirement) writen as:
+
+MSR: 4/7 - 2nd number is value with offhand occupied
 # Keywords
 Short descriptors pointing usage of the item
 
