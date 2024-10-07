@@ -695,10 +695,10 @@
 {15082}{[Crafting: Mechanical]} Large Spring
 {15083}{[Crafting: Mechanical]} Small Spring
 {15084}{Bonus to picklock skill +5% [Crafting]} Lockpicks
-{15085}{[Crafting]} Pure Ore
-{15086}{[Crafting]} Iron Ore
-{15087}{[Crafting]} Steel
-{15088}{[Crafting]} Fine Hilt and Guard
+{15085}{[Crafting: Smithy]} Pure Ore
+{15086}{[Crafting: Smithy]} Iron Ore
+{15087}{[Crafting: Smithy]} Steel
+{15088}{[Crafting: Smithy]} Fine Hilt and Guard
 {15089}{[Crafting: Therapeutics]} Thermometer
 {15090}{[Crafting: Mechanical]} Small Steam Engine
 {15091}{[Crafting: Mechanical]} Large Gears
@@ -729,13 +729,13 @@
 {15116}{} Clockwork Decoy
 {15117}{[Valuable]} Pocket Watch
 {15118}{[Crafting: Guns]} Small Metal Tube
-{15119}{[Crafting]} Leather Straps
+{15119}{[Crafting: Smithy]} Leather Straps
 {15120}{[Crafting: Electric]} Electrical Component
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
-{15122}{[Crafting]} Dwarven Ore
-{15123}{[Crafting: Mechanical]} Spool of Heavy Wire
+{15122}{[Crafting: Smithy]} Dwarven Ore
+{15123}{[Crafting: Smithy]} Spool of Heavy Wire
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
-{15125}{[Crafting]} Sheet Metal
+{15125}{[Crafting: Smithy]} Sheet Metal
 {15126}{you can use it to dig up Graves} Shovel
 {15127}{[Quest][Valuable]} Crystal Ball
 {15128}{[Valuable]} Rough-Cut Sapphire
@@ -765,7 +765,7 @@
 {15152}{Stuns Target}Stun Grenade
 {15153}{Creates Fire Curtain}Fire Obstruction
 {15154}{[Crafting: Guns]There is enough parts to build nearly entire revolver.} Revolver Parts
-{15155}{[Crafting]} Dwarven Steel
+{15155}{[Crafting: Smithy]} Dwarven Steel
 {15156}{} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
@@ -806,7 +806,7 @@
 {15193}{Gives expertise bonus equal to Intelligence, can be stacked} Mechanical Manuals
 {15194}{Gives expertise bonus equal to Intelligence, can be stacked} Smithy Manuals
 {15195}{Gives expertise bonus equal to Intelligence, can be stacked} Gunsmithy Manuals
-{15196}{[Crafting]} Vendigrothian Sheet Metal
+{15196}{[Crafting: Smithy]} Vendigrothian Sheet Metal
 {15197}{[Crafting: Chemistry] Vendigroth made it?} Unknown Chemical Compound
 {15198}{Demons consider this meat tasty.} Void Animal Carcass
 {15199}{WOAH, you got the real one?} Authentic Stillwater Giant Pelt
