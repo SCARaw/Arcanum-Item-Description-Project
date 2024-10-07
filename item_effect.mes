@@ -427,10 +427,10 @@
 {10062}{[Crafting: Herbology]} Kadura Stem
 {10063}{[Crafting: Herbology]} Coca Leaves
 {10064}{[Crafting: Herbology]} Tobacco Leaves
-{10065}{+70 Poison Level to the target} Poison
-{10066}{[Crafting]} Electrolyte Solution
-{10067}{[Crafting]} Varham's Aqua Vitae
-{10068}{[Crafting]} Monroe's Cleaner
+{10065}{+70 Poison Level to the target [Crafting]} Poison
+{10066}{[Crafting: Chemistry]} Electrolyte Solution
+{10067}{[Crafting: Chemistry]} Varham's Aqua Vitae
+{10068}{[Crafting: Chemistry]} Monroe's Cleaner
 {10069}{+2 persuasion for 39 min.[Crafting]} Potion of Persuasion
 {10070}{ST+2 for 39 min. [Crafting]} Elixir of Physical Prowess
 {10071}{[Crafting: Therapeutics]} Spirit of Camphor
@@ -450,13 +450,13 @@
 {10085}{Explodes for 1-100 acid damage to items} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
 {10087}{Prevents wild animals from attacking for 338 sec.} Animal Scent
-{10088}{[Crafting]} Brewer's Yeast
-{10089}{[Crafting]} Pete's Carbolic Acid
+{10088}{[Crafting: Chemistry]} Brewer's Yeast
+{10089}{[Crafting: Chemistry]} Pete's Carbolic Acid
 {10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{[Crafting: Chemistry]} Mushrooms
-{10092}{[Crafting]} Sulphur Pills
+{10092}{[Crafting: Chemistry]} Sulphur Pills
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]}Wine
-{10094}{[Crafting]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
+{10094}{[Crafting: Chemistry]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk]} Dragon Cologne
 {10096}{[Junk]} Lingham's Belladonna
 {10097}{+2 all stats for 27 min.}Revitalizer Revitalizer
@@ -679,7 +679,7 @@
 {15066}{} Mechanized Arachnid
 {15067}{} Stillwater trap (empty)
 {15068}{} Stillwater trap (full)
-{15069}{[Crafting]} Metal Plates
+{15069}{[Crafting: Chemistry]} Metal Plates
 {15070}{Produce light around the user, shield slot[Crafting]} Electric Light
 {15071}{[Crafting]} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produce light around the user, shield slot} Lantern
@@ -745,8 +745,8 @@
 {15132}{D:5-30 FT:5-30}Explosive Grenade Explosive Grenade
 {15133}{} Automaton
 {15134}{D:100-200 FT:5-20 [Crafting]}Dynamite
-{15135}{[Crafting]} Bromide
-{15136}{[Crafting]} Potassium Chloride
+{15135}{[Crafting: Chemistry]} Bromide
+{15136}{[Crafting: Chemistry]} Potassium Chloride
 {15137}{[Crafting]} Small Electrical Parts
 {15138}{[Crafting]} Saltpeter
 {15139}{[Crafting]} Nitroglycerin
@@ -807,7 +807,7 @@
 {15194}{Gives expertise bonus equal to Intelligence, can be stacked} Smithy Manuals
 {15195}{Gives expertise bonus equal to Intelligence, can be stacked} Gunsmithy Manuals
 {15196}{[Crafting]} Vendigrothian Sheet Metal
-{15197}{Vendigroth made it?} Unknown Chemical Compound
+{15197}{[Crafting: Chemistry] Vendigroth made it?} Unknown Chemical Compound
 {15198}{Demons consider this meat tasty.} Void Animal Carcass
 {15199}{WOAH, you got the real one?} Authentic Stillwater Giant Pelt
 {15200}{[Valuable]} Emerald
