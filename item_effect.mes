@@ -600,7 +600,7 @@
 {12061}{} Iron Clan Key
 
 // Key Rings
-{13061}{} Key Ring
+{13061}{Store all your keys together} Key Ring
 
 // Written
 {14062}{} Book
@@ -608,7 +608,7 @@
 {14064}{Tarantian, popular press in United Kingdom, Amy loves it} Tarant Newspaper
 {14065}{} Telegram
 {14066}{} Gorad's note
-{14067}{} Schematic
+{14067}{Use to learn new Crafting Recipe} Schematic
 {14068}{} Image
 {14069}{} Pamphlet
 {14070}{[Quest]} The Legend of T'erre-d'-V'nt
@@ -716,7 +716,7 @@
 {15103}{[Crafting: Mechanical]} Pocket Watch Parts
 {15104}{} Vase
 {15105}{[Valuable]} Music Box
-{15106}{} Candle Stick
+{15106}{[Junk]} Candle Stick
 {15107}{[Junk]} Old Gears
 {15108}{[Crafting: Electric]} Electrical Harness
 {15109}{[Crafting: Electric]} Large Capacitor
@@ -766,7 +766,7 @@
 {15153}{Creates Fire Curtain}Fire Obstruction
 {15154}{[Crafting: Guns]There is enough parts to build nearly entire revolver.} Revolver Parts
 {15155}{[Crafting: Smithy]} Dwarven Steel
-{15156}{} Camera
+{15156}{[Quest]} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
