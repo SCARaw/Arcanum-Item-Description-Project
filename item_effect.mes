@@ -97,12 +97,20 @@
 {6118}{D:5-35 FT:1-10 RNG:12 [Crafting]} Hand Cannon
 {6119}{D:13-26 FT:1-10 RNG:15 [Crafting]} Clarington Rifle
 {6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20} Filament Sword
+{6121}{} Finely Crafted Dagger 
+{6122}{} Charmed Dagger 
 {6123}{D:1-4(+6) FT:1-2(+1) (Mana:5)} Magick Dagger
 {6124}{D:1-4(+9) FT:1-2(+2) (Mana:10)} Mystic Dagger
 {6125}{D:1-6(+12) FT:1-2(+4) (Mana:20)} Arcane Dagger
+{6126}{} Charged Sword 
+{6127}{} Charmed Sword 
 {6128}{D:1-8(+8) FT:1-4(+2) (Mana:4)} Magick Sword
 {6129}{D:1-8(+12) FT:1-4(+4) (Mana:8)} Mystic Sword
 {6130}{D:1-8(+16) FT:1-4(+8) (Mana:16)} Arcane Sword
+{6131}{} Envenomed Axe 
+{6132}{} Charged Axe 
+{6133}{} Pyrotechnic Axe 
+{6134}{} Charmed Axe 
 {6135}{D:1-12(+10) FT:1-9(+3) (Mana:4)} Magick Axe
 {6136}{D:1-13(+15) FT:1-9(+6) (Mana:8)} Mystic Axe
 {6137}{D:3-14(+20) FT:2-10(+9) (Mana:16)} Arcane Axe
@@ -114,7 +122,20 @@
 {6143}{D:4-16(+8) FT:3-11(+8) (Mana:12)} Magick Great Sword
 {6144}{D:4-16(+12) FT:3-11(+12) (Mana:16)} Mystic Great Sword
 {6145}{D:4-16(+16) FT:3-11(+16) (Mana:20)} Arcane Great Sword
+{6146}{} Pyrotechnic Bow 
+{6147}{} Envenomed Bow 
+{6148}{} Charmed Bow 
+{6149}{} Magick Bow 
+{6150}{} Mystic Bow 
+{6151}{} Arcane Bow 
+{6152}{} Rifled Cannon 
+{6153}{} Acid Gun 
 {6154}{ED:10-80 Requires Charges} Tesla Gun
+{6155}{} Grenade Launcher 
+{6156}{} Charged Accelerator Gun 
+{6157}{} Blade Launcher 
+{6158}{} Pyrotechnic Gun 
+{6159}{} Tranquilizer Gun 
 {6160}{D:1-8 FT:3-12(+6) (Mana:20)} Charmed Staff
 {6161}{D:1-8 FT:3-12(+12) (Mana:40)} Magick Staff
 {6162}{D:1-8 FT:3-12(+18) (Mana:60)} Mystic Staff
@@ -133,6 +154,7 @@
 {6175}{D:1-1 FT:1-3 [Crafting]} Oak Axe Handle
 {6176}{D:3-6 Bypasses AC/DR}Stiletto
 {6177}{D:1-3 [Offering]} Bone Dagger
+{6178}{} Kite Sword 
 
 //Ammo
 {7038}{Arrow} Arrow
@@ -390,6 +412,8 @@
 {8288}{[Valuable]} Sapphire Necklace
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 PE:+3} Goggled Helmet
+{8291}{} Large Machined Platemail 
+{8292}{} Large Feather-Weight Chain 
 
 //Gold
 {9056}{} Gold
@@ -539,6 +563,7 @@
 {11109}{Tames any animal targeted.} Scroll of Charm Beast
 {11110}{Summons magickal vines to ensnare opponents.} Scroll of Entangle
 {11111}{Summons a magickal animal familiar.} Scroll of Control Beast
+{11112}{} Scroll of Succour Beast
 {11113}{Increases the healing rate of you and your party.} Scroll of Regenerate
 {11114}{Harms the target, decreasing their vitality.} Scroll of Harm
 {11115}{Allows the user to speak with the dead.} Scroll of Conjure Spirit
@@ -568,9 +593,11 @@
 {11139}{} Kerghan's Death Scroll
 {11140}{} Kerghan's Attack Scroll
 {11141}{} Scroll of Exiting
+{11142}{} Med Spider Heal 
 
 // Keys
 {12060}{} Key
+{12061}{} Iron Clan Key
 
 // Key Rings
 {13061}{} Key Ring
@@ -586,6 +613,66 @@
 {14069}{} Pamphlet
 {14070}{[Quest]} The Legend of T'erre-d'-V'nt
 {14071}{[Quest]} Professor Eakin's Telegram
+{14072}{} Vendigroth Newspaper 
+{14073}{} Invigorator
+{14074}{} Reanimator 
+{14075}{} Clockwork Physician 
+{14076}{} Miracle Cure 
+{14077}{} Mental Inhibitor 
+{14078}{} Necromizer
+{14079}{} Fortifier 
+{14080}{} Fuel 
+{14081}{} Potion of Paralysis // UAP removed it
+{14082}{} Lemon and Potato Charges 
+{14083}{} Charged Sword 
+{14084}{} Flow Disruptor 
+{14085}{} Tesla Gun 
+{14086}{} Bellringer // UNUSED INGAME
+{14087}{} Electro Armour 
+{14088}{} Pyrotechnic Bow 
+{14089}{} Knock Out Gas 
+{14090}{} Hallucination Grenade 
+{14091}{} Electrocution Grenade 
+{14092}{} Grenade Launcher 
+{14093}{} Time Bomb 
+{14094}{} Concussion Grenade 
+{14095}{} Paralysis Grenade 
+{14096}{} Mustard Gas Grenade 
+{14097}{} Plastique 
+{14098}{} Detonator 
+{14099}{} Flame Thrower 
+{14100}{} Mechanized Gun 
+{14101}{} Acid Gun 
+{14102}{} Accelerator Gun 
+{14103}{} Pyrotechnic Gun 
+{14104}{} Blade Launcher 
+{14105}{} High Velocity Pistol 
+{14106}{} Schreck's Multi-Barreled Pistol // UAP made it useable
+{14107}{} Long Range Pistol 
+{14108}{} Tranquilizer Gun 
+{14109}{} Poison Arachnid 
+{14110}{} Automaton 
+{14111}{} Compound Bow 
+{14112}{} Envenomed Bow 
+{14113}{} Medical Arachnid 
+{14114}{} Illuminated Decoy 
+{14115}{} Explosive Decoy 
+{14116}{} Automaton Gunner // UNUSED INGAME
+{14117}{} Goggled Helmet 
+{14118}{} Machined Platemail 
+{14119}{} Wheel Clan Spectacles 
+{14120}{} Envenomed Sword 
+{14121}{} Envenomed Axe 
+{14122}{} Miner's Helmet 
+{14123}{} Pyrotechnic Axe 
+{14124}{} Rifled Cannon 
+{14125}{} Mechanical Dagger 
+{14126}{} Elixir of Hypnotic Suggestion 
+{14127}{} Brain Builder 
+{14128}{} Muscle Maker
+{14129}{} Bullets 
+
+
 
 // Items
 {15065}{} Generic Item 1a
