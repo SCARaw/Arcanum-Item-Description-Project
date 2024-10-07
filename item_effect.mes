@@ -304,8 +304,8 @@
 {8180}{DR:+5 DX:+2} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
-{8183}{PE:+2 [Crafting]}Eye Gear Eye Gear
-{8184}{PE <8 +1 else -1 [Crafting]}Eyeglasses Eye Glasses
+{8183}{PE:+2 [Crafting]}Eye Gear
+{8184}{PE <8 +1 else -1 [Crafting: Quest][Crafting]} Eye Glasses
 {8185}{[Crafting]} Top Hat
 {8186}{AC:3 DR:+7 [Crafting]} Helmet of Vision
 {8187}{DR:+20} Chapeau of Magnetic Inversion
@@ -460,9 +460,9 @@
 {10095}{[Junk]} Dragon Cologne
 {10096}{[Junk]} Lingham's Belladonna
 {10097}{+2 all stats for 27 min.}Revitalizer Revitalizer
-{10098}{+2 mental stats for 39 min.[Crafting]}Mind Marvel Mind Marvel
+{10098}{+2 mental stats for 39 min.[Crafting]}Mind Marvel
 {10099}{DX+2 for 39 min.} Tonic of Increased Reflexes
-{10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer Energizer
+{10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer
 {10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
 {10102}{[Crafting: Therapeutics]} Nerve Pills
 {10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
@@ -770,7 +770,7 @@
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
-{15160}{[Quest][Valuable]} Kathorn Crystal
+{15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
 {15161}{Knocks Out Target}Knock Out Gas Grenade
 {15162}{Makes Target Flee}Hallucination Grenade
 {15163}{D:1-5 ED:5-30}Electrocution Grenade
@@ -792,7 +792,7 @@
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
 {15180}{[Quest]} Deed to the Bessie Toone Mine
 {15181}{[Offering]} Li'tani
-{15182}{[Offering][Crafting]} Heartstone
+{15182}{[Offering][Crafting: Quest]} Heartstone
 {15183}{[Offering][Valuable]} Mnura Coin
 {15184}{[Offering]} Lava Rock
 {15185}{[Offering]} Olive Branch
