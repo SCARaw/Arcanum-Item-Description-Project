@@ -159,8 +159,8 @@
 //Ammo
 {7038}{Arrow} Arrow
 {7039}{Bullet} Bullet
-{7040}{Battery} Battery
-{7041}{Fuel} Fuel
+{7040}{[Crafting: Chemistry] Battery} Battery
+{7041}{[Crafting: Explosive] Fuel} Fuel
 
 //Armour
 {8042}{} Heavy Wool Clothes
@@ -423,10 +423,10 @@
 {10058}{[Food] it has no effect} Water
 {10059}{Heals 20pts of health.[Crafting]} Healing Salve
 {10060}{Restores 20pts of fatigue.[Crafting]} Fatigue Restorer
-{10061}{[Crafting]} Ginka Root
-{10062}{[Crafting]} Kadura Stem
-{10063}{[Crafting]} Coca Leaves
-{10064}{[Crafting]} Tobacco Leaves
+{10061}{[Crafting: Herbology]} Ginka Root
+{10062}{[Crafting: Herbology]} Kadura Stem
+{10063}{[Crafting: Herbology]} Coca Leaves
+{10064}{[Crafting: Herbology]} Tobacco Leaves
 {10065}{+70 Poison Level to the target} Poison
 {10066}{[Crafting]} Electrolyte Solution
 {10067}{[Crafting]} Varham's Aqua Vitae
@@ -442,10 +442,10 @@
 {10077}{Reduces poison levels} Cure Poison
 {10078}{Halves fatigue consumption for 180 seconds[Crafting]}Fatigue Limiter
 {10079}{1pt heal every 4 seconds for 100 seconds}Accelerate Healing
-{10080}{[Crafting]} Witchbane
-{10081}{[Crafting]} Poppy Flowers
-{10082}{[Crafting: Therapeutics]} Big Chief Snake Oil
-{10083}{[Crafting]} Venom
+{10080}{[Crafting: Herbology]} Witchbane
+{10081}{[Crafting: Herbology]} Poppy Flowers
+{10082}{[Crafting: Herbology]} Big Chief Snake Oil
+{10083}{[Crafting: Herbology]} Venom
 {10084}{Restores 60 Health and 60 Fatigue} Wonder Drug
 {10085}{Explodes for 1-100 acid damage to items} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
@@ -453,7 +453,7 @@
 {10088}{[Crafting]} Brewer's Yeast
 {10089}{[Crafting]} Pete's Carbolic Acid
 {10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
-{10091}{[Crafting]} Mushrooms
+{10091}{[Crafting: Chemistry]} Mushrooms
 {10092}{[Crafting]} Sulphur Pills
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]}Wine
 {10094}{[Crafting]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
