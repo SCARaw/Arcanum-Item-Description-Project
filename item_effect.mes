@@ -18,7 +18,7 @@
 {6039}{D:20-50 FT:1-15 RNG:15 MSR:12 [Crafting]} Elephant Gun
 {6040}{D:1-4 ED:10-40 MSR:8 Requires Charges [Crafting]}Tesla Rod
 {6041}{D:1-4 FD:15-30 RNG:3 MSR:15} Flame Thrower
-{6042}{} Enchanted Sword
+{6042}{D:1-8(+3) FT:1-4 MSR:5/7} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
 {6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7} Fine Revolver //changing its description effects unique item descriptions too
 {6045}{D:4-9 FT:1-5 RNG:15 MSR:8 [Crafting]} Repeater Rifle
@@ -30,8 +30,8 @@
 {6051}{D:2-6 FT:1-3 MSR:3/3 [Crafting]} Fine Steel Dagger
 {6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
 {6053}{D:2-12 FT:1-6 MSR:3/3} Mechanical Dagger
-{6054}{D:1-4 FT:1-2 (Mana:10)} Mage's Dagger
-{6055}{D:1-4 FT:1-2 (Speed +4)}Dagger of speed
+{6054}{D:1-4 FT:1-2 MSR:2/2 (Mana:10)} Mage's Dagger
+{6055}{D:1-4 FT:1-2 MSR:3/3 (Speed +4)}Dagger of speed
 {6056}{D:1-4 FT:1-2 MSR:6/8} Rusty Sword
 {6057}{D:2-9 FT:2-5 MSR:6/8} Quality Sword
 {6058}{D:2-9 FT:2-5 MSR:6/8} Caladon Elite Sword
@@ -41,72 +41,72 @@
 {6062}{D:3-12 FT:1-3 MSR:6/4} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
 {6064}{D:1-8 FT:1-4 (AC+15)} Sword of Defense
-{6065}{D:1-8(+4) FT:1-4 (Summon Animal)}Stillwater Blade
+{6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal)}Stillwater Blade
 {6066}{D:1-8 FT:1-4 MSR:8/10} Rusty Axe
 {6067}{D:3-14 FT:2-10 MSR:8/10} Quality Axe
 {6068}{D:5-18 FT:3-11 MSR:8/10} Power Axe
 {6069}{D:1-16 FT:3-11 MSR:4/6 [Crafting]} Feather-Weight Axe
-{6070}{D:1-12(+10 Undead) FT:1-9}Reaper's Axe
-{6071}{D:1-12 FT:1-9 (ST:+1 CN:+1)}Axe of Strength
-{6072}{} Rusty Mace
-{6073}{} Quality Mace
-{6074}{} Hammer
-{6075}{} Rusty Hammer
-{6076}{} Quality Hammer
-{6077}{} Machined Hammer
-{6078}{D:1-8 FT:1-10 (Crit Hit Chance:+10%)}Crushing Hammer
-{6079}{} Inferno Hammer
-{6080}{} Old Revolver
-{6081}{} Flintlock Pistol
-{6082}{} Old Flintlock Pistol
-{6083}{} Quality Revolver
-{6084}{} Hushed Pistol
-{6085}{D: 5-12 FT: 2-5 RNG: 15 [Crafting]} High Velocity Pistol
-{6086}{D: 2-9 FT: 2-5 RNG: 10 [Crafting]} Fancy Pistol
-{6087}{} Schreck's Pistol
-{6088}{D: 10-30 FT: 2-6 RNG: 20 [Crafting]} Long Range Pistol
-{6089}{} Quality Broadsword
-{6090}{} Rusty Broadsword
-{6091}{} Claymore
-{6092}{} Flamberge
-{6093}{} Barbarian's Heavy Blade
-{6094}{D:4-16 FT:3-11 (Weight:20)}Sword of Air
-{6095}{} Sword of Sickness
-{6096}{D: 5-18 FT: 3-9 RNG: 15 [Crafting]} Compound Bow
-{6097}{} Short Bow
-{6098}{D: 1-12 FT: 3-9 RNG: 25 [Crafting]} Long Bow
-{6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15} Elven Hunter's Bow
-{6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20} Bow of Terror
-{6101}{} Folding Rifle
-{6102}{} Repeater Rifle Variant 1
-{6103}{} Repeater Rifle Variant 2
-{6104}{} Mechanized Gun
-{6105}{D: 10-30 FT: 1-15 TH:+20 RNG: 25[Crafting]} Looking Glass Rifle
-{6106}{D:4-14 FT:3-9 RNG:20 [Crafting]} Marksman Rifle
-{6107}{} Levered Machine Gun
-{6108}{} Rifle
-{6109}{} Rusted Rifle
-{6110}{ED:5-10 Requires Charges [Crafting]} Shocking Staff
-{6111}{} Quality Staff
-{6112}{D:1-8 FT:3-12 Major Healing} Staff of Healing
-{6113}{D:1-8 FT:3-12 Major Healing, Charm Beast, Regenerate} Shaman's Staff
-{6114}{D:1-8 FT:3-12 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
-{6115}{} Hushed Revolver
-{6116}{} Hand Crafted Flintlock
-{6117}{D: 1-2 FT 1-3 [Crafting]} Large Pipe
-{6118}{D:5-35 FT:1-10 RNG:12 [Crafting]} Hand Cannon
-{6119}{D:13-26 FT:1-10 RNG:15 [Crafting]} Clarington Rifle
-{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20} Filament Sword
-{6121}{} Finely Crafted Dagger 
-{6122}{} Charmed Dagger 
-{6123}{D:1-4(+6) FT:1-2(+1) (Mana:5)} Magick Dagger
-{6124}{D:1-4(+9) FT:1-2(+2) (Mana:10)} Mystic Dagger
-{6125}{D:1-6(+12) FT:1-2(+4) (Mana:20)} Arcane Dagger
-{6126}{} Charged Sword 
-{6127}{} Charmed Sword 
-{6128}{D:1-8(+8) FT:1-4(+2) (Mana:4)} Magick Sword
-{6129}{D:1-8(+12) FT:1-4(+4) (Mana:8)} Mystic Sword
-{6130}{D:1-8(+16) FT:1-4(+8) (Mana:16)} Arcane Sword
+{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10}Reaper's Axe
+{6071}{D:1-12 FT:1-9 MSR:8/10 (ST:+1 CN:+1)}Axe of Strength
+{6072}{D:1-3 FT:1-4 MSR:8/10} Rusty Mace
+{6073}{D:2-5 FT:2-9 MSR:6/8} Quality Mace
+{6074}{D:1-5 FT:1-8 MSR:8/10} Hammer
+{6075}{D:1-4 FT:1-4 MSR:8/10} Rusty Hammer
+{6076}{D:1-7 FT:1-10 MSR:6/8} Quality Hammer
+{6077}{D:3-9 FT:3-12 MSR:6/8} Machined Hammer
+{6078}{D:1-8 FT:1-10 (Crit Hit Chance:+10%) MSR:8/10}Crushing Hammer
+{6079}{D:1-8 FT:1-10 FD:5-10 MSR:8/10} Inferno Hammer
+{6080}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7} Old Revolver
+{6081}{D:1-6 FT:1-3 TH:-5 RNG:8 MSR:3/5} Flintlock Pistol
+{6082}{D:1-5 TH:-10 RNG:5 MSR:3/5} Old Flintlock Pistol
+{6083}{D:8-16 FT:3-9 RNG:12 MSR:5/7} Quality Revolver
+{6084}{D:2-9 FT:2-5 RNG:8 MSR:5/7} Hushed Pistol //UNUSED INGAME
+{6085}{D:5-12 FT:2-5 RNG:15 MSR:5/7 [Crafting]} High Velocity Pistol
+{6086}{D:2-9 FT:2-5 RNG:10 MSR:5/7 [Crafting]} Fancy Pistol
+{6087}{D:9-17 FT:1-5 RNG:10 MSR:6/8} Schreck's Pistol
+{6088}{D:10-30 FT:2-6 RNG:20 MSR:6/8 [Crafting]} Long Range Pistol
+{6089}{D:6-18 FT:4-12 MSR:14/18} Quality Broadsword
+{6090}{D:1-14 FT:1-8 MSR:14/18} Rusty Broadsword
+{6091}{D:2-18 FT:2-10 MSR:14/18} Claymore
+{6092}{D:1-20 FT:1-10 MSR:14/18} Flamberge
+{6093}{D:8-20 FT:6-12 MSR:16/20} Barbarian's Heavy Blade
+{6094}{D:4-16 FT:3-11 MSR:8/12 (Weight:20)}Sword of Air
+{6095}{D:4-16 FT:3-11 PD:1-20 MSR:14/18} Sword of Sickness
+{6096}{D:5-18 FT:3-9 RNG:15 MSR:8 [Crafting]} Compound Bow
+{6097}{D:1-8 FT:1-3 RNG:10 MSR:5} Short Bow
+{6098}{D:1-12 FT:3-9 RNG:25 MSR:12 [Crafting]} Long Bow
+{6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15 MSR:8} Elven Hunter's Bow
+{6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20 MSR:10} Bow of Terror
+{6101}{D:1-15 FT:1-3 RNG:15 MSR:8} Folding Rifle //UNUSED INGAME
+{6102}{D:1-15 FT:1-3 RNG:15 MSR:8} Repeater Rifle Variant 1 //UNUSED INGAME
+{6103}{D:1-15 FT:1-3 RNG:15 MSR:8} Repeater Rifle Variant 2 //UNUSED INGAME
+{6104}{D:1-30 FT:1-5 RNG:15 MSR:10} Mechanized Gun
+{6105}{D:10-30 FT:1-15 TH:+20 RNG:25 MSR:8 [Crafting]} Looking Glass Rifle
+{6106}{D:4-14 FT:3-9 RNG:20 MSR:8 [Crafting]} Marksman Rifle
+{6107}{D:20-40 FT:1-4 RNG:15 MSR:12} Levered Machine Gun
+{6108}{D:2-10 FT:1-5 RNG:15 MSR:9} Rifle
+{6109}{D:1-10 FT:1-3 TH:-5 RNG:15 MSR:8} Rusted Rifle
+{6110}{D:1-6 FT:1-3 ED:5-10 MSR:5 Requires Charges [Crafting]} Shocking Staff
+{6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
+{6112}{D:1-8 FT:3-12 MSR:5 Major Healing} Staff of Healing
+{6113}{D:1-8 FT:3-12 MSR:5 Major Healing, Charm Beast, Regenerate} Shaman's Staff
+{6114}{D:1-8 FT:3-12 MSR:5 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
+{6115}{D:12-24 FT:2-5 TH:+10 RNG:12 MSR:3/5} Hushed Revolver
+{6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7} Hand Crafted Flintlock
+{6117}{D: 1-2 FT 1-3 MSR:10/12 [Crafting]} Large Pipe
+{6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 [Crafting]} Hand Cannon
+{6119}{D:13-26 FT:1-10 RNG:15 MSR:8 [Crafting]} Clarington Rifle
+{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20 MSR:4/6} Filament Sword
+{6121}{D:2-6 FT:1-3 MSR:3/3} Finely Crafted Dagger 
+{6122}{D:1-4(+3) FT:1-2 MSR:3/3} Charmed Dagger 
+{6123}{D:1-4(+6) FT:1-2(+1) MSR:3/3 (Mana:5)} Magick Dagger
+{6124}{D:1-4(+9) FT:1-2(+2) MSR:3/3 (Mana:10)} Mystic Dagger
+{6125}{D:1-6(+12) FT:1-2(+4) MSR:3/3 (Mana:20)} Arcane Dagger
+{6126}{D:3-12 FT:3-9 ED:1-20 MSR:6/8} Charged Sword 
+{6127}{D:1-8(+4) FT:1-4 MSR:6/8} Charmed Sword 
+{6128}{D:1-8(+8) FT:1-4(+2) (Mana:4) MSR:7/9} Magick Sword
+{6129}{D:1-8(+12) FT:1-4(+4) (Mana:8) MSR:8/10} Mystic Sword
+{6130}{D:1-8(+16) FT:1-4(+8) (Mana:16) MSR:9/11} Arcane Sword
 {6131}{} Envenomed Axe 
 {6132}{} Charged Axe 
 {6133}{} Pyrotechnic Axe 
@@ -148,7 +148,7 @@
 {6169}{} Mystical Chakram
 {6170}{} Azram's Star
 {6171}{} Aerial Decapitator
-{6172}{} Void Sword
+{6172}{D:10-25 FT:6-15 MSR:14/18} Void Sword //UNUSED INGAME
 {6173}{} Droch's Warbringer
 {6174}{D:5-25 FT:1-7 RNG:15 [Crafting]} Large Bore Vendigrothian Rifle
 {6175}{D:1-1 FT:1-3 [Crafting]} Oak Axe Handle
@@ -684,7 +684,7 @@
 {15071}{[Crafting: Electric]} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produce light around the user, shield slot} Lantern
 {15073}{[Crafting: Electric]} Capacitor
-{15074}{} Potassium Nitrate
+{15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
 {15075}{[Junk] Maybe blacksmith will pay you for this?} Coal
 {15076}{[Crafting: Explosives]} Magnesium
 {15077}{[Junk]} Metal Shavings
