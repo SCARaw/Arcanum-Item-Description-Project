@@ -5,47 +5,47 @@
 {0}{}
 
 //Weapons
-{6029}{} Dagger
-{6030}{} Sword
-{6031}{} Axe
-{6032}{} Mace
-{6033}{} Revolver
-{6034}{} Broadsword
-{6035}{} Bow
-{6036}{} Shotgun
-{6037}{} Staff //changing its description effects unique item descriptions too
-{6038}{} Envenomed Sword
-{6039}{D:20-50 FT:1-15 RNG:15 [Crafting]} Elephant Gun
-{6040}{ED:10-40 Requires Charges [Crafting]}Tesla Rod
-{6041}{} Flame Thrower
+{6029}{D:1-4 FT:1-2 MSR:3/3} Dagger
+{6030}{D:1-8 FT:1-4 MSR:6/8} Sword
+{6031}{D:1-12 FT:1-9 MSR:8/10} Axe
+{6032}{D:1-4 FT:1-8 MSR:8/10} Mace
+{6033}{D:2-9 FT:2-5 RNG:10 MSR:5/7} Revolver
+{6034}{D:4-16 FT:3-11 MSR:14/18} Broadsword
+{6035}{D:1-10 FT:2-5 RNG:15 MSR:10} Bow
+{6036}{D:1-10 FT:1-10 RNG:5 MSR:11} Shotgun
+{6037}{D:1-4 FT:2-9 MSR:5 [Crafting]} Staff //changing its description effects unique item descriptions too
+{6038}{D:1-8 FT:1-4 PD:10-35 MSR:6/8} Envenomed Sword
+{6039}{D:20-50 FT:1-15 RNG:15 MSR:12 [Crafting]} Elephant Gun
+{6040}{D:1-4 ED:10-40 MSR:8 Requires Charges [Crafting]}Tesla Rod
+{6041}{D:1-4 FD:15-30 RNG:3 MSR:15} Flame Thrower
 {6042}{} Enchanted Sword
-{6043}{} UNUSED
-{6044}{} Fine Revolver //changing its description effects unique item descriptions too
-{6045}{D:4-9 FT:1-5 RNG:15 [Crafting]} Repeater Rifle
-{6046}{D:2-14 FT:1-10 RNG:15 [Crafting]} Hunting Rifle
-{6047}{D: 1-2 FT 1-3 [Crafting: Mechanical]} Railroad Spike
-{6048}{D: 3-12 FT: 3-9 [Crafting]} Balanced Sword
-{6049}{} Bronwyck's Gun
-{6050}{} Rusty Dagger
-{6051}{D: 2-6 FT: 1-3 [Crafting]} Fine Steel Dagger
-{6052}{} Throwing Dagger
-{6053}{} Mechanical Dagger
+{6043}{} UNUSED //UNUSED INGAME
+{6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7} Fine Revolver //changing its description effects unique item descriptions too
+{6045}{D:4-9 FT:1-5 RNG:15 MSR:8 [Crafting]} Repeater Rifle
+{6046}{D:2-14 FT:1-10 RNG:15 MSR:8 [Crafting]} Hunting Rifle
+{6047}{D:1-2 MSR:3/3 [Crafting: Mechanical]} Railroad Spike
+{6048}{D:3-12 FT:3-9 MSR:6/8 [Crafting]} Balanced Sword
+{6049}{D:1-4 FT:1-8 FD:1-20 ED:5-5 RNG:10 MSR:5/7} Bronwyck's Gun
+{6050}{D:1-2 MSR:3/3} Rusty Dagger
+{6051}{D:2-6 FT:1-3 MSR:3/3 [Crafting]} Fine Steel Dagger
+{6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
+{6053}{D:2-12 FT:1-6 MSR:3/3} Mechanical Dagger
 {6054}{D:1-4 FT:1-2 (Mana:10)} Mage's Dagger
 {6055}{D:1-4 FT:1-2 (Speed +4)}Dagger of speed
-{6056}{} Rusty Sword
-{6057}{} Quality Sword
-{6058}{} Caladon Elite Sword
-{6059}{} Rapier
-{6060}{} Short Sword
-{6061}{} Scimitar
-{6062}{} Katana
-{6063}{} Falchion
+{6056}{D:1-4 FT:1-2 MSR:6/8} Rusty Sword
+{6057}{D:2-9 FT:2-5 MSR:6/8} Quality Sword
+{6058}{D:2-9 FT:2-5 MSR:6/8} Caladon Elite Sword
+{6059}{D:1-8 FT:1-4 MSR:3/5} Rapier
+{6060}{D:1-6 FT:1-3 MSR:3/5} Short Sword
+{6061}{D:2-10 FT:1-5 MSR:6/8} Scimitar
+{6062}{D:3-12 FT:1-3 MSR:6/4} Katana
+{6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
 {6064}{D:1-8 FT:1-4 (AC+15)} Sword of Defense
 {6065}{D:1-8(+4) FT:1-4 (Summon Animal)}Stillwater Blade
-{6066}{} Rusty Axe
-{6067}{} Quality Axe
-{6068}{} Power Axe
-{6069}{D: 1-16 FT: 3-11 [Crafting]} Feather-Weight Axe
+{6066}{D:1-8 FT:1-4 MSR:8/10} Rusty Axe
+{6067}{D:3-14 FT:2-10 MSR:8/10} Quality Axe
+{6068}{D:5-18 FT:3-11 MSR:8/10} Power Axe
+{6069}{D:1-16 FT:3-11 MSR:4/6 [Crafting]} Feather-Weight Axe
 {6070}{D:1-12(+10 Undead) FT:1-9}Reaper's Axe
 {6071}{D:1-12 FT:1-9 (ST:+1 CN:+1)}Axe of Strength
 {6072}{} Rusty Mace
