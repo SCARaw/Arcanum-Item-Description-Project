@@ -702,7 +702,7 @@
 {15089}{[Crafting: Therapeutics]} Thermometer
 {15090}{[Crafting: Mechanical]} Small Steam Engine
 {15091}{[Crafting: Mechanical]} Large Gears
-{15092}{} Mechanized Arachnid (poison)
+{15092}{Legs of this robo-spider leak poison across them.} Mechanized Arachnid (poison)
 {15093}{[Crafting: Guns]} Ancient Gun Chassis
 {15094}{} Mithril Ore
 {15095}{} Wine Glass
@@ -719,8 +719,8 @@
 {15106}{[Junk] Inpractical without a table, just find lamp.} Candle Stick
 {15107}{[Junk]} Old Gears
 {15108}{[Crafting: Electric] Used to conduct electrcity across installation.} Electrical Harness
-{15109}{[Crafting: Electric]} Large Capacitor
-{15110}{[Crafting: Electric]} Tesla Coil
+{15109}{[Crafting: Electric] Capable of accumulating a lot of energy} Large Capacitor
+{15110}{[Crafting: Electric] High-frequency transmiter of electricity.} Tesla Coil
 {15111}{[Crafting: Explosives]} Black Powder
 {15112}{Creates Fire Curtain}Fire Obstruction
 {15113}{} Breach Loading Chamber
@@ -733,7 +733,7 @@
 {15120}{[Crafting: Electric]} Electrical Component
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting: Smithy] Looks like metal, but not iron.} Dwarven Ore
-{15123}{[Crafting: Smithy] Steel wire} Spool of Heavy Wire
+{15123}{[Crafting: Smithy] Steel/copper wire on a spool} Spool of Heavy Wire
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting: Smithy] Big thin metal plate, easy to form.} Sheet Metal
 {15126}{you can use it to dig up Graves} Shovel
@@ -742,7 +742,7 @@
 {15129}{[Valuable]} Rough-Cut Emerald
 {15130}{[Valuable]} Rough-Cut Diamond
 {15131}{[Valuable]} Rough-Cut Ruby
-{15132}{D:5-30 FT:5-30}Explosive Grenade Explosive Grenade
+{15132}{D:5-30 FT:5-30}Explosive Grenade
 {15133}{} Automaton
 {15134}{D:100-200 FT:5-20 [Crafting]}Dynamite
 {15135}{[Crafting: Chemistry]} Bromide
@@ -791,7 +791,7 @@
 {15178}{Allow to use Lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
 {15180}{[Quest]} Deed to the Bessie Toone Mine
-{15181}{[Offering]} Li'tani
+{15181}{[Offering] Weird statue} Li'tani
 {15182}{[Offering][Crafting: Quest]} Heartstone
 {15183}{[Offering][Valuable]} Mnura Coin
 {15184}{[Offering]} Lava Rock
@@ -818,12 +818,12 @@
 {15205}{[Valuable]} Star Sapphire
 {15206}{} Medical Kit
 {15207}{[Crafting: Explosives]} Kerosene
-{15208}{[Crafting]} Rag
-{15209}{D:3-15 FT:3-15}Molotov Cocktail Molotov Cocktail
+{15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
+{15209}{D:3-15 FT:3-15}Molotov Cocktail
 {15210}{} Wisp Essence
 {15211}{[Quest]} Volar's Wisp Essence
 {15212}{HEALING ROBO SPIDER, its absolutely awesome, but not that good} Medical Arachnid
-{15213}{Impart your experiences to the rest of the party} Educator's Guide
+{15213}{Train your partymembers up to your level} Educator's Guide
 
 
 // Traps
