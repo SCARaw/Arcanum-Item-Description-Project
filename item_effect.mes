@@ -730,7 +730,7 @@
 {15117}{[Valuable] Wellmade watch essential for upper class.} Pocket Watch
 {15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
 {15119}{[Crafting: Smithy] Leftovers from tailoring, could be useful.} Leather Straps
-{15120}{[Crafting: Electric] Enough to attach batteries and close circut.} Electrical Component
+{15120}{[Crafting: Electric] Enough to attach charges.} Electrical Component
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting: Smithy] Looks like metal, but not iron.} Dwarven Ore
 {15123}{[Crafting: Smithy] Steel/copper wire on a spool} Spool of Heavy Wire
@@ -759,7 +759,7 @@
 {15146}{[Crafting: Explosives]} Stearic Acid
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
-{15149}{[Crafting: Mechanical] Simple magnet, used to point north.} Compass
+{15149}{[Crafting: Mechanical] Simple magnet, used to point North.} Compass
 {15150}{Blinds Target - lowers perception}Flash Grenade
 {15151}{Creates Smoke Curtain, harder to detect prowling characters inside}Smoke Grenade
 {15152}{Stuns Target for 1-5 seconds (don't affect mechanicals)}Stun Grenade
