@@ -40,7 +40,7 @@
 {6061}{D:2-10 FT:1-5 MSR:6/8} Scimitar
 {6062}{D:3-12 FT:1-3 MSR:6/4} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
-{6064}{D:1-8 FT:1-4 (AC+15)} Sword of Defense
+{6064}{D:1-8 FT:1-4 MSR:5/7 (AC+15)} Sword of Defense
 {6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal)}Stillwater Blade
 {6066}{D:1-8 FT:1-4 MSR:8/10} Rusty Axe
 {6067}{D:3-14 FT:2-10 MSR:8/10} Quality Axe
@@ -107,54 +107,54 @@
 {6128}{D:1-8(+8) FT:1-4(+2) (Mana:4) MSR:7/9} Magick Sword
 {6129}{D:1-8(+12) FT:1-4(+4) (Mana:8) MSR:8/10} Mystic Sword
 {6130}{D:1-8(+16) FT:1-4(+8) (Mana:16) MSR:9/11} Arcane Sword
-{6131}{} Envenomed Axe 
-{6132}{} Charged Axe 
-{6133}{} Pyrotechnic Axe 
-{6134}{} Charmed Axe 
-{6135}{D:1-12(+10) FT:1-9(+3) (Mana:4)} Magick Axe
-{6136}{D:1-13(+15) FT:1-9(+6) (Mana:8)} Mystic Axe
-{6137}{D:3-14(+20) FT:2-10(+9) (Mana:16)} Arcane Axe
-{6138}{D:1-5(+4) FT:1-9(+2) (Mana:8)} Charmed Mace
-{6139}{D:2-5(+8) FT:2-9(+4) (Mana:16)} Magick Mace
-{6140}{D:1-9(+12) FT:1-12(+8) (Mana:24)} Mystic Mace
-{6141}{D:3-9(+16) FT:3-12(+12) (Mana:32)} Arcane Mace
-{6142}{D:4-16(+4) FT:3-11(+4) (Mana:8)} Charmed Great Sword
-{6143}{D:4-16(+8) FT:3-11(+8) (Mana:12)} Magick Great Sword
-{6144}{D:4-16(+12) FT:3-11(+12) (Mana:16)} Mystic Great Sword
-{6145}{D:4-16(+16) FT:3-11(+16) (Mana:20)} Arcane Great Sword
-{6146}{} Pyrotechnic Bow 
-{6147}{} Envenomed Bow 
-{6148}{} Charmed Bow 
-{6149}{} Magick Bow 
-{6150}{} Mystic Bow 
-{6151}{} Arcane Bow 
-{6152}{} Rifled Cannon 
-{6153}{} Acid Gun 
-{6154}{ED:10-80 Requires Charges} Tesla Gun
-{6155}{} Grenade Launcher 
-{6156}{} Charged Accelerator Gun 
-{6157}{} Blade Launcher 
-{6158}{} Pyrotechnic Gun 
-{6159}{} Tranquilizer Gun 
-{6160}{D:1-8 FT:3-12(+6) (Mana:20)} Charmed Staff
-{6161}{D:1-8 FT:3-12(+12) (Mana:40)} Magick Staff
-{6162}{D:1-8 FT:3-12(+18) (Mana:60)} Mystic Staff
-{6163}{D:1-8 FT:3-12(+24) (Mana:80)} Arcane Staff
-{6164}{} Boomerang
-{6165}{} Bladed Boomerang
-{6166}{} Balanced Boomerang
-{6167}{} Chakram
-{6168}{} Serrated Chakram
-{6169}{} Mystical Chakram
-{6170}{} Azram's Star
-{6171}{} Aerial Decapitator
+{6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10} Envenomed Axe 
+{6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10} Charged Axe 
+{6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10} Pyrotechnic Axe 
+{6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11} Charmed Axe 
+{6135}{D:1-12(+10) FT:1-9(+3) MSR:10/12 (Mana:4)} Magick Axe
+{6136}{D:1-13(+15) FT:1-9(+6) MSR:11/13 (Mana:8)} Mystic Axe
+{6137}{D:3-14(+20) FT:2-10(+9) MSR:11/13 (Mana:16)} Arcane Axe
+{6138}{D:1-5(+4) FT:1-9(+2) MSR:8/10 (Mana:8)} Charmed Mace
+{6139}{D:2-5(+8) FT:2-9(+4) MSR:9/11 (Mana:16)} Magick Mace
+{6140}{D:1-9(+12) FT:1-12(+8) MSR:10/12 (Mana:24)} Mystic Mace
+{6141}{D:3-9(+16) FT:3-12(+12) MSR:10/12 (Mana:32)} Arcane Mace
+{6142}{D:4-16(+4) FT:3-11(+4) MSR:14/18 (Mana:8)} Charmed Great Sword
+{6143}{D:4-16(+8) FT:3-11(+8) MSR:15/19 (Mana:12)} Magick Great Sword
+{6144}{D:4-16(+12) FT:3-11(+12) MSR:16/20 (Mana:16)} Mystic Great Sword
+{6145}{D:4-16(+16) FT:3-11(+16) MSR:16/20 (Mana:20)} Arcane Great Sword
+{6146}{D:1-10 FT:2-5 FD:5-20 RNG:20 MSR:10} Pyrotechnic Bow 
+{6147}{D:1-10 FT:2-5 PD:10-30 RNG:20 MSR:10} Envenomed Bow 
+{6148}{D:1-10(+2) FT:2-5 RNG:20 MSR:11} Charmed Bow 
+{6149}{D:1-10(+4) FT:2-5 RNG:20 MSR:11} Magick Bow 
+{6150}{D:1-10(+6) FT:2-5 RNG:20 MSR:11} Mystic Bow 
+{6151}{D:1-10(+8) FT:2-5 RNG:20 MSR:11} Arcane Bow 
+{6152}{D:10-30 FT:5-20 RNG:15 MSR:11} Rifled Cannon 
+{6153}{D:1-15 FT:1-3 RNG:15 MSR:8} Acid Gun 
+{6154}{D:1-4 ED:10-80 RNG:15 MSR:11 Requires Charges} Tesla Gun
+{6155}{D:1-4 FD:2-20 RNG:15 MSR:12} Grenade Launcher 
+{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8} Charged Accelerator Gun 
+{6157}{D:30-60 FT:5-15 RNG:15 MSR:15} Blade Launcher 
+{6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8} Pyrotechnic Gun 
+{6159}{D:1-15 RNG:15 MSR:8} Tranquilizer Gun 
+{6160}{D:1-8 FT:3-12(+6) MSR:5 (Mana:20)} Charmed Staff
+{6161}{D:1-8 FT:3-12(+12) MSR:5 (Mana:40)} Magick Staff
+{6162}{D:1-8 FT:3-12(+18) MSR:5 (Mana:60)} Mystic Staff
+{6163}{D:1-8 FT:3-12(+24) MSR:5 (Mana:80)} Arcane Staff
+{6164}{D:1-6 RNG:20 MSR:6/8} Boomerang
+{6165}{D:1-8 FT:1-2 RNG:20 MSR:6/8} Bladed Boomerang
+{6166}{D:1-10 FT:1-3 RNG:20 MSR:6/8} Balanced Boomerang
+{6167}{D:1-10 FT:1-3 RNG:20 MSR:6/8} Chakram
+{6168}{D:1-10(+5) FT:1-3 RNG:20 MSR:6/8} Serrated Chakram
+{6169}{D:1-10(+7) FT:1-3 RNG:20 MSR:6/8} Mystical Chakram
+{6170}{D:1-10(+20) FT:1-3 RNG:20 MSR:6/8} Azram's Star
+{6171}{D:20-40 RNG:8 MSR:6/8} Aerial Decapitator
 {6172}{D:10-25 FT:6-15 MSR:14/18} Void Sword //UNUSED INGAME
-{6173}{} Droch's Warbringer
-{6174}{D:5-25 FT:1-7 RNG:15 [Crafting]} Large Bore Vendigrothian Rifle
-{6175}{D:1-1 FT:1-3 [Crafting]} Oak Axe Handle
-{6176}{D:3-6 Bypasses AC/DR}Stiletto
-{6177}{D:1-3 [Offering]} Bone Dagger
-{6178}{} Kite Sword 
+{6173}{D:20-40 FT:1-10 ED:10-10 RNG:15 MSR:5/7} Droch's Warbringer
+{6174}{D:5-25 FT:1-7 RNG:15 MSR:8 [Crafting]} Large Bore Vendigrothian Rifle
+{6175}{D:1-1 FT:1-3 MSR:6/8 [Crafting]} Oak Axe Handle
+{6176}{D:3-6 MSR:2/2 Bypasses AC/DR}Stiletto
+{6177}{D:1-3 MSR:3/3 [Offering]} Bone Dagger
+{6178}{D:2-6 MSR:3/3} Kite Sword 
 
 //Ammo - Ammo type items have "Quantity: XX" in place of the description
 {7038}{Arrow} Arrow
@@ -204,12 +204,12 @@
 {8080}{} Small Mithril Chainmail
 {8081}{} Small Machined Plate
 {8082}{AC:5 DR:7 FR:3 Prowling +2} Small Robe of the Chameleon
-{8083}{} Small Basic Platemail
+{8083}{AC:14 DR:+30 FR:+8 ER:-20 NP:-80 [Crafting]} Small Basic Platemail
 {8084}{} Small Red Barbarian Clothes
 {8085}{AC:2  DR:1  +20 Reaction} Small Smoking Jacket
 {8086}{} Heavy Rags
 {8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Large Oiled Thieves Leather
-{8088}{} Large Basic Platemail
+{8088}{AC:15 DR:+38 FR:+10 ER:-20 NP:-80 [Crafting]} Large Basic Platemail
 {8089}{AC:2  DR:1  +20 Reaction} Large Smoking Jacket
 {8090}{} Wool Jacket
 {8091}{AC:9 DR:16 FR:+5 NP:-10 [Crafting]} Leather Armour
@@ -413,7 +413,7 @@
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 PE:+3} Goggled Helmet
 {8291}{} Large Machined Platemail 
-{8292}{} Large Feather-Weight Chain 
+{8292}{AC:13 DR:+25 FR:+5 ER:-10 NP:-25 [Crafting]} Large Feather-Weight Chain 
 
 //Gold
 {9056}{} Gold
