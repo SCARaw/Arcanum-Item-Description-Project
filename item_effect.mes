@@ -315,7 +315,7 @@
 {8191}{} Dented Iron Shield
 {8192}{AC:30 [Crafting]} Quality Iron Shield
 {8193}{} Kite Shield Kite Shield
-{8194}{Detects Traps, Requires Charges} Flow Specktrometer
+{8194}{+ 10 AC, Shield slot, Detects Traps, Requires Charges} Flow Specktrometer
 {8195}{AC:30 ED:1-10 to Attacker} Shield of Force
 {8196}{AC=Evil Alignment/2} Shadow Shield
 {8197}{} Dwarven Platemail
@@ -763,20 +763,20 @@
 {15150}{Blinds Target}Flash Grenade
 {15151}{Creates Smoke Curtain}Smoke Grenade
 {15152}{Stuns Target}Stun Grenade
-{15153}{Creates Fire Curtain}Fire Obstruction
-{15154}{[Crafting: Guns]There is enough parts to build nearly entire revolver.} Revolver Parts
+{15153}{Creates Fire Curtain lasting 20 seconds}Fire Obstruction
+{15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
 {15155}{[Crafting: Smithy]} Dwarven Steel
 {15156}{[Quest]} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
 {15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
-{15161}{Knocks Out Target}Knock Out Gas Grenade
+{15161}{Knocks Out Target - deals 100 FT damage}Knock Out Gas Grenade
 {15162}{Makes Target Flee}Hallucination Grenade
 {15163}{D:1-5 ED:5-30}Electrocution Grenade
 {15164}{D:25-50 FT:10-20}Concussion Grenade
-{15165}{Paralyzes Target}Paralysis Grenade
-{15166}{Creates Poison Curtain}Mustard Gas Grenade
+{15165}{Paralyzes Target for 5-15 seconds}Paralysis Grenade
+{15166}{Creates Poison Curtain last 15 seconds}Mustard Gas Grenade
 {15167}{[Crafting: Mechanical]} Boat Rigging
 {15168}{} Noise Maker Decoy
 {15169}{} Clockwork Physician
@@ -797,7 +797,7 @@
 {15184}{[Offering]} Lava Rock
 {15185}{[Offering]} Olive Branch
 {15186}{[Offering]} Geode
-{15187}{[Offering][Valuable]} Black Diamond
+{15187}{[Offering][Valuable] Rare diamond tar and shineless} Black Diamond
 {15188}{Gives expertise bonus equal to Intelligence, can be stacked} Chemistry Manuals
 {15189}{Gives expertise bonus equal to Intelligence, can be stacked} Explosives Manuals
 {15190}{Gives expertise bonus equal to Intelligence, can be stacked} Herbology Manuals
