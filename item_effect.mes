@@ -681,12 +681,12 @@
 {15068}{} Stillwater trap (full)
 {15069}{[Crafting: Chemistry]} Metal Plates
 {15070}{Produce light around the user, shield slot[Crafting]} Electric Light
-{15071}{[Crafting: Electric]} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
+{15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produce light around the user, shield slot} Lantern
 {15073}{[Crafting: Electric]} Capacitor
 {15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
 {15075}{[Junk] Maybe blacksmith will pay you for this?} Coal
-{15076}{[Crafting: Explosives]} Magnesium
+{15076}{[Crafting: Explosives] Highly reactive metal of shiny grey color.} Magnesium
 {15077}{[Junk]} Metal Shavings
 {15078}{[Crafting: Guns]} Gun Chassis
 {15079}{[Crafting: Guns]} Revolver Chamber
@@ -760,12 +760,12 @@
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
 {15149}{[Crafting: Mechanical] Simple magnet, used to point north.} Compass
-{15150}{Blinds Target}Flash Grenade
-{15151}{Creates Smoke Curtain}Smoke Grenade
-{15152}{Stuns Target}Stun Grenade
+{15150}{Blinds Target - lowers perception}Flash Grenade
+{15151}{Creates Smoke Curtain, harder to detect prowling characters inside}Smoke Grenade
+{15152}{Stuns Target for 1-5 seconds (don't affect mechanicals)}Stun Grenade
 {15153}{Creates Fire Curtain lasting 20 seconds}Fire Obstruction
 {15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
-{15155}{[Crafting: Smithy]} Dwarven Steel
+{15155}{[Crafting: Smithy] Sturdy plate of steel amalgam.} Dwarven Steel
 {15156}{[Quest]} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
