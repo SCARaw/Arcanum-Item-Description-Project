@@ -89,7 +89,7 @@
 {6110}{D:1-6 FT:1-3 ED:5-10 MSR:5 Requires Charges [Crafting]} Shocking Staff
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 MSR:5 Major Healing} Staff of Healing
-{6113}{D:1-8 FT:3-12 MSR:5 Major Healing, Charm Beast, Regen} Shaman's Staff
+{6113}{D:1-8 FT:3-12 MSR:5 Major Heal, Charm Beast, Regenerate} Shaman's Staff
 {6114}{D:1-8 FT:3-12 MSR:5 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
 {6115}{D:12-24 FT:2-5 TH:+10 RNG:12 MSR:3/5} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7} Hand Crafted Flintlock
@@ -439,7 +439,7 @@
 {10074}{Heals up to 20pts of Health} Heal Lesser Wounds
 {10075}{+290 Poison Level to the target}Strong Poison
 {10076}{Heals up to 60pts of Health and Fatigue} Cure All
-{10077}{Reduces poison levels} Cure Poison
+{10077}{Reduces 80 poison levels} Cure Poison
 {10078}{Halves fatigue consumption for 180 seconds[Crafting]}Fatigue Limiter
 {10079}{1pt heal every 4 seconds for 100 seconds}Accelerate Healing
 {10080}{[Crafting: Herbology]} Witchbane
@@ -465,7 +465,7 @@
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer
 {10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
 {10102}{[Crafting: Therapeutics]} Nerve Pills
-{10103}{PE+2 for 39 minutes}Liquid of Awareness Liquid of Awareness
+{10103}{PE+2 for 39 min.}Liquid of Awareness Liquid of Awareness
 {10104}{[Junk]} Nimm's Phosphorous Tincture
 {10105}{[Crafting: Therapeutics]} Quinine
 {10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
@@ -483,12 +483,12 @@
 {10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer Necromizer
 {10119}{+30 Damage Resistance for 2 min.} Fortifier Fortifier
 {10120}{} Sleep Aid Anaesthisizer
-{10121}{} Potion of Paralysis Paralyzer
+{10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
 {10122}{[Crafting: Electric]} Lemon
 {10123}{[Crafting: Electric]} Potato
 {10124}{[Quest]} Vial of Dragon's Blood
 {10125}{[Offering]} Passion Root
-{10126}{} Chateau de Be'ron Brandy
+{10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
 {10127}{[Gift]} Dwarven Snuff
 {10128}{[Gift]} Elven Spring Water
 {10129}{[Gift]} Earl Grey Tea
@@ -563,7 +563,7 @@
 {11109}{Tames any animal targeted.} Scroll of Charm Beast
 {11110}{Summons magickal vines to ensnare opponents.} Scroll of Entangle
 {11111}{Summons a magickal animal familiar.} Scroll of Control Beast
-{11112}{} Scroll of Succour Beast
+{11112}{Summons an animal follower, scales with MA.} Scroll of Succour Beast
 {11113}{Increases the healing rate of you and your party.} Scroll of Regenerate
 {11114}{Harms the target, decreasing their vitality.} Scroll of Harm
 {11115}{Allows the user to speak with the dead.} Scroll of Conjure Spirit
@@ -590,9 +590,9 @@
 {11136}{Increases the speed of the target.} Scroll of Hasten
 {11137}{Renders the target immobile.} Scroll of Stasis
 {11138}{Increases your speed, while slowing down your opponents.} Scroll of Tempus Fugit
-{11139}{} Kerghan's Death Scroll
-{11140}{} Kerghan's Attack Scroll
-{11141}{} Scroll of Exiting
+{11139}{} Kerghan's Death Scroll //When used by player ominous laughter sound effect still triggers
+{11140}{} Kerghan's Attack Scroll 
+{11141}{Teleports you to the surface entrance of the current area.} Scroll of Exiting
 {11142}{} Med Spider Heal 
 
 // Keys
@@ -677,8 +677,8 @@
 // Items
 {15065}{} Generic Item 1a
 {15066}{} Mechanized Arachnid
-{15067}{} Stillwater trap (empty)
-{15068}{} Stillwater trap (full)
+{15067}{[Quest]} Stillwater trap (empty)
+{15068}{[Quest]} Stillwater trap (full)
 {15069}{[Crafting: Chemistry]} Metal Plates
 {15070}{Produce light around the user, shield slot[Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
@@ -708,22 +708,22 @@
 {15095}{} Wine Glass
 {15096}{[Quest]} Empty Vial
 {15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
-{15098}{} Small Statuette
+{15098}{[Quest]} Small Statuette //Blackroot rob the hedge wizard for the thieves quest
 {15099}{[Quest]This item seems very expensive} Chest of Gold
-{15100}{Deals 5-10 Damage and immobilises the target} Bear Trap
+{15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
 {15101}{[Crafting: Mechanical]} Metal Clamp
-{15102}{use it to safety defuse a trap} Trap Springer
+{15102}{Use it to safely defuse a trap} Trap Springer
 {15103}{[Crafting: Mechanical]} Pocket Watch Parts
 {15104}{} Vase
 {15105}{[Junk]} Music Box
-{15106}{[Junk] Inpractical without a table, just find lamp.} Candle Stick
+{15106}{[Junk] Impractical without a table, just find lamp.} Candle Stick
 {15107}{[Junk]} Old Gears
 {15108}{[Crafting: Electric] Used to conduct electrcity across installation.} Electrical Harness
 {15109}{[Crafting: Electric] Capable of accumulating a lot of energy} Large Capacitor
 {15110}{[Crafting: Electric] High-frequency transmiter of electricity.} Tesla Coil
 {15111}{[Crafting: Explosives]} Black Powder
 {15112}{Creates Fire Curtain}Fire Obstruction
-{15113}{} Breach Loading Chamber
+{15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns]} Auto Loading Chamber
 {15115}{[Crafting: Mechanical]} Clock Parts
 {15116}{} Clockwork Decoy
@@ -782,11 +782,11 @@
 {15169}{} Clockwork Physician
 {15170}{} Illuminated Decoy
 {15171}{} Explosive Decoy
-{15172}{} UNUSED Automaton Gunner
+{15172}{} UNUSED Automaton Gunner //UNUSED INGAME
 {15173}{} Time Bomb
 {15174}{} Plastique
 {15175}{} Detonator
-{15176}{} UNUSED Medical Arachnid
+{15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical]} Minute Steam Works
 {15178}{Allow to use Lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
@@ -816,14 +816,14 @@
 {15203}{[Valuable]} Diamond
 {15204}{[Valuable]} Star Ruby
 {15205}{[Valuable]} Star Sapphire
-{15206}{} Medical Kit
+{15206}{} Medical Kit //UNUSED INGAME
 {15207}{[Crafting: Explosives]} Kerosene
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
 {15209}{D:3-15 FT:3-15}Molotov Cocktail
-{15210}{} Wisp Essence
+{15210}{[Junk]} Wisp Essence
 {15211}{[Quest]} Volar's Wisp Essence
-{15212}{HEALING ROBO SPIDER, its absolutely awesome, but not that good} Medical Arachnid
-{15213}{Train your partymembers up to your level} Educator's Guide
+{15212}{Healing Robot Spider, it's awesome but slow} Medical Arachnid
+{15213}{Train your party members up to your level} Educator's Guide
 
 
 // Traps
