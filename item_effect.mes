@@ -89,14 +89,14 @@
 {6110}{D:1-6 FT:1-3 ED:5-10 MSR:5 Requires Charges [Crafting]} Shocking Staff
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 MSR:5 Major Healing} Staff of Healing
-{6113}{D:1-8 FT:3-12 MSR:5 Major Healing, Charm Beast, Regenerate} Shaman's Staff
+{6113}{D:1-8 FT:3-12 MSR:5 Major Healing, Charm Beast, Regen} Shaman's Staff
 {6114}{D:1-8 FT:3-12 MSR:5 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
 {6115}{D:12-24 FT:2-5 TH:+10 RNG:12 MSR:3/5} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7} Hand Crafted Flintlock
 {6117}{D: 1-2 FT 1-3 MSR:10/12 [Crafting]} Large Pipe
 {6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 [Crafting]} Hand Cannon
 {6119}{D:13-26 FT:1-10 RNG:15 MSR:8 [Crafting]} Clarington Rifle
-{6120}{D:1-8(+12) FT:1-4 Crit Hit Effect:+50, Crit Fail:+20 MSR:4/6} Filament Sword
+{6120}{D:1-8(+12) FT:1-4 Crit Effect:+50 Crit Fail:+20 MSR:4/6} Filament Sword
 {6121}{D:2-6 FT:1-3 MSR:3/3} Finely Crafted Dagger 
 {6122}{D:1-4(+3) FT:1-2 MSR:3/3} Charmed Dagger 
 {6123}{D:1-4(+6) FT:1-2(+1) MSR:3/3 (Mana:5)} Magick Dagger
