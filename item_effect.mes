@@ -605,7 +605,7 @@
 // Written
 {14062}{} Book
 {14063}{} Note
-{14064}{Tarantian, popular press in Unified Kingdom, Amy loves it} Tarant Newspaper
+{14064}{Tarantian, press from Unified Kingdom, Amy loves it.} Tarant Newspaper
 {14065}{} Telegram
 {14066}{} Gorad's note
 {14067}{Use to learn new Crafting Recipe} Schematic
@@ -727,16 +727,16 @@
 {15114}{[Crafting: Guns]} Auto Loading Chamber
 {15115}{[Crafting: Mechanical]} Clock Parts
 {15116}{} Clockwork Decoy
-{15117}{[Valuable]} Pocket Watch
-{15118}{[Crafting: Guns]} Small Metal Tube
+{15117}{[Valuable] Wellmade watch essential for upper class.} Pocket Watch
+{15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
 {15119}{[Crafting: Smithy] Leftovers from tailoring, could be useful.} Leather Straps
-{15120}{[Crafting: Electric]} Electrical Component
+{15120}{[Crafting: Electric] Enough to attach batteries and close circut.} Electrical Component
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting: Smithy] Looks like metal, but not iron.} Dwarven Ore
 {15123}{[Crafting: Smithy] Steel/copper wire on a spool} Spool of Heavy Wire
 {15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
 {15125}{[Crafting: Smithy] Big thin metal plate, easy to form.} Sheet Metal
-{15126}{you can use it to dig up Graves} Shovel
+{15126}{You can use it to dig up Treasures.} Shovel
 {15127}{[Quest][Valuable]} Crystal Ball
 {15128}{[Valuable]} Rough-Cut Sapphire
 {15129}{[Valuable]} Rough-Cut Emerald
@@ -745,12 +745,12 @@
 {15132}{D:5-30 FT:5-30}Explosive Grenade
 {15133}{} Automaton
 {15134}{D:100-200 FT:5-20 [Crafting]}Dynamite
-{15135}{[Crafting: Chemistry]} Bromide
-{15136}{[Crafting: Chemistry]} Potassium Chloride
-{15137}{[Crafting: Electric]} Small Electrical Parts
+{15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
+{15136}{[Crafting: Chemistry] Its just a salt.} Potassium Chloride
+{15137}{[Crafting: Electric] Enough to conduct power from pocket charges into something.} Small Electrical Parts
 {15138}{[Crafting: Explosives] Are cooking something?} Saltpeter
 {15139}{[Crafting: Explosives] Dangerous substance.} Nitroglycerin
-{15140}{[Crafting: Electric]} Electrical Coil
+{15140}{[Crafting: Electric] Use to convert Electricity into heat.} Electrical Coil
 {15141}{[Crafting: Explosives] Empty Can, rain washed away the smell.} Metal Can
 {15142}{[Crafting: Guns]Big exhaust pipe from steam engine.} Engine Muffler
 {15143}{[Crafting: Mechanical] Set of metal plates forming a box.} Metal Casing
@@ -759,7 +759,7 @@
 {15146}{[Crafting: Explosives]} Stearic Acid
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
-{15149}{[Crafting: Mechanical]} Compass
+{15149}{[Crafting: Mechanical] Simple magnet, used to point north.} Compass
 {15150}{Blinds Target}Flash Grenade
 {15151}{Creates Smoke Curtain}Smoke Grenade
 {15152}{Stuns Target}Stun Grenade
