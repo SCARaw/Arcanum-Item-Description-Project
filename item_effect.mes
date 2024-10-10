@@ -598,6 +598,7 @@
 // Keys
 {12060}{} Key
 {12061}{} Iron Clan Key
+//{12062}{} Vorman Manor Key //Vormantown module?
 
 // Key Rings
 {13061}{Store all your keys together} Key Ring
@@ -676,7 +677,7 @@
 
 // Items
 {15065}{} Generic Item 1a
-{15066}{} Mechanized Arachnid
+{15066}{Can be repaired, can be reused if not destroyed [Crafting]} Mechanized Arachnid
 {15067}{[Quest]} Stillwater trap (empty)
 {15068}{[Quest]} Stillwater trap (full)
 {15069}{[Crafting: Chemistry]} Metal Plates
@@ -722,11 +723,11 @@
 {15109}{[Crafting: Electric] Capable of accumulating a lot of energy} Large Capacitor
 {15110}{[Crafting: Electric] High-frequency transmiter of electricity.} Tesla Coil
 {15111}{[Crafting: Explosives] Old gunpowder, unsafe and cause explosions} Black Powder
-{15112}{Creates Fire Curtain}Fire Obstruction
+{15112}{Creates a 3x3 fire curtain for 10 sec., damages all inside it}Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns]} Auto Loading Chamber
 {15115}{[Crafting: Mechanical]} Clock Parts
-{15116}{} Clockwork Decoy
+{15116}{Moves randomly and draws enemy attention} Clockwork Decoy
 {15117}{[Valuable] Wellmade watch essential for upper class.} Pocket Watch
 {15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
 {15119}{[Crafting: Smithy] Leftovers from tailoring, could be useful.} Leather Straps
@@ -734,7 +735,7 @@
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting: Smithy] Looks like metal, but not iron.} Dwarven Ore
 {15123}{[Crafting: Smithy] Steel/copper wire on a spool} Spool of Heavy Wire
-{15124}{[Crafting]} Oak Axe Handle //REPLACE ME PLEASE!!!!
+{15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!! (UNUSABLE UNCRAFTABLE ITEM)
 {15125}{[Crafting: Smithy] Big thin metal plate, easy to form.} Sheet Metal
 {15126}{You can use it to dig up Treasures.} Shovel
 {15127}{[Quest][Valuable]} Crystal Ball
@@ -742,9 +743,9 @@
 {15129}{[Valuable]} Rough-Cut Emerald
 {15130}{[Valuable]} Rough-Cut Diamond
 {15131}{[Valuable]} Rough-Cut Ruby
-{15132}{D:5-30 FT:5-30}Explosive Grenade
-{15133}{} Automaton
-{15134}{D:100-200 FT:5-20 [Crafting]}Dynamite
+{15132}{D:5-30 FD:5-30 Knockback [Crafting]}Explosive Grenade
+{15133}{Who needs followers when you can craft one?} Automaton
+{15134}{D:100-200 FD:5-20 [Crafting]}Dynamite
 {15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
 {15136}{[Crafting: Chemistry] Ideal for cleaning.} Potassium Chloride
 {15137}{[Crafting: Electric] Enough to conduct power from pocket charges into something.} Small Electrical Parts
@@ -760,10 +761,10 @@
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
 {15149}{[Crafting: Mechanical] Simple magnet, used to point North.} Compass
-{15150}{Blinds Target - lowers perception}Flash Grenade
-{15151}{Creates Smoke Curtain, harder to detect prowling characters inside}Smoke Grenade
-{15152}{Stuns Target for 1-5 seconds (don't affect mechanicals)}Stun Grenade
-{15153}{Creates Fire Curtain lasting 20 seconds}Fire Obstruction
+{15150}{Causes blindness (-30 TH for affected enemies)}Flash Grenade
+{15151}{3x3 smoke cloud: prevents ranged attacks, +prowling}Smoke Grenade
+{15152}{Stuns targets for 1-5 seconds (Doesn't affect mechanicals)}Stun Grenade
+{15153}{Creates a 3x3 fire curtain for 10 sec., damages all inside it}Fire Obstruction
 {15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
 {15155}{[Crafting: Smithy] Sturdy plate of steel amalgam.} Dwarven Steel
 {15156}{[Quest]} Camera
@@ -771,21 +772,21 @@
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
 {15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
-{15161}{Knocks Out Target - deals 100 FT damage}Knock Out Gas Grenade
+{15161}{Deals %70-150 FT damage depends on the target}Knock Out Gas Grenade
 {15162}{Makes Target Flee}Hallucination Grenade
 {15163}{D:1-5 ED:5-30}Electrocution Grenade
-{15164}{D:25-50 FT:10-20}Concussion Grenade
-{15165}{Paralyzes Target for 5-15 seconds}Paralysis Grenade
-{15166}{Creates Poison Curtain last 15 seconds}Mustard Gas Grenade
+{15164}{D:25-50 FT:10-20 Knockback}Concussion Grenade
+{15165}{Paralyzes targets for 6 sec.}Paralysis Grenade
+{15166}{Creates 3x3 poison curtain PD:15-25 per sec. lasts 30 sec.}Mustard Gas Grenade
 {15167}{[Crafting: Mechanical]} Boat Rigging
-{15168}{} Noise Maker Decoy
-{15169}{} Clockwork Physician
-{15170}{} Illuminated Decoy
-{15171}{} Explosive Decoy
+{15168}{} Noise Maker Decoy //UNUSED INGAME
+{15169}{This grasshopper is faster than its arachnid colleague} Clockwork Physician
+{15170}{It follows you and sheds light around itself} Illuminated Decoy
+{15171}{D:5-30 FD:5-30 It has a nasty surprise when destroyed} Explosive Decoy
 {15172}{} UNUSED Automaton Gunner //UNUSED INGAME
-{15173}{} Time Bomb
-{15174}{} Plastique
-{15175}{} Detonator
+{15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Sneak Kill]} Time Bomb
+{15174}{Throw it then use detonator [Sneak Kill]} Plastique
+{15175}{Detonates all planted plastiques} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical]} Minute Steam Works
 {15178}{Allow to use Lock picking skill} Crude Lockpicks
@@ -819,7 +820,7 @@
 {15206}{} Medical Kit //UNUSED INGAME
 {15207}{[Crafting: Explosives]} Kerosene
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
-{15209}{D:3-15 FT:3-15}Molotov Cocktail
+{15209}{D:3-15 FD:3-15 Knockback}Molotov Cocktail
 {15210}{[Junk]} Wisp Essence
 {15211}{[Quest]} Volar's Wisp Essence
 {15212}{Healing Robot Spider, it's awesome but slow} Medical Arachnid
