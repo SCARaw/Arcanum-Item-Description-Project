@@ -7,7 +7,7 @@
 //Weapons
 {6029}{D:1-4 FT:1-2 MSR:3/3} Dagger
 {6030}{D:1-8 FT:1-4 MSR:6/8} Sword
-{6031}{D:1-12 FT:1-9 MSR:8/10} Axe
+{6031}{D:1-12 FT:1-9 MSR:8/10 [Chop]} Axe
 {6032}{D:1-4 FT:1-8 MSR:8/10} Mace
 {6033}{D:2-9 FT:2-5 RNG:10 MSR:5/7} Revolver
 {6034}{D:4-16 FT:3-11 MSR:14/18} Broadsword
@@ -42,12 +42,12 @@
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
 {6064}{D:1-8 FT:1-4 MSR:5/7 (AC+15)} Sword of Defense
 {6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal)}Stillwater Blade
-{6066}{D:1-8 FT:1-4 MSR:8/10} Rusty Axe
-{6067}{D:3-14 FT:2-10 MSR:8/10} Quality Axe
-{6068}{D:5-18 FT:3-11 MSR:8/10} Power Axe
-{6069}{D:1-16 FT:3-11 MSR:4/6 [Crafting]} Feather-Weight Axe
-{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10}Reaper's Axe
-{6071}{D:1-12 FT:1-9 MSR:8/10 (ST:+1 CN:+1)}Axe of Strength
+{6066}{D:1-8 FT:1-4 MSR:8/10 [Chop]} Rusty Axe
+{6067}{D:3-14 FT:2-10 MSR:8/10 [Chop]} Quality Axe
+{6068}{D:5-18 FT:3-11 MSR:8/10 [Chop]} Power Axe
+{6069}{D:1-16 FT:3-11 MSR:4/6 [Crafting][Chop]} Feather-Weight Axe
+{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10 [Chop]}Reaper's Axe
+{6071}{D:1-12 FT:1-9 MSR:8/10 (ST:+1 CN:+1)[Chop]}Axe of Strength
 {6072}{D:1-3 FT:1-4 MSR:8/10} Rusty Mace
 {6073}{D:2-5 FT:2-9 MSR:6/8} Quality Mace
 {6074}{D:1-5 FT:1-8 MSR:8/10} Hammer
@@ -107,13 +107,13 @@
 {6128}{D:1-8(+8) FT:1-4(+2) (Mana:4) MSR:7/9} Magick Sword
 {6129}{D:1-8(+12) FT:1-4(+4) (Mana:8) MSR:8/10} Mystic Sword
 {6130}{D:1-8(+16) FT:1-4(+8) (Mana:16) MSR:9/11} Arcane Sword
-{6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10} Envenomed Axe 
-{6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10} Charged Axe 
-{6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10} Pyrotechnic Axe 
-{6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11} Charmed Axe 
-{6135}{D:1-12(+10) FT:1-9(+3) MSR:10/12 (Mana:4)} Magick Axe
-{6136}{D:1-13(+15) FT:1-9(+6) MSR:11/13 (Mana:8)} Mystic Axe
-{6137}{D:3-14(+20) FT:2-10(+9) MSR:11/13 (Mana:16)} Arcane Axe
+{6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10 [Chop]} Envenomed Axe 
+{6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10 [Chop]} Charged Axe 
+{6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10 [Chop]} Pyrotechnic Axe 
+{6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 [Chop]} Charmed Axe 
+{6135}{D:1-12(+10) FT:1-9(+3) MSR:10/12 (Mana:4)[Chop]} Magick Axe
+{6136}{D:1-13(+15) FT:1-9(+6) MSR:11/13 (Mana:8)[Chop]} Mystic Axe
+{6137}{D:3-14(+20) FT:2-10(+9) MSR:11/13 (Mana:16)[Chop]} Arcane Axe
 {6138}{D:1-5(+4) FT:1-9(+2) MSR:8/10 (Mana:8)} Charmed Mace
 {6139}{D:2-5(+8) FT:2-9(+4) MSR:9/11 (Mana:16)} Magick Mace
 {6140}{D:1-9(+12) FT:1-12(+8) MSR:10/12 (Mana:24)} Mystic Mace
