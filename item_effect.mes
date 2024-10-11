@@ -680,29 +680,29 @@
 {15066}{Can be repaired, can be reused if not destroyed [Crafting]} Mechanized Arachnid
 {15067}{[Quest]} Stillwater trap (empty)
 {15068}{[Quest]} Stillwater trap (full)
-{15069}{[Crafting: Chemistry]} Metal Plates
+{15069}{[Crafting: Chemistry] Metal is good electricity conductor.} Metal Plates
 {15070}{Produce light around the user, shield slot[Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
-{15072}{Produce light around the user, shield slot} Lantern
-{15073}{[Crafting: Electric]} Capacitor
+{15072}{Produce light around the user, shield slot.} Lantern
+{15073}{[Crafting: Electric] Small device that energy charge} Capacitor
 {15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
 {15075}{[Junk] Maybe blacksmith will pay you for this?} Coal
 {15076}{[Crafting: Explosives] Highly reactive metal of shiny grey color.} Magnesium
-{15077}{[Junk]} Metal Shavings
-{15078}{[Crafting: Guns]} Gun Chassis
-{15079}{[Crafting: Guns]} Revolver Chamber
+{15077}{[Junk] Leftovers from Factory work.} Metal Shavings
+{15078}{[Crafting: Guns] High quality handgun part.} Gun Chassis
+{15079}{[Crafting: Guns] } Revolver Chamber
 {15080}{Deals 15-25 damage.} Spike Trap
 {15081}{Bonus to picklock skill +10%} Auto Skeleton Key
-{15082}{[Crafting: Mechanical]} Large Spring
-{15083}{[Crafting: Mechanical]} Small Spring
+{15082}{[Crafting: Mechanical] bigger the spring greater the force} Large Spring
+{15083}{[Crafting: Mechanical] Popular in industrial quality devices} Small Spring
 {15084}{Bonus to picklock skill +5% [Crafting]} Lockpicks
-{15085}{[Crafting: Smithy]} Pure Ore
-{15086}{[Crafting: Smithy]} Iron Ore
-{15087}{[Crafting: Smithy]} Steel
-{15088}{[Crafting: Smithy]} Fine Hilt and Guard
-{15089}{[Crafting: Therapeutics]} Thermometer
+{15085}{[Crafting: Smithy] Free from polution, looks almost like silver.} Pure Ore
+{15086}{[Crafting: Smithy] This ore require processing for industrial usage.} Iron Ore
+{15087}{[Crafting: Smithy] Quality metal popular among smithes.} Steel
+{15088}{[Crafting: Smithy] Finely made hilt, comfortable to hold.} Fine Hilt and Guard
+{15089}{[Crafting: Therapeutics] Mercury in the glass expand with heat showing temperature.} Thermometer
 {15090}{[Crafting: Mechanical]} Small Steam Engine
-{15091}{[Crafting: Mechanical]} Large Gears
+{15091}{[Crafting: Mechanical] Cogs of this size made for heaviest machines.} Large Gears
 {15092}{Legs of this robo-spider leak poison across them.} Mechanized Arachnid (poison)
 {15093}{[Crafting: Guns]} Ancient Gun Chassis
 {15094}{} Mithril Ore
