@@ -40,6 +40,8 @@ Keywords list and explaination:
   
   [Chop]- currently axe exclusive property of breaking wood without damaging weapon
 
+  [Sneak kill] - kill impossible for the game logic to be traced back to you - exclusive for time delayed explosives
+
 Vanilla game keywords:
 
     [MSR] - its in vanilla, just not show to you until you are too weak, but already paid for weapon
