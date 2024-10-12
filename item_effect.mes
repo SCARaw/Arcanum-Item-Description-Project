@@ -708,7 +708,7 @@
 {15094}{} Mithril Ore
 {15095}{} Wine Glass
 {15096}{[Quest]} Empty Vial
-{15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
+{15097}{[Quest] Slightly charred camera looks like it has seen better days.} Crash Site Camera
 {15098}{[Quest]} Small Statuette //Blackroot rob the hedge wizard for the thieves quest
 {15099}{[Quest]This item seems very expensive} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
@@ -784,8 +784,8 @@
 {15170}{It follows you and sheds light around itself} Illuminated Decoy
 {15171}{D:5-30 FD:5-30 It has a nasty surprise when destroyed} Explosive Decoy
 {15172}{} UNUSED Automaton Gunner //UNUSED INGAME
-{15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Sneak Kill]} Time Bomb
-{15174}{Throw it then use detonator [Sneak Kill]} Plastique
+{15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Untraceable]} Time Bomb
+{15174}{Throw it then use detonator [Untraceable]} Plastique
 {15175}{Detonates all planted plastiques} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical]} Minute Steam Works
