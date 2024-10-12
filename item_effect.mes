@@ -177,7 +177,7 @@
 {8053}{} Boots
 {8054}{} Fancy Ring
 {8055}{} Medallion
-{8056}{DR: +2 D: +1 [Crafting]} Leather Gloves
+{8056}{DR: +2 D: +1 [Crafting] Sturdy pair of Gloves} Leather Gloves
 {8057}{DX:+2} Charged Ring
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
@@ -431,11 +431,11 @@
 {10066}{[Crafting: Chemistry]} Electrolyte Solution
 {10067}{[Crafting: Chemistry]} Varham's Aqua Vitae
 {10068}{[Crafting: Chemistry]} Monroe's Cleaner
-{10069}{+2 persuasion for 39 min.[Crafting]} Potion of Persuasion
-{10070}{ST+2 for 39 min. [Crafting]} Elixir of Physical Prowess
+{10069}{+2 Persuasion for 39 min.[Crafting]} Potion of Persuasion
+{10070}{+2 Strength for 39 min. [Crafting]} Elixir of Physical Prowess
 {10071}{[Crafting: Therapeutics]} Spirit of Camphor
 {10072}{[Crafting: Therapeutics]} Famous Blood Pills
-{10073}{[Junk]} Ammonia
+{10073}{[Junk] Good and cheap fertilizer.} Ammonia
 {10074}{Heals up to 20pts of Health} Heal Lesser Wounds
 {10075}{+290 Poison Level to the target}Strong Poison
 {10076}{Heals up to 60pts of Health and Fatigue} Cure All
@@ -453,29 +453,29 @@
 {10088}{[Crafting: Chemistry]} Brewer's Yeast
 {10089}{[Crafting: Chemistry]} Pete's Carbolic Acid
 {10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
-{10091}{[Crafting: Chemistry]} Mushrooms
+{10091}{[Crafting: Chemistry] These are not poisonous.} Mushrooms
 {10092}{[Crafting: Chemistry] Diet suplement, health and antioxydant production.} Sulphur Pills
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]}Wine
 {10094}{[Crafting: Chemistry]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk]} Dragon Cologne
 {10096}{[Junk]} Lingham's Belladonna
-{10097}{+2 all stats for 27 min.}Revitalizer Revitalizer
-{10098}{+2 mental stats for 39 min.[Crafting]}Mind Marvel
-{10099}{DX+2 for 39 min.} Tonic of Increased Reflexes
+{10097}{+2 All stats for 27 min.}Revitalizer Revitalizer
+{10098}{+2 Mental stats for 39 min.[Crafting]}Mind Marvel
+{10099}{+2 Dexterity for 39 min.} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer
 {10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
 {10102}{[Crafting: Therapeutics]} Nerve Pills
-{10103}{PE+2 for 39 min.}Liquid of Awareness Liquid of Awareness
+{10103}{+2 Perception for 39 min.}Liquid of Awareness Liquid of Awareness
 {10104}{[Junk]} Nimm's Phosphorous Tincture
 {10105}{[Crafting: Therapeutics]} Quinine
 {10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
 {10107}{[Crafting: Therapeutics]} Rheumatism Cure
-{10108}{[Crafting: Therapeutics]} Migraine Cure
+{10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
 {10109}{[Crafting: Therapeutics]} Tincture of Arnica
 {10110}{[Crafting: Explosives]} CK Sugar
 {10111}{Turns target into a mindless slave for 1 min.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
-{10112}{Permanent: +1 mental stats, -1 physical stats}Brain Builder
-{10113}{Permanent: +1 physical stats, -1 mental stats}Muscle Maker
+{10112}{Permanent: +1 Mental stats, -1 physical stats}Brain Builder
+{10113}{Permanent: +1 Physical stats, -1 mental stats}Muscle Maker
 {10114}{+25 max. health +25 max. fatigue for 1 min.}Invigorator
 {10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
 {10116}{Restores 100 Health and 100 Fatigue} Miracle Cure
@@ -495,7 +495,7 @@
 {10130}{[Gift]} Absinthe
 {10131}{[Gift]} Sweet Cakes
 {10132}{+2 to all of the mental stats for 39 min.}Vendigrothian Elixir
-{10133}{Legendary Potion gives +1 to all attributes Permanently.}Vivifier
+{10133}{Legendary Potion gives +1 to All Attributes Permanently.}Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
 {10135}{Restores up to 30pts of Fatigue.} Light Fatigue Restore
 {10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
@@ -696,11 +696,11 @@
 {15082}{[Crafting: Mechanical] bigger the spring greater the force} Large Spring
 {15083}{[Crafting: Mechanical] Popular in industrial quality devices} Small Spring
 {15084}{Bonus to picklock skill +5% [Crafting]} Lockpicks
-{15085}{[Crafting: Smithy] Free from polution, looks almost like silver.} Pure Ore
+{15085}{[Crafting: Smithy] Free from polution, looks like silver.} Pure Ore
 {15086}{[Crafting: Smithy] The raw material require processing.} Iron Ore
 {15087}{[Crafting: Smithy] Quality metal popular among smithes.} Steel
 {15088}{[Crafting: Smithy] Finely made hilt, comfortable to hold.} Fine Hilt and Guard
-{15089}{[Crafting: Therapeutics] Mercury in the glass expand with heat.} Thermometer
+{15089}{[Crafting: Therapeutics] Heat expand Mercury in Glass tube.} Thermometer 
 {15090}{[Crafting: Mechanical]} Small Steam Engine
 {15091}{[Crafting: Mechanical] Large Cogs made for heaviest machines.} Large Gears
 {15092}{Legs of this robo-spider leak poison across them.} Mechanized Arachnid (poison)
