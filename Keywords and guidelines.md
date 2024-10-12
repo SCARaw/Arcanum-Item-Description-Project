@@ -40,7 +40,7 @@ Keywords list and explaination:
   
   [Chop]- currently axe exclusive property of breaking wood without damaging weapon
 
-  [Sneak kill] - kill impossible for the game logic to be traced back to you
+  [Untraceable] - kill impossible for the game logic to be traced back to you
 
 Vanilla game keywords:
 
