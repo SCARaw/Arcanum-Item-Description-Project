@@ -20,7 +20,7 @@
 {6041}{D:1-4 FD:15-30 RNG:3 MSR:15} Flame Thrower
 {6042}{D:1-8(+3) FT:1-4 MSR:5/7} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
-{6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7} Fine Revolver //changing its description effects unique item descriptions too
+{6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7 [Crafting]} Fine Revolver //changing its description effects unique item descriptions too
 {6045}{D:4-9 FT:1-5 RNG:15 MSR:8 [Crafting]} Repeater Rifle
 {6046}{D:2-14 FT:1-10 RNG:15 MSR:8 [Crafting]} Hunting Rifle
 {6047}{D:1-2 MSR:3/3 [Crafting: Mechanical]} Railroad Spike
@@ -132,7 +132,7 @@
 {6153}{D:1-15 FT:1-3 RNG:15 MSR:8} Acid Gun 
 {6154}{D:1-4 ED:10-80 RNG:15 MSR:11 Requires Charges} Tesla Gun
 {6155}{D:1-4 FD:2-20 RNG:15 MSR:12} Grenade Launcher 
-{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8} Charged Accelerator Gun 
+{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 [Crafting]} Charged Accelerator Gun 
 {6157}{D:30-60 FT:5-15 RNG:15 MSR:15} Blade Launcher 
 {6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8} Pyrotechnic Gun 
 {6159}{D:1-15 RNG:15 MSR:8} Tranquilizer Gun 
@@ -419,10 +419,10 @@
 {9056}{} Gold
 
 // Food
-{10057}{[Food] it has no effect} Bread
-{10058}{[Food] it has no effect} Water
-{10059}{Heals 20pts of health.[Crafting]} Healing Salve
-{10060}{Restores 20pts of fatigue.[Crafting]} Fatigue Restorer
+{10057}{[Food] It has no effect} Bread
+{10058}{[Food] It has no effect} Water
+{10059}{Heals 20pts of health. [Crafting]} Healing Salve
+{10060}{Restores 20pts of fatigue. [Crafting]} Fatigue Restorer
 {10061}{[Crafting: Herbology]} Ginka Root
 {10062}{[Crafting: Herbology]} Kadura Stem
 {10063}{[Crafting: Herbology]} Coca Leaves
@@ -437,29 +437,29 @@
 {10072}{[Crafting: Therapeutics]} Famous Blood Pills
 {10073}{[Junk] Good and cheap fertilizer.} Ammonia
 {10074}{Heals up to 20pts of Health} Heal Lesser Wounds
-{10075}{+290 Poison Level to the target}Strong Poison
-{10076}{Heals up to 60pts of Health and Fatigue} Cure All
+{10075}{+290 Poison Level to the target [Crafting]}Strong Poison
+{10076}{Heals up to 60pts of Health and Fatigue [Crafting]} Cure All
 {10077}{Reduces 80 poison levels} Cure Poison
-{10078}{Halves fatigue consumption for 180 seconds[Crafting]}Fatigue Limiter
-{10079}{1pt heal every 4 seconds for 100 seconds}Accelerate Healing
+{10078}{Halves fatigue consumption for 180 sec. [Crafting]}Fatigue Limiter
+{10079}{1pt heal every 4 sec. for 100 sec. [Crafting]}Accelerate Healing
 {10080}{[Crafting: Herbology]} Witchbane
 {10081}{[Crafting: Herbology]} Poppy Flowers
 {10082}{[Crafting: Herbology] Cure for all (made up) diseases.} Big Chief Snake Oil
 {10083}{[Crafting: Herbology]} Venom
-{10084}{Restores 60 Health and 60 Fatigue} Wonder Drug
-{10085}{Explodes for 1-100 acid damage to items} Corrosive Acid
+{10084}{Restores 60 Health and 60 Fatigue [Crafting]} Wonder Drug
+{10085}{Explodes for 1-100 acid damage to items [Crafting]} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
 {10087}{Prevents wild animals from attacking for 338 sec.} Animal Scent
 {10088}{[Crafting: Chemistry]} Brewer's Yeast
 {10089}{[Crafting: Chemistry]} Pete's Carbolic Acid
-{10090}{Makes Target Flee}Potion of Paralysis Hallucinite // Hallucination Grenade text
+{10090}{Makes Target Flee [Crafting]}Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{[Crafting: Chemistry] These are not poisonous.} Mushrooms
 {10092}{[Crafting: Chemistry] Diet suplement, health and antioxydant production.} Sulphur Pills
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]}Wine
 {10094}{[Crafting: Chemistry]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk]} Dragon Cologne
 {10096}{[Junk]} Lingham's Belladonna
-{10097}{+2 All stats for 27 min.}Revitalizer Revitalizer
+{10097}{+2 All Stats for 27 min.}Revitalizer Revitalizer
 {10098}{+2 Mental stats for 39 min.[Crafting]}Mind Marvel
 {10099}{+2 Dexterity for 39 min.} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer
@@ -473,16 +473,16 @@
 {10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
 {10109}{[Crafting: Therapeutics]} Tincture of Arnica
 {10110}{[Crafting: Explosives]} CK Sugar
-{10111}{Turns target into a mindless slave for 1 min.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
+{10111}{Turns target into a mindless slave for 60 sec.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
 {10112}{Permanent: +1 Mental stats, -1 physical stats}Brain Builder
 {10113}{Permanent: +1 Physical stats, -1 mental stats}Muscle Maker
-{10114}{+25 max. health +25 max. fatigue for 1 min.}Invigorator
+{10114}{+25 max. health +25 max. fatigue for 60 sec.}Invigorator
 {10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
 {10116}{Restores 100 Health and 100 Fatigue} Miracle Cure
-{10117}{Halves the target's Willpower for 1 min.} Mental Inhibitor
+{10117}{Halves the target's Willpower for 60 sec.} Mental Inhibitor
 {10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer Necromizer
-{10119}{+30 Damage Resistance for 2 min.} Fortifier Fortifier
-{10120}{} Sleep Aid Anaesthisizer
+{10119}{+30 Damage Resistance for 120 sec. [Crafting]} Fortifier Fortifier
+{10120}{Deals %70-150 FT damage depends on the target [Crafting]} Sleep Aid Anaesthisizer
 {10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
 {10122}{[Crafting: Electric]} Lemon
 {10123}{[Crafting: Electric]} Potato
@@ -501,11 +501,11 @@
 {10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
 {10137}{Heals up to 120pts of Poison.} Heal Poison
 {10138}{Heals up to 120pts of Health, Poison and Fatigue.} Morgana's Tears
-{10139}{Halves the use of Fatigue for 1 min.} Fatigue Slower
-{10140}{Boosts Intelligence by 10 points for 60 seconds.} Essence of Intellect
-{10141}{+20 Speed for 1 min.} Potion of Haste
-{10142}{+20 Damage Resistance for 1 min.} Liquid of Skin Thickening
-{10143}{+80 Poison Resistance for 1 min.} Kalispi's Venom
+{10139}{Halves the use of Fatigue for 60 sec.} Fatigue Slower
+{10140}{Boosts Intelligence by 10 points for 60 sec.} Essence of Intellect
+{10141}{+20 Speed for 60 sec.} Potion of Haste
+{10142}{+20 Damage Resistance for 60 sec.} Liquid of Skin Thickening
+{10143}{+80 Poison Resistance for 60 sec.} Kalispi's Venom
 {10144}{Restores the life of the target.} Restore Life
 
 //Scrolls
@@ -681,7 +681,7 @@
 {15067}{[Quest]} Stillwater trap (empty)
 {15068}{[Quest]} Stillwater trap (full)
 {15069}{[Crafting: Chemistry] Metal is good electricity conductor.} Metal Plates
-{15070}{Produce light around the user, shield slot[Crafting]} Electric Light
+{15070}{Produce light around the user, shield slot [Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produce light around the user, shield slot.} Lantern
 {15073}{[Crafting: Electric] Small device that energy charge} Capacitor
@@ -708,7 +708,7 @@
 {15094}{} Mithril Ore
 {15095}{} Wine Glass
 {15096}{[Quest]} Empty Vial
-{15097}{[Quest] Slightly charred camera looks like it has seen better days.} Crash Site Camera
+{15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
 {15098}{[Quest]} Small Statuette //Blackroot rob the hedge wizard for the thieves quest
 {15099}{[Quest]This item seems very expensive} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
@@ -723,11 +723,11 @@
 {15109}{[Crafting: Electric] Capable of accumulating a lot of energy} Large Capacitor
 {15110}{[Crafting: Electric] High-frequency transmiter of electricity.} Tesla Coil
 {15111}{[Crafting: Explosives] Old gunpowder, unsafe and cause explosions} Black Powder
-{15112}{Creates a 3x3 fire curtain for 10 sec., damages all inside it}Fire Obstruction
+{15112}{Creates a 3x3 fire curtain for 10 sec., damages all [Crafting]}Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns]} Auto Loading Chamber
 {15115}{[Crafting: Mechanical]} Clock Parts
-{15116}{Moves randomly and draws enemy attention} Clockwork Decoy
+{15116}{Moves randomly and draws enemy attention [Crafting]} Clockwork Decoy
 {15117}{[Valuable] Wellmade watch essential for upper class.} Pocket Watch
 {15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
 {15119}{[Crafting: Smithy] Leftovers from tailoring, could be useful.} Leather Straps
@@ -762,9 +762,9 @@
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
 {15149}{[Crafting: Mechanical] Simple magnet, used to point North.} Compass
 {15150}{Causes blindness (-30 TH for affected enemies)}Flash Grenade
-{15151}{3x3 smoke cloud: prevents ranged attacks, +prowling}Smoke Grenade
-{15152}{Stuns targets for 1-5 seconds (Doesn't affect mechanicals)}Stun Grenade
-{15153}{Creates a 3x3 fire curtain for 10 sec., damages all inside it}Fire Obstruction
+{15151}{3x3 smoke cloud: prevents ranged attacks, +prowling [Crafting]}Smoke Grenade
+{15152}{Stuns targets for 1-5 sec. (Doesn't effect mechanicals) [Crafting]}Stun Grenade
+{15153}{Creates a 3x3 fire curtain for 10 sec., damages all [Crafting]}Fire Obstruction
 {15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
 {15155}{[Crafting: Smithy] Sturdy plate of steel amalgam.} Dwarven Steel
 {15156}{[Quest]} Camera
@@ -772,7 +772,7 @@
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
 {15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
-{15161}{Deals %70-150 FT damage depends on the target}Knock Out Gas Grenade
+{15161}{Deals %70-150 FT damage depends on the targets}Knock Out Gas Grenade
 {15162}{Makes Target Flee}Hallucination Grenade
 {15163}{D:1-5 ED:5-30}Electrocution Grenade
 {15164}{D:25-50 FT:10-20 Knockback}Concussion Grenade
@@ -784,7 +784,7 @@
 {15170}{It follows you and sheds light around itself} Illuminated Decoy
 {15171}{D:5-30 FD:5-30 It has a nasty surprise when destroyed} Explosive Decoy
 {15172}{} UNUSED Automaton Gunner //UNUSED INGAME
-{15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Untraceable]} Time Bomb
+{15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Untraceable} Time Bomb
 {15174}{Throw it then use detonator [Untraceable]} Plastique
 {15175}{Detonates all planted plastiques} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
