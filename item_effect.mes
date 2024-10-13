@@ -680,7 +680,7 @@
 {15066}{Can be repaired, can be reused if not destroyed [Crafting]} Mechanized Arachnid
 {15067}{[Quest]} Stillwater trap (empty)
 {15068}{[Quest]} Stillwater trap (full)
-{15069}{[Crafting: Chemistry] Metal is good electricity conductor.} Metal Plates
+{15069}{[Crafting: Chemistry] Metal is good conductor.} Metal Plates
 {15070}{Produce light around the user, shield slot [Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produce light around the user, shield slot.} Lantern
@@ -702,7 +702,7 @@
 {15088}{[Crafting: Smithy] Finely made hilt, comfortable to hold.} Fine Hilt and Guard
 {15089}{[Crafting: Therapeutics] Heat expand Mercury in Glass tube.} Thermometer 
 {15090}{[Crafting: Mechanical]} Small Steam Engine
-{15091}{[Crafting: Mechanical] Large Cogs made for heaviest machines.} Large Gears
+{15091}{[Crafting: Mechanical] Large Cogs for heaviest machines.} Large Gears
 {15092}{Legs of this robo-spider leak poison across them.} Mechanized Arachnid (poison)
 {15093}{[Crafting: Guns]} Ancient Gun Chassis
 {15094}{} Mithril Ore
@@ -710,7 +710,7 @@
 {15096}{[Quest]} Empty Vial
 {15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
 {15098}{[Quest]} Small Statuette //Blackroot rob the hedge wizard for the thieves quest
-{15099}{[Quest]This item seems very expensive} Chest of Gold
+{15099}{[Quest] This item seems very expensive.} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
 {15101}{[Crafting: Mechanical]} Metal Clamp
 {15102}{Use it to safely defuse a trap} Trap Springer
@@ -725,8 +725,8 @@
 {15111}{[Crafting: Explosives] Old gunpowder, unsafe and cause explosions} Black Powder
 {15112}{Creates a 3x3 fire curtain for 10 sec., damages all [Crafting]}Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
-{15114}{[Crafting: Guns]} Auto Loading Chamber
-{15115}{[Crafting: Mechanical]} Clock Parts
+{15114}{[Crafting: Guns] Complex self-loading gun system.} Auto Loading Chamber
+{15115}{[Crafting: Mechanical] Pieces of a watch.} Clock Parts
 {15116}{Moves randomly and draws enemy attention [Crafting]} Clockwork Decoy
 {15117}{[Valuable] Wellmade watch essential for upper class.} Pocket Watch
 {15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
@@ -748,12 +748,12 @@
 {15134}{D:100-200 FD:5-20 [Crafting]}Dynamite
 {15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
 {15136}{[Crafting: Chemistry] Ideal for cleaning.} Potassium Chloride
-{15137}{[Crafting: Electric] Enough to conduct power from pocket charges into something.} Small Electrical Parts
+{15137}{[Crafting: Electric] Conduct power from pocket charges into something.} Small Electrical Parts
 {15138}{[Crafting: Explosives] Kitchen salt, helps preserving meat.} Saltpeter
 {15139}{[Crafting: Explosives] Dangerous substance.} Nitroglycerin
 {15140}{[Crafting: Electric] Use to convert Electricity into heat.} Electrical Coil
 {15141}{[Crafting: Explosives] Empty Can, washed in the rain.} Metal Can
-{15142}{[Crafting: Guns]Big exhaust pipe from steam engine.} Engine Muffler
+{15142}{[Crafting: Guns] Big exhaust pipe from steam engine.} Engine Muffler
 {15143}{[Crafting: Mechanical] Set of metal plates forming a box.} Metal Casing
 {15144}{[Crafting: Explosives] Wood scorched to the coal.} Charcoal
 {15145}{[Crafting: Explosives]} Tom's Fertilizer
