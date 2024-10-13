@@ -275,7 +275,7 @@
 {8151}{} Dragon Skin Leather
 {8152}{} Small Dragon Skin Leather
 {8153}{} Large Dragon Skin Leather
-{8154}{AC:10 DR:+5 FR:+5 NP:-10(+15) Backstab, Prowling +2} Creep Armour
+{8154}{AC:8 DR:+14 FR:+5 NP:-10(+15) Backstab (+2), Prowling (+2)} Creep Armour
 {8155}{} Caladon Elite Guard Chainmail
 {8156}{} Dwarven Chainmail
 {8157}{} Elven Chainmail
@@ -429,8 +429,8 @@
 {10064}{[Crafting: Herbology]} Tobacco Leaves
 {10065}{+70 Poison Level to the target [Crafting]} Poison
 {10066}{[Crafting: Chemistry]} Electrolyte Solution
-{10067}{[Crafting: Chemistry]} Varham's Aqua Vitae
-{10068}{[Crafting: Chemistry]} Monroe's Cleaner
+{10067}{[Crafting: Chemistry] DX-1 CN-1 for 39min.} Varham's Aqua Vitae
+{10068}{[Crafting: Chemistry] +20 Poison Level to the target} Monroe's Cleaner
 {10069}{+2 Persuasion for 39 min.[Crafting]} Potion of Persuasion
 {10070}{+2 Strength for 39 min. [Crafting]} Elixir of Physical Prowess
 {10071}{[Crafting: Therapeutics]} Spirit of Camphor
@@ -445,7 +445,7 @@
 {10080}{[Crafting: Herbology]} Witchbane
 {10081}{[Crafting: Herbology]} Poppy Flowers
 {10082}{[Crafting: Herbology] Cure for all (made up) diseases.} Big Chief Snake Oil
-{10083}{[Crafting: Herbology]} Venom
+{10083}{[Crafting: Herbology] +10 Poison Level to the target} Venom
 {10084}{Restores 60 Health and 60 Fatigue [Crafting]} Wonder Drug
 {10085}{Explodes for 1-100 acid damage to items [Crafting]} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
@@ -492,7 +492,7 @@
 {10127}{[Gift]} Dwarven Snuff
 {10128}{[Gift]} Elven Spring Water
 {10129}{[Gift]} Earl Grey Tea
-{10130}{[Gift]} Absinthe
+{10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
 {10131}{[Gift]} Sweet Cakes
 {10132}{+2 to all of the mental stats for 39 min.}Vendigrothian Elixir
 {10133}{Legendary Potion gives +1 to All Attributes Permanently.}Vivifier
