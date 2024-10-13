@@ -742,7 +742,7 @@
 {15128}{[Valuable]} Rough-Cut Sapphire
 {15129}{[Valuable]} Rough-Cut Emerald
 {15130}{[Valuable]} Rough-Cut Diamond
-{15131}{[Valuable]} Rough-Cut Ruby
+{15131}{[Valuable] Shatered Ruby Crystal} Rough-Cut Ruby
 {15132}{D:5-30 FD:5-30 Knockback [Crafting]}Explosive Grenade
 {15133}{Who needs followers when you can craft one?} Automaton
 {15134}{D:100-200 FD:5-20 [Crafting]}Dynamite
@@ -757,7 +757,7 @@
 {15143}{[Crafting: Mechanical] Set of metal plates forming a box.} Metal Casing
 {15144}{[Crafting: Explosives] Wood scorched to the coal.} Charcoal
 {15145}{[Crafting: Explosives]} Tom's Fertilizer
-{15146}{[Crafting: Explosives]} Stearic Acid
+{15146}{[Crafting: Explosives] Used to produce cosmetics.} Stearic Acid
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
 {15149}{[Crafting: Mechanical] Simple magnet, used to point North.} Compass
@@ -796,8 +796,8 @@
 {15182}{[Offering][Crafting: Quest]} Heartstone
 {15183}{[Offering][Valuable]} Mnura Coin
 {15184}{[Offering]} Lava Rock
-{15185}{[Offering]} Olive Branch
-{15186}{[Offering]} Geode
+{15185}{[Offering] Symbol of peace.} Olive Branch
+{15186}{[Offering] Rock with mineral formation inside.} Geode
 {15187}{[Offering][Valuable] Rare diamond tar and shineless} Black Diamond
 {15188}{Gives expertise bonus equal to Intelligence, can be stacked} Chemistry Manuals
 {15189}{Gives expertise bonus equal to Intelligence, can be stacked} Explosives Manuals
