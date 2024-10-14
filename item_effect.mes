@@ -450,8 +450,8 @@
 {10085}{Explodes for 1-100 acid damage to items [Crafting]} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
 {10087}{Prevents wild animals from attacking for 338 sec.} Animal Scent
-{10088}{[Crafting: Chemistry]} Brewer's Yeast
-{10089}{[Crafting: Chemistry]} Pete's Carbolic Acid
+{10088}{[Crafting: Chemistry] Used in alcohol} Brewer's Yeast
+{10089}{[Crafting: Chemistry] Medical substance.} Pete's Carbolic Acid
 {10090}{Makes Target Flee [Crafting]}Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{[Crafting: Chemistry] These are not poisonous.} Mushrooms
 {10092}{[Crafting: Chemistry] Diet suplement, health and antioxydant production.} Sulphur Pills
@@ -489,9 +489,9 @@
 {10124}{[Quest]} Vial of Dragon's Blood
 {10125}{[Offering]} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
-{10127}{[Gift]} Dwarven Snuff
-{10128}{[Gift]} Elven Spring Water
-{10129}{[Gift]} Earl Grey Tea
+{10127}{[Gift] } Dwarven Snuff
+{10128}{[Gift] } Elven Spring Water
+{10129}{[Gift] Staple of quality on your table.} Earl Grey Tea
 {10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
 {10131}{[Gift]} Sweet Cakes
 {10132}{+2 to all of the mental stats for 39 min.}Vendigrothian Elixir
@@ -690,7 +690,7 @@
 {15076}{[Crafting: Explosives] Soft reactive metal.} Magnesium
 {15077}{[Junk] Leftovers from Factory work.} Metal Shavings
 {15078}{[Crafting: Guns] High quality handgun part.} Gun Chassis
-{15079}{[Crafting: Guns] } Revolver Chamber
+{15079}{[Crafting: Guns] Cylinder designed to hold bullets.} Revolver Chamber
 {15080}{Deals 15-25 damage.} Spike Trap
 {15081}{Bonus to picklock skill +10%} Auto Skeleton Key
 {15082}{[Crafting: Mechanical] bigger the spring greater the force} Large Spring
@@ -716,7 +716,7 @@
 {15102}{Use it to safely defuse a trap} Trap Springer
 {15103}{[Crafting: Mechanical]} Pocket Watch Parts
 {15104}{} Vase
-{15105}{[Junk]} Music Box
+{15105}{[Junk] Decorative, plays music when opened.} Music Box
 {15106}{[Junk] Impractical without a table, just find lamp.} Candle Stick
 {15107}{[Junk] Used up factory gears, no longer operational.} Old Gears
 {15108}{[Crafting: Electric] Used to conduct electrcity across installation.} Electrical Harness
@@ -774,11 +774,11 @@
 {15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
 {15161}{Deals %70-150 FT damage depends on the targets}Knock Out Gas Grenade
 {15162}{Makes Target Flee}Hallucination Grenade
-{15163}{D:1-5 ED:5-30}Electrocution Grenade
+{15163}{D:1-5 ED:5-30 can of lightning}Electrocution Grenade
 {15164}{D:25-50 FT:10-20 Knockback}Concussion Grenade
 {15165}{Paralyzes targets for 6 sec.}Paralysis Grenade
 {15166}{Creates 3x3 poison curtain PD:15-25 per sec. lasts 30 sec.}Mustard Gas Grenade
-{15167}{[Crafting: Mechanical]} Boat Rigging
+{15167}{[Crafting: Mechanical] System of ropes.} Boat Rigging
 {15168}{} Noise Maker Decoy //UNUSED INGAME
 {15169}{This grasshopper is faster than its arachnid colleague} Clockwork Physician
 {15170}{It follows you and sheds light around itself} Illuminated Decoy
@@ -818,7 +818,7 @@
 {15204}{[Valuable]} Star Ruby
 {15205}{[Valuable]} Star Sapphire
 {15206}{} Medical Kit //UNUSED INGAME
-{15207}{[Crafting: Explosives]} Kerosene
+{15207}{[Crafting: Explosives] Liquid substance used in lamps.} Kerosene
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
 {15209}{D:3-15 FD:3-15 Knockback}Molotov Cocktail
 {15210}{[Junk]} Wisp Essence
