@@ -12,6 +12,8 @@ as for immersion breaking text: i would say permited for quest items, but try to
 Promo:
 ![promo total](https://github.com/user-attachments/assets/e717d4cc-f873-4c5c-815a-304c3d2afba9)
 # How can you help:
+Play the game and use the mod to pass feedback or ideas from the game level
+
 https://github.com/SCARaw/Arcanum-Item-Description-Project/issues - if you have something to add, but not a lot
 
 or Fork the whole thing and edit-in your changes and submit contribution 
