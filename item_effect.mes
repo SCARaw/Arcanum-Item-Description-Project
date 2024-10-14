@@ -756,7 +756,7 @@
 {15142}{[Crafting: Guns] Big exhaust pipe from steam engine.} Engine Muffler
 {15143}{[Crafting: Mechanical] Set of metal plates forming a box.} Metal Casing
 {15144}{[Crafting: Explosives] Wood scorched to the coal.} Charcoal
-{15145}{[Crafting: Explosives]} Tom's Fertilizer
+{15145}{[Crafting: Explosives] Industry standard fertilizer.} Tom's Fertilizer
 {15146}{[Crafting: Explosives] Used to produce cosmetics.} Stearic Acid
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
@@ -786,7 +786,7 @@
 {15172}{} UNUSED Automaton Gunner //UNUSED INGAME
 {15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Untraceable} Time Bomb
 {15174}{Throw it then use detonator [Untraceable]} Plastique
-{15175}{Detonates all planted plastiques} Detonator
+{15175}{Detonates all planted plastiques.} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical]} Minute Steam Works
 {15178}{Allow to use Lock picking skill} Crude Lockpicks
@@ -795,7 +795,7 @@
 {15181}{[Offering] Weird statue} Li'tani
 {15182}{[Offering][Crafting: Quest]} Heartstone
 {15183}{[Offering][Valuable]} Mnura Coin
-{15184}{[Offering]} Lava Rock
+{15184}{[Offering] Cooled lump of magma.} Lava Rock
 {15185}{[Offering] Symbol of peace.} Olive Branch
 {15186}{[Offering] Rock with mineral formation inside.} Geode
 {15187}{[Offering][Valuable] Rare diamond tar and shineless} Black Diamond
@@ -807,7 +807,7 @@
 {15193}{Gives expertise bonus equal to Intelligence, can be stacked} Mechanical Manuals
 {15194}{Gives expertise bonus equal to Intelligence, can be stacked} Smithy Manuals
 {15195}{Gives expertise bonus equal to Intelligence, can be stacked} Gunsmithy Manuals
-{15196}{[Crafting: Smithy]} Vendigrothian Sheet Metal
+{15196}{[Crafting: Smithy] Its harder than steel!} Vendigrothian Sheet Metal
 {15197}{[Crafting: Chemistry] Vendigroth made it?} Unknown Chemical Compound
 {15198}{Demons consider this meat tasty.} Void Animal Carcass
 {15199}{WOAH, you got the real one?} Authentic Stillwater Giant Pelt
@@ -818,7 +818,7 @@
 {15204}{[Valuable]} Star Ruby
 {15205}{[Valuable]} Star Sapphire
 {15206}{} Medical Kit //UNUSED INGAME
-{15207}{[Crafting: Explosives] Liquid substance used in lamps.} Kerosene
+{15207}{[Crafting: Explosives] Destilled crude oil used in lamps.} Kerosene
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
 {15209}{D:3-15 FD:3-15 Knockback}Molotov Cocktail
 {15210}{[Junk]} Wisp Essence
