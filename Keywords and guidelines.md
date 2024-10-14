@@ -58,3 +58,18 @@ Vanilla game keywords:
 
 ![image](https://github.com/user-attachments/assets/903f90ea-efeb-4d64-9d17-6b1a72b5e1f0)
 
+# Descriptions guidelines:
+Capitalization rule:
+  Please capitalize 1st letter in each keyword
+  Capitalize 1st letter for description
+  Capitalize all letters in Shortcut (ex TH, MSR)
+  Capitalize 1st letter of any description word that you would find better to read as such (- this can be changed back)
+  
+Dot rule:
+  Simply put Finish word description with a DOT aka "."
+  unless you finish description with a [Keyword]
+  Stats of the weapon does not need to end on DOT
+
+Bracket Rule:
+  Items of magical or technological aptitude dependend bonuses, need to have this specific bonuses listed in brackets
+  Example: {8180}{DR:+5 DX:(+2)} Gloves of Dexterity
