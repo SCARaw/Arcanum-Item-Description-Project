@@ -18,7 +18,7 @@
 {6039}{D:20-50 FT:1-15 RNG:15 MSR:12 [Crafting]} Elephant Gun
 {6040}{D:1-4 ED:10-40 MSR:8 Requires Charges [Crafting]}Tesla Rod
 {6041}{D:1-4 FD:15-30 RNG:3 MSR:15} Flame Thrower
-{6042}{D:1-8(+3) FT:1-4 MSR:5/7} Enchanted Sword
+{6042}{D:1-8(+3) FT:1-4 TH:(+5) MSR:5/7} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
 {6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7 [Crafting]} Fine Revolver //changing its description effects unique item descriptions too
 {6045}{D:4-9 FT:1-5 RNG:15 MSR:8 [Crafting]} Repeater Rifle
