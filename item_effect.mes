@@ -178,7 +178,7 @@
 {8054}{} Fancy Ring
 {8055}{} Medallion
 {8056}{DR: +2 D: +1 [Crafting] Sturdy pair of Gloves} Leather Gloves
-{8057}{(+2)Dexterity} Charged Ring
+{8057}{Dexterity:(+2)} Charged Ring
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
 {8060}{} Small Chainmail
@@ -301,7 +301,7 @@
 {8177}{} War Gauntlets
 {8178}{} Chain Gloves
 {8179}{DR:+5  Bonus Pickpocket} Light-Fingered Gauntlets
-{8180}{DR:+5 (+2)Dexterity} Gloves of Dexterity
+{8180}{DR:+5 Dexterity:(+2)} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
 {8183}{PE:+2 [Crafting]}Eye Gear
