@@ -5,9 +5,9 @@
 {0}{}
 
 //Weapons
-{6029}{D:1-4 FT:1-2 MSR:3/3} Dagger
-{6030}{D:1-8 FT:1-4 MSR:6/8} Sword
-{6031}{D:1-12 FT:1-9 MSR:8/10 [Chop]} Axe
+{6029}{D:1-4 FT:1-2 MSR:3/3} Dagger //changing its description effects unique item descriptions too
+{6030}{D:1-8 FT:1-4 MSR:6/8} Sword //changing its description effects unique item descriptions too
+{6031}{D:1-12 FT:1-9 MSR:8/10 [Chop]} Axe //changing its description effects unique item descriptions too
 {6032}{D:1-4 FT:1-8 MSR:8/10} Mace
 {6033}{D:2-9 FT:2-5 RNG:10 MSR:5/7} Revolver
 {6034}{D:4-16 FT:3-11 MSR:14/18} Broadsword
@@ -75,7 +75,7 @@
 {6096}{D:5-18 FT:3-9 RNG:15 MSR:8 [Crafting]} Compound Bow
 {6097}{D:1-8 FT:1-3 RNG:10 MSR:5} Short Bow
 {6098}{D:1-12 FT:3-9 RNG:25 MSR:12 [Crafting]} Long Bow
-{6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15 MSR:8} Elven Hunter's Bow
+{6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15 MSR:8} Elven Hunter's Bow //changing its description effects unique item descriptions too
 {6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20 MSR:10} Bow of Terror
 {6101}{D:1-15 FT:1-3 RNG:15 MSR:8} Folding Rifle //UNUSED INGAME
 {6102}{D:1-15 FT:1-3 RNG:15 MSR:8} Repeater Rifle Variant 1 //UNUSED INGAME
@@ -487,13 +487,13 @@
 {10122}{[Crafting: Electric]} Lemon
 {10123}{[Crafting: Electric]} Potato
 {10124}{[Quest]} Vial of Dragon's Blood
-{10125}{[Offering]} Passion Root
+{10125}{[Offering] Works as Strong aphrodisiac.} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
 {10127}{[Gift] } Dwarven Snuff
-{10128}{[Gift] Water with magical essense.} Elven Spring Water
+{10128}{[Gift] Magic essence in water.} Elven Spring Water
 {10129}{[Gift] Staple of quality on your table.} Earl Grey Tea
 {10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
-{10131}{[Gift] Yum} Sweet Cakes
+{10131}{[Gift] Yum.} Sweet Cakes
 {10132}{+2 to all of the mental stats for 39 min.}Vendigrothian Elixir
 {10133}{Legendary Potion gives +1 to All Attributes Permanently.}Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
