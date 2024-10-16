@@ -1,0 +1,596 @@
+// Known or Unknown Item Effect Messages
+
+{30000}{King}
+{30001}{King Praetor}
+{30002}{Mayor Of Black Root}
+{30003}{D'ak Taan}
+{30004}{Tugal The Hedgewizard}
+{30005}{Archibald}
+{30006}{Gladys}
+{30007}{Dante}
+{30008}{Praetor's Guard}
+{30009}{Grunwalde}
+{30010}{D'ak Taan's Henchman}
+{30011}{Prince Auguste Farad}
+{30012}{King Farad}
+{30013}{Tugal's Statue}
+{30014}{Grunwalde's Poison}
+{30015}{Black Root's Taxes}
+{30016}{Princess Aria's Amulet}
+{30017}{Music Box}
+{30018}{Candlestick}
+{30019}{Vase}
+{30020}{Poisoned Sword}
+{30021}{Gladys' Ring}
+{30022}{D:15-25 FT:5-15 MSR:14/18} // Complexity +25
+{30023}{Smithy}
+{30024}{General Store and Magicks}
+{30025}{General Goods}
+{30026}{Doctor's Office}
+{30027}{Pub}
+{30028}{Gormek's Ring of Invisibilty}
+{30029}{Princes Aria}
+{30030}{Amulet}
+{30031}{Theodore's Machine Plate}
+{30032}{Theodore}
+{30033}{Old Sprocket}
+{30034}{The Journal of Gilbert Bates}
+{30035}{Thorvald Two Stones}
+{30036}{Chukka}
+{30037}{Gilbert Bates}
+{30038}{Ristezze}
+{30039}{Constable Owens}
+{30040}{Lukan}
+{30041}{Winston Schuyler}
+{30042}{Niles Schuyler}
+{30043}{Edward Schuyler}
+{30044}{Pelonious Schuyler}
+{30045}{Magnus Shale Fist}
+{30046}{Captain Edward Teach}
+{30047}{"The Traveller"}
+{30048}{Randver Thunder Stone}
+{30049}{Loghaire Thunder Stone}
+{30050}{D:4-18 FT:3-12, D adj Race/Alignment}
+{30051}{The Silver Lady}
+{30052}{Raven}
+{30053}{William Bench}
+{30054}{Surveyor}
+{30055}{Shovel}
+{30056}{Bingham's Shovel}
+{30057}{Bingham Shulefest}
+{30058}{"T'sen-Ang: Horror Among the Dark Elves"}
+{30059}{"The Curse of T'sen-Ang"}
+{30060}{Alexander the Acolyte}
+{30070}{Gunther Willhelm}
+{30071}{Hadrian the Archaeologist}
+{30072}{Skull from the Tomb of Nasrudin}
+{30073}{Map to Stringy Pete's Cove}
+{30074}{Salty Seadrick}
+{30075}{D:2-9 FT:2-5 MSR:6/8} // Complexity 0
+{30076}{Kerghan}
+{30077}{Arronax}
+{30078}{"How to be a Dwarf"}
+{30079}{James Kingsford}
+{30080}{Purchase order for Signet Ring}
+{30081}{Cedric Appleby}
+{30082}{Signet Ring}
+{30083}{Capt. of Bates' Guard}
+{30084}{Prototype Steam Engine}
+{30085}{Amulet of the Molochean Hand}
+{30086}{Fake Stillwater Giant pelt}
+{30087}{Real Stillwater Giant pelt}
+{30088}{Stillwater Giant scent}
+{30089}{Vendigroth Device}
+{30090}{H.T. Parnell}
+{30091}{Stanley Xavier Hippington}
+{30092}{Myrth}
+{30093}{Garfield Thelonius Remington III}
+{30094}{Dark Elf Guard}
+{30095}{Gudmund Ore Bender}
+{30096}{Lillian Misk}
+{30097}{Servant's clothes}
+{30098}{Borag}
+{30099}{Ogdin Big Fist}
+{30100}{M'in Gorad}
+{30101}{K'an Hua}
+{30102}{"How Nasrudin Defeated the Nefarious Arronax! and Other Stories"}
+{30103}{Statue of Saint Mannox}
+{30104}{CR:+2 PR:+20 WP:+1 Melee +2} // Complexity 0
+{30105}{Preston Radcliffe}
+{30106}{Weldo Rubin}
+{30107}{Milly Fender}
+{30108}{Grampy Fender}
+{30109}{Stringy Pete}
+{30110}{Kraka-tur}
+{30111}{Gorgoth}
+{30112}{The Bane of Kree}
+{30113}{Nasrudin}
+{30114}{Meat Shank}
+{30115}{Camera}
+{30116}{Bessie Toone's Boot}
+{30117}{Jongle Dunne}
+{30118}{Gurloes' Metalworkings}
+{30119}{Shrouded Hills Inn}
+{30120}{Shrouded Hills City Hall}
+{30121}{Ristezze Imported Goods}
+{30122}{Jongle's Enchantments}
+{30123}{General Practitioner}
+{30124}{General Store}
+{30125}{Lloyd Gurloes}
+{30126}{Strange blue rabbit}
+{30127}{Pillar of Truth}
+{30128}{Vendigroth Journal}
+{30129}{A freshly filled grave}
+{31030}{Entrance to the Wheel Clan}
+{31031}{Sarcophagus lid}
+{31032}{The Bangellian Scourge}
+{31033}{Gorrin the Pit Master}
+{31034}{Key To Bates' Mausoleum}
+{31035}{Sarcophagus}
+{31036}{Stillwater Giant display case}
+{31037}{Lava pit}
+{31038}{- Vermillion Road -}
+{31039}{- Lungsten Road -}
+{31040}{- Pickwick Alley -}
+{31041}{- Devonshire Way -}
+{31042}{- Grimson Way -}
+{31043}{- Dollins Turn -}
+{31044}{- Polton Cross -}
+{31045}{- Torry Road -}
+{31046}{- Desaille Terrace -}
+{31047}{- East End Avenue -}
+{31048}{- Rue de Avellone -}
+{31049}{- Low Dervish Row -}
+{31050}{- Quilton Bend -}
+{31051}{- Lion's Head Circle -}
+{31052}{- Westrel South -}
+{31053}{- Mulligan Bone Alley -}
+{31054}{- Ten Hands Alley -}
+{31055}{- Kensington Broadway -}
+{31056}{Madame Toussaude}
+{31057}{Delores Beston}
+{31058}{Rorry LImes}
+{31059}{Benjamin Gershwin}
+{31060}{Matthew Jones}
+{31061}{The skull of Jin Ren'ar}
+{31062}{The skull of Xin Ren'ar}
+{31063}{Polgram}
+{31064}{Evelyn Garringsburg}
+{31065}{Doc Roberts}
+{31066}{Bank Robber}
+{31067}{Bank Teller}
+{31068}{Thaddeus Mynor}
+{31069}{Jacob Bens}
+{31070}{Passport}
+{31071}{Stringy Pete's Treasure}
+{31072}{The Boot Buckles of Jonas Williamson}
+{31073}{Virgil}
+{31074}{First Bank of Shrouded Hills}
+{31075}{Safe}
+{31076}{Slim Pickens'}
+{31077}{Ol' Bessie}
+{31078}{Gurloes Fine Steel Dagger}
+{31079}{Norian}
+{31080}{Maximillian}
+{31081}{Jones the Collector}
+{30182}{Geoffrey Tarellond-Ashe}
+{30183}{Cynthia Boggs}
+{30184}{Lorria}
+{30185}{Ellumyn}
+{30186}{Jormund}
+{30187}{Ivory}
+{30188}{Sharpe}
+{30189}{Wrath}
+{30190}{D:1-4 FT:2-9 TH:(+25) SPD:(+25) CR:(+20) MSR:5} // Complexity +26
+{30191}{Whysper}
+{30192}{Winde}
+{30193}{Kan Kerai}
+{30194}{Robert Milton}
+{30195}{Poacher}
+{30196}{Muggs}
+{30197}{Larrs}
+{30198}{Caleb Malloy}
+{30199}{Case of ale}
+{30200}{Case of whiskey}
+{30201}{Vermillion Station}
+{30202}{Castleton's General Store}
+{30203}{Vorman Fine Clothes & Tailor}
+{30204}{Tor Lodestone's}
+{30205}{Monroe's Weapons of Technology}
+{30206}{Wallow's Quality Technological Armor}
+{30207}{Barach's Magerium}
+{30208}{Xe'rad's Magick Armory}
+{30209}{Zeramin's House of Darke Magick}
+{30210}{P. Schuyler & Sons}
+{30211}{Delores Beston, Seer of the Unnatural}
+{30212}{Madame Toussaude's House of Secrets}
+{30213}{H.T. Parnell's}
+{30214}{The Wellington Gentlemen's Club}
+{30215}{Grant's Tavern}
+{30216}{Caleb Malloy's Pub}
+{30217}{The Bridesdale Inn}
+{30218}{Poone's Flophouse}
+{30219}{Swyft}
+{30220}{Malek Nebbs}
+{30221}{Biggs}
+{30222}{Milo}
+{30223}{Treat}
+{30224}{Damian Maug}
+{30225}{Miranda Tears}
+{30226}{Pollock}
+{30227}{Vegard MoltenFlow}
+{30228}{Thrayne Iron Heart}
+{30229}{Erland Iron Heart}
+{30230}{Richard Leeks}
+{30231}{Erick Obsidian}
+{30232}{Drog Black Tooth}
+{30233}{Statue of the goddess Geshtianna}
+{30234}{Cyrus}
+{30235}{Edward Willoughsby}
+{30236}{Perriman Smythe}
+{30237}{Lorham}
+{30238}{Chief Inspector Henderson}
+{30239}{Renee}
+{30240}{Professor Eakins}
+{30241}{Skull}
+{30242}{Heinrich Jenks}
+{30243}{Bullors}
+{30244}{Vernon}
+{30245}{Renard}
+{30246}{Lobbyist}
+{30247}{Mellin Bungerton}
+{30248}{Joachim's note to Virgil}
+{30249}{Steamrail Station A: West Garillon Bridge}
+{30250}{Steamrail Station B: Vermillion Station}
+{30251}{Steamrail Station C: Tarant University}
+{30252}{Steamrail Station D: Warehouse District}
+{30253}{Steamrail Station E: Commercial District}
+{30254}{Steamrail Station F: Tarantian Docks}
+{30255}{Steamrail Station G: Kensington Park}
+{30256}{Exit only: NO RETURN SERVICE}
+{30257}{Exit Only}
+{30258}{Steamrail Attendant}
+{30259}{Special Invitation to the Wellington Gentlemen's Club}
+{30260}{Telegraph Operator}
+{30261}{Dept. of Water Clerk}
+{30262}{Vine Rope}
+{30263}{Sogg Mead Mug}
+{30264}{Dwarven Undead}
+{30265}{Norian's Potato Moonshine}
+{30266}{Tollo Underhill}
+{30267}{Z'an Al'urin}
+{30268}{Vollinger}
+{30269}{Waromon}
+{30270}{Torian Kel}
+{30271}{Franklin Payne}
+{30272}{William Radcliffe}
+{30273}{Lawrence Brummond: Died 1885}
+{30274}{Theo Brightstart}
+{30275}{Adam Maxwell}
+{30276}{Daniel Hallaway}
+{30277}{Garret Almstead}
+{30278}{Gurin Rockharrow}
+{30279}{Sammie White}
+{30280}{J.M. Morat}
+{30281}{Hubba}
+{30282}{Bubba}
+{30283}{- University Court -}
+{30284}{Safe}
+{30285}{Garringsburg Painting}
+{30286}{yourself (self-inflicted)}	// description used by ego page
+{30287}{another Player}			// description used by ego page
+{30288}{Wolf Cub}
+{30289}{Cassandra Pettibone}
+{30290}{Sir Leonid Anderson}
+{30291}{Thom Grak}
+{30292}{Mr. Plough}
+{30293}{Jared}
+{30294}{Merwin Tumblebrook}
+{30295}{Godfrey Castleburger}
+{30296}{Horace McGinley}
+{30297}{Muck Evil Eye}
+{30298}{D'ren Le'lor}
+{30299}{Solomon Doone}
+{30300}{Merik Luggerton}
+{30301}{Lugard Bloodstone}
+{30302}{Victoria Warrington}
+{30304}{Bel'an T'Seraa}
+{30305}{Clarisse Vorak}
+{30306}{Ker'ee Melange}
+{30307}{Wilhemina Carpenter}
+{30308}{Isaac Zapruder}
+{30309}{Madam Lil}
+{30310}{Housekeeper}
+{30311}{Laura}
+{30312}{Alice}
+{30313}{Cassie}
+{30314}{Bunny}
+{30315}{Willow}
+{30316}{Belle}
+{30317}{Mrs. Regina Halster}
+{30318}{Mr. Franklin}
+{30319}{Mr. Franklin's Butler}
+{30320}{Mr. Langley}
+{30321}{- 87 Kensington Broadway -}
+{30322}{- 85 Kensington Broadway -}
+{30323}{- 81 Kensington Broadway * The Sobbing Onion -}
+{30324}{- 79 Kensington Broadway -}
+{30325}{- 77 Kensington Broadway -}
+{30326}{- 17 Kensington Broadway * H.T. Parnell's -}
+{30327}{- 15 Kensington Broadway -}
+{30328}{- 21 Lungsten Road * The Pettibine Residence -}
+{30329}{- 19 Pickwick Alley * The Willoughsby Residence -}
+{30330}{- 37 Devonshire Way * The Garringsburg Residence -}
+{30331}{- 46 Devonshire Way * The Mooreland Residence -}
+{30332}{- 48 Devonshire Way * The Halster Residence -}
+{30333}{- 44 Devonshire Way * P. Schuyler & Sons -}
+{30334}{- 64 Grimson Way * The Franklin Residence -}
+{30335}{- 63 Grimson Way -}
+{30336}{- 67 Grimson Way -}
+{30337}{- 73 Vermillion Road * The Bridesdale Inn -}
+{30338}{- 50 Vermillion Road -}
+{30339}{- 44 Polton Cross -}
+{30340}{- 42 Polton Cross * Delores Beston, Seer of the Unnatural -}
+{30341}{- 40 Polton Cross -}
+{30342}{- 23 Desaille Terrace -}
+{30343}{- 18 Desaille Terrace -}
+{30344}{- 13 Torry Road -}
+{30345}{- 93 East End Avenue * The Zoological Society -}
+{30346}{- 15 University Court -}
+{30347}{- 20 University Court -}
+{30348}{- 24 University Court -}
+{30349}{- 87 East End Avenue -}
+{30350}{- 50 East End Avenue -}
+{30351}{- 15 Ten Hands Alley -}
+{30352}{- 18 Ten Hands Alley -}
+{30353}{- 32 Mulligan Bone Alley -}
+{30354}{- 35 Mulligan Bone Alley -}
+{30355}{- 33 Mulligan Bone Alley -}
+{30356}{- 12 East End Avenue -}
+{30357}{- 7 Lion's Head Circle -}
+{30358}{- 19 Lion's Head Circle -}
+{30359}{- 25 Lion's Head Circle -}
+{30360}{- 29 Low Dervish Row * Appleby Residence -}
+{30361}{- 13 Low Dervish Row * Poone's Flophouse -}
+{30362}{- 11 Low Dervish Row -}
+{30363}{- 77 Devonshire Way * Madam Toussaude's House of Secrets -}
+{30364}{- 69 Devonshire Way * Madam Lil's -}
+{30365}{Heron Device}
+{30366}{Mr. Fitzgerald's Potion of Dark Power}
+{30367}{Will-o-the-Wisp Essence}
+{30368}{Schreck's Multi-Barreled Pistol}
+{30369}{Lethe Wyvern Venom}
+{30370}{Napha Water}
+{30371}{Flawless Dwarven Rubies}
+{30372}{Gambling +2, Haggle +1}
+{30373}{Madam Lil's Key}
+{30374}{Cassie's Jewelry}
+{30375}{Sword of the Derian Ka}
+{30376}{Sunken Treasure}
+{30377}{CN:+2}
+{30378}{Enchanted Looking Glass}
+{30379}{BE:+2 CH:+1}
+{30380}{Bridge materials}
+{30381}{Shrouded Hills Steam Engine}
+{30382}{Ryan Sanders}
+{30383}{Jonathan Sanders}
+{30384}{Zaugg Kneecrush}
+{30385}{Leach Meanface}
+{30386}{Lug Treebreak}
+{30387}{Tor Bighand}
+{30388}{Flog Thornsmash}
+{30389}{Spoiled rich kid}
+{30390}{Kindly looking older gentleman}
+{30391}{Bodyguard}
+{30392}{Beautiful human female}
+{30393}{Housekeeper}
+{30394}{Half Orc female dominatrix}
+{30395}{Voluptuous human female}
+{30396}{Coquettish half elf female}
+{30397}{Young, inexperienced woman}
+{30398}{Pinched face older woman}
+{30399}{Overweight, homely gentleman}
+{30400}{Thad Willpound}
+{30401}{Mr. Franklin's butler}
+{30402}{Doorman}
+{30403}{Halfling farmer}
+{30404}{Shady looking human}
+{30405}{Innkeeper}
+{30406}{Blacksmith}
+{30407}{Well dressed gentleman}
+{30408}{D.K. Presscott}
+{30409}{Irate gnome gentleman}
+{30410}{Worthless Mutt}
+{30411}{Citizen}
+{30412}{Debonair gentleman}
+{30413}{Mrs. Lydia Cameron}
+{30414}{Older human female}
+{30415}{Body of Liam Cameron}
+{30416}{Dock Worker}
+{30417}{Factory Worker}
+{30418}{Factory Foreman}
+{30419}{Ship Captain}
+{30420}{Shopkeeper}
+{30421}{Train Conductor}
+{30422}{Train Ticket Agent}
+{30423}{Trevor Lynwood}
+{30424}{Young, distraught human}
+{30425}{Daniel McPherson}
+{30426}{Frazzled looking human male}
+{30427}{Clarissa Shalmo}
+{30428}{Beautiful Warrior Woman}
+{30429}{Frederick T. Fitzgerald}
+{30430}{Haughty city-bred gentleman}
+{30431}{This lich was once a powerful mage}
+{30432}{Gildor Nightwalk}
+{30433}{Aging halfling gentleman}
+{30434}{Sir Garrick Stout}
+{30435}{Captain of the Guard}
+{30436}{Lady Druella}
+{30437}{Stunningly beautiful waif}
+{30438}{Adkin Chambers}
+{30439}{Disfigured blind hermit - eyes cut out}
+{30440}{J.T. Morgan}
+{30441}{Beaten-down prisoner}
+{30442}{Mrs. R.L. Morgan}
+{30443}{Middle-aged woman}
+{30444}{Kal-N'driel aka Fawn}
+{30445}{Seemingly innocent elven female}
+{30446}{William Thorndop}
+{30447}{Maimed human monk}
+{30448}{Mr. Fildor Rolland}
+{30449}{Halfling peasant}
+{30450}{Mrs. Fallow Rolland}
+{30451}{Edward Willenbecker}
+{30452}{Outlaw}
+{30453}{Member of the Willenbecker Gang}
+{30454}{Albert Leek}
+{30455}{Pub patron}
+{30456}{Hall of Records Clerk}
+{30457}{Librarian}
+{30458}{Mr. Victor Wright}
+{30459}{Well-to-do business man}
+{30460}{Divinations and Magicks for the Adept Wizard}
+{30461}{BE:(+2)} // Complexity +40
+{30462}{Liam Cameron's Journal}
+{30463}{Thieves Underground Package}
+{30464}{Trevor Lynwood's Camera}
+{30465}{Mithral knife of G'har}
+{30466}{PE:+2 DX:+2 Divine Magick, See Contents, Teleport}
+{30467}{The Great Castle S'nel N'fa}
+{30468}{Tannon Wroughtbringer's Journal}
+{30469}{Great Ruby of K'alru}
+{30470}{Considerable bonus to prowling when worn}
+{30471}{Potion to Heal the Blind}
+{30472}{J.T. Morgan's Master Locksmith Tools}
+{30473}{Prowling +2} // Complexity 0 Caladon, +40 Roseborough
+{30474}{CN:(+4) MR:(+40)} // Complexity +80
+{30475}{Considerable bonus to haggle when worn}
+{30476}{Firearm Master's Rifle}
+{30477}{Note from Willenbecker Gang}
+{30478}{Note from Lady Druella}
+{30479}{Prowling Master Note 1}
+{30480}{Prowling Master Note 2}
+{30481}{Prowling Master Note 3}
+{30482}{The Mushroom Inn}
+{30483}{The Sobbing Onion}
+{30484}{Daniel Hallaway's Strongbox}
+{30485}{The Bleeding Rose Inn}
+{30486}{Thieves underground Bag of Jewels}
+{30487}{Cassie's Necklace}
+{30488}{Gift for Mrs. Regina Halster}
+{30489}{Note for Mrs. Regina Halster}
+{30490}{L.N. Renford}
+{30491}{Tarry Thornpick}
+{30492}{Magick Full Heal or Resurrect}
+{30493}{Magick Bean}
+{30494}{Irate old man}
+{30495}{Cranky old man}
+{30496}{David Wit}
+{30497}{Middle aged farmer}
+{30498}{Cynthia Wit}
+{30499}{Pretty farm girl}
+{30500}{Lycanthrope Restorative}
+{30501}{Winno Whitewash}
+{30502}{Maid}
+{30503}{Maug Maulman}
+{30504}{Lug Lefthook}
+{30505}{Thrall Tornhand}
+{30506}{Half Ogre Prisoner}
+{30507}{Obnoxious Elf}
+{30508}{T'val N'or}
+{30509}{Powerful Dark Elf Mage}
+{30510}{Jason C. Guy}
+{30511}{Scholarly Gentleman}
+{30512}{Key to Bates' Factory}
+{30513}{Map of Tarantian Sewers}
+{30514}{Nicholas Longfoot}
+{30515}{Madam's Bartender/Bouncer}
+{30516}{Lianna}
+{30517}{Tough Looking, Shady Character}
+{30518}{Mr. Black}
+{30519}{Mr. Razzia}
+{30520}{Saboteurs}
+{30521}{Vendigroth Journal}
+{30522}{}
+{30523}{Simeon Tor}
+{30524}{Jorian}
+{30525}{V'ed Eckes}
+{30526}{Arthur Tyron}
+{30527}{Sam Longwell}
+{30528}{James Legget}
+{30614}{Prowling +2}
+{30615}{Magick +10 to hit}
+{30616}{DX:+2 PE:+2}
+{30679}{D:1-8 FT:3-12 ST:CN:(+1)HR:(+50%)MSR:5 Maj Heal} // Complexity +40
+{30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1)} // Complexity +50
+{30681}{BE:(+2)} // Complexity +20
+{30682}{PE:+2 DX:+2} // Complexity 0
+{30719}{D:1-4 (+20 to Critical Failure)}
+{30720}{D:2-9 FT:2-5 (Speed -6)}
+{30721}{}
+{30722}{D:1-4 (+20 to Critical Failure)}
+{30734}{D:1-6 +Backstab Skill, Poisons and damages wielder}
+{30735}{D:1-4 Heal Rate -95%, Fatigue -50%}
+{30739}{D:5-20(+10) Evil Align, Harm, Lightning, and Quench Life}
+{30740}{D:5-30 Random fire damage}
+{30741}{D:1-5(+10) DX:-4 Chance Flesh to Stone. Fatigues wielder}
+{30745}{D:5-15 Random Bolt of Lightning}
+{30746}{D:1-12(+60) Very slow speed. Chance Hasten on enemies}
+{30748}{D:6-15 Chance Poisonous Vapors}
+{30750}{D:1-23 Aids enemies. Restores Fatigue, Major Healing}
+{30751}{D:1-8 FT:1-10(+15) Random Stasis}
+{30753}{D:1-8 Chance for Stun, Drain Will, Calls 3 zombies}
+{30755}{D:5-15(+15) FT:1-5 Speed +4, Chance damages wielder}
+{30757}{D:5-10(+20) FT:3-11 Chance for Squall of Ice}
+{30759}{D:5-10(+10) FT:2-5 Random Harm}
+{30761}{D:1-5, CN:-6 WP:-6 Fatigue damage on enemies}
+{30763}{D:1-23 FT:1-23 DX:-4 Very heavy, Very slow}
+{30764}{D:1-15 Switching effects DX,ST,CN:+3, or DX,ST,CN:-4}
+{30767}{D:1-3(+6) FT:1-3(+6) Random Shield of Protection}
+{30768}{MR:+20% DR-50%}
+{30769}{DR:+20% PR:-100% Poison and FT DOT}
+{30796}{DR:+20% PR:-100% Poison and FT DOT}
+{30801}{DR:ER:FR:MR:+100% PR:-100% Poison and FT DOT}
+{30802}{DR:+20% Heal Rate -100%, FT:-90%}
+{30803}{DR:+20% Fatigue DOT, Crit: FT:-100%}
+{30806}{DR:ER:FR:MR:PR:+20% ST,DX,PE:-3 -Dodge Skill}
+{30807}{DR:+20% MR:PR:-100%}
+{30815}{DR:ER:FR:MR:PR:+20% ST,DX,WP:-3 FT:-95%}
+{30817}{DR:MR:-50% PE:+4 Bow +2, HT/FT Reduced}
+{30818}{AC:15 DR:+5(+20%) PE:-1 Crit: Entangle}
+{30823}{DR:ER:FR:MR:+20% PR:-100% Poison and FT DOT}
+{30830}{DX:+2 FT DOT}
+{30831}{MR:+20% IN:+1 DR:ER:FR:PR:-50%}
+{30832}{Invisibility, Heal Rate -100%, HT/FT DOT}
+{30836}{MR:+20% DR:-50%}
+{30837}{Fireflash DOT in combat}
+{30881}{This stone is covered in ancient dwarven runes.}
+{30890}{This stone altar looks unused and stained.}
+{30967}{ST:+1 CN:+1 Healing +50%}
+{30973}{This old drum seems to have a key carved into its face.}
+{31099}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8} // Complexity +15
+{31134}{CH:+3 BE:+3 Persuasion +3, Haggle +3}
+{31135}{DR:ER:FR:MR:PR:+20% Poison DOT, Poison Vapours}
+{31169}{This old drum seems to have a book carved into its face.}
+{31170}{There's a faded symbol carved onto the drum's surface.}
+{31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9} // Complexity -35
+{31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) MSR:5 Divine Magick} // Complexity +40
+{31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0
+{31198}{D:1-4 FT:1-2 TH:(+10) MSR:3/3 Bolt of Lightning} //Complexity +25
+{31199}{D:1-10 FT:2-5 TH:(+20) RNG:15 CR:(+15) MSR:10} //Complexity +20
+{31200}{AC:2 DR:+1 FR:(+30) NP:+10 +20 Reaction} // Complexity +20
+{31201}{AC:5(+6)DR:+7(+12)FR:+3(+20)MR:(+10)NP:(+20)} // Complexity +80 #MISSING: Weight -30 but doesn't fit
+{31202}{D:1-4 FT:1-2 TH:(+15) SP:(+2) MSR 3/3} // Complexity +10
+{31203}{D:3-14 FT:2-10 TH:+15 MSR:7/9} // Complexity 0
+{31204}{AC:2 DR:+1 FR:+10 MR:+10} // Complexity -10
+{31207}{D:1-7 FT:1-10 TH:+20 MSR:7/9} // Complexity -10
+{31208}{D:1-4 FT:2-9 TH:10 RNG:2 MSR:5 Divine Magic} // Complexity +30
+{31209}{AC:2 DR:+10 NP+10 PE:-1} // Complexity 0
+{31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect} //  Complexity +75
+{31212}{AC:30(+10) DR:+10 Bolt of Lightning} // Complexity +40
+{40000}{[Quest] PE <8 +1 else -1}
+
+*** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
+
+
