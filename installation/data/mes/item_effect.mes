@@ -679,7 +679,7 @@
 {15065}{} Generic Item 1a
 {15066}{Can be repaired, can be reused if not destroyed [Crafting]} Mechanized Arachnid
 {15067}{[Quest]} Stillwater trap (empty)
-{15068}{[Quest]} Stillwater trap (full)
+{15068}{[Quest] There something inside.} Stillwater trap (full)
 {15069}{[Crafting: Chemistry] Metal is good conductor.} Metal Plates
 {15070}{Produce light around the user, shield slot [Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
@@ -714,7 +714,7 @@
 {15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
 {15101}{[Crafting: Mechanical]} Metal Clamp
 {15102}{Use it to safely defuse a trap} Trap Springer
-{15103}{[Crafting: Mechanical]} Pocket Watch Parts
+{15103}{[Crafting: Mechanical] Parts from the good watch.} Pocket Watch Parts
 {15104}{} Vase
 {15105}{[Junk] Decorative, plays music when opened.} Music Box
 {15106}{[Junk] Impractical without a table, just find lamp.} Candle Stick
@@ -742,10 +742,10 @@
 {15128}{[Valuable]} Rough-Cut Sapphire
 {15129}{[Valuable]} Rough-Cut Emerald
 {15130}{[Valuable]} Rough-Cut Diamond
-{15131}{[Valuable] Shatered Ruby Crystal} Rough-Cut Ruby
+{15131}{[Valuable] Shatered Ruby Crystal.} Rough-Cut Ruby
 {15132}{D:5-30 FD:5-30 Knockback [Crafting]}Explosive Grenade
 {15133}{Who needs followers when you can craft one?} Automaton
-{15134}{D:100-200 FD:5-20 [Crafting]}Dynamite
+{15134}{D:100-200 FD:5-20 [Crafting]} Dynamite
 {15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
 {15136}{[Crafting: Chemistry] Ideal for cleaning.} Potassium Chloride
 {15137}{[Crafting: Electric] Conduct power from pocket charges into something.} Small Electrical Parts
@@ -791,10 +791,10 @@
 {15177}{[Crafting: Mechanical]} Minute Steam Works
 {15178}{Allow to use Lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
-{15180}{[Quest]} Deed to the Bessie Toone Mine
+{15180}{[Quest] Toone family members are the only valid recipients.} Deed to the Bessie Toone Mine
 {15181}{[Offering] Weird statue} Li'tani
 {15182}{[Offering][Crafting: Quest]} Heartstone
-{15183}{[Offering][Valuable]} Mnura Coin
+{15183}{[Offering][Valuable] Silver Coin} Mnura Coin
 {15184}{[Offering] Cooled lump of magma.} Lava Rock
 {15185}{[Offering] Symbol of peace.} Olive Branch
 {15186}{[Offering] Rock with mineral formation inside.} Geode
@@ -815,8 +815,8 @@
 {15201}{[Valuable]} Ruby
 {15202}{[Valuable]} Sapphire
 {15203}{[Valuable]} Diamond
-{15204}{[Valuable]} Star Ruby
-{15205}{[Valuable]} Star Sapphire
+{15204}{[Valuable] It looks so cool.} Star Ruby
+{15205}{[Valuable] It looks so cool.} Star Sapphire
 {15206}{} Medical Kit //UNUSED INGAME
 {15207}{[Crafting: Explosives] Destilled crude oil used in lamps.} Kerosene
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
