@@ -175,8 +175,8 @@
 {8051}{AC:2 DR:5 PE:-1} Helmet
 {8052}{} Gauntlets
 {8053}{} Boots
-{8054}{} Fancy Ring
-{8055}{} Medallion
+{8054}{} Fancy Ring //changing its description effects unique item descriptions too
+{8055}{} Medallion //changing its description effects unique item descriptions too
 {8056}{DR: +2 D: +1 [Crafting] Sturdy pair of Gloves} Leather Gloves
 {8057}{Dexterity:(+2)} Charged Ring
 {8058}{} Small Heavy Wool Clothes
@@ -281,8 +281,8 @@
 {8157}{} Elven Chainmail
 {8158}{} Gnomish Chainmail
 {8159}{[Quest]} Molochean Hand Amulet
-{8160}{BE:+2}Medalion of Beuty Medallion of Beauty
-{8161}{MR:+40}Dorian Amulet Dorian Amulet
+{8160}{BE:+2} Medalion of Beuty Medallion of Beauty
+{8161}{MR:+40} Dorian Amulet Dorian Amulet
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates Ring
 {8164}{} Ring of Protection
@@ -304,7 +304,7 @@
 {8180}{DR:+5 Dexterity:(+2)} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
-{8183}{PE:+2 [Crafting]}Eye Gear
+{8183}{Perception:(+2) [Crafting]}Eye Gear
 {8184}{PE <8 +1 else -1 [Crafting: Quest][Crafting]} Eye Glasses
 {8185}{[Crafting]} Top Hat
 {8186}{AC:3 DR:+7 [Crafting]} Helmet of Vision
@@ -314,7 +314,7 @@
 {8190}{} Wooden Shield
 {8191}{} Dented Iron Shield
 {8192}{AC:30 [Crafting]} Quality Iron Shield
-{8193}{} Kite Shield Kite Shield
+{8193}{} Kite Shield
 {8194}{+ 10 AC, Shield slot, Detects Traps, Requires Charges} Flow Specktrometer
 {8195}{AC:30 ED:1-10 to Attacker} Shield of Force
 {8196}{AC=Evil Alignment/2} Shadow Shield
