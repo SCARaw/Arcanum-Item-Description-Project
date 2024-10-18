@@ -18,7 +18,7 @@
 {6039}{D:20-50 FT:1-15 RNG:15 MSR:12 [Crafting]} Elephant Gun
 {6040}{D:1-4 ED:10-40 MSR:8 Requires Charges [Crafting]}Tesla Rod
 {6041}{D:1-4 FD:15-30 RNG:3 MSR:15} Flame Thrower
-{6042}{D:1-8(+3) FT:1-4 TH:(+5) MSR:5/7} Enchanted Sword
+{6042}{D:1-8(+3) FT:1-4 MSR:5/7} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
 {6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7 [Crafting]} Fine Revolver //changing its description effects unique item descriptions too
 {6045}{D:4-9 FT:1-5 RNG:15 MSR:8 [Crafting]} Repeater Rifle
@@ -38,7 +38,7 @@
 {6059}{D:1-8 FT:1-4 MSR:3/5} Rapier
 {6060}{D:1-6 FT:1-3 MSR:3/5} Short Sword
 {6061}{D:2-10 FT:1-5 MSR:6/8} Scimitar
-{6062}{D:3-12 FT:1-3 MSR:6/4} Katana
+{6062}{D:3-12 FT:1-3 MSR:4/6} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
 {6064}{D:1-8 FT:1-4 MSR:5/7 (AC+15)} Sword of Defense
 {6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal)}Stillwater Blade
@@ -166,7 +166,7 @@
 {8042}{} Heavy Wool Clothes
 {8043}{} Guard Leather
 {8044}{} Chainmail
-{8045}{} Machined Platemail
+{8045}{AC:30 DR:+20 FR:+20 NP:-90 ST:(+3) MA gives -resist} Machined Platemail
 {8046}{} Priest Robes
 {8047}{} Mithril Platemail
 {8048}{} Dread Armour
@@ -182,7 +182,7 @@
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
 {8060}{} Small Chainmail
-{8061}{} Small Machined Platemail
+{8061}{AC:30 DR:+15 FR:+20 NP:-90 ST:(+3) MA gives -resist} Small Machined Platemail
 {8062}{} Small Priest Robes
 {8063}{} Small Mithril Platemail
 {8064}{} Small Dread Armour
@@ -194,7 +194,7 @@
 {8070}{} Suede Jacket
 {8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1} Oiled Thieves Leather
 {8072}{} Mithril Chainmail
-{8073}{} Machined Plate
+{8073}{AC:25 DR:+45 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Machined Plate
 {8074}{AC:5 DR:7 FR:3 Prowling +2} Shadowing Robes
 {8075}{AC:15 DR:+36 FR:+10 ER:-20 NP:-80 [Crafting]} Basic Platemail
 {8076}{} Red Barbarian Clothes
@@ -202,7 +202,7 @@
 {8078}{} Small Suede Jacket
 {8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1} Small Oiled Thieves Leather
 {8080}{} Small Mithril Chainmail
-{8081}{} Small Machined Plate
+{8081}{AC:25 DR:+38 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Small Machined Plate
 {8082}{AC:5 DR:7 FR:3 Prowling +2} Small Robe of the Chameleon
 {8083}{AC:14 DR:+30 FR:+8 ER:-20 NP:-80 [Crafting]} Small Basic Platemail
 {8084}{} Small Red Barbarian Clothes
@@ -214,7 +214,7 @@
 {8090}{} Wool Jacket
 {8091}{AC:9 DR:16 FR:+5 NP:-10 [Crafting]} Leather Armour
 {8092}{} Oiled Chainmail
-{8093}{AC: 20 DR: +30 FR: +10 ER: -20 NP: -80 [Quest]} Basic Machined Plate
+{8093}{AC:20 DR:+30 FR:+10 ER:-20 NP:-80 [Quest]} Basic Machined Plate
 {8094}{} Robes
 {8095}{} Bronzed Plate
 {8096}{} Bronze Barbarian Clothes
@@ -350,9 +350,9 @@
 {8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Resistances(+15)} Small Mystic Chainmail
 {8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Resistances(+20)} Arcane Chainmail
 {8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Resistances(+20)} Small Arcane Chainmail
-{8229}{} Electro-Armor
-{8230}{} Small Electro-Armor
-{8231}{} Large Electro-Armor
+{8229}{AC:18 DR:+45 FR:+10 ER:+65 NP:-80 MA gives -resist} Electro-Armor
+{8230}{AC:18 DR:+40 FR:+10 ER:+65 NP:-80 MA gives -resist} Small Electro-Armor
+{8231}{AC:18 DR:+47 FR:+10 ER:+65 NP:-80 MA gives -resist} Large Electro-Armor
 {8232}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Charmed Robes
 {8233}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Small Charmed Robes
 {8234}{AC:3 DR:3 FR:2(+20) All Other Resistances(+20)} Magick Robes
@@ -379,7 +379,7 @@
 {8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Resistances(+8)} Small Mystic Platemail
 {8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Resistances(+10)} Arcane Platemail
 {8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Resistances(+10)} Small Arcane Platemail
-{8258}{} Flow Disruptor Shield
+{8258}{AC:30 MR:(+30)} Flow Disruptor Shield
 {8259}{} Charmed Shield
 {8260}{} Magick Shield
 {8261}{} Mystic Shield
@@ -412,7 +412,7 @@
 {8288}{[Valuable]} Sapphire Necklace
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 PE:+3} Goggled Helmet
-{8291}{} Large Machined Platemail 
+{8291}{AC:25 DR:+53 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Large Machined Platemail 
 {8292}{AC:13 DR:+25 FR:+5 ER:-10 NP:-25 [Crafting]} Large Feather-Weight Chain 
 
 //Gold
@@ -438,7 +438,7 @@
 {10073}{[Junk] Good and cheap fertilizer.} Ammonia
 {10074}{Heals up to 20pts of Health} Heal Lesser Wounds
 {10075}{+290 Poison Level to the target [Crafting]}Strong Poison
-{10076}{Heals up to 60pts of Health and Fatigue [Crafting]} Cure All
+{10076}{Heals all poison, injuries, scars, HP. +160 FT [Crafting]} Cure All
 {10077}{Reduces 80 poison levels} Cure Poison
 {10078}{Halves fatigue consumption for 180 sec. [Crafting]}Fatigue Limiter
 {10079}{1pt heal every 4 sec. for 100 sec. [Crafting]}Accelerate Healing
@@ -784,7 +784,7 @@
 {15170}{It follows you and sheds light around itself} Illuminated Decoy
 {15171}{D:5-30 FD:5-30 It has a nasty surprise when destroyed} Explosive Decoy
 {15172}{} UNUSED Automaton Gunner //UNUSED INGAME
-{15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Untraceable} Time Bomb
+{15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Untraceable]} Time Bomb
 {15174}{Throw it then use detonator [Untraceable]} Plastique
 {15175}{Detonates all planted plastiques.} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
