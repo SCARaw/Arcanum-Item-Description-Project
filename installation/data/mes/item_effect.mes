@@ -31,7 +31,7 @@
 {6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
 {6053}{D:2-12 FT:1-6 MSR:3/3} Mechanical Dagger
 {6054}{D:1-4 FT:1-2 MSR:2/2 (Mana:10)} Mage's Dagger
-{6055}{D:1-4 FT:1-2 MSR:3/3 (Speed +4)}Dagger of speed
+{6055}{D:1-4 FT:1-2 MSR:3/3 Speed:(+4)}Dagger of speed
 {6056}{D:1-4 FT:1-2 MSR:6/8} Rusty Sword
 {6057}{D:2-9 FT:2-5 MSR:6/8} Quality Sword
 {6058}{D:2-9 FT:2-5 MSR:6/8} Caladon Elite Sword
@@ -167,9 +167,9 @@
 {8043}{} Guard Leather
 {8044}{} Chainmail
 {8045}{AC:30 DR:+20 FR:+20 NP:-90 ST:(+3) MA gives -resist} Machined Platemail
-{8046}{} Priest Robes
-{8047}{} Mithril Platemail
-{8048}{} Dread Armour
+{8046}{AC:3 DR:+2 FR:-15 MR:+10} Priest Robes
+{8047}{AC:15(+5) DR:+20(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Mithril Platemail
+{8048}{AC:19(+31) DR:+5 FR:(+5) NP:-20 Reaction:-10} Dread Armour
 {8049}{} Nice Suit
 {8050}{} Battered Wooden Shield
 {8051}{AC:2 DR:5 PE:-1} Helmet
@@ -183,29 +183,29 @@
 {8059}{} Small Guard Leather
 {8060}{} Small Chainmail
 {8061}{AC:30 DR:+15 FR:+20 NP:-90 ST:(+3) MA gives -resist} Small Machined Platemail
-{8062}{} Small Priest Robes
-{8063}{} Small Mithril Platemail
-{8064}{} Small Dread Armour
+{8062}{AC:3 DR:+2 FR:-15 MR:+10} Small Priest Robes
+{8063}{AC:15(+5) DR:+15(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Small Mithril Platemail
+{8064}{AC:19(+31) DR:+5 FR:(+5) NP:-20 Reaction:-10} Small Dread Armour
 {8065}{} Small Nice Suit
 {8066}{} Large Heavy Wool Clothes
 {8067}{} Large Guard Leather
-{8068}{} Large Mithril Platemail
+{8068}{AC:15(+5) DR:+25(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Large Mithril Platemail
 {8069}{} Large Nice Suit
 {8070}{} Suede Jacket
 {8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1} Oiled Thieves Leather
-{8072}{} Mithril Chainmail
+{8072}{AC:12(+2) DR:+23(+2) FR:+5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25} Mithril Chainmail
 {8073}{AC:25 DR:+45 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Machined Plate
 {8074}{AC:5 DR:7 FR:3 Prowling +2} Shadowing Robes
 {8075}{AC:15 DR:+36 FR:+10 ER:-20 NP:-80 [Crafting]} Basic Platemail
-{8076}{} Red Barbarian Clothes
+{8076}{AC:11 DR:+16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25} Red Barbarian Clothes
 {8077}{AC:2  DR:1  +20 Reaction} Smoking Jacket
 {8078}{} Small Suede Jacket
 {8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1} Small Oiled Thieves Leather
-{8080}{} Small Mithril Chainmail
+{8080}{AC:12(+2) DR:+21(+2) FR:+5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25} Small Mithril Chainmail
 {8081}{AC:25 DR:+38 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Small Machined Plate
 {8082}{AC:5 DR:7 FR:3 Prowling +2} Small Robe of the Chameleon
 {8083}{AC:14 DR:+30 FR:+8 ER:-20 NP:-80 [Crafting]} Small Basic Platemail
-{8084}{} Small Red Barbarian Clothes
+{8084}{AC:11 DR:+16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25} Small Red Barbarian Clothes
 {8085}{AC:2  DR:1  +20 Reaction} Small Smoking Jacket
 {8086}{} Heavy Rags
 {8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Large Oiled Thieves Leather
@@ -217,7 +217,7 @@
 {8093}{AC:20 DR:+30 FR:+10 ER:-20 NP:-80 [Quest]} Basic Machined Plate
 {8094}{} Robes
 {8095}{} Bronzed Plate
-{8096}{} Bronze Barbarian Clothes
+{8096}{AC:11 DR:+20 NP:-25 Reaction:-5} Bronze Barbarian Clothes
 {8097}{} Servants Clothes
 {8098}{} Small Wool Jacket
 {8099}{AC:9 DR:14 FR:+5 NP:-10 [Crafting]} Small Leather Armour
@@ -225,7 +225,7 @@
 {8101}{} Small Basic Machined Platemail
 {8102}{} Small Robes
 {8103}{} Small Bronzed Plate
-{8104}{} Small Bronze Barbarian Clothes
+{8104}{AC:11 DR:+20 NP:-25 Reaction:-5} Small Bronze Barbarian Clothes
 {8105}{} Small Manservants Clothes
 {8106}{} Large Wool Jacket
 {8107}{AC:9 DR:+17 FR:+5 NP:-10 [Crafting]} Large Leather Armour
@@ -237,7 +237,7 @@
 {8113}{} Guard Plate
 {8114}{} Magick Robes
 {8115}{AC:20 DR:40 FR:30 NP:-35 [Crafting]} Elite Plate
-{8116}{} Barbarian Clothes
+{8116}{AC:11 DR:+20 NP:-25 Reaction:-5} Barbarian Clothes
 {8117}{} Rustic Finery
 {8118}{} Small Jacket
 {8119}{} Small Studded Leather
@@ -245,7 +245,7 @@
 {8121}{} Small Guard Plate
 {8122}{} Small Magick Robes
 {8123}{AC:20 DR:35 FR:30 NP:-35 [Crafting]} Small Elite Plate
-{8124}{} Small Barbarian Clothes
+{8124}{AC:11 DR:+20 NP:-25 Reaction:-5} Small Barbarian Clothes
 {8125}{} Small Rustic Finery
 {8126}{} Rags
 {8127}{} Large Studded Leather
@@ -281,8 +281,8 @@
 {8157}{} Elven Chainmail
 {8158}{} Gnomish Chainmail
 {8159}{[Quest]} Molochean Hand Amulet
-{8160}{BE:+2} Medalion of Beuty Medallion of Beauty
-{8161}{MR:+40} Dorian Amulet Dorian Amulet
+{8160}{BE:(+2)} Medalion of Beuty Medallion of Beauty
+{8161}{MR:(+40)} Dorian Amulet Dorian Amulet
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates Ring
 {8164}{} Ring of Protection
@@ -295,7 +295,7 @@
 {8171}{} Ladies Fancy Boots
 {8172}{} Worn Ladies Boots
 {8173}{} Elven Boots
-{8174}{AC:5 DR:+6 NP:-10 Speed +5} Enchanted War Boots
+{8174}{AC:5 DR:+6 NP:-10 Speed:(+5)} Enchanted War Boots
 {8175}{} Dwarven Gauntlets
 {8176}{} Machined Gauntlets
 {8177}{} War Gauntlets
