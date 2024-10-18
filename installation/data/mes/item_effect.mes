@@ -306,7 +306,7 @@
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
 {8183}{Perception:(+2) [Crafting]}Eye Gear
 {8184}{PE <8 +1 else -1 [Crafting: Quest][Crafting]} Eye Glasses
-{8185}{[Crafting]} Top Hat
+{8185}{[Crafting] Cylindric Hat for upper class.} Top Hat
 {8186}{AC:3 DR:+7 [Crafting]} Helmet of Vision
 {8187}{DR:+20} Chapeau of Magnetic Inversion
 {8188}{AC:3 DR:7 PE:-1 Light} Helm of Light
@@ -322,8 +322,8 @@
 {8198}{} Minute Platemail of Regeneration
 {8199}{AC:3 DR:7 PE:-1 [Crafting]} Great Helm
 {8200}{AC:2  DR:+1  NP:-10 +20 Reaction} Sunday's Best Dress
-{8201}{} Officer's Uniform Officer's Uniform
-{8202}{} Small Officer's Uniform Small Officer's Uniform
+{8201}{} Officer's Uniform
+{8202}{} Small Officer's Uniform
 {8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership
 {8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves
@@ -469,10 +469,10 @@
 {10104}{[Junk]} Nimm's Phosphorous Tincture
 {10105}{[Crafting: Therapeutics]} Quinine
 {10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
-{10107}{[Crafting: Therapeutics]} Rheumatism Cure
+{10107}{[Crafting: Therapeutics] Mustard plasters.} Rheumatism Cure
 {10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
-{10109}{[Crafting: Therapeutics]} Tincture of Arnica
-{10110}{[Crafting: Explosives]} CK Sugar
+{10109}{[Crafting: Therapeutics] Inflamation aid.} Tincture of Arnica
+{10110}{[Crafting: Explosives] Staple of every house.} CK Sugar
 {10111}{Turns target into a mindless slave for 60 sec.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
 {10112}{Permanent: +1 Mental stats, -1 physical stats}Brain Builder
 {10113}{Permanent: +1 Physical stats, -1 mental stats}Muscle Maker
