@@ -162,7 +162,7 @@
 {7040}{[Crafting: Chemistry] Battery} Battery
 {7041}{[Crafting: Explosive] Fuel} Fuel
 
-//Armor
+//Armour
 {8042}{} Heavy Wool Clothes
 {8043}{} Guard Leather
 {8044}{} Chainmail
@@ -281,12 +281,12 @@
 {8157}{} Elven Chainmail
 {8158}{} Gnomish Chainmail
 {8159}{[Quest]} Molochean Hand Amulet
-{8160}{BE:+2} Medallion of Beauty
-{8161}{MR:+40} Dorian Amulet
+{8160}{Beauty:(+2)} Medallion of Beauty
+{8161}{Magic Resistance:(+40)} Dorian Amulet
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates' Ring
 {8164}{} Ring of Protection
-{8165}{Crit Hit Chance +5, Gambling +1} Fated Ring
+{8165}{Crit Hit Chance +5, Gambling:(+1)} Fated Ring
 {8166}{} Metal Boots
 {8167}{} Fine Stout Boots
 {8168}{} Shoes
@@ -749,7 +749,7 @@
 {15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
 {15136}{[Crafting: Chemistry] Ideal for cleaning.} Potassium Chloride
 {15137}{[Crafting: Electric] Conduct power from pocket charges into something.} Small Electrical Parts
-{15138}{[Crafting: Explosives] Oxidiser in fireworks and explosives.} Saltpeter
+{15138}{[Crafting: Explosives] Salt used to preserve the meat.} Saltpeter // Saltpeter is sold in general store, its SALT
 {15139}{[Crafting: Explosives] Dangerous substance.} Nitroglycerin
 {15140}{[Crafting: Electric] Use to convert electricity into heat.} Electrical Coil
 {15141}{[Crafting: Explosives] Empty can, washed in the rain.} Metal Can
@@ -789,7 +789,7 @@
 {15175}{Detonates all planted plastiques.} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical]} Minute Steam Works
-{15178}{Allow to open locks using lock picking skill} Crude Lockpicks
+{15178}{Allow to use lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
 {15180}{[Quest] Toone family members are the only valid recipients.} Deed to the Bessie Toone Mine
 {15181}{[Offering] Weird statue} Li'tani
@@ -798,7 +798,7 @@
 {15184}{[Offering] Cooled lump of magma.} Lava Rock
 {15185}{[Offering] Symbol of peace.} Olive Branch
 {15186}{[Offering] Rock with mineral formation inside.} Geode
-{15187}{[Offering][Valuable] Rare diamond} Black Diamond
+{15187}{[Offering][Valuable] Rare diamond, glossy and tar.} Black Diamond
 {15188}{Gives expertise bonus equal to Intelligence, can be stacked} Chemistry Manuals
 {15189}{Gives expertise bonus equal to Intelligence, can be stacked} Explosives Manuals
 {15190}{Gives expertise bonus equal to Intelligence, can be stacked} Herbology Manuals
