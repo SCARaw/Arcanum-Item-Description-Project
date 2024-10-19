@@ -404,7 +404,7 @@
 {8280}{[Valuable]} Ruby Ring
 {8281}{[Valuable]} Sapphire Ring
 {8282}{[Valuable]} Diamond Ring
-{8283}{[Junk]} Wooden Ring
+{8283}{[Junk] Looks decorative from a far.} Wooden Ring
 {8284}{[Valuable]} Silver Ring
 {8285}{[Valuable]} Mithril Ring
 {8286}{[Valuable]} Emerald Necklace
@@ -467,7 +467,7 @@
 {10102}{[Crafting: Therapeutics]} Nerve Pills
 {10103}{+2 Perception for 39 min.}Liquid of Awareness Liquid of Awareness
 {10104}{[Junk]} Nimm's Phosphorous Tincture
-{10105}{[Crafting: Therapeutics]} Quinine
+{10105}{[Crafting: Therapeutics] Salt for harsh diseases.} Quinine
 {10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
 {10107}{[Crafting: Therapeutics] Mustard plasters.} Rheumatism Cure
 {10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
@@ -745,7 +745,7 @@
 {15131}{[Valuable] Shatered Ruby Crystal.} Rough-Cut Ruby
 {15132}{D:5-30 FD:5-30 Knockback [Crafting]}Explosive Grenade
 {15133}{Who needs followers when you can craft one?} Automaton
-{15134}{D:100-200 FD:5-20 [Crafting]} Dynamite
+{15134}{D:100-200 FD:5-20 [Crafting] fuse 11 sec.} Dynamite
 {15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
 {15136}{[Crafting: Chemistry] Ideal for cleaning.} Potassium Chloride
 {15137}{[Crafting: Electric] Conduct power from pocket charges into something.} Small Electrical Parts
