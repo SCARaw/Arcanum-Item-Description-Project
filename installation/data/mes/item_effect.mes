@@ -1,5 +1,5 @@
-// this file holds the descriptions of item effects that the player
-// will see when he or she hovers over the item
+// this file holds the descriptions of item effects that the players
+// will see when they hover over the item
 // NOTE: leave the first message 0 blank
 
 {0}{}
@@ -70,7 +70,7 @@
 {6091}{D:2-18 FT:2-10 MSR:14/18} Claymore
 {6092}{D:1-20 FT:1-10 MSR:14/18} Flamberge
 {6093}{D:8-20 FT:6-12 MSR:16/20} Barbarian's Heavy Blade
-{6094}{D:4-16 FT:3-11 MSR:8/12 (Weight:20)}Sword of Air
+{6094}{D:4-16 FT:3-11 MSR:8/12 (Weight:20)} Sword of Air
 {6095}{D:4-16 FT:3-11 PD:1-20 MSR:14/18} Sword of Sickness
 {6096}{D:5-18 FT:3-9 RNG:15 MSR:8 [Crafting]} Compound Bow
 {6097}{D:1-8 FT:1-3 RNG:10 MSR:5} Short Bow
@@ -152,7 +152,7 @@
 {6173}{D:20-40 FT:1-10 ED:10-10 RNG:15 MSR:5/7} Droch's Warbringer
 {6174}{D:5-25 FT:1-7 RNG:15 MSR:8 [Crafting]} Large Bore Vendigrothian Rifle
 {6175}{D:1-1 FT:1-3 MSR:6/8 [Crafting]} Oak Axe Handle
-{6176}{D:3-6 MSR:2/2 Bypasses AC/DR}Stiletto
+{6176}{D:3-6 MSR:2/2 Bypasses AC/DR} Stiletto
 {6177}{D:1-3 MSR:3/3 [Offering]} Bone Dagger
 {6178}{D:2-6 MSR:3/3} Kite Sword 
 
@@ -162,7 +162,7 @@
 {7040}{[Crafting: Chemistry] Battery} Battery
 {7041}{[Crafting: Explosive] Fuel} Fuel
 
-//Armour
+//Armor
 {8042}{} Heavy Wool Clothes
 {8043}{} Guard Leather
 {8044}{} Chainmail
@@ -281,10 +281,10 @@
 {8157}{} Elven Chainmail
 {8158}{} Gnomish Chainmail
 {8159}{[Quest]} Molochean Hand Amulet
-{8160}{Beauty:(+2)} Medalion of Beuty
-{8161}{Magic Resistance:(+40)} Dorian Amulet
+{8160}{BE:+2} Medallion of Beauty
+{8161}{MR:+40} Dorian Amulet
 {8162}{} Decent Gold Ring
-{8163}{} Gilbert Bates Ring
+{8163}{} Gilbert Bates' Ring
 {8164}{} Ring of Protection
 {8165}{Crit Hit Chance +5, Gambling +1} Fated Ring
 {8166}{} Metal Boots
@@ -437,7 +437,7 @@
 {10072}{[Crafting: Therapeutics]} Famous Blood Pills
 {10073}{[Junk] Good and cheap fertilizer.} Ammonia
 {10074}{Heals up to 20pts of Health} Heal Lesser Wounds
-{10075}{+290 Poison Level to the target [Crafting]}Strong Poison
+{10075}{+290 Poison Level to the target [Crafting]} Strong Poison
 {10076}{Heals all poison, injuries, scars, HP. +160 FT [Crafting]} Cure All
 {10077}{Reduces 80 poison levels} Cure Poison
 {10078}{Halves fatigue consumption for 180 sec. [Crafting]}Fatigue Limiter
@@ -450,22 +450,22 @@
 {10085}{Explodes for 1-100 acid damage to items [Crafting]} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
 {10087}{Prevents wild animals from attacking for 338 sec.} Animal Scent
-{10088}{[Crafting: Chemistry] Used in alcohol} Brewer's Yeast
+{10088}{[Crafting: Chemistry] Used for alcohol} Brewer's Yeast
 {10089}{[Crafting: Chemistry] Medical substance.} Pete's Carbolic Acid
-{10090}{Makes Target Flee [Crafting]}Potion of Paralysis Hallucinite // Hallucination Grenade text
+{10090}{Makes Target Flee [Crafting]} Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{[Crafting: Chemistry] These are not poisonous.} Mushrooms
 {10092}{[Crafting: Chemistry] Diet suplement, health and antioxydant production.} Sulphur Pills
-{10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]}Wine
+{10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]} Wine
 {10094}{[Crafting: Chemistry]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk]} Dragon Cologne
 {10096}{[Junk]} Lingham's Belladonna
-{10097}{+2 All Stats for 27 min.}Revitalizer Revitalizer
-{10098}{+2 Mental stats for 39 min.[Crafting]}Mind Marvel
+{10097}{+2 All Stats for 27 min.} Revitalizer
+{10098}{+2 Mental stats for 39 min.[Crafting]} Mind Marvel
 {10099}{+2 Dexterity for 39 min.} Tonic of Increased Reflexes
-{10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]}Energizer
+{10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]} Energizer
 {10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
 {10102}{[Crafting: Therapeutics]} Nerve Pills
-{10103}{+2 Perception for 39 min.}Liquid of Awareness Liquid of Awareness
+{10103}{+2 Perception for 39 min.} Liquid of Awareness
 {10104}{[Junk]} Nimm's Phosphorous Tincture
 {10105}{[Crafting: Therapeutics] Salt for harsh diseases.} Quinine
 {10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
@@ -473,16 +473,16 @@
 {10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
 {10109}{[Crafting: Therapeutics] Inflamation aid.} Tincture of Arnica
 {10110}{[Crafting: Explosives] Staple of every house.} CK Sugar
-{10111}{Turns target into a mindless slave for 60 sec.}Elixir of Hypnotic Suggestion Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
-{10112}{Permanent: +1 Mental stats, -1 physical stats}Brain Builder
-{10113}{Permanent: +1 Physical stats, -1 mental stats}Muscle Maker
-{10114}{+25 max. health +25 max. fatigue for 60 sec.}Invigorator
-{10115}{Raises the target from the dead.}Reanimator Reanimator // Scroll of Resurrect text 
+{10111}{Turns target into a mindless slave for 60 sec.} Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
+{10112}{Permanent: +1 Mental stats, -1 physical stats} Brain Builder
+{10113}{Permanent: +1 Physical stats, -1 mental stats} Muscle Maker
+{10114}{+25 max. health +25 max. fatigue for 60 sec.} Invigorator
+{10115}{Raises the target from the dead.} Reanimator // Scroll of Resurrect text 
 {10116}{Restores 100 Health and 100 Fatigue} Miracle Cure
 {10117}{Halves the target's Willpower for 60 sec.} Mental Inhibitor
-{10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer Necromizer
-{10119}{+30 Damage Resistance for 120 sec. [Crafting]} Fortifier Fortifier
-{10120}{Deals %70-150 FT damage depends on the target [Crafting]} Sleep Aid Anaesthisizer
+{10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer
+{10119}{+30 Damage Resistance for 120 sec. [Crafting]} Fortifier
+{10120}{Deals %70-150 FT damage depending on the target [Crafting]} Sleep Aid Anaesthesizer
 {10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
 {10122}{[Crafting: Electric]} Lemon
 {10123}{[Crafting: Electric]} Potato
@@ -494,8 +494,8 @@
 {10129}{[Gift] Staple of quality on your table.} Earl Grey Tea
 {10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
 {10131}{[Gift] Yum.} Sweet Cakes
-{10132}{+2 to all of the mental stats for 39 min.}Vendigrothian Elixir
-{10133}{Legendary Potion gives +1 to All Attributes Permanently.}Vivifier
+{10132}{+2 to all of the mental stats for 39 min.} Vendigrothian Elixir
+{10133}{Legendary Potion gives +1 to All Attributes Permanently.} Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
 {10135}{Restores up to 30pts of Fatigue.} Light Fatigue Restore
 {10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
@@ -514,7 +514,7 @@
 {11060}{Allows you to unlock doors and containers.} Scroll of Unlocking Cantrip
 {11061}{Pushes an opponent away from you.} Scroll of Unseen Force
 {11062}{Allows you to teleport a few feet in any direction.} Scroll of Spatial Distortion
-{11063}{Allows you to Teleport to known locations.} Scroll of Teleportation
+{11063}{Allows you to teleport to known locations.} Scroll of Teleportation
 {11064}{Allows you to divine a creature's alignment.} Scroll of Sense Alignment
 {11065}{Allows you to see the content of a container.} Scroll of See Contents
 {11066}{Allows you to know a creature's characteristics.} Scroll of Read Aura
@@ -553,14 +553,14 @@
 {11099}{Increases the target's magickal resisitance.} Scroll of Resist Magick
 {11100}{Discontinues all spells on the target.} Scroll of Disperse Magick
 {11101}{Significantly increases the target's magickal resisitance.} Scroll of Dweomer Shield
-{11102}{Prohibits the target to cast magickal spells.} Scroll of Bonds of Magic
+{11102}{Prohibits the target from casting magickal spells.} Scroll of Bonds of Magic
 {11103}{Reflects magickal spells back at the caster.} Scroll of Reflection Shield
 {11104}{Increases the damage levels of unarmed attacks.} Scroll of Hardened Hands
 {11105}{Decreases the strength of the target.} Scroll of Weaken
 {11106}{Shrinks the target.} Scroll of Shrink
 {11107}{Turns the target into stone.} Scroll of Flesh to Stone
 {11108}{Tranforms the target into an animal.} Scroll of Polymorph
-{11109}{Tames any animal targeted.} Scroll of Charm Beast
+{11109}{Tames any targeted animal.} Scroll of Charm Beast
 {11110}{Summons magickal vines to ensnare opponents.} Scroll of Entangle
 {11111}{Summons a magickal animal familiar.} Scroll of Control Beast
 {11112}{Summons an animal follower, scales with MA.} Scroll of Succour Beast
@@ -572,7 +572,7 @@
 {11118}{Kills the target, by stealing their soul.} Scroll of Quench Life
 {11119}{Increases the target's vitality.} Scroll of Minor Healing
 {11120}{Cures poisons within the target.} Scroll of Halt Poison
-{11121}{Increases the target's vitality.} Scroll of Major Healing
+{11121}{Significantly increases the target's vitality.} Scroll of Major Healing
 {11122}{Allows the target to walk among the undead.} Scroll of Sanctuary
 {11123}{Raises the target from the dead.} Scroll of Resurrect
 {11124}{Casts a light around the target.} Scroll of Illuminate
@@ -677,82 +677,82 @@
 
 // Items
 {15065}{} Generic Item 1a
-{15066}{Can be repaired, can be reused if not destroyed [Crafting]} Mechanized Arachnid
+{15066}{Can be repaired and reused if not destroyed [Crafting]} Mechanized Arachnid
 {15067}{[Quest]} Stillwater trap (empty)
 {15068}{[Quest] There something inside.} Stillwater trap (full)
 {15069}{[Crafting: Chemistry] Metal is good conductor.} Metal Plates
 {15070}{Produce light around the user, shield slot [Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
-{15072}{Produce light around the user, shield slot.} Lantern
+{15072}{Produces light around the user, in offhand} Lantern
 {15073}{[Crafting: Electric] Small device that energy charge} Capacitor
 {15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
-{15075}{[Junk] Maybe blacksmith will pay you for this?} Coal
+{15075}{[Junk] Maybe a blacksmith will pay you for this?} Coal
 {15076}{[Crafting: Explosives] Soft reactive metal.} Magnesium
 {15077}{[Junk] Leftovers from Factory work.} Metal Shavings
 {15078}{[Crafting: Guns] High quality handgun part.} Gun Chassis
 {15079}{[Crafting: Guns] Cylinder designed to hold bullets.} Revolver Chamber
 {15080}{Deals 15-25 damage.} Spike Trap
 {15081}{Bonus to picklock skill +10%} Auto Skeleton Key
-{15082}{[Crafting: Mechanical] bigger the spring greater the force} Large Spring
+{15082}{[Crafting: Mechanical] Bigger spring, greater force} Large Spring
 {15083}{[Crafting: Mechanical] Popular in industrial quality devices} Small Spring
 {15084}{Bonus to picklock skill +5% [Crafting]} Lockpicks
-{15085}{[Crafting: Smithy] Free from polution, looks like silver.} Pure Ore
-{15086}{[Crafting: Smithy] The raw material require processing.} Iron Ore
-{15087}{[Crafting: Smithy] Quality metal popular among smithes.} Steel
-{15088}{[Crafting: Smithy] Finely made hilt, comfortable to hold.} Fine Hilt and Guard
+{15085}{[Crafting: Smithy] Shiny high quality ore.} Pure Ore
+{15086}{[Crafting: Smithy] Raw material requires processing.} Iron Ore
+{15087}{[Crafting: Smithy] Quality metal popular among smiths.} Steel
+{15088}{[Crafting: Smithy] Well made hilt, comfortable to hold.} Fine Hilt and Guard
 {15089}{[Crafting: Therapeutics] Heat expand Mercury in Glass tube.} Thermometer 
 {15090}{[Crafting: Mechanical]} Small Steam Engine
-{15091}{[Crafting: Mechanical] Large Cogs for heaviest machines.} Large Gears
-{15092}{Legs of this robo-spider leak poison across them.} Mechanized Arachnid (poison)
+{15091}{[Crafting: Mechanical] Large Cogs for the heaviest machines.} Large Gears
+{15092}{Poison leaks across this robotic spider's legs.} Mechanized Arachnid (poison)
 {15093}{[Crafting: Guns] Does it still work?} Ancient Gun Chassis
-{15094}{Nobody identify mithrill!} Mithril Ore
+{15094}{A very rare magical metal ore} Mithril Ore
 {15095}{} Wine Glass
 {15096}{[Quest]} Empty Vial
-{15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
+{15097}{[Quest] This slightly charred camera looks like it has seen better days.} Crash Site Camera
 {15098}{[Quest]} Small Statuette //Blackroot rob the hedge wizard for the thieves quest
 {15099}{[Quest] This item seems very expensive.} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
 {15101}{[Crafting: Mechanical] Big opened Ring with a lock.} Metal Clamp
-{15102}{Use it to safely defuse a trap} Trap Springer
-{15103}{[Crafting: Mechanical] Parts from the good watch.} Pocket Watch Parts
+{15102}{Use it to safely trigger a trap} Trap Springer
+{15103}{[Crafting: Mechanical] Parts from a good watch.} Pocket Watch Parts
 {15104}{} Vase
 {15105}{[Junk] Decorative, plays music when opened.} Music Box
 {15106}{[Junk] Impractical without a table, just find lamp.} Candle Stick
-{15107}{[Junk] Used up factory gears, no longer operational.} Old Gears
+{15107}{[Junk] Heavily worn gears. Unusable.} Old Gears
 {15108}{[Crafting: Electric] Used to conduct electrcity across installation.} Electrical Harness
-{15109}{[Crafting: Electric] Capable of accumulating a lot of energy} Large Capacitor
+{15109}{[Crafting: Electric] Capable of accumulating a lot of energy.} Large Capacitor
 {15110}{[Crafting: Electric] High-frequency transmiter of electricity.} Tesla Coil
-{15111}{[Crafting: Explosives] Old gunpowder, unsafe and cause explosions} Black Powder
-{15112}{Creates a 3x3 fire curtain for 10 sec., damages all [Crafting]}Fire Obstruction
+{15111}{[Crafting: Explosives] A type of gunpowder, can cause explosions.} Black Powder
+{15112}{Creates a 3x3 fire curtain for 10 sec., damages everything [Crafting]} Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns] Complex self-loading gun system.} Auto Loading Chamber
 {15115}{[Crafting: Mechanical] Pieces of a watch.} Clock Parts
 {15116}{Moves randomly and draws enemy attention [Crafting]} Clockwork Decoy
-{15117}{[Valuable] Wellmade watch essential for upper class.} Pocket Watch
+{15117}{[Valuable] Wellmade watch, essential for upper class.} Pocket Watch
 {15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
 {15119}{[Crafting: Smithy] Leftovers from tailoring, could be useful.} Leather Straps
-{15120}{[Crafting: Electric] Enough to attach charges.} Electrical Component
+{15120}{[Crafting: Electric] Can carry electricity.} Electrical Component
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
-{15122}{[Crafting: Smithy] Looks like metal, but not iron.} Dwarven Ore
+{15122}{[Crafting: Smithy] Looks like metal, but it's not iron.} Dwarven Ore
 {15123}{[Crafting: Smithy] Steel/copper wire on a spool} Spool of Heavy Wire
 {15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!! (UNUSABLE UNCRAFTABLE ITEM)
 {15125}{[Crafting: Smithy] Big thin metal plate, easy to form.} Sheet Metal
 {15126}{You can use it to dig up Treasures.} Shovel
 {15127}{[Quest][Valuable]} Crystal Ball
-{15128}{[Valuable]} Rough-Cut Sapphire
-{15129}{[Valuable]} Rough-Cut Emerald
-{15130}{[Valuable]} Rough-Cut Diamond
-{15131}{[Valuable] Shatered Ruby Crystal.} Rough-Cut Ruby
-{15132}{D:5-30 FD:5-30 Knockback [Crafting]}Explosive Grenade
+{15128}{[Valuable] Unfaceted Sapphire Gem.} Rough-Cut Sapphire
+{15129}{[Valuable] Unfaceted Emerald Gem.} Rough-Cut Emerald
+{15130}{[Valuable] Unfaceted Diamond Gem.} Rough-Cut Diamond
+{15131}{[Valuable] Unfaceted Ruby Gem.} Rough-Cut Ruby
+{15132}{D:5-30 FD:5-30 Knockback [Crafting]} Explosive Grenade
 {15133}{Who needs followers when you can craft one?} Automaton
-{15134}{D:100-200 FD:5-20 [Crafting] fuse 11 sec.} Dynamite
+{15134}{D:100-200 FD:5-20 [Crafting] Fuse 11 sec.} Dynamite
 {15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
 {15136}{[Crafting: Chemistry] Ideal for cleaning.} Potassium Chloride
 {15137}{[Crafting: Electric] Conduct power from pocket charges into something.} Small Electrical Parts
-{15138}{[Crafting: Explosives] Kitchen salt, helps preserving meat.} Saltpeter
+{15138}{[Crafting: Explosives] Oxidiser in fireworks and explosives.} Saltpeter
 {15139}{[Crafting: Explosives] Dangerous substance.} Nitroglycerin
-{15140}{[Crafting: Electric] Use to convert Electricity into heat.} Electrical Coil
-{15141}{[Crafting: Explosives] Empty Can, washed in the rain.} Metal Can
+{15140}{[Crafting: Electric] Use to convert electricity into heat.} Electrical Coil
+{15141}{[Crafting: Explosives] Empty can, washed in the rain.} Metal Can
 {15142}{[Crafting: Guns] Big exhaust pipe from steam engine.} Engine Muffler
 {15143}{[Crafting: Mechanical] Set of metal plates forming a box.} Metal Casing
 {15144}{[Crafting: Explosives] Wood scorched to the coal.} Charcoal
@@ -766,19 +766,19 @@
 {15152}{Stuns targets for 1-5 sec. (Doesn't effect mechanicals) [Crafting]}Stun Grenade
 {15153}{Creates a 3x3 fire curtain for 10 sec., damages all [Crafting]}Fire Obstruction
 {15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
-{15155}{[Crafting: Smithy] Sturdy plate of steel amalgam.} Dwarven Steel
+{15155}{[Crafting: Smithy] Sturdy plate of a steel alloy.} Dwarven Steel
 {15156}{[Quest]} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts a random spell} Jade Wizard Statuette
 {15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
-{15161}{Deals %70-150 FT damage depends on the targets}Knock Out Gas Grenade
-{15162}{Makes Target Flee}Hallucination Grenade
-{15163}{D:1-5 ED:5-30 can of lightning}Electrocution Grenade
-{15164}{D:25-50 FT:10-20 Knockback}Concussion Grenade
-{15165}{Paralyzes targets for 6 sec.}Paralysis Grenade
-{15166}{Creates 3x3 poison curtain PD:15-25 per sec. lasts 30 sec.}Mustard Gas Grenade
-{15167}{[Crafting: Mechanical] System of ropes.} Boat Rigging
+{15161}{Deals %70-150 FT damage depends on the targets} Knock Out Gas Grenade
+{15162}{Makes Target Flee} Hallucination Grenade
+{15163}{D:1-5 ED:5-30 can of lightning} Electrocution Grenade
+{15164}{D:25-50 FT:10-20 Knockback} Concussion Grenade
+{15165}{Paralyzes targets for 6 sec.} Paralysis Grenade
+{15166}{Creates 3x3 poison curtain PD:15-25 per sec. lasts 30 sec.} Mustard Gas Grenade
+{15167}{[Crafting: Mechanical] Arrangement of ropes and pulleys.} Boat Rigging
 {15168}{} Noise Maker Decoy //UNUSED INGAME
 {15169}{This grasshopper is faster than its arachnid colleague} Clockwork Physician
 {15170}{It follows you and sheds light around itself} Illuminated Decoy
@@ -789,7 +789,7 @@
 {15175}{Detonates all planted plastiques.} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical]} Minute Steam Works
-{15178}{Allow to use Lock picking skill} Crude Lockpicks
+{15178}{Allow to open locks using lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
 {15180}{[Quest] Toone family members are the only valid recipients.} Deed to the Bessie Toone Mine
 {15181}{[Offering] Weird statue} Li'tani
@@ -798,7 +798,7 @@
 {15184}{[Offering] Cooled lump of magma.} Lava Rock
 {15185}{[Offering] Symbol of peace.} Olive Branch
 {15186}{[Offering] Rock with mineral formation inside.} Geode
-{15187}{[Offering][Valuable] Rare diamond tar and shineless} Black Diamond
+{15187}{[Offering][Valuable] Rare diamond} Black Diamond
 {15188}{Gives expertise bonus equal to Intelligence, can be stacked} Chemistry Manuals
 {15189}{Gives expertise bonus equal to Intelligence, can be stacked} Explosives Manuals
 {15190}{Gives expertise bonus equal to Intelligence, can be stacked} Herbology Manuals
@@ -808,7 +808,7 @@
 {15194}{Gives expertise bonus equal to Intelligence, can be stacked} Smithy Manuals
 {15195}{Gives expertise bonus equal to Intelligence, can be stacked} Gunsmithy Manuals
 {15196}{[Crafting: Smithy] Its harder than steel!} Vendigrothian Sheet Metal
-{15197}{[Crafting: Chemistry] Vendigroth made it?} Unknown Chemical Compound
+{15197}{[Crafting: Chemistry] Made in Vendigroth?} Unknown Chemical Compound
 {15198}{Demons consider this meat tasty.} Void Animal Carcass
 {15199}{WOAH, you got the real one?} Authentic Stillwater Giant Pelt
 {15200}{[Valuable]} Emerald

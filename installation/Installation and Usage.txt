@@ -9,23 +9,23 @@ Note: If at any time windows asks to replace files during copy select yes / yes 
 
 Keywords
 
-Short descriptors pointing usage of the item
-designed to be intuitive and save real estate in description
+Short descriptors pointing to usage of the item
+designed to be intuitive and save real estate in descriptions
 Keywords list and explaination:
 
-    [Quest] - this item is used for quest
+    [Quest] - this item is used for a quest
     [Crafting] - this item is used for crafting
-    [Offering] - this item is used as offering for pagan god
-    [Gift] - this item is gift for murky companion
+    [Offering] - this item is used as an offering for a pagan god
+    [Gift] - this item is a gift for a disgruntled companion
     [Valuable] - this item sells decently
     [Junk] - this item is useless (please do not call Bread and Water Junk)
-    [MSR:x/y] - Minimal strength requirement without/with offhand item
-    [Chop]- currently axe exclusive property of breaking wood without damaging weapon
+    [MSR:x/y] - minimal strength requirement without/with offhand item
+    [Chop]- can break wooden objects without damaging weapon. Only applies to axes
 
 Vanilla game keywords:
     [MSR] - its in vanilla, just not show to you until you are too weak, but already paid for weapon
     [D:x-x2] - Damage
     [FT:y-y2] - Fatigue damage
-    [TH] - to hit bonus (increase hit and crit chance)
+    [TH] - to hit bonus (increases hit and crit chances)
     [RNG] - Range of the item
     [Axe] - Chop exist in vanilla, just not described anywhere
