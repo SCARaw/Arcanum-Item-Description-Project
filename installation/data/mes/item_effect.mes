@@ -166,7 +166,7 @@
 {8042}{} Heavy Wool Clothes
 {8043}{} Guard Leather
 {8044}{} Chainmail
-{8045}{AC:30 DR:+20 FR:+20 NP:-90 ST:(+3) MA gives -resist} Machined Platemail
+{8045}{AC:30 DR:+20 FR:+20 NP:-90 ST:(+3) MA gives -resist} Machined Platemail //MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8046}{AC:3 DR:+2 FR:-15 MR:+10} Priest Robes
 {8047}{AC:15(+5) DR:+20(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Mithril Platemail
 {8048}{AC:19(+31) DR:+5 FR:(+5) NP:-20 Reaction:-10} Dread Armour
@@ -182,7 +182,7 @@
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
 {8060}{} Small Chainmail
-{8061}{AC:30 DR:+15 FR:+20 NP:-90 ST:(+3) MA gives -resist} Small Machined Platemail
+{8061}{AC:30 DR:+15 FR:+20 NP:-90 ST:(+3) MA gives -resist} Small Machined Platemail //MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8062}{AC:3 DR:+2 FR:-15 MR:+10} Small Priest Robes
 {8063}{AC:15(+5) DR:+15(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Small Mithril Platemail
 {8064}{AC:19(+31) DR:+5 FR:(+5) NP:-20 Reaction:-10} Small Dread Armour
@@ -194,7 +194,7 @@
 {8070}{} Suede Jacket
 {8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1} Oiled Thieves Leather
 {8072}{AC:12(+2) DR:+23(+2) FR:+5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25} Mithril Chainmail
-{8073}{AC:25 DR:+45 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Machined Plate
+{8073}{AC:25 DR:+45 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
 {8074}{AC:5 DR:7 FR:3 Prowling +2} Shadowing Robes
 {8075}{AC:15 DR:+36 FR:+10 ER:-20 NP:-80 [Crafting]} Basic Platemail
 {8076}{AC:11 DR:+16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25} Red Barbarian Clothes
@@ -202,7 +202,7 @@
 {8078}{} Small Suede Jacket
 {8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1} Small Oiled Thieves Leather
 {8080}{AC:12(+2) DR:+21(+2) FR:+5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25} Small Mithril Chainmail
-{8081}{AC:25 DR:+38 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Small Machined Plate
+{8081}{AC:25 DR:+38 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Small Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
 {8082}{AC:5 DR:7 FR:3 Prowling +2} Small Robe of the Chameleon
 {8083}{AC:14 DR:+30 FR:+8 ER:-20 NP:-80 [Crafting]} Small Basic Platemail
 {8084}{AC:11 DR:+16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25} Small Red Barbarian Clothes
@@ -329,30 +329,30 @@
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves
 {8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} Serpentine Necklace
 {8207}{[Quest]} Wheel Clan Spectacles
-{8208}{} Charmed Leather Armour
-{8209}{} Small Charmed Leather Armour
-{8210}{} Large Charmed Leather Armour
-{8211}{} Magick Leather Armour
-{8212}{} Small Magick Leather Armour
-{8213}{} Large Magick Leather Armour
-{8214}{} Mystic Leather Armour
-{8215}{} Small Mystic Leather Armour
-{8216}{} Large Mystic Leather Armour
-{8217}{} Arcane Leather Armour
-{8218}{} Small Arcane Leather Armour
-{8219}{} Large Arcane Leather Armour
-{8220}{} Qintarra Chainmail
-{8221}{AC:12(+5) DR:23 FR:5 ER:-10 All Resistances(+5)} Charmed Chainmail
-{8222}{AC:12(+5) DR:10 FR:5 ER:-10 All Resistances(+5)} Small Charmed Chainmail
-{8223}{AC:12(+10) DR:23 FR:5 ER:-10 All Resistances(+10)} Magick Chainmail
-{8224}{AC:12(+10) DR:10 FR:5 ER:-10 All Resistances(+10)} Small Magick Chainmail
-{8225}{AC:12(+15) DR:23 FR:5 ER:-10 All Resistances(+15)} Mystic Chainmail
-{8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Resistances(+15)} Small Mystic Chainmail
-{8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Resistances(+20)} Arcane Chainmail
-{8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Resistances(+20)} Small Arcane Chainmail
-{8229}{AC:18 DR:+45 FR:+10 ER:+65 NP:-80 MA gives -resist} Electro-Armor
-{8230}{AC:18 DR:+40 FR:+10 ER:+65 NP:-80 MA gives -resist} Small Electro-Armor
-{8231}{AC:18 DR:+47 FR:+10 ER:+65 NP:-80 MA gives -resist} Large Electro-Armor
+{8208}{AC:9(+5) DR:+16 FR:+5 All Resistances(+5) NP:-10} Charmed Leather Armour
+{8209}{AC:9(+5) DR:+14 FR:+5 All Resistances(+5) NP:-10} Small Charmed Leather Armour
+{8210}{AC:9(+5) DR:+18 FR:+5 All Resistances(+5) NP:-10} Large Charmed Leather Armour
+{8211}{AC:9(+10) DR:+16 FR:+5 All Resistances(+10) NP:-10(+2)} Magick Leather Armour
+{8212}{AC:9(+10) DR:+14 FR:+5 All Resistances(+10) NP:-10(+2)} Small Magick Leather Armour
+{8213}{AC:9(+10) DR:+18 FR:+5 All Resistances(+10) NP:-10(+2)} Large Magick Leather Armour
+{8214}{AC:9(+15) DR:+16 FR:+5 All Resistances(+15) NP:-10(+4)} Mystic Leather Armour
+{8215}{AC:9(+15) DR:+14 FR:+5 All Resistances(+15) NP:-10(+4)} Small Mystic Leather Armour
+{8216}{AC:9(+15) DR:+18 FR:+5 All Resistances(+15) NP:-10(+4)} Large Mystic Leather Armour
+{8217}{AC:9(+20) DR:+16 FR:+5 All Resistances(+20) NP:-10(+6)} Arcane Leather Armour
+{8218}{AC:9(+20) DR:+14 FR:+5 All Resistances(+20) NP:-10(+6)} Small Arcane Leather Armour
+{8219}{AC:9(+20) DR:+18 FR:+5 All Resistances(+20) NP:-10(+6)} Large Arcane Leather Armour
+{8220}{} Qintarra Chainmail //UNUSED INGAME
+{8221}{AC:12(+5) DR:23 FR:5 ER:-10 All Resistances(+5) NP:-25} Charmed Chainmail //All res+5 except ER+0
+{8222}{AC:12(+5) DR:10 FR:5 ER:-10 All Resistances(+5) NP:-25} Small Charmed Chainmail //All res+5 except ER+0
+{8223}{AC:12(+10) DR:23 FR:5 ER:-10 All Resistances(+10) NP:-25(+5)} Magick Chainmail //All res+10 except ER+5
+{8224}{AC:12(+10) DR:10 FR:5 ER:-10 All Resistances(+10) NP:-25(+5)} Small Magick Chainmail //All res+10 except ER+5
+{8225}{AC:12(+15) DR:23 FR:5 ER:-10 All Resistances(+15) NP:-25(+10)} Mystic Chainmail //All res+15 except ER+10
+{8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Resistances(+15) NP:-25(+10)} Small Mystic Chainmail //All res+15 except ER+10
+{8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Resistances(+20) NP:-25(+15)} Arcane Chainmail //All res+20 except ER+15
+{8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Resistances(+20) NP:-25(+15)} Small Arcane Chainmail //All res+20 except ER+15
+{8229}{AC:18 DR:+45 FR:+10 ER:+65 NP:-80 MA gives -resist} Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8230}{AC:18 DR:+40 FR:+10 ER:+65 NP:-80 MA gives -resist} Small Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8231}{AC:18 DR:+47 FR:+10 ER:+65 NP:-80 MA gives -resist} Large Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
 {8232}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Charmed Robes
 {8233}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Small Charmed Robes
 {8234}{AC:3 DR:3 FR:2(+20) All Other Resistances(+20)} Magick Robes
@@ -361,24 +361,24 @@
 {8237}{AC:3 DR:3 FR:2(+35) All Other Resistances(+35)} Small Mystic Robes
 {8238}{AC:3 DR:3 FR:2(+50) All Other Resistances(+50)} Arcane Robes
 {8239}{AC:3 DR:3 FR:2(+50) All Other Resistances(+50)} Small Arcane Robes
-{8240}{} Charmed Traveler's Cloak
-{8241}{} Small Charmed Traveler's Cloak
-{8242}{} Magick Traveler's Cloak
-{8243}{} Small Magick Traveler's Cloak
-{8244}{} Mystic Traveler's Cloak
-{8245}{} Small Mystic Traveler's Cloak
-{8246}{} Arcane Traveler's Cloak
-{8247}{} Small Arcane Traveler's Cloak
+{8240}{AC:3(+5) DR:+3(+5) FR:+2(+5) ER:(+5) PR:(+5)} Charmed Traveler's Cloak
+{8241}{AC:3(+5) DR:+3(+5) FR:+2(+5) ER:(+5) PR:(+5)} Small Charmed Traveler's Cloak
+{8242}{AC:3(+10) DR:+3(+10) FR:+2(+10) ER:(+10) PR:(+10)} Magick Traveler's Cloak
+{8243}{AC:3(+10) DR:+3(+10) FR:+2(+10) ER:(+10) PR:(+10)} Small Magick Traveler's Cloak
+{8244}{AC:3(+15) DR:+3(+15) FR:+2(+15) ER:(+15) PR:(+15) NP:(+5)} Mystic Traveler's Cloak
+{8245}{AC:3(+15) DR:+3(+15) FR:+2(+15) ER:(+15) PR:(+15) NP:(+5)} Small Mystic Traveler's Cloak
+{8246}{AC:3(+20) DR:+3(+20) FR:+2(+20) ER:(+20) PR:(+20) NP:(+5)} Arcane Traveler's Cloak
+{8247}{AC:3(+20) DR:+3(+20) FR:+2(+20) ER:(+20) PR:(+20) NP:(+5)} Small Arcane Traveler's Cloak
 {8248}{} Quality Robes
 {8249}{} Small Quality Robes
-{8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Resistances(+4)} Charmed Platemail
-{8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Resistances(+4)} Small Charmed Platemail
-{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Resistances(+6)} Magick Platemail
-{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Resistances(+6)} Small Magick Platemail
-{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Resistances(+8)} Mystic Platemail
-{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Resistances(+8)} Small Mystic Platemail
-{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Resistances(+10)} Arcane Platemail
-{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Resistances(+10)} Small Arcane Platemail
+{8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Resistances(+4) NP:-80} Charmed Platemail //All res+4 except ER+0
+{8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Resistances(+4) NP:-80} Small Charmed Platemail //All res+4 except ER+0
+{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Resistances(+6) NP:-80(+5)} Magick Platemail //All res+6 except ER+5
+{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Resistances(+6) NP:-80(+5)} Small Magick Platemail //All res+6 except ER+5
+{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Resistances(+8) NP:-80(+10)} Mystic Platemail //All res+8 except ER+10
+{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Resistances(+8) NP:-80(+10)} Small Mystic Platemail //All res+8 except ER+10
+{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Resistances(+10) NP:-80(+15)} Arcane Platemail //All res+10 except ER+15
+{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Resistances(+10) NP:-80(+15)} Small Arcane Platemail //All res+10 except ER+15
 {8258}{AC:30 MR:(+30)} Flow Disruptor Shield
 {8259}{} Charmed Shield
 {8260}{} Magick Shield
@@ -412,7 +412,7 @@
 {8288}{[Valuable]} Sapphire Necklace
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 PE:+3} Goggled Helmet
-{8291}{AC:25 DR:+53 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Large Machined Platemail 
+{8291}{AC:25 DR:+53 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Large Machined Platemail //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
 {8292}{AC:13 DR:+25 FR:+5 ER:-10 NP:-25 [Crafting]} Large Feather-Weight Chain 
 
 //Gold
