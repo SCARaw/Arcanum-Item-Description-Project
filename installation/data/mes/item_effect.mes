@@ -195,22 +195,22 @@
 {8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1} Oiled Thieves Leather
 {8072}{AC:12(+2) DR:+23(+2) FR:+5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25} Mithril Chainmail
 {8073}{AC:25 DR:+45 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
-{8074}{AC:5 DR:7 FR:3 Prowling +2} Shadowing Robes
+{8074}{AC:5 DR:7 FR:3 Prowling(+2)} Shadowing Robes
 {8075}{AC:15 DR:+36 FR:+10 ER:-20 NP:-80 [Crafting]} Basic Platemail
 {8076}{AC:11 DR:+16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25} Red Barbarian Clothes
-{8077}{AC:2  DR:1  +20 Reaction} Smoking Jacket
+{8077}{AC:2  DR:1  Reaction:+20} Smoking Jacket
 {8078}{} Small Suede Jacket
 {8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1} Small Oiled Thieves Leather
 {8080}{AC:12(+2) DR:+21(+2) FR:+5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25} Small Mithril Chainmail
 {8081}{AC:25 DR:+38 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Small Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
-{8082}{AC:5 DR:7 FR:3 Prowling +2} Small Robe of the Chameleon
+{8082}{AC:5 DR:7 FR:3 Prowling(+2)} Small Robe of the Chameleon
 {8083}{AC:14 DR:+30 FR:+8 ER:-20 NP:-80 [Crafting]} Small Basic Platemail
 {8084}{AC:11 DR:+16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25} Small Red Barbarian Clothes
-{8085}{AC:2  DR:1  +20 Reaction} Small Smoking Jacket
+{8085}{AC:2  DR:1  Reaction:+20} Small Smoking Jacket
 {8086}{} Heavy Rags
 {8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Large Oiled Thieves Leather
 {8088}{AC:15 DR:+38 FR:+10 ER:-20 NP:-80 [Crafting]} Large Basic Platemail
-{8089}{AC:2  DR:1  +20 Reaction} Large Smoking Jacket
+{8089}{AC:2  DR:1  Reaction:+20} Large Smoking Jacket
 {8090}{} Wool Jacket
 {8091}{AC:9 DR:16 FR:+5 NP:-10 [Crafting]} Leather Armour
 {8092}{} Oiled Chainmail
@@ -257,9 +257,9 @@
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
 {8135}{} NO GOOD Large Ladies City Dweller Clothes
-{8136}{AC:2  DR:1  +20 Reaction} Elegant Dress Ladies Smoking Jacket
-{8137}{AC:2  DR:1  +20 Reaction} Small Elegant Dress Small Ladies Smoking Jacket
-{8138}{AC:2  DR:1  +20 Reaction} NO GOOD Large Ladies Smoking Jacket
+{8136}{AC:2  DR:1  Reaction:+20} Elegant Dress Ladies Smoking Jacket
+{8137}{AC:2  DR:1  Reaction:+20} Small Elegant Dress Small Ladies Smoking Jacket
+{8138}{AC:2  DR:1  Reaction:+20} NO GOOD Large Ladies Smoking Jacket
 {8139}{} Servant's Dress FEMALE
 {8140}{} Small Servant's Dress Small Ladyservants Clothes
 {8141}{} NO GOOD Large Ladyservants Clothes
@@ -275,14 +275,14 @@
 {8151}{} Dragon Skin Leather
 {8152}{} Small Dragon Skin Leather
 {8153}{} Large Dragon Skin Leather
-{8154}{AC:8 DR:+14 FR:+5 NP:-10(+15) Backstab (+2), Prowling (+2)} Creep Armour
+{8154}{AC:8 DR:+14 FR:+5 NP:-10(+15) Backstab:Prowling(+2)} Creep Armour
 {8155}{} Caladon Elite Guard Chainmail
 {8156}{} Dwarven Chainmail
 {8157}{} Elven Chainmail
 {8158}{} Gnomish Chainmail
 {8159}{[Quest]} Molochean Hand Amulet
 {8160}{Beauty:(+2)} Medallion of Beauty
-{8161}{Magic Resistance:(+40)} Dorian Amulet
+{8161}{Magick Resistance:(+40)} Dorian Amulet
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates' Ring
 {8164}{} Ring of Protection
@@ -300,7 +300,7 @@
 {8176}{} Machined Gauntlets
 {8177}{} War Gauntlets
 {8178}{} Chain Gloves
-{8179}{DR:+5  Bonus Pickpocket} Light-Fingered Gauntlets
+{8179}{DR:+5 Pickpocket(+1)} Light-Fingered Gauntlets
 {8180}{DR:+5 Dexterity:(+2)} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
@@ -321,46 +321,46 @@
 {8197}{} Dwarven Platemail
 {8198}{} Minute Platemail of Regeneration
 {8199}{AC:3 DR:7 PE:-1 [Crafting]} Great Helm
-{8200}{AC:2  DR:+1  NP:-10 +20 Reaction} Sunday's Best Dress
+{8200}{AC:2  DR:+1  NP:-10 Reaction:+20} Sunday's Best Dress
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
-{8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership
+{8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership //UNUSED INGAME
 {8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark Helm
-{8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves
+{8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
 {8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} Serpentine Necklace
 {8207}{[Quest]} Wheel Clan Spectacles
-{8208}{AC:9(+5) DR:+16 FR:+5 All Resistances(+5) NP:-10} Charmed Leather Armour
-{8209}{AC:9(+5) DR:+14 FR:+5 All Resistances(+5) NP:-10} Small Charmed Leather Armour
-{8210}{AC:9(+5) DR:+18 FR:+5 All Resistances(+5) NP:-10} Large Charmed Leather Armour
-{8211}{AC:9(+10) DR:+16 FR:+5 All Resistances(+10) NP:-10(+2)} Magick Leather Armour
-{8212}{AC:9(+10) DR:+14 FR:+5 All Resistances(+10) NP:-10(+2)} Small Magick Leather Armour
-{8213}{AC:9(+10) DR:+18 FR:+5 All Resistances(+10) NP:-10(+2)} Large Magick Leather Armour
-{8214}{AC:9(+15) DR:+16 FR:+5 All Resistances(+15) NP:-10(+4)} Mystic Leather Armour
-{8215}{AC:9(+15) DR:+14 FR:+5 All Resistances(+15) NP:-10(+4)} Small Mystic Leather Armour
-{8216}{AC:9(+15) DR:+18 FR:+5 All Resistances(+15) NP:-10(+4)} Large Mystic Leather Armour
-{8217}{AC:9(+20) DR:+16 FR:+5 All Resistances(+20) NP:-10(+6)} Arcane Leather Armour
-{8218}{AC:9(+20) DR:+14 FR:+5 All Resistances(+20) NP:-10(+6)} Small Arcane Leather Armour
-{8219}{AC:9(+20) DR:+18 FR:+5 All Resistances(+20) NP:-10(+6)} Large Arcane Leather Armour
+{8208}{AC:9(+5) DR:+16 FR:+5 All Res:(+5) NP:-10} Charmed Leather Armour
+{8209}{AC:9(+5) DR:+14 FR:+5 All Res:(+5) NP:-10} Small Charmed Leather Armour
+{8210}{AC:9(+5) DR:+18 FR:+5 All Res:(+5) NP:-10} Large Charmed Leather Armour
+{8211}{AC:9(+10) DR:+16 FR:+5 All Res:(+10) NP:-10(+2)} Magick Leather Armour
+{8212}{AC:9(+10) DR:+14 FR:+5 All Res:(+10) NP:-10(+2)} Small Magick Leather Armour
+{8213}{AC:9(+10) DR:+18 FR:+5 All Res:(+10) NP:-10(+2)} Large Magick Leather Armour
+{8214}{AC:9(+15) DR:+16 FR:+5 All Res:(+15) NP:-10(+4)} Mystic Leather Armour
+{8215}{AC:9(+15) DR:+14 FR:+5 All Res:(+15) NP:-10(+4)} Small Mystic Leather Armour
+{8216}{AC:9(+15) DR:+18 FR:+5 All Res:(+15) NP:-10(+4)} Large Mystic Leather Armour
+{8217}{AC:9(+20) DR:+16 FR:+5 All Res:(+20) NP:-10(+6)} Arcane Leather Armour
+{8218}{AC:9(+20) DR:+14 FR:+5 All Res:(+20) NP:-10(+6)} Small Arcane Leather Armour
+{8219}{AC:9(+20) DR:+18 FR:+5 All Res:(+20) NP:-10(+6)} Large Arcane Leather Armour
 {8220}{} Qintarra Chainmail //UNUSED INGAME
-{8221}{AC:12(+5) DR:23 FR:5 ER:-10 All Resistances(+5) NP:-25} Charmed Chainmail //All res+5 except ER+0
-{8222}{AC:12(+5) DR:10 FR:5 ER:-10 All Resistances(+5) NP:-25} Small Charmed Chainmail //All res+5 except ER+0
-{8223}{AC:12(+10) DR:23 FR:5 ER:-10 All Resistances(+10) NP:-25(+5)} Magick Chainmail //All res+10 except ER+5
-{8224}{AC:12(+10) DR:10 FR:5 ER:-10 All Resistances(+10) NP:-25(+5)} Small Magick Chainmail //All res+10 except ER+5
-{8225}{AC:12(+15) DR:23 FR:5 ER:-10 All Resistances(+15) NP:-25(+10)} Mystic Chainmail //All res+15 except ER+10
-{8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Resistances(+15) NP:-25(+10)} Small Mystic Chainmail //All res+15 except ER+10
-{8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Resistances(+20) NP:-25(+15)} Arcane Chainmail //All res+20 except ER+15
-{8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Resistances(+20) NP:-25(+15)} Small Arcane Chainmail //All res+20 except ER+15
+{8221}{AC:12(+5) DR:23 FR:5 ER:-10 All Res:(+5) NP:-25} Charmed Chainmail //All res+5 except ER+0
+{8222}{AC:12(+5) DR:10 FR:5 ER:-10 All Res:(+5) NP:-25} Small Charmed Chainmail //All res+5 except ER+0
+{8223}{AC:12(+10) DR:23 FR:5 ER:-10 All Res:(+10) NP:-25(+5)} Magick Chainmail //All res+10 except ER+5
+{8224}{AC:12(+10) DR:10 FR:5 ER:-10 All Res:(+10) NP:-25(+5)} Small Magick Chainmail //All res+10 except ER+5
+{8225}{AC:12(+15) DR:23 FR:5 ER:-10 All Res:(+15) NP:-25(+10)} Mystic Chainmail //All res+15 except ER+10
+{8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Res:(+15) NP:-25(+10)} Small Mystic Chainmail //All res+15 except ER+10
+{8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Res:(+20) NP:-25(+15)} Arcane Chainmail //All res+20 except ER+15
+{8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Res:(+20) NP:-25(+15)} Small Arcane Chainmail //All res+20 except ER+15
 {8229}{AC:18 DR:+45 FR:+10 ER:+65 NP:-80 MA gives -resist} Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
 {8230}{AC:18 DR:+40 FR:+10 ER:+65 NP:-80 MA gives -resist} Small Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
 {8231}{AC:18 DR:+47 FR:+10 ER:+65 NP:-80 MA gives -resist} Large Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
-{8232}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Charmed Robes
-{8233}{AC:3 DR:3 FR:2(+10) All Other Resistances(+10)} Small Charmed Robes
-{8234}{AC:3 DR:3 FR:2(+20) All Other Resistances(+20)} Magick Robes
-{8235}{AC:3 DR:3 FR:2(+20) All Other Resistances(+20)} Small Magick Robes
-{8236}{AC:3 DR:3 FR:2(+35) All Other Resistances(+35)} Mystic Robes
-{8237}{AC:3 DR:3 FR:2(+35) All Other Resistances(+35)} Small Mystic Robes
-{8238}{AC:3 DR:3 FR:2(+50) All Other Resistances(+50)} Arcane Robes
-{8239}{AC:3 DR:3 FR:2(+50) All Other Resistances(+50)} Small Arcane Robes
+{8232}{AC:3 DR:3 FR:2(+10) All Other Res:(+10)} Charmed Robes
+{8233}{AC:3 DR:3 FR:2(+10) All Other Res:(+10)} Small Charmed Robes
+{8234}{AC:3 DR:3 FR:2(+20) All Other Res:(+20)} Magick Robes
+{8235}{AC:3 DR:3 FR:2(+20) All Other Res:(+20)} Small Magick Robes
+{8236}{AC:3 DR:3 FR:2(+35) All Other Res:(+35)} Mystic Robes
+{8237}{AC:3 DR:3 FR:2(+35) All Other Res:(+35)} Small Mystic Robes
+{8238}{AC:3 DR:3 FR:2(+50) All Other Res:(+50)} Arcane Robes
+{8239}{AC:3 DR:3 FR:2(+50) All Other Res:(+50)} Small Arcane Robes
 {8240}{AC:3(+5) DR:+3(+5) FR:+2(+5) ER:(+5) PR:(+5)} Charmed Traveler's Cloak
 {8241}{AC:3(+5) DR:+3(+5) FR:+2(+5) ER:(+5) PR:(+5)} Small Charmed Traveler's Cloak
 {8242}{AC:3(+10) DR:+3(+10) FR:+2(+10) ER:(+10) PR:(+10)} Magick Traveler's Cloak
@@ -371,14 +371,14 @@
 {8247}{AC:3(+20) DR:+3(+20) FR:+2(+20) ER:(+20) PR:(+20) NP:(+5)} Small Arcane Traveler's Cloak
 {8248}{} Quality Robes
 {8249}{} Small Quality Robes
-{8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Resistances(+4) NP:-80} Charmed Platemail //All res+4 except ER+0
-{8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Resistances(+4) NP:-80} Small Charmed Platemail //All res+4 except ER+0
-{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Resistances(+6) NP:-80(+5)} Magick Platemail //All res+6 except ER+5
-{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Resistances(+6) NP:-80(+5)} Small Magick Platemail //All res+6 except ER+5
-{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Resistances(+8) NP:-80(+10)} Mystic Platemail //All res+8 except ER+10
-{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Resistances(+8) NP:-80(+10)} Small Mystic Platemail //All res+8 except ER+10
-{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Resistances(+10) NP:-80(+15)} Arcane Platemail //All res+10 except ER+15
-{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Resistances(+10) NP:-80(+15)} Small Arcane Platemail //All res+10 except ER+15
+{8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Res:(+4) NP:-80} Charmed Platemail //All res+4 except ER+0
+{8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Res:(+4) NP:-80} Small Charmed Platemail //All res+4 except ER+0
+{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Res:(+6) NP:-80(+5)} Magick Platemail //All res+6 except ER+5
+{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Res:(+6) NP:-80(+5)} Small Magick Platemail //All res+6 except ER+5
+{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Res:(+8) NP:-80(+10)} Mystic Platemail //All res+8 except ER+10
+{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Res:(+8) NP:-80(+10)} Small Mystic Platemail //All res+8 except ER+10
+{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Res:(+10) NP:-80(+15)} Arcane Platemail //All res+10 except ER+15
+{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Res:(+10) NP:-80(+15)} Small Arcane Platemail //All res+10 except ER+15
 {8258}{AC:30 MR:(+30)} Flow Disruptor Shield
 {8259}{} Charmed Shield
 {8260}{} Magick Shield
@@ -482,7 +482,7 @@
 {10117}{Halves the target's Willpower for 60 sec.} Mental Inhibitor
 {10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer
 {10119}{+30 Damage Resistance for 120 sec. [Crafting]} Fortifier
-{10120}{Deals %70-150FT damage depends on the target [Crafting]} Sleep Aid Anaesthesizer
+{10120}{Deals %70-150FT dmg depends on the target [Crafting]} Sleep Aid Anaesthesizer
 {10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
 {10122}{[Crafting: Electric]} Lemon
 {10123}{[Crafting: Electric]} Potato
@@ -522,7 +522,7 @@
 {11068}{Allows you to identify unknown objects.} Scroll of Divine Magic
 {11069}{Increases the target's constitution by 4.} Scroll of Vitality of Air
 {11070}{Creates a poisonous cloud.} Scroll of Poison Vapours
-{11071}{Raises a magickal wind that moves your opponents.} Scroll of Call Winds
+{11071}{Raises a magickal wind that pushes your opponents away.} Scroll of Call Winds
 {11072}{Transforms the target into an Air Elemental.} Scroll of Body of Air
 {11073}{Summons an Air Elemental.} Scroll of Call Air Elemental
 {11074}{Increases the target's strength by 4.} Scroll of Strength of Earth
@@ -544,51 +544,51 @@
 {11090}{Shocks any opponents within a few feet of the caster.} Scroll of Jolt
 {11091}{Creates a magickal wall of force.} Scroll of Wall of Force
 {11092}{Casts a bolt of raw lightning} Scroll of Bolt of Lightning
-{11093}{Disintegrates both objects and opponents.} Scroll of Disintegrate
-{11094}{Increases the reaction of others to you.} Scroll of Charm
+{11093}{Disintegrates targeted objects, opponents and their items.} Scroll of Disintegrate
+{11094}{Increases the reaction of others to you by 30.} Scroll of Charm
 {11095}{Stuns your opponents for a few moments.} Scroll of Stun
-{11096}{Decreases the willpower of your opponents.} Scroll of Drain Will
+{11096}{Halves the target's willpower.} Scroll of Drain Will
 {11097}{Makes your opponents run away from you in fear.} Scroll of Nightmare
 {11098}{Transforms opponents into mindless slaves.} Scroll of Dominate Will
-{11099}{Increases the target's magickal resisitance.} Scroll of Resist Magick
+{11099}{Sets the target's minimum magick resistance to 50.} Scroll of Resist Magick
 {11100}{Discontinues all spells on the target.} Scroll of Disperse Magick
-{11101}{Significantly increases the target's magickal resisitance.} Scroll of Dweomer Shield
+{11101}{Prevents magick from operating on the target.} Scroll of Dweomer Shield
 {11102}{Prohibits the target from casting magickal spells.} Scroll of Bonds of Magic
 {11103}{Reflects magickal spells back at the caster.} Scroll of Reflection Shield
 {11104}{Increases the damage levels of unarmed attacks.} Scroll of Hardened Hands
-{11105}{Decreases the strength of the target.} Scroll of Weaken
+{11105}{Decreases strength and damage resistance of the target.} Scroll of Weaken
 {11106}{Shrinks the target.} Scroll of Shrink
 {11107}{Turns the target into stone.} Scroll of Flesh to Stone
-{11108}{Tranforms the target into an animal.} Scroll of Polymorph
-{11109}{Tames any targeted animal.} Scroll of Charm Beast
+{11108}{Transforms the target into a sheep.} Scroll of Polymorph
+{11109}{Pacifies every animal in the vicinity.} Scroll of Charm Beast
 {11110}{Summons magickal vines to ensnare opponents.} Scroll of Entangle
-{11111}{Summons a magickal animal familiar.} Scroll of Control Beast
+{11111}{Mind controls the targeted animal.} Scroll of Control Beast
 {11112}{Summons an animal follower, scales with MA.} Scroll of Succour Beast
 {11113}{Increases the healing rate of you and your party.} Scroll of Regenerate
-{11114}{Harms the target, decreasing their vitality.} Scroll of Harm
+{11114}{Causes physical damage to the target.} Scroll of Harm
 {11115}{Allows the user to speak with the dead.} Scroll of Conjure Spirit
 {11116}{Summons an undead follower from beyond the grave.} Scroll of Summon Undead
 {11117}{Creates an undead follower from any nearby corpse.} Scroll of Create Undead
 {11118}{Kills the target, by stealing their soul.} Scroll of Quench Life
-{11119}{Increases the target's vitality.} Scroll of Minor Healing
+{11119}{Heals the target's health a bit.} Scroll of Minor Healing
 {11120}{Cures poisons within the target.} Scroll of Halt Poison
-{11121}{Significantly increases the target's vitality.} Scroll of Major Healing
-{11122}{Allows the target to walk among the undead.} Scroll of Sanctuary
+{11121}{Heals the target's health, injuries and scars.} Scroll of Major Healing
+{11122}{Makes the target invisible to undead unless provoked.} Scroll of Sanctuary
 {11123}{Raises the target from the dead.} Scroll of Resurrect
 {11124}{Casts a light around the target.} Scroll of Illuminate
 {11125}{Blinds your opponents.} Scroll of Flash
 {11126}{Makes the target harder to hit.} Scroll of Blur Sight
 {11127}{Summons an illusionary monster.} Scroll of Phantasmal Fiend
 {11128}{Makes the target invisible.} Scroll of Invisibility
-{11129}{Summons a swarm of magickal insects.} Scroll of Plague of Insects
+{11129}{Summons a swarm of insects that slows the target.} Scroll of Plague of Insects
 {11130}{Summons a fearsome orc to fight by your side.} Scroll of Orcish Champion
 {11131}{Summons a great ogre to fight by your side.} Scroll of Guardian Ogre
 {11132}{Summons a terrible demon to fight by your side.} Scroll of Hellgate
-{11133}{Summons a powerful familiar to fight by your side.} Scroll of Familiar
+{11133}{Summons a permanent familiar that scales with MA.} Scroll of Familiar
 {11134}{Magickally locks doors and containers.} Scroll of Magelock
-{11135}{Slows down time for youe enemies, making them slower.} Scroll of Congeal Time
-{11136}{Increases the speed of the target.} Scroll of Hasten
-{11137}{Renders the target immobile.} Scroll of Stasis
+{11135}{Slows down time for your enemies, making them slower.} Scroll of Congeal Time
+{11136}{Doubles the target creature's base speed.} Scroll of Hasten
+{11137}{Renders the target paralyzed.} Scroll of Stasis
 {11138}{Increases your speed, while slowing down your opponents.} Scroll of Tempus Fugit
 {11139}{} Kerghan's Death Scroll //When used by player ominous laughter sound effect still triggers
 {11140}{} Kerghan's Attack Scroll 
@@ -723,7 +723,7 @@
 {15109}{[Crafting: Electric] Capable of accumulating a lot of energy.} Large Capacitor
 {15110}{[Crafting: Electric] High-frequency transmiter of electricity.} Tesla Coil
 {15111}{[Crafting: Explosives] A type of gunpowder, can cause explosions.} Black Powder
-{15112}{Creates a 3x3 fire curtain for 10 sec., damages everything [Crafting]} Fire Obstruction
+{15112}{3x3 fire curtain for 10 sec., damages everyone [Crafting]} Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns] Complex self-loading gun system.} Auto Loading Chamber
 {15115}{[Crafting: Mechanical] Pieces of a watch.} Clock Parts
@@ -764,7 +764,7 @@
 {15150}{Causes blindness (-30 TH for affected enemies)}Flash Grenade
 {15151}{3x3 smoke cloud: prevents ranged attacks, +prowling [Crafting]}Smoke Grenade
 {15152}{Stuns targets for 1-5 sec. (Doesn't effect mechanicals) [Crafting]}Stun Grenade
-{15153}{Creates a 3x3 fire curtain for 10 sec., damages all [Crafting]}Fire Obstruction
+{15153}{3x3 fire curtain for 10 sec., damages everyone [Crafting]}Fire Obstruction
 {15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
 {15155}{[Crafting: Smithy] Sturdy plate of a steel alloy.} Dwarven Steel
 {15156}{[Quest]} Camera
