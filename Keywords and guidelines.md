@@ -41,3 +41,9 @@ designed to be intuitive and save real estate in descriptions
 
 ![image](https://github.com/user-attachments/assets/903f90ea-efeb-4d64-9d17-6b1a72b5e1f0)
 
+### Priorities:
+1. Describe the item with best we can get gamer data  
+2. if description does not fit ensure less important part will be cut off (keep that cut in file)  
+3. Fit the description, it is better to lose coma or grammar than word
+4. Flavor text for items that does not have much data
+5. Flavor should approach item from the perspective of Victorian Era citizen of neutral education (no tech specialist or mage master)
