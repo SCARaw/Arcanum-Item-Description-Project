@@ -15,7 +15,6 @@ designed to be intuitive and save real estate in descriptions
 
 
 ### Keywords list and explaination:
-
 [Quest] - this item is used for quest
 [Crafting] - this item is used for crafting  
 [Crafting: Herbology] - item is used as herbology material  
@@ -24,20 +23,13 @@ designed to be intuitive and save real estate in descriptions
 [Crafting: Smithy] - item is used as Smithy material  
 [Crafting: Guns] - item is used as Gun Smithy material (different name to avoid Smithy)  
 [Crafting: Terapeutics] - item is used as Terapeutic material  
-[Offering] - this item is used as offering for pagan god
-
-[Gift] - this item is gift for disgruntled companion
-
-[Valuable] - this item sells decently
-
-[Junk] - this item is useless (please do not call Bread and Water Junk)
-
-[MSR:x/y] - Minimal strength requirement without/with offhand item
-
-[Chop]- currently axe exclusive property of breaking wood without damaging weapon
-
-[Untraceable] - kill impossible for the game logic to be traced back to you
-
+[Offering] - this item is used as offering for pagan god  
+[Gift] - this item is gift for disgruntled companion  
+[Valuable] - this item sells decently  
+[Junk] - this item is useless (please do not call Bread and Water Junk)  
+[MSR:x/y] - Minimal strength requirement without/with offhand item  
+[Chop]- currently axe exclusive property of breaking wood without damaging weapon  
+[Untraceable] - kill impossible for the game logic to be traced back to you  
 ### Vanilla game keywords:
 
 [MSR] - its in vanilla, just not show to you until you are too weak, but already paid for weapon    
