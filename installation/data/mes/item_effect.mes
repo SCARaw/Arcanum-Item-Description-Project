@@ -482,7 +482,7 @@
 {10117}{Halves the target's Willpower for 60 sec.} Mental Inhibitor
 {10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer
 {10119}{+30 Damage Resistance for 120 sec. [Crafting]} Fortifier
-{10120}{Deals %70-150 FT damage depending on the target [Crafting]} Sleep Aid Anaesthesizer
+{10120}{Deals %70-150FT damage depends on the target [Crafting]} Sleep Aid Anaesthesizer
 {10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
 {10122}{[Crafting: Electric]} Lemon
 {10123}{[Crafting: Electric]} Potato
