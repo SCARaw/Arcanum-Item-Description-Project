@@ -29,3 +29,6 @@ Vanilla game keywords:
     [TH] - to hit bonus (increases hit and crit chances)
     [RNG] - Range of the item
     [Axe] - Chop exist in vanilla, just not described anywhere
+Other potentially confusing words:
+All Res - short from All Resistances - include DR, PR, FR, ER, MR
+
