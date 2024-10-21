@@ -54,7 +54,7 @@
 {6075}{D:1-4 FT:1-4 MSR:8/10} Rusty Hammer
 {6076}{D:1-7 FT:1-10 MSR:6/8} Quality Hammer
 {6077}{D:3-9 FT:3-12 MSR:6/8} Machined Hammer
-{6078}{D:1-8 FT:1-10 (Crit Hit Chance:+10%) MSR:8/10}Crushing Hammer
+{6078}{D:1-8 FT:1-10 Crit Hit Chance:(+10) MSR:8/10}Crushing Hammer
 {6079}{D:1-8 FT:1-10 FD:5-10 MSR:8/10} Inferno Hammer
 {6080}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7} Old Revolver
 {6081}{D:1-6 FT:1-3 TH:-5 RNG:8 MSR:3/5} Flintlock Pistol
@@ -75,7 +75,7 @@
 {6096}{D:5-18 FT:3-9 RNG:15 MSR:8 [Crafting]} Compound Bow
 {6097}{D:1-8 FT:1-3 RNG:10 MSR:5} Short Bow
 {6098}{D:1-12 FT:3-9 RNG:25 MSR:12 [Crafting]} Long Bow
-{6099}{D:1-10 FT:2-5 (Crit Hit:+50 Animals) RNG:15 MSR:8} Elven Hunter's Bow //changing its description effects unique item descriptions too
+{6099}{D:1-10 FT:2-5 Crit Hit:(+50 Animals) RNG:15 MSR:8} Elven Hunter's Bow //changing its description effects unique item descriptions too
 {6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20 MSR:10} Bow of Terror
 {6101}{D:1-15 FT:1-3 RNG:15 MSR:8} Folding Rifle //UNUSED INGAME
 {6102}{D:1-15 FT:1-3 RNG:15 MSR:8} Repeater Rifle Variant 1 //UNUSED INGAME
@@ -128,14 +128,14 @@
 {6149}{D:1-10(+4) FT:2-5 RNG:20 MSR:11} Magick Bow 
 {6150}{D:1-10(+6) FT:2-5 RNG:20 MSR:11} Mystic Bow 
 {6151}{D:1-10(+8) FT:2-5 RNG:20 MSR:11} Arcane Bow 
-{6152}{D:10-30 FT:5-20 RNG:15 MSR:11} Rifled Cannon 
-{6153}{D:1-15 FT:1-3 RNG:15 MSR:8} Acid Gun 
+{6152}{D:10-30 FT:5-20 RNG:15 MSR:11 Bypasses DR} Rifled Cannon 
+{6153}{D:1-15 FT:1-3 Acid damage to item:10 RNG:15 MSR:8} Acid Gun 
 {6154}{D:1-4 ED:10-80 RNG:15 MSR:11 Requires Charges} Tesla Gun
 {6155}{D:1-4 FD:2-20 RNG:15 MSR:12} Grenade Launcher 
 {6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 [Crafting]} Charged Accelerator Gun 
 {6157}{D:30-60 FT:5-15 RNG:15 MSR:15} Blade Launcher 
 {6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8} Pyrotechnic Gun 
-{6159}{D:1-15 RNG:15 MSR:8} Tranquilizer Gun 
+{6159}{D:1-15 FT:%70-150 depends on the target, RNG:15 MSR:8} Tranquilizer Gun 
 {6160}{D:1-8 FT:3-12(+6) MSR:5 (Mana:20)} Charmed Staff
 {6161}{D:1-8 FT:3-12(+12) MSR:5 (Mana:40)} Magick Staff
 {6162}{D:1-8 FT:3-12(+18) MSR:5 (Mana:60)} Mystic Staff
@@ -168,7 +168,7 @@
 {8044}{} Chainmail
 {8045}{AC:30 DR:+20 FR:+20 NP:-90 ST:(+3) MA gives -resist} Machined Platemail //MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8046}{AC:3 DR:+2 FR:-15 MR:+10} Priest Robes
-{8047}{AC:15(+5) DR:+20(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Mithril Platemail
+{8047}{AC:15(+5) DR:+20(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Mithril Platemail //UNUSED INGAME
 {8048}{AC:19(+31) DR:+5 FR:(+5) NP:-20 Reaction:-10} Dread Armour
 {8049}{} Nice Suit
 {8050}{} Battered Wooden Shield
@@ -184,12 +184,12 @@
 {8060}{} Small Chainmail
 {8061}{AC:30 DR:+15 FR:+20 NP:-90 ST:(+3) MA gives -resist} Small Machined Platemail //MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8062}{AC:3 DR:+2 FR:-15 MR:+10} Small Priest Robes
-{8063}{AC:15(+5) DR:+15(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Small Mithril Platemail
+{8063}{AC:15(+5) DR:+15(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Small Mithril Platemail //UNUSED INGAME
 {8064}{AC:19(+31) DR:+5 FR:(+5) NP:-20 Reaction:-10} Small Dread Armour
 {8065}{} Small Nice Suit
 {8066}{} Large Heavy Wool Clothes
 {8067}{} Large Guard Leather
-{8068}{AC:15(+5) DR:+25(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Large Mithril Platemail
+{8068}{AC:15(+5) DR:+25(+10) FR:+15(+5) ER:+10(+5) PR:+5 MR:(+20) NP:-80} Large Mithril Platemail //UNUSED INGAME
 {8069}{} Large Nice Suit
 {8070}{} Suede Jacket
 {8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1} Oiled Thieves Leather
@@ -286,7 +286,7 @@
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates' Ring
 {8164}{} Ring of Protection
-{8165}{Crit Hit Chance +5, Gambling:(+1)} Fated Ring
+{8165}{Crit Hit Chance:(+5), Gambling:(+1)} Fated Ring
 {8166}{} Metal Boots
 {8167}{} Fine Stout Boots
 {8168}{} Shoes
@@ -325,7 +325,7 @@
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
 {8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership //UNUSED INGAME
-{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20 MC:40} Dark Helm
+{8204}{AC:6 DR:9 PE:-1 Magick Aptitude:(+20) Alignment:(-20) MC:40} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
 {8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} Serpentine Necklace
 {8207}{[Quest]} Wheel Clan Spectacles
@@ -681,9 +681,9 @@
 {15067}{[Quest]} Stillwater trap (empty)
 {15068}{[Quest] There something inside.} Stillwater trap (full)
 {15069}{[Crafting: Chemistry] Metal is good conductor.} Metal Plates
-{15070}{Produce light around the user, shield slot [Crafting]} Electric Light
+{15070}{Produces light around the user, in offhand [Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
-{15072}{Produces light around the user, in offhand} Lantern
+{15072}{Produces light around the user, in offhand [Crafting]} Lantern
 {15073}{[Crafting: Electric] Small device that energy charge} Capacitor
 {15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
 {15075}{[Junk] Maybe a blacksmith will pay you for this?} Coal
@@ -762,8 +762,8 @@
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
 {15149}{[Crafting: Mechanical] Simple magnet, used to point North.} Compass
 {15150}{Causes blindness (-30 TH for affected enemies)}Flash Grenade
-{15151}{3x3 smoke cloud: prevents ranged attacks, +prowling [Crafting]}Smoke Grenade
-{15152}{Stuns targets for 1-5 sec. (Doesn't effect mechanicals) [Crafting]}Stun Grenade
+{15151}{3x3 smoke veil for 10 sec. stops ranged attacks [Crafting]}Smoke Grenade
+{15152}{Stuns living targets for 1-5 sec. [Crafting]}Stun Grenade
 {15153}{3x3 fire curtain for 10 sec., damages everyone [Crafting]}Fire Obstruction
 {15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
 {15155}{[Crafting: Smithy] Sturdy plate of a steel alloy.} Dwarven Steel
@@ -785,7 +785,7 @@
 {15171}{D:5-30 FD:5-30 It has a nasty surprise when destroyed} Explosive Decoy
 {15172}{} UNUSED Automaton Gunner //UNUSED INGAME
 {15173}{D:100-200 FD:5-20 Explodes after 10 sec. [Untraceable]} Time Bomb
-{15174}{Throw it then use detonator [Untraceable]} Plastique
+{15174}{D:100-200 FD:5-20 Throw & use detonator[Untraceable]} Plastique
 {15175}{Detonates all planted plastiques.} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical]} Minute Steam Works
