@@ -3,7 +3,7 @@ Our goal is to answer 1 simple question, What is this item for?
 
 Item descriptions need to be fast, to the point and useful
 
-Description have a character limit between 50 - 60 characters depends on size of the font
+Description have a character limit between 50 - 60 characters depends on size of the letters
 
 ALL the weapons include MSR Value (minimal strength requirement) writen as:  
 MSR: 4/7 - 2nd number is the value with the off-hand occupied
