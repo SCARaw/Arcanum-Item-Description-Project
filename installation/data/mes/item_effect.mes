@@ -41,7 +41,7 @@
 {6062}{D:3-12 FT:1-3 MSR:4/6} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
 {6064}{D:1-8 FT:1-4 MSR:5/7 (AC+15)} Sword of Defense
-{6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal)}Stillwater Blade
+{6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal) MC:37}Stillwater Blade
 {6066}{D:1-8 FT:1-4 MSR:8/10 [Chop]} Rusty Axe
 {6067}{D:3-14 FT:2-10 MSR:8/10 [Chop]} Quality Axe
 {6068}{D:5-18 FT:3-11 MSR:8/10 [Chop]} Power Axe
@@ -89,7 +89,7 @@
 {6110}{D:1-6 FT:1-3 ED:5-10 MSR:5 Requires Charges [Crafting]} Shocking Staff
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 MSR:5 Major Healing} Staff of Healing
-{6113}{D:1-8 FT:3-12 MSR:5 Major Heal, Charm Beast, Regenerate} Shaman's Staff
+{6113}{D:1-8 FT:3-12 MSR:5 Major Heal, Charm Beast, Regenerate MC:60} Shaman's Staff
 {6114}{D:1-8 FT:3-12 MSR:5 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
 {6115}{D:12-24 FT:2-5 TH:+10 RNG:12 MSR:3/5} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7} Hand Crafted Flintlock
@@ -295,13 +295,13 @@
 {8171}{} Ladies Fancy Boots
 {8172}{} Worn Ladies Boots
 {8173}{} Elven Boots
-{8174}{AC:5 DR:+6 NP:-10 Speed:(+5)} Enchanted War Boots
+{8174}{AC:5 DR:+6 NP:-10 Speed:(+5) MC:60} Enchanted War Boots
 {8175}{} Dwarven Gauntlets
 {8176}{} Machined Gauntlets
 {8177}{} War Gauntlets
 {8178}{} Chain Gloves
-{8179}{DR:+5 Pickpocket(+1)} Light-Fingered Gauntlets
-{8180}{DR:+5 Dexterity:(+2)} Gloves of Dexterity
+{8179}{DR:+5 Pickpocket(+1) MC:40} Light-Fingered Gauntlets
+{8180}{DR:+5 Dexterity:(+2) MC:20} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
 {8183}{Perception:(+2) [Crafting]}Eye Gear
@@ -316,7 +316,7 @@
 {8192}{AC:30 [Crafting]} Quality Iron Shield
 {8193}{} Kite Shield
 {8194}{+ 10 AC, Shield slot, Detects Traps, Requires Charges} Flow Specktrometer
-{8195}{AC:30 ED:1-10 to Attacker} Shield of Force
+{8195}{AC:30 ED:1-10 to Attacker MC:60} Shield of Force
 {8196}{AC=Evil Alignment/2} Shadow Shield
 {8197}{} Dwarven Platemail
 {8198}{} Minute Platemail of Regeneration
@@ -325,7 +325,7 @@
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
 {8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership //UNUSED INGAME
-{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20} Dark Helm
+{8204}{AC:6 DR:9 PE:-1 Magick Aptitude: +20 Alignment: -20 MC:40} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
 {8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5} Serpentine Necklace
 {8207}{[Quest]} Wheel Clan Spectacles
@@ -393,7 +393,7 @@
 {8269}{} Magick Gauntlets
 {8270}{} Mystic Gauntlets
 {8271}{} Arcane Gauntlets
-{8272}{} Charmed Ring
+{8272}{} Charmed Ring MC:
 {8273}{} Magick Ring
 {8274}{} Mystic Ring
 {8275}{} Arcane Ring
