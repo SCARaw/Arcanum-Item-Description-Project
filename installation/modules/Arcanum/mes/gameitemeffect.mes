@@ -555,7 +555,7 @@
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} // Chill Plate Mail
 {30803}{DR:+20% Fatigue DOT, Crit: FT:-100%} // Consuming Plate Mail
 {30806}{DR:ER:FR:MR:PR:+20% ST,DX,PE:-3 -Dodge Skill} // Hexed Barbarian Armour
-{30807}{DR:+20% MR:PR:-100%} // Hero's Weakness Barbarian Armour
+{30807}{AC 11(+20) DR:16(+30) FR:ER:(+30) PR:MR:0 (1.2*DR) NP:-25} Hero's Weakness Barbarian Armour
 {30815}{DR:ER:FR:MR:PR:+20% ST,DX,WP:-3 FT:-95%} // Chill Shield
 {30817}{DR:MR:-50% PE:+4 Bow +2, HT/FT Reduced} // Helmet of Yzar's Cost
 {30818}{AC:15 DR:+5(+20%) PE:-1 Crit: Entangle} // Nature's Wrath Helm
