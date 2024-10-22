@@ -1,16 +1,17 @@
+### To apply fix to a unique variant of an item
 
-To apply fix to unique variant of items:
-
-   1. Copy the "modules" folder inside the Arcanum root directory (the one where Arcanum.exe is located)
-   2. Copy Jen_ApplyFix.bat inside the Arcanum root directory as well, and launch it by double-clicking
+   1. Copy the `modules` folder inside the `Arcanum root directory` (the one where Arcanum.exe is located)
+   2. Copy `Jen_ApplyFix.bat` inside the Arcanum root directory as well, and launch it by double-clicking
    3. Enjoy :3
 
-Note: If at any time windows asks to replace files during copy select yes / yes to all / replace files in this destination
+Note: If at any time, Windows asks to replace files during copy, select `yes` / `yes to all` / `replace files in this destination`.
 
-Keywords
+### Keywords
 
-Short descriptors pointing to usage of the item
-designed to be intuitive and save real estate in descriptions
+Short descriptors pointing to usage of the item.
+
+Designed to be intuitive and save real estate in descriptions.
+
 Keywords list and explaination:
 
     [Quest] - this item is used for a quest
@@ -23,12 +24,15 @@ Keywords list and explaination:
     [Chop]- can break wooden objects without damaging weapon. Only applies to axes
 
 Vanilla game keywords:
+
     [MSR] - its in vanilla, just not show to you until you are too weak, but already paid for weapon
     [D:x-x2] - Damage
     [FT:y-y2] - Fatigue damage
     [TH] - to hit bonus (increases hit and crit chances)
     [RNG] - Range of the item
     [Axe] - Chop exist in vanilla, just not described anywhere
+    
 Other potentially confusing words:
-All Res - short from All Resistances - include DR, PR, FR, ER, MR
+
+All Res - short for All Resistances - include DR, PR, FR, ER, MR
 
