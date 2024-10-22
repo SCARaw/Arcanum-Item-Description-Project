@@ -16,7 +16,7 @@
 {6037}{D:1-4 FT:2-9 MSR:5 [Crafting]} Staff //changing its description effects unique item descriptions too
 {6038}{D:1-8 FT:1-4 PD:10-35 MSR:6/8} Envenomed Sword
 {6039}{D:20-50 FT:1-15 RNG:15 MSR:12 [Crafting]} Elephant Gun
-{6040}{D:1-4 ED:10-40 MSR:8 Requires Charges [Crafting]}Tesla Rod
+{6040}{D:1-4 ED:10-40 MSR:8 Requires Charges [Crafting]} Tesla Rod
 {6041}{D:1-4 FD:15-30 RNG:3 MSR:15} Flame Thrower
 {6042}{D:1-8(+3) FT:1-4 MSR:5/7} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
@@ -31,7 +31,7 @@
 {6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
 {6053}{D:2-12 FT:1-6 MSR:3/3} Mechanical Dagger
 {6054}{D:1-4 FT:1-2 MSR:2/2 (Mana:10)} Mage's Dagger
-{6055}{D:1-4 FT:1-2 MSR:3/3 Speed:(+4)}Dagger of speed
+{6055}{D:1-4 FT:1-2 MSR:3/3 Speed:(+4)} Dagger of speed
 {6056}{D:1-4 FT:1-2 MSR:6/8} Rusty Sword
 {6057}{D:2-9 FT:2-5 MSR:6/8} Quality Sword
 {6058}{D:2-9 FT:2-5 MSR:6/8} Caladon Elite Sword
@@ -41,20 +41,20 @@
 {6062}{D:3-12 FT:1-3 MSR:4/6} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
 {6064}{D:1-8 FT:1-4 MSR:5/7 (AC+15)} Sword of Defense
-{6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal) MC:40}Stillwater Blade
+{6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal) MC:40} Stillwater Blade
 {6066}{D:1-8 FT:1-4 MSR:8/10 [Chop]} Rusty Axe
 {6067}{D:3-14 FT:2-10 MSR:8/10 [Chop]} Quality Axe
 {6068}{D:5-18 FT:3-11 MSR:8/10 [Chop]} Power Axe
 {6069}{D:1-16 FT:3-11 MSR:4/6 [Crafting][Chop]} Feather-Weight Axe
-{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10 [Chop]}Reaper's Axe
-{6071}{D:1-12 FT:1-9 MSR:8/10 (ST:+1 CN:+1)[Chop]}Axe of Strength
+{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10 [Chop]} Reaper's Axe
+{6071}{D:1-12 FT:1-9 MSR:8/10 (ST:+1 CN:+1)[Chop]} Axe of Strength
 {6072}{D:1-3 FT:1-4 MSR:8/10} Rusty Mace
 {6073}{D:2-5 FT:2-9 MSR:6/8} Quality Mace
 {6074}{D:1-5 FT:1-8 MSR:8/10} Hammer
 {6075}{D:1-4 FT:1-4 MSR:8/10} Rusty Hammer
 {6076}{D:1-7 FT:1-10 MSR:6/8} Quality Hammer
 {6077}{D:3-9 FT:3-12 MSR:6/8} Machined Hammer
-{6078}{D:1-8 FT:1-10 Crit Hit Chance:(+10) MSR:8/10}Crushing Hammer
+{6078}{D:1-8 FT:1-10 Crit Hit Chance:(+10) MSR:8/10} Crushing Hammer
 {6079}{D:1-8 FT:1-10 FD:5-10 MSR:8/10} Inferno Hammer
 {6080}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7} Old Revolver
 {6081}{D:1-6 FT:1-3 TH:-5 RNG:8 MSR:3/5} Flintlock Pistol
@@ -304,7 +304,7 @@
 {8180}{DR:+5 Dexterity:(+2) MC:20} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
-{8183}{Perception:(+2) [Crafting]}Eye Gear
+{8183}{Perception:(+2) [Crafting]} Eye Gear
 {8184}{PE <8 +1 else -1 [Crafting: Quest][Crafting]} Eye Glasses
 {8185}{[Crafting] Cylindric Hat for upper class.} Top Hat
 {8186}{AC:3 DR:+7 [Crafting]} Helmet of Vision
@@ -440,8 +440,8 @@
 {10075}{+290 Poison Level to the target [Crafting]} Strong Poison
 {10076}{Heals all poison, injuries, scars, HP. +160 FT [Crafting]} Cure All
 {10077}{Reduces 80 poison levels} Cure Poison
-{10078}{Halves fatigue consumption for 180 sec. [Crafting]}Fatigue Limiter
-{10079}{1pt heal every 4 sec. for 100 sec. [Crafting]}Accelerate Healing
+{10078}{Halves fatigue consumption for 180 sec. [Crafting]} Fatigue Limiter
+{10079}{1pt heal every 4 sec. for 100 sec. [Crafting]} Accelerate Healing
 {10080}{[Crafting: Herbology]} Witchbane
 {10081}{[Crafting: Herbology]} Poppy Flowers
 {10082}{[Crafting: Herbology] Cure for all (made up) diseases.} Big Chief Snake Oil
@@ -761,10 +761,10 @@
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
 {15149}{[Crafting: Mechanical] Simple magnet, used to point North.} Compass
-{15150}{Causes blindness (-30 TH for affected enemies)}Flash Grenade
-{15151}{3x3 smoke veil for 10 sec. stops ranged attacks [Crafting]}Smoke Grenade
-{15152}{Stuns living targets for 1-5 sec. [Crafting]}Stun Grenade
-{15153}{3x3 fire curtain for 10 sec., damages everyone [Crafting]}Fire Obstruction
+{15150}{Causes blindness (-30 TH for affected enemies)} Flash Grenade
+{15151}{3x3 smoke veil for 10 sec. stops ranged attacks [Crafting]} Smoke Grenade
+{15152}{Stuns living targets for 1-5 sec. [Crafting]} Stun Grenade
+{15153}{3x3 fire curtain for 10 sec., damages everyone [Crafting]} Fire Obstruction
 {15154}{[Crafting: Guns] Revolver striped down to parts.} Revolver Parts
 {15155}{[Crafting: Smithy] Sturdy plate of a steel alloy.} Dwarven Steel
 {15156}{[Quest]} Camera
@@ -820,7 +820,7 @@
 {15206}{} Medical Kit //UNUSED INGAME
 {15207}{[Crafting: Explosives] Distilled crude oil used in lamps.} Kerosene
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
-{15209}{D:3-15 FD:3-15 Knockback}Molotov Cocktail
+{15209}{D:3-15 FD:3-15 Knockback} Molotov Cocktail
 {15210}{[Junk]} Wisp Essence
 {15211}{[Quest]} Volar's Wisp Essence
 {15212}{Healing Robot Spider, it's awesome but slow} Medical Arachnid
