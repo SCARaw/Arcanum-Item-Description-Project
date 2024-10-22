@@ -24,8 +24,8 @@ Short descriptors pointing to the usage of the item designed to be intuitive and
 [Offering] - this item is used as offering for pagan god  
 [Gift] - this item is a gift for disgruntled companions 
 [Valuable] - this item sells decently  
-[Junk] - this item is useless (please do not call bread and wter junk)  
-[MSR:x/y] - minimal strength requirement without/with offh-and item  
+[Junk] - this item is useless (please do not call bread and water junk)  
+[MSR:x/y] - minimal strength requirement without/with off-hand item  
 [Chop]- currently axe exclusive, property of breaking wood without damaging weapon  
 [Untraceable] - kill impossible for the game logic to be traced back to you  
 
