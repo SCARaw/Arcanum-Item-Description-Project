@@ -16,12 +16,12 @@
 {6037}{D:1-4 FT:2-9 MSR:5 [Crafting]} Staff //changing its description effects unique item descriptions too
 {6038}{D:1-8 FT:1-4 PD:10-35 MSR:6/8} Envenomed Sword
 {6039}{D:20-50 FT:1-15 RNG:15 MSR:12 [Crafting]} Elephant Gun
-{6040}{D:1-4 ED:10-40 MSR:8 Requires Charges [Crafting]} Tesla Rod
+{6040}{D:1-4 ED:10-40 RNG:15 MSR:8 Requires Charges [Crafting]} Tesla Rod //[Crafting] doesn't fit
 {6041}{D:1-4 FD:15-30 RNG:3 MSR:15} Flame Thrower
 {6042}{D:1-8(+3) FT:1-4 MSR:5/7} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
 {6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7 [Crafting]} Fine Revolver //changing its description effects unique item descriptions too
-{6045}{D:4-9 FT:1-5 RNG:15 MSR:8 [Crafting]} Repeater Rifle
+{6045}{D:5-12 FT:1-8 RNG:15 MSR:8 [Crafting]} Repeater Rifle
 {6046}{D:2-14 FT:1-10 RNG:15 MSR:8 [Crafting]} Hunting Rifle
 {6047}{D:1-2 MSR:3/3 [Crafting: Mechanical]} Railroad Spike
 {6048}{D:3-12 FT:3-9 MSR:6/8 [Crafting]} Balanced Sword
@@ -40,7 +40,7 @@
 {6061}{D:2-10 FT:1-5 MSR:6/8} Scimitar
 {6062}{D:3-12 FT:1-3 MSR:4/6} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
-{6064}{D:1-8 FT:1-4 MSR:5/7 (AC+15)} Sword of Defense
+{6064}{D:1-8 FT:1-4 MSR:5/7 AC:(+30)} Sword of Defense
 {6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal) MC:40} Stillwater Blade
 {6066}{D:1-8 FT:1-4 MSR:8/10 [Chop]} Rusty Axe
 {6067}{D:3-14 FT:2-10 MSR:8/10 [Chop]} Quality Axe
@@ -59,11 +59,11 @@
 {6080}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7} Old Revolver
 {6081}{D:1-6 FT:1-3 TH:-5 RNG:8 MSR:3/5} Flintlock Pistol
 {6082}{D:1-5 TH:-10 RNG:5 MSR:3/5} Old Flintlock Pistol
-{6083}{D:8-16 FT:3-9 RNG:12 MSR:5/7} Quality Revolver
+{6083}{D:3-12 FT:3-9 RNG:12 MSR:5/7} Quality Revolver
 {6084}{D:2-9 FT:2-5 RNG:8 MSR:5/7} Hushed Pistol //UNUSED INGAME
 {6085}{D:5-12 FT:2-5 RNG:15 MSR:5/7 [Crafting]} High Velocity Pistol
 {6086}{D:2-9 FT:2-5 RNG:10 MSR:5/7 [Crafting]} Fancy Pistol
-{6087}{D:9-17 FT:1-5 RNG:10 MSR:6/8} Schreck's Pistol
+{6087}{D:5-25 FT:1-5 RNG:10 MSR:6/8} Schreck's Pistol
 {6088}{D:10-30 FT:2-6 RNG:20 MSR:6/8 [Crafting]} Long Range Pistol
 {6089}{D:6-18 FT:4-12 MSR:14/18} Quality Broadsword
 {6090}{D:1-14 FT:1-8 MSR:14/18} Rusty Broadsword
@@ -83,7 +83,7 @@
 {6104}{D:1-30 FT:1-5 RNG:15 MSR:10} Mechanized Gun
 {6105}{D:10-30 FT:1-15 TH:+20 RNG:25 MSR:8 [Crafting]} Looking Glass Rifle
 {6106}{D:4-14 FT:3-9 RNG:20 MSR:8 [Crafting]} Marksman Rifle
-{6107}{D:20-40 FT:1-4 RNG:15 MSR:12} Levered Machine Gun
+{6107}{D:10-40 FT:1-10 RNG:15 MSR:12} Levered Machine Gun
 {6108}{D:2-10 FT:1-5 RNG:15 MSR:9} Rifle
 {6109}{D:1-10 FT:1-3 TH:-5 RNG:15 MSR:8} Rusted Rifle
 {6110}{D:1-6 FT:1-3 ED:5-10 MSR:5 Requires Charges [Crafting]} Shocking Staff
@@ -91,11 +91,11 @@
 {6112}{D:1-8 FT:3-12 MSR:5 Major Healing} Staff of Healing
 {6113}{D:1-8 FT:3-12 MSR:5 Major Heal, Charm Beast, Regenerate MC:60} Shaman's Staff
 {6114}{D:1-8 FT:3-12 MSR:5 (Mana:50) Illuminate, Dweomer Shield} Mage's Staff
-{6115}{D:2-9 FT:2-5 RNG:8 MSR:5/7} Hushed Revolver
+{6115}{D:2-9 FT:2-5 RNG:9 MSR:5/7} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7} Hand Crafted Flintlock
 {6117}{D: 1-2 FT 1-3 MSR:10/12 [Crafting]} Large Pipe
 {6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 [Crafting]} Hand Cannon
-{6119}{D:13-26 FT:1-10 RNG:15 MSR:8 [Crafting]} Clarington Rifle
+{6119}{D:1-15 FT:1-10 RNG:15 MSR:8 [Crafting]} Clarington Rifle
 {6120}{D:1-8(+12) FT:1-4 Crit Effect:+50 Crit Fail:+20 MSR:4/6} Filament Sword
 {6121}{D:2-6 FT:1-3 MSR:3/3} Finely Crafted Dagger 
 {6122}{D:1-4(+3) FT:1-2 MSR:3/3} Charmed Dagger 
