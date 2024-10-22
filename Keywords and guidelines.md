@@ -27,7 +27,7 @@ Short descriptors pointing to the usage of the item designed to be intuitive and
 [Junk] - this item is useless (please do not call bread and water junk)  
 [MSR:x/y] - minimal strength requirement without/with offhand item  
 [Chop]- currently axe exclusive, property of breaking wood without damaging weapon  
-[Untraceable] - kill impossible for the game logic to be traced back to you  
+[Untraceable] - usage of this item for any purpose is impossible for the game logic to be traced back to you 
 
 ### Vanilla game keywords:
 
