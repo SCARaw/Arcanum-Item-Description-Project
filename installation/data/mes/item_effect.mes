@@ -459,8 +459,8 @@
 {10094}{[Crafting: Chemistry]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk]} Dragon Cologne
 {10096}{[Junk]} Lingham's Belladonna
-{10097}{+2 All Attributes for 27 min.} Revitalizer
-{10098}{+2 Mental Attributes for 39 min.[Crafting]} Mind Marvel
+{10097}{+2 All Stats for 27 min.} Revitalizer
+{10098}{+2 Mental Stats for 39 min.[Crafting]} Mind Marvel
 {10099}{+2 Dexterity for 39 min.} Tonic of Increased Reflexes
 {10100}{ST+2 CN+2 DX+2 BE+2 for 33 min. [Crafting]} Energizer
 {10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
@@ -474,8 +474,8 @@
 {10109}{[Crafting: Therapeutics] Inflamation aid.} Tincture of Arnica
 {10110}{[Crafting: Explosives] Staple of every house.} CK Sugar
 {10111}{Turns target into a mindless slave for 60 sec.} Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
-{10112}{Permanent: +1 to Mental Attributes, -1 Physical } Brain Builder
-{10113}{Permanent: +1 Physical Attributes, -1 Mental } Muscle Maker
+{10112}{Permanent: +1 to Mental Stats, -1 Physical } Brain Builder
+{10113}{Permanent: +1 Physical Stats, -1 Mental } Muscle Maker
 {10114}{+25 max. health +25 max. fatigue for 60 sec.} Invigorator
 {10115}{Raises the target from the dead.} Reanimator // Scroll of Resurrect text 
 {10116}{Restores 100 Health and 100 Fatigue} Miracle Cure
@@ -494,8 +494,8 @@
 {10129}{[Gift] Staple of quality on your table.} Earl Grey Tea
 {10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
 {10131}{[Gift] Yum.} Sweet Cakes
-{10132}{+2 to all of the Mental Attributes for 39 min.} Vendigrothian Elixir
-{10133}{Legendary Potion gives +1 to All Attributes Permanently.} Vivifier
+{10132}{+2 to all of the Mental Stats for 39 min.} Vendigrothian Elixir
+{10133}{Legendary Potion gives +1 to All Stats Permanently.} Vivifier
 {10134}{Heals up to 80pts of Health.} Greater Healing
 {10135}{Restores up to 30pts of Fatigue.} Light Fatigue Restore
 {10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
