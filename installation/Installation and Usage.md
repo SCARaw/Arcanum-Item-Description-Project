@@ -35,4 +35,5 @@ Vanilla game keywords:
 Other potentially confusing words:
 
 All Res - short for All Resistances - include DR, PR, FR, ER, MR
+CR - Critical Rate (chance to crit, usually as + to all your other crit chances)
 
