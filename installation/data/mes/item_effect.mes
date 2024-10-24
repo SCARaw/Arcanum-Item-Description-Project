@@ -423,10 +423,10 @@
 {10058}{[Food] It has no effect} Water
 {10059}{Heals 20pts of health. [Crafting]} Healing Salve
 {10060}{Restores 20pts of fatigue. [Crafting]} Fatigue Restorer
-{10061}{[Crafting: Herbology]} Ginka Root
-{10062}{[Crafting: Herbology]} Kadura Stem
-{10063}{[Crafting: Herbology]} Coca Leaves
-{10064}{[Crafting: Herbology]} Tobacco Leaves
+{10061}{[Crafting: Herbology] Used for anxiety in home medicine.} Ginka Root
+{10062}{[Crafting: Herbology] } Kadura Stem
+{10063}{[Crafting: Herbology] } Coca Leaves
+{10064}{[Crafting: Herbology] } Tobacco Leaves
 {10065}{+70 Poison Level to the target [Crafting]} Poison
 {10066}{[Crafting: Chemistry] Leyden jar.} Electrolyte Solution
 {10067}{[Crafting: Chemistry] DX-1 CN-1 for 39min.} Varham's Aqua Vitae
@@ -442,8 +442,8 @@
 {10077}{Reduces 80 poison levels} Cure Poison
 {10078}{Halves fatigue consumption for 180 sec. [Crafting]} Fatigue Limiter
 {10079}{1pt heal every 4 sec. for 100 sec. [Crafting]} Accelerate Healing
-{10080}{[Crafting: Herbology]} Witchbane
-{10081}{[Crafting: Herbology]} Poppy Flowers
+{10080}{[Crafting: Herbology] Rue, it's smell scare away the cats.} Witchbane
+{10081}{[Crafting: Herbology] Natural painkillers.} Poppy Flowers
 {10082}{[Crafting: Herbology] Cure for all (made up) diseases.} Big Chief Snake Oil
 {10083}{[Crafting: Herbology] +10 Poison Level to the target} Venom
 {10084}{Restores 60 Health and 60 Fatigue [Crafting]} Wonder Drug
@@ -484,8 +484,8 @@
 {10119}{+30 Damage Resistance for 120 sec. [Crafting]} Fortifier
 {10120}{Deals %70-150FT dmg depends on the target [Crafting]} Sleep Aid Anaesthesizer
 {10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
-{10122}{[Crafting: Electric]} Lemon
-{10123}{[Crafting: Electric]} Potato
+{10122}{[Crafting: Electric][Food]} Lemon
+{10123}{[Crafting: Electric][Food]} Potato
 {10124}{[Quest]} Vial of Dragon's Blood
 {10125}{[Offering] Works as Strong aphrodisiac.} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
