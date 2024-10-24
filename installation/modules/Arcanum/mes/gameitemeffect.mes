@@ -58,7 +58,7 @@
 {30055}{Shovel} // Shovel
 {30056}{Bingham's Shovel} // Bingham's Shovel
 {30057}{Bingham Shulefest} // Bingham Shulefest
-{30058}{"T'sen-Ang: Horror Among the Dark Elves"} // "T'sen-Ang: Horror Among the Dark Elves"
+{30058}{[Quest] "T'sen-Ang: Horror Among the Dark Elves"} // "T'sen-Ang: Horror Among the Dark Elves"
 {30059}{"The Curse of T'sen-Ang"} // "The Curse of T'sen-Ang"
 {30060}{Alexander the Acolyte} // Alexander the Acolyte
 {30070}{Gunther Willhelm} // Gunther Willhelm
@@ -355,20 +355,20 @@
 {30362}{- 11 Low Dervish Row -} // - 11 Low Dervish Row -
 {30363}{- 77 Devonshire Way * Madam Toussaude's House of Secrets -} // - 77 Devonshire Way * Madam Toussaude's House of Secrets -
 {30364}{- 69 Devonshire Way * Madam Lil's -} // - Madam Lil's -
-{30365}{Heron Device} // Heron Device
-{30366}{Mr. Fitzgerald's Potion of Dark Power} // Mr. Fitzgerald's Potion of Dark Power
-{30367}{Will-o-the-Wisp Essence} // Will-o-the-Wisp Essence
-{30368}{Schreck's Multi-Barreled Pistol} // Schreck's Multi-Barreled Pistol
-{30369}{Lethe Wyvern Venom} // Lethe Wyvern Venom
-{30370}{Napha Water} // Napha Water
-{30371}{Flawless Dwarven Rubies} // Flawless Dwarven Rubies
-{30372}{Gambling +2, Haggle +1} // Lucky Medallion
-{30373}{Madam Lil's Key} // Madam Lil's Music Box
-{30374}{Cassie's Jewelry} // Cassie's Jewelry
+{30365}{[Quest] Heron Device} // Heron Device
+{30366}{[Quest] Mr. Fitzgerald's Potion of Dark Power} // Mr. Fitzgerald's Potion of Dark Power
+{30367}{[Quest] Will-o-the-Wisp Essence} // Will-o-the-Wisp Essence
+{30368}{[Quest] Schreck's Multi-Barreled Pistol} // Schreck's Multi-Barreled Pistol
+{30369}{[Quest] Lethe Wyvern Venom} // Lethe Wyvern Venom
+{30370}{[Quest] Napha Water} // Napha Water
+{30371}{[Quest] Flawless Dwarven Rubies} // Flawless Dwarven Rubies
+{30372}{[Quest] Gambling +2, Haggle +1} // Lucky Medallion
+{30373}{[Quest] Madam Lil's Key} // Madam Lil's Music Box
+{30374}{[Quest] Cassie's Jewelry} // Cassie's Jewelry
 {30375}{Sword of the Derian Ka} // Sword of the Derian Ka
 {30376}{Sunken Treasure} // Sunken Treasure
-{30377}{CN:+2} // Ring of Virility
-{30378}{Enchanted Looking Glass} // Enchanted Looking Glass
+{30377}{[Quest] Constitution:+2} // Ring of Virility
+{30378}{[Quest] Enchanted Looking Glass} // Enchanted Looking Glass
 {30379}{BE:+2 CH:+1} // Jewel of Hebe
 {30380}{Bridge materials} // Bridge Materials
 {30381}{Shrouded Hills Steam Engine} // Shrouded Hills Steam Engine
@@ -451,35 +451,35 @@
 {30458}{Mr. Victor Wright} // Mr. Victor Wright
 {30459}{Well-to-do business man} // Well-to-do business man
 {30460}{Divinations and Magicks for the Adept Wizard} // Divinations and Magicks for the Adept Wizard
-{30461}{BE:(+2)} // Complexity +40 // Necklace of Queen K'na S'ea
-{30462}{Liam Cameron's Journal} // Liam Cameron's Journal
+{30461}{Beauty:(+2) MC:40} // Complexity +40 // Necklace of Queen K'na S'ea
+{30462}{[Quest] Liam Cameron's Journal} // Liam Cameron's Journal
 {30463}{Thieves Underground Package} // Thieves Underground Package
-{30464}{Trevor Lynwood's Camera} // Trevor Lynwood's Camera
+{30464}{[Quest] Trevor Lynwood's Camera} // Trevor Lynwood's Camera
 {30465}{Mithral knife of G'har} // Mithral knife of G'har
 {30466}{PE:+2 DX:+2 Divine Magick, See Contents, Teleport} // TODO FIXME // Staff of K'an T'au
 {30467}{The Great Castle S'nel N'fa} // S'nel N'fa
 {30468}{Tannon Wroughtbringer's Journal} // Tannon Wroughtbringer's Journal
-{30469}{Great Ruby of K'alru} // Great Ruby of K'alru
+{30469}{[Quest] Great Ruby of K'alru} // Great Ruby of K'alru
 {30470}{Considerable bonus to prowling when worn} // Ring of Concealment
-{30471}{Potion to Heal the Blind} // Potion to Heal the Blind
-{30472}{J.T. Morgan's Master Locksmith Tools} // J.T. Morgan's Master Locksmith Tools
+{30471}{[Quest] Potion to Heal the Blind} // Potion to Heal the Blind
+{30472}{[Quest] J.T. Morgan's Master Locksmith Tools} // J.T. Morgan's Master Locksmith Tools
 {30473}{Prowling +2} // Complexity 0 Caladon, +40 Roseborough // Ring of Silence
 {30474}{CN:(+4) MR:(+40)} // Complexity +80 // Amulet of K'an-el
 {30475}{Considerable bonus to haggle when worn} // The Haggle Master's Ring
 {30476}{Firearm Master's Rifle} // Firearm Master's Rifle
 {30477}{Note from Willenbecker Gang} // Note from Willenbecker Gang
 {30478}{Note from Lady Druella} // Note from Lady Druella
-{30479}{Prowling Master Note 1} // Prowling Master Note 1
-{30480}{Prowling Master Note 2} // Prowling Master Note 2
-{30481}{Prowling Master Note 3} // Prowling Master Note 3
+{30479}{[Quest] Prowling Master Note 1} // Prowling Master Note 1
+{30480}{[Quest] Prowling Master Note 2} // Prowling Master Note 2
+{30481}{[Quest] Prowling Master Note 3} // Prowling Master Note 3
 {30482}{The Mushroom Inn} // The Mushroom Inn
 {30483}{The Sobbing Onion} // The Sobbing Onion
 {30484}{Daniel Hallaway's Strongbox} // Daniel Hallaway's Strongbox
 {30485}{The Bleeding Rose Inn} // The Bleeding Rose Inn
 {30486}{Thieves underground Bag of Jewels} // Thieves underground Bag of Jewels
 {30487}{Cassie's Necklace} // Cassie's Necklace
-{30488}{Gift for Mrs. Regina Halster} // Gift for Mrs. Regina Halster
-{30489}{Note for Mrs. Regina Halster} // Note for Mrs. Regina Halster
+{30488}{[Quest] Gift for Mrs. Regina Halster} // Gift for Mrs. Regina Halster
+{30489}{[Quest] Note for Mrs. Regina Halster} // Note for Mrs. Regina Halster
 {30490}{L.N. Renford} // L.N. Renford
 {30491}{Tarry Thornpick} // Tarry Thornpick
 {30492}{Magick Full Heal or Resurrect} // Leanore's Legume of Life and Longevity
@@ -503,7 +503,7 @@
 {30510}{Jason C. Guy} // Jason C. Guy
 {30511}{Scholarly Gentleman} // Scholarly Gentleman
 {30512}{Key to Bates' Factory} // Key to Bates' Factory
-{30513}{Map of Tarantian Sewers} // Map of Tarantian Sewers
+{30513}{[Quest] Map of Tarantian Sewers} // Map of Tarantian Sewers
 {30514}{Nicholas Longfoot} // Nicholas Longfoot
 {30515}{Madam's Bartender/Bouncer} // Madam's Bartender/Bouncer
 {30516}{Lianna} // Lianna
@@ -524,8 +524,8 @@
 {30616}{DX:+2 PE:+2} // Brigitte
 {30679}{D:1-8 FT:3-12 ST:CN:(+1)HR:(+50%)MSR:5 Maj Heal} // Complexity +40 // Staff of Restoration
 {30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1)} // Complexity +50 // Caladon Crusading Chain
-{30681}{BE:(+2)} // Complexity +20 // Great Aunt Ester's Amulet
-{30682}{PE:+2 DX:+2} // Complexity 0 // Trapmaker Spectacles
+{30681}{Beauty:(+2)} // Complexity +20 // Great Aunt Ester's Amulet
+{30682}{Perception:+2 Dexterity:+2} // Complexity 0 // Trapmaker Spectacles
 {30719}{D:1-4 (+20 to Critical Failure)} // TODO FIXME // Fool's Dagger
 {30720}{D:2-9 FT:2-5 (Speed -6)} // Lingering Sword
 {30721}{} // Hammer of Impotence
@@ -560,7 +560,7 @@
 {30817}{DR:MR:-50% PE:+4 Bow +2, HT/FT Reduced} // Helmet of Yzar's Cost
 {30818}{AC:15 DR:+5(+20%) PE:-1 Crit: Entangle} // Nature's Wrath Helm
 {30823}{DR:ER:FR:MR:+20% PR:-100% Poison and FT DOT} // Baneful Gauntlets
-{30830}{DX:+2 FT DOT} // Boots of the Dark Toll
+{30830}{Dexterity:+2 FT DOT} // Boots of the Dark Toll
 {30831}{MR:+20% IN:+1 DR:ER:FR:PR:-50%} // Ring of Dark Magicks
 {30832}{Invisibility, Heal Rate -100%, HT/FT DOT} // Ring of Shadows
 {30836}{MR:+20% DR:-50%} // Medallion of Dark Magicks
