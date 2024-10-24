@@ -54,7 +54,7 @@
 {6075}{D:1-4 FT:1-4 MSR:8/10} Rusty Hammer
 {6076}{D:1-7 FT:1-10 MSR:6/8} Quality Hammer
 {6077}{D:3-9 FT:3-12 MSR:6/8} Machined Hammer
-{6078}{D:1-8 FT:1-10 Crit Hit Chance:(+10) MSR:8/10} Crushing Hammer
+{6078}{D:1-8 FT:1-10 Crit Rate:(+10) MSR:8/10} Crushing Hammer
 {6079}{D:1-8 FT:1-10 FD:5-10 MSR:8/10} Inferno Hammer
 {6080}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7} Old Revolver
 {6081}{D:1-6 FT:1-3 TH:-5 RNG:8 MSR:3/5} Flintlock Pistol
@@ -286,7 +286,7 @@
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates' Ring
 {8164}{} Ring of Protection
-{8165}{Crit Hit Chance:(+5), Gambling:(+1)} Fated Ring
+{8165}{Crit Rate:(+5), Gambling:(+1)} Fated Ring
 {8166}{} Metal Boots
 {8167}{} Fine Stout Boots
 {8168}{} Shoes
