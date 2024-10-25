@@ -75,7 +75,7 @@
 {6096}{D:5-18 FT:3-9 RNG:15 MSR:8 [Crafting]} Compound Bow
 {6097}{D:1-8 FT:1-3 RNG:10 MSR:5} Short Bow
 {6098}{D:1-12 FT:3-9 RNG:25 MSR:12 [Crafting]} Long Bow
-{6099}{D:1-10+(1-10 vs animal) FT:2-5 RNG:15 MSR:8} Elven Hunter's Bow //changing its description effects unique item descriptions too
+{6099}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8 MC:15} Elven Hunter's Bow //changing its description effects unique item descriptions too
 {6100}{D:1-12 FT:3-9 (5% Chance of Fear) RNG:20 MSR:10} Bow of Terror
 {6101}{D:1-15 FT:1-3 RNG:15 MSR:8} Folding Rifle //UNUSED INGAME
 {6102}{D:1-15 FT:1-3 RNG:15 MSR:8} Repeater Rifle Variant 1 //UNUSED INGAME
@@ -269,9 +269,9 @@
 {8145}{} Venom-Shielded Garment
 {8146}{} Small Venom-Shielded Garment
 {8147}{} Large Venom-Shielded Garment
-{8148}{AC:8 DR:14 FR:5 Accelerated Healing, Requires Charges} Regenerative Jacket
-{8149}{AC:8 DR:14 FR:5 Accelerated Healing, Requires Charges} Small Regenerative Jacket
-{8150}{AC:8 DR:14 FR:5 Accelerated Healing, Requires Charges} Large Regenerative Jacket
+{8148}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Regenerative Jacket
+{8149}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Small Regenerative Jacket
+{8150}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Large Regenerative Jacket
 {8151}{AC:9 DR:16(+10) FR:5(+60) NP:-10 MC:60} Dragon Skin Leather
 {8152}{} Small Dragon Skin Leather
 {8153}{} Large Dragon Skin Leather
@@ -309,7 +309,7 @@
 {8185}{[Crafting] Cylindric Hat for upper class.} Top Hat
 {8186}{AC:3 DR:+7 [Crafting]} Helmet of Vision
 {8187}{DR:+20} Chapeau of Magnetic Inversion
-{8188}{AC:3 DR:7 PE:-1 Light MC:40} Helm of Light
+{8188}{AC:3 DR:7 PE:-1 Sheds Light MC:40} Helm of Light
 {8189}{AC:3(+15) DR:7 PE:-1} Geleam's Helm
 {8190}{} Wooden Shield
 {8191}{} Dented Iron Shield
@@ -319,7 +319,7 @@
 {8195}{AC:30 ED:1-10 to Attacker MC:60} Shield of Force
 {8196}{AC=Evil Alignment/2 MC:40} Shadow Shield
 {8197}{} Dwarven Platemail
-{8198}{} Minute Platemail of Regeneration
+{8198}{AC:20(+5) DR:+15(+7) FR:10(+10) ER:-20 HR:(+%40) NP:-80 MC:40} Minute Platemail of Regeneration
 {8199}{AC:3 DR:7 PE:-1 [Crafting]} Great Helm
 {8200}{AC:2  DR:+1  NP:-10 Reaction:+20} Sunday's Best Dress
 {8201}{} Officer's Uniform
@@ -384,7 +384,7 @@
 {8260}{} Magick Shield
 {8261}{} Mystic Shield
 {8262}{} Arcane Shield
-{8263}{} Miner's Helmet
+{8263}{AC:15 Sheds Light TC:15} Miner's Helmet
 {8264}{AC:10(+4) DR:12(+2) PE:-1} Charmed Helmet
 {8265}{AC:10(+6) DR:12(+4) PE:-1} Magick Helmet
 {8266}{AC:10(+8) DR:12(+6) PE:-1} Mystic Helmet
@@ -425,8 +425,8 @@
 {10060}{Restores 20pts of fatigue. [Crafting]} Fatigue Restorer
 {10061}{[Crafting: Herbology] Used for anxiety in folk medicine.} Ginka Root
 {10062}{[Crafting: Herbology] Folks cure for backpain.} Kadura Stem
-{10063}{[Crafting: Herbology] Recommended on cold and fewers.} Coca Leaves
-{10064}{[Crafting: Herbology] Smoked for recreation and resuscitation.} Tobacco Leaves
+{10063}{[Crafting: Herbology] Recommended on cold and fevers.} Coca Leaves
+{10064}{[Crafting: Herbology] For recreation and resuscitation.} Tobacco Leaves
 {10065}{+70 Poison Level to the target [Crafting]} Poison
 {10066}{[Crafting: Chemistry] Leyden jar.} Electrolyte Solution
 {10067}{[Crafting: Chemistry] DX-1 CN-1 for 39min.} Varham's Aqua Vitae
@@ -442,7 +442,7 @@
 {10077}{Reduces 80 poison levels} Cure Poison
 {10078}{Halves fatigue consumption for 180 sec. [Crafting]} Fatigue Limiter
 {10079}{1pt heal every 4 sec. for 100 sec. [Crafting]} Accelerate Healing
-{10080}{[Crafting: Herbology] Rue, it's smell scare away the cats.} Witchbane
+{10080}{[Crafting: Herbology] Rue, its smell scares away cats.} Witchbane
 {10081}{[Crafting: Herbology] Natural painkillers.} Poppy Flowers
 {10082}{[Crafting: Herbology] Cure for all (made up) diseases.} Big Chief Snake Oil
 {10083}{[Crafting: Herbology] +10 Poison Level to the target} Venom
@@ -454,7 +454,7 @@
 {10089}{[Crafting: Chemistry] Medical substance.} Pete's Carbolic Acid
 {10090}{Makes Target Flee [Crafting]} Potion of Paralysis Hallucinite // Hallucination Grenade text
 {10091}{[Crafting: Chemistry] These are not poisonous.} Mushrooms
-{10092}{[Crafting: Chemistry] Diet suplement, health and antioxydant production.} Sulphur Pills
+{10092}{[Crafting: Chemistry] Diet supplements.} Sulphur Pills
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]} Wine
 {10094}{[Crafting: Chemistry]} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk]} Dragon Cologne
@@ -527,7 +527,7 @@
 {11073}{Summons an Air Elemental.} Scroll of Call Air Elemental
 {11074}{Increases the target's strength by 4.} Scroll of Strength of Earth
 {11075}{Casts a magickal stone at your opponents.} Scroll of Stone Throw
-{11076}{Creates a magickal stone wall.} Scroll of Wall of Stone
+{11076}{Creates an impassable magickal stone wall.} Scroll of Wall of Stone
 {11077}{Transforms the target into an Earth Elemental.} Scroll of Body of Stone
 {11078}{Summons an Earth Elemental.} Scroll of Call Earth Elemental
 {11079}{Increases the target's dexterity by 4.} Scroll of Agility of Fire
@@ -540,10 +540,10 @@
 {11086}{Creates a vicious ice storm.} Scroll of Squall of Ice
 {11087}{Transforms the target into a Water Elemental.} Scroll of Body of Water
 {11088}{Summons a Water Elemental.} Scroll of Call Water Elemental
-{11089}{Creates a magickal shield.} Scroll of Shield of Protection
-{11090}{Shocks any opponents within a few feet of the caster.} Scroll of Jolt
-{11091}{Creates a magickal wall of force.} Scroll of Wall of Force
-{11092}{Casts a bolt of raw lightning} Scroll of Bolt of Lightning
+{11089}{Creates a magickal shield on target.} Scroll of Shield of Protection
+{11090}{Shocks every opponent around the caster.} Scroll of Jolt
+{11091}{Creates an impassable magickal wall of force.} Scroll of Wall of Force
+{11092}{Casts a bolt of raw lightning on target.} Scroll of Bolt of Lightning
 {11093}{Disintegrates targeted objects, opponents and their items.} Scroll of Disintegrate
 {11094}{Increases the reaction of others to you by 30.} Scroll of Charm
 {11095}{Stuns your opponents for a few moments.} Scroll of Stun
@@ -555,10 +555,10 @@
 {11101}{Prevents magick from operating on the target.} Scroll of Dweomer Shield
 {11102}{Prohibits the target from casting magickal spells.} Scroll of Bonds of Magic
 {11103}{Reflects magickal spells back at the caster.} Scroll of Reflection Shield
-{11104}{Increases the damage levels of unarmed attacks.} Scroll of Hardened Hands
+{11104}{Increases the damage of unarmed attacks by 2.} Scroll of Hardened Hands
 {11105}{Decreases strength and damage resistance of the target.} Scroll of Weaken
 {11106}{Shrinks the target, can access tight caves.} Scroll of Shrink
-{11107}{Turns the target into stone.} Scroll of Flesh to Stone
+{11107}{Turns the target into an invulnerable stone.} Scroll of Flesh to Stone
 {11108}{Transforms the target into a sheep.} Scroll of Polymorph
 {11109}{Pacifies every animal in the vicinity.} Scroll of Charm Beast
 {11110}{Summons magickal vines to ensnare opponents.} Scroll of Entangle
@@ -679,10 +679,10 @@
 {15065}{} Generic Item 1a
 {15066}{Can be repaired and reused if not destroyed [Crafting]} Mechanized Arachnid
 {15067}{[Quest]} Stillwater trap (empty)
-{15068}{[Quest] There something inside.} Stillwater trap (full)
-{15069}{[Crafting: Chemistry] Metal is good conductor.} Metal Plates
+{15068}{[Quest] There is something inside.} Stillwater trap (full)
+{15069}{[Crafting: Chemistry] Metal is a good conductor.} Metal Plates
 {15070}{Produces light around the user, in offhand [Crafting]} Electric Light
-{15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
+{15071}{[Crafting: Electric] Sturdy glass with light emitter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produces light around the user, in offhand [Crafting]} Lantern
 {15073}{[Crafting: Electric] Small device that energy charge} Capacitor
 {15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
@@ -705,7 +705,7 @@
 {15091}{[Crafting: Mechanical] Large Cogs for the heaviest machines.} Large Gears
 {15092}{Poison leaks across this robotic spider's legs.} Mechanized Arachnid (poison)
 {15093}{[Crafting: Guns] Does it still work?} Ancient Gun Chassis
-{15094}{A very rare magical metal ore} Mithril Ore
+{15094}{It's Mithril, what did you expect?} Mithril Ore
 {15095}{} Wine Glass
 {15096}{[Quest]} Empty Vial
 {15097}{[Quest] This slightly charred camera looks like it has seen better days.} Crash Site Camera
@@ -719,10 +719,10 @@
 {15105}{[Junk] Decorative, plays music when opened.} Music Box
 {15106}{[Junk] Impractical without a table, just find lamp.} Candle Stick
 {15107}{[Junk] Heavily worn gears. Unusable.} Old Gears
-{15108}{[Crafting: Electric] Used to conduct electrcity across installation.} Electrical Harness
-{15109}{[Crafting: Electric] Capable of accumulating a lot of energy.} Large Capacitor
-{15110}{[Crafting: Electric] High-frequency transmiter of electricity.} Tesla Coil
-{15111}{[Crafting: Explosives] A type of gunpowder, can cause explosions.} Black Powder
+{15108}{[Crafting: Electric] Conducts electrcity across installation.} Electrical Harness
+{15109}{[Crafting: Electric] Accumulates big charges of energy.} Large Capacitor
+{15110}{[Crafting: Electric] High-frequency electro-transmiter.} Tesla Coil
+{15111}{[Crafting: Explosives] Gunpowder, can cause explosions.} Black Powder
 {15112}{3x3 fire curtain for 10 sec., damages everyone [Crafting]} Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns] Complex self-loading gun system.} Auto Loading Chamber
