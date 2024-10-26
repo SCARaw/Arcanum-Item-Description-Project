@@ -583,7 +583,7 @@
 {31175}{D:15-35 FT:1-8 FD:1-5 TH:+5 MSR:8/10 TC:80} // Iron Clan Hammer
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
 {31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MC:20} // Witch's Dagger
-{31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9} // Sharp Shooter's Pistol
+{31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
 {31192}{D:1-10FT:2-5 TH:(+15)SPD:(+2)CR:(+10)Call Air Elem. MC:45} // Blessed Bow
 {31193}{D:1-10 FT:1-5 TH:CR:(+10) MSR:5/7 Fireflash MC:20} // Screaming Scimitar
