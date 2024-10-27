@@ -22,7 +22,7 @@
 {30019}{Vase} // Vase
 {30020}{Poisoned Sword} // Poisoned Sword
 {30021}{[Quest]} // Gladys' Ring
-{30022}{D:15-25 FT:5-15 MSR:14/18} // Complexity +25 // Sword of Baltar
+{30022}{D:15-25 FT:5-15 MSR:14/18 MC:25} // Complexity +25 // Sword of Baltar
 {30023}{Smithy} // Smithy
 {30024}{General Store and Magicks} // General Store and Magicks
 {30025}{General Goods} // General Goods
@@ -95,7 +95,7 @@
 {30101}{K'an Hua} // K'an Hua
 {30102}{"How Nasrudin Defeated the Nefarious Arronax! and Other Stories"} // "How Nasrudin Defeated the Nefarious Arronax! and Other Stories"
 {30103}{Statue of Saint Mannox} // Statue of Saint Mannox
-{30104}{CR:+2 PR:+20 WP:+1 Melee +2} // Complexity 0 // The Finger of Mannox
+{30104}{CR:+2 PR:+20 WP:+1 Melee:+2} // Complexity 0 // The Finger of Mannox
 {30105}{Preston Radcliffe} // Preston Radcliffe
 {30106}{Weldo Rubin} // Weldo Rubin
 {30107}{Milly Fender} // Milly Fender
@@ -123,7 +123,7 @@
 {30129}{A freshly filled grave} // A freshly filled grave
 {31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
 {31031}{Sarcophagus lid} // Sarcophagus lid
-{31032}{D:5-20(+10) evil, reaction:(-20) Harm/Lightning/Quench Life FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} // The Bangellian Scourge
+{31032}{D:5-20(+10) FT:8-16 Reaction:(-20) harm/lightning/q.life PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} // The Bangellian Scourge
 {31033}{Gorrin the Pit Master} // Gorrin the Pit Master
 {31034}{Key To Bates' Mausoleum} // Key To Bates' Mausoleum
 {31035}{Sarcophagus} // Sarcophagus
@@ -181,7 +181,7 @@
 {30187}{Ivory} // Ivory
 {30188}{Sharpe} // Sharpe
 {30189}{Wrath} // Wrath
-{30190}{D:1-4 FT:2-9 TH:(+25) SPD:(+25) CR:(+20) MSR:5} // Complexity +26 // Staff of Xoranth
+{30190}{D:1-4 FT:2-9 TH:(+25) SPD:(+25) CR:(+20) MSR:5 MC:26} // Complexity +26 // Staff of Xoranth
 {30191}{Whysper} // Whysper
 {30192}{Winde} // Winde
 {30193}{Kan Kerai} // Kan Kerai
@@ -362,7 +362,7 @@
 {30369}{[Quest]} // Lethe Wyvern Venom
 {30370}{[Quest]} // Napha Water
 {30371}{[Quest]} // Flawless Dwarven Rubies
-{30372}{Gambling +2, Haggle +1 [Quest]} // Lucky Medallion
+{30372}{Gambling:+2, Haggle:+1 [Quest]} // Lucky Medallion
 {30373}{[Quest]} // Madam Lil's Music Box
 {30374}{[Quest]} // Cassie's Jewelry
 {30375}{D:6-13 FT:1-4 MSR:6/8 [Quest]} // Sword of the Derian Ka
@@ -458,12 +458,12 @@
 {30465}{Mithral knife of G'har} // Mithral knife of G'har
 {30466}{D:1-8 FT:3-12 DX:PE:(+2) Teleport, Divine, See Contents MSR:5 MC:100}
 {30467}{The Great Castle S'nel N'fa} // S'nel N'fa
-{30468}{Tannon Wroughtbringer's Journal} // Tannon Wroughtbringer's Journal
+{30468}{} // Tannon Wroughtbringer's Journal
 {30469}{[Quest]} // Great Ruby of K'alru
-{30470}{Considerable bonus to prowling when worn} // Ring of Concealment
+{30470}{Prowling:+2} // Ring of Concealment
 {30471}{[Quest]} // Potion to Heal the Blind
 {30472}{[Quest]} // J.T. Morgan's Master Locksmith Tools
-{30473}{Prowling +2} // Complexity 0 Caladon, +40 Roseborough // Ring of Silence
+{30473}{Prowling:+2} // Complexity 0 Caladon, +40 Roseborough // Ring of Silence
 {30474}{CN:(+4) MR:(+40) MC:80} // Complexity +80 // Amulet of K'an-el
 {30475}{Considerable bonus to haggle when worn} // The Haggle Master's Ring
 {30476}{Firearm Master's Rifle} // Firearm Master's Rifle
@@ -519,35 +519,35 @@
 {30526}{Arthur Tyron} // Arthur Tyron
 {30527}{Sam Longwell} // Sam Longwell
 {30528}{James Legget} // James Legget
-{30614}{Prowling +2} // Medallion of Silence
+{30614}{Prowling:(+2)} // Medallion of Silence
 {30615}{D:1-10(+1-10 vs Animals) FT:2-5 TH:(+10) RNG:15 MSR:8} // Ancient Elven Bow
 {30616}{DX:+2 PE:+2} // Brigitte
 {30679}{D:1-8 FT:3-12 ST:CN:(+1)HR:(+50%)MSR:5 Maj Heal MC:40} // Complexity +40 // Staff of Restoration
 {30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Complexity +50 // Caladon Crusading Chain
 {30681}{Beauty:(+2) MC:20} // Complexity +20 // Great Aunt Ester's Amulet
 {30682}{Perception:+2 Dexterity:+2} // Complexity 0 // Trapmaker Spectacles
-{30719}{D:1-4 (+20 to Critical Failure)} // Fool's Dagger
-{30720}{D:2-9 FT:2-5 (Speed -6)} // Lingering Sword
-{30721}{} // Hammer of Impotence
-{30722}{D:1-4 FT:1-2 (+20 to Critical Failure)} // Hexed Dagger
-{30734}{D:1-6 FT:1-2 Backstab(+8/20) Self D:PD:(1-10) MSR:3/3 MC:50} // Shadow Hand Dagger
-{30735}{D:1-4(+2) FT:1-2 MSR:3/3 HR:(-95%) MaxFT:(-50%) MC:40} // Life Stealer Dagger
-{30739}{D:5-20(+10) evil, reaction:(-20) Harm/Lightning/Quench Life FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} // Sword of Bangelian Scourge
+{30719}{D:1-4 FT:1-2 Crit Fail:(+20) SPD:(+4) MSR:3/3 MC:10} // Fool's Dagger
+{30720}{D:2-9 FT:2-5 SPD:(-6) MSR:8/10 MC:10} // Lingering Sword
+{30721}{} // Hammer of Impotence //UNUSED INGAME
+{30722}{D:1-4 FT:1-2 Crit Fail:(+20) MSR:3/3 MC:20} // Hexed Dagger
+{30734}{D:1-6 FT:1-2 Backstab(+8/20) Self-D:PD:(1-10) MSR:3/3 MC:50} // Shadow Hand Dagger
+{30735}{D:1-4(+2) FT:1-2 HR:(-95%) MaxFT:(-50%) MSR:3/3 MC:40} // Life Stealer Dagger
+{30739}{D:5-20(+10) FT:8-16 Reaction:(-20) harm/lightning/q.life PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} // Sword of Bangelian Scourge
 {30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on Self or enemy MSR:9/11 MC:75} // Blade of Unholy Fire
 {30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} // Black Stone Blade
 {30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75} // Axe of Dark Lightning
 {30746}{D:1-12(+35) FT:1-10(+29) ROH-Hasten enemy MSR:8/10 MC:70} // Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
-{30748}{D:6-15 FT:1-3 MSR:8/10 ROH-Poisonous Vapors MC:40} // Axe of Creeping Death
+{30748}{D:6-15 FT:1-3 ROH-Poisonous Vapors MSR:8/10 MC:40} // Axe of Creeping Death
 {30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 CM:75} // Mace of Betrayal
-{30751}{D:1-8 FT:1-10(+15) RNG:20 MSR:9/11 ROH-Stasis MC:80} // Star of Soul Bonding
+{30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis MSR:9/11 MC:80} // Star of Soul Bonding
 {30753}{D:1-8 ROH-Stun, Drain Will or Spawn 3 Hostile Zombies FT:1-10 MSR:10/12 Mana:16 CR(+2) MC:50} // Mace of the Damned
 {30755}{D:5-15(15) Speed:(+4) ROH-D:FT:(10-55) Self or enemy double D: on self. FT:1-5 SPD(+4) MSR:14/18 MC:90} // Blade of Vicious Haste
-{30757}{D:5-10(+20) FT:3-11 MSR:15/19 ROH-Squall of Ice MC:80} // Blade of Malevolent Storm
-{30759}{D:5-10(+10) FT:2-5 MSR:11 ROH-Harm ROM-Harm x2 MC:75} // Hurtful Long Bow
-{30761}{D:1-5 FT:1-3 MSR:10 CN:WP:(-6) RNG:15 ROH-FT:10-30 MC:50} // Bow of the Chill Reaper
+{30757}{D:5-10(+20) FT:3-11 ROH-Squall of Ice MSR:15/19 MC:80} // Blade of Malevolent Storm
+{30759}{D:5-10(+10) FT:2-5 ROH-Harm ROM-Harm x2 MSR:11 MC:75} // Hurtful Long Bow
+{30761}{D:1-5 FT:1-3 CN:WP:(-6) RNG:15 ROH-FT:10-30 MSR:10 MC:50} // Bow of the Chill Reaper
 {30763}{D:FT:1-3(+8) DX:(-4) Speed:(-4) TH:30(+30) very heavy MSR:16(-6) CR:(+10) W:(-1000) MaxCarry(-2000) MC:20} // Grack's Burdensome Staff //D:(+20) but capped at 9, FT:(+20) but capped at 9
-{30764}{D:1-15 Switching effects DX,ST,CN:+3, or DX,ST,CN:-4}  // Hexed Berserker's Staff
-{30767}{D:FT:1-3(+6) MSR:5 Random Shield of Protection MC:80} // Staff of Hypocrisy
+{30764}{D:1-15(+10) FT:2-9(+10) ROH-Self-DX:ST:CN:(+3/-4) MSR:5 MC:75}  // Hexed Berserker's Staff
+{30767}{D:FT:1-3(+6) Random Shield of Protection MSR:5 MC:80} // Staff of Hypocrisy
 {30768}{MR:+20% DR-50%} // Hexed Leather Armour
 {30769}{DR:+20% PR:-100% Poison and FT DOT} // Diseased Leather Armour
 {30796}{DR:+20% PR:-100% Poison and FT DOT} // Diseased Chain Mail
