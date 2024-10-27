@@ -30,7 +30,7 @@
 {6051}{D:2-6 FT:1-3 MSR:3/3 [Crafting]} Fine Steel Dagger
 {6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
 {6053}{D:2-12 FT:1-6 MSR:3/3 TC:33} Mechanical Dagger
-{6054}{D:1-4 FT:1-2 MSR:2/2 (Mana:10) MC:10} Mage's Dagger
+{6054}{D:1-4 FT:1-2 MSR:2/2 Mana:10 MC:10} Mage's Dagger
 {6055}{D:1-4 FT:1-2 MSR:3/3 Speed:(+4) MC:10} Dagger of speed
 {6056}{D:1-4 FT:1-2 MSR:6/8} Rusty Sword
 {6057}{D:2-9 FT:2-5 MSR:6/8} Quality Sword
@@ -90,7 +90,7 @@
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 MSR:5 Major Healing MC:20} Staff of Healing
 {6113}{D:1-8 FT:3-12 MSR:5 Major Heal, Charm Beast, Regenerate MC:60} Shaman's Staff
-{6114}{D:1-8 FT:3-12 MSR:5 (Mana:50) Illuminate, Dweomer Shield MC:60} Mage's Staff
+{6114}{D:1-8 FT:3-12 MSR:5 Mana:50 Illuminate, Dweomer Shield MC:60} Mage's Staff
 {6115}{D:2-9 FT:2-5 RNG:9 MSR:5/7 TC:30} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7 TC:20} Hand Crafted Flintlock
 {6117}{D: 1-2 FT 1-3 MSR:10/12 [Crafting]} Large Pipe
@@ -99,29 +99,29 @@
 {6120}{D:1-8(+12) FT:1-4 Crit Effect:+50 Crit Fail:+20% MSR:4/6 MC:75} Filament Sword
 {6121}{D:2-6 FT:1-3 MSR:3/3 TC:15} Finely Crafted Dagger 
 {6122}{D:1-4(+3) FT:1-2 MSR:3/3 MC:25} Charmed Dagger 
-{6123}{D:1-4(+6) FT:1-2(+1) MSR:3/3 (Mana:5) MC:50} Magick Dagger
-{6124}{D:1-4(+9) FT:1-2(+2) MSR:3/3 (Mana:10) MC:75} Mystic Dagger
-{6125}{D:1-6(+12) FT:1-2(+4) MSR:3/3 (Mana:20) MC:100} Arcane Dagger
+{6123}{D:1-4(+6) FT:1-2(+1) MSR:3/3 Mana:5 MC:50} Magick Dagger
+{6124}{D:1-4(+9) FT:1-2(+2) MSR:3/3 Mana:10 MC:75} Mystic Dagger
+{6125}{D:1-6(+12) FT:1-2(+4) MSR:3/3 Mana:20 MC:100} Arcane Dagger
 {6126}{D:3-12 FT:3-9 ED:1-20 MSR:6/8 TC:45} Charged Sword 
 {6127}{D:1-8(+4) FT:1-4 MSR:6/8 MC:25} Charmed Sword 
-{6128}{D:1-8(+8) FT:1-4(+2) (Mana:4) MSR:7/9 MC:50} Magick Sword
-{6129}{D:1-8(+12) FT:1-4(+4) (Mana:8) MSR:8/10 MC:75} Mystic Sword
-{6130}{D:1-8(+16) FT:1-4(+8) (Mana:16) MSR:9/11 MC:100} Arcane Sword
+{6128}{D:1-8(+8) FT:1-4(+2) Mana:4 MSR:7/9 MC:50} Magick Sword
+{6129}{D:1-8(+12) FT:1-4(+4) Mana:8 MSR:8/10 MC:75} Mystic Sword
+{6130}{D:1-8(+16) FT:1-4(+8) Mana:16 MSR:9/11 MC:100} Arcane Sword
 {6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10 [Chop] TC:25} Envenomed Axe 
 {6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10 [Chop] TC:60} Charged Axe 
 {6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10 [Chop] TC:75} Pyrotechnic Axe 
 {6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 [Chop] MC:25} Charmed Axe 
-{6135}{D:1-12(+10) FT:1-9(+3) MSR:10/12 (Mana:4)[Chop] MC:50} Magick Axe
-{6136}{D:1-13(+15) FT:1-9(+6) MSR:11/13 (Mana:8)[Chop] CR:(+3) MC:75} Mystic Axe
-{6137}{D:3-14(+20) FT:2-10(+9) MSR:11/13 (Mana:16)[Chop] CR:(+5) MC:100} Arcane Axe
-{6138}{D:1-5(+4) FT:1-9(+2) MSR:8/10 (Mana:8) CR:(+1) MC:25} Charmed Mace
-{6139}{D:2-5(+8) FT:2-9(+4) MSR:9/11 (Mana:16) CR:(+2) MC:50} Magick Mace
-{6140}{D:1-9(+12) FT:1-12(+8) MSR:10/12 (Mana:24) CR:(+3) MC:75} Mystic Mace
-{6141}{D:3-9(+16) FT:3-12(+12) MSR:10/12 (Mana:32) CR:(+4) MC:100} Arcane Mace
-{6142}{D:4-16(+4) FT:3-11(+4) MSR:14/18 (Mana:8) CR:(+2) MC:25} Charmed Great Sword
-{6143}{D:4-16(+8) FT:3-11(+8) MSR:15/19 (Mana:12) CR:(+4) MC:50} Magick Great Sword
-{6144}{D:4-16(+12) FT:3-11(+12) MSR:16/20 (Mana:16) CR:(+6) MC:75} Mystic Great Sword
-{6145}{D:4-16(+16) FT:3-11(+16) MSR:16/20 (Mana:20) CR:(+8) MC:100} Arcane Great Sword
+{6135}{D:1-12(+10) FT:1-9(+3) MSR:10/12 Mana:4[Chop] MC:50} Magick Axe
+{6136}{D:1-13(+15) FT:1-9(+6) MSR:11/13 Mana:8[Chop] CR:(+3) MC:75} Mystic Axe
+{6137}{D:3-14(+20) FT:2-10(+9) MSR:11/13 Mana:16[Chop] CR:(+5) MC:100} Arcane Axe
+{6138}{D:1-5(+4) FT:1-9(+2) MSR:8/10 Mana:8 CR:(+1) MC:25} Charmed Mace
+{6139}{D:2-5(+8) FT:2-9(+4) MSR:9/11 Mana:16 CR:(+2) MC:50} Magick Mace
+{6140}{D:1-9(+12) FT:1-12(+8) MSR:10/12 Mana:24 CR:(+3) MC:75} Mystic Mace
+{6141}{D:3-9(+16) FT:3-12(+12) MSR:10/12 Mana:32 CR:(+4) MC:100} Arcane Mace
+{6142}{D:4-16(+4) FT:3-11(+4) MSR:14/18 Mana:8 CR:(+2) MC:25} Charmed Great Sword
+{6143}{D:4-16(+8) FT:3-11(+8) MSR:15/19 Mana:12 CR:(+4) MC:50} Magick Great Sword
+{6144}{D:4-16(+12) FT:3-11(+12) MSR:16/20 Mana:16 CR:(+6) MC:75} Mystic Great Sword
+{6145}{D:4-16(+16) FT:3-11(+16) MSR:16/20 Mana:20 CR:(+8) MC:100} Arcane Great Sword
 {6146}{D:1-10 FT:2-5 FD:5-20 RNG:20 MSR:10 TC:85} Pyrotechnic Bow 
 {6147}{D:1-10 FT:2-5 PD:10-30 RNG:20 MSR:10 TC:55} Envenomed Bow 
 {6148}{D:1-10(+2) FT:2-5 RNG:20 MSR:11 MC:25} Charmed Bow 
@@ -136,10 +136,10 @@
 {6157}{D:30-60 FT:5-15 RNG:15 MSR:15 TC:75} Blade Launcher 
 {6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8 TC:95} Pyrotechnic Gun 
 {6159}{D:1-15 FT:%70-150 depends on the target, RNG:15 MSR:8 TC:100} Tranquilizer Gun 
-{6160}{D:1-8 FT:3-12(+6) MSR:5 (Mana:20) MC:25} Charmed Staff
-{6161}{D:1-8 FT:3-12(+12) MSR:5 (Mana:40) MC:50} Magick Staff
-{6162}{D:1-8 FT:3-12(+18) MSR:5 (Mana:60) MC:75} Mystic Staff
-{6163}{D:1-8 FT:3-12(+24) MSR:5 (Mana:80) MC:100} Arcane Staff
+{6160}{D:1-8 FT:3-12(+6) MSR:5 Mana:20 MC:25} Charmed Staff
+{6161}{D:1-8 FT:3-12(+12) MSR:5 Mana:40 MC:50} Magick Staff
+{6162}{D:1-8 FT:3-12(+18) MSR:5 Mana:60 MC:75} Mystic Staff
+{6163}{D:1-8 FT:3-12(+24) MSR:5 Mana:80 MC:100} Arcane Staff
 {6164}{D:1-6 RNG:20 MSR:6/8} Boomerang
 {6165}{D:1-8 FT:1-2 RNG:20 MSR:6/8} Bladed Boomerang
 {6166}{D:1-10 FT:1-3 RNG:20 MSR:6/8 TC:5} Balanced Boomerang
@@ -225,7 +225,7 @@
 {8101}{AC:20 DR:25 FR:10 ER:-20 NP:-80 TC:60} Small Basic Machined Platemail
 {8102}{} Small Robes
 {8103}{AC:15 DR:32 FR:30 ER:-10 NP:-80 TC:10} Small Bronzed Plate
-{8104}{AC:11 DR:+20 NP:-25 Reaction:-5} Small Bronze Barbarian Clothes
+{8104}{AC:11 DR:20 NP:-25 Reaction:-5} Small Bronze Barbarian Clothes
 {8105}{} Small Manservants Clothes
 {8106}{} Large Wool Jacket
 {8107}{AC:9 DR:17 FR:5 NP:-10 [Crafting]} Large Leather Armour
@@ -237,7 +237,7 @@
 {8113}{AC:15 DR:37 FR:10 ER:-20 NP:-80 TC:60} Guard Plate
 {8114}{AC:5(+6) DR:7(+12) FR:3(+8) MR:(+10) MC:80} Magick Robes
 {8115}{AC:20 DR:40 FR:30 NP:-35 [Crafting] TC:20} Elite Plate
-{8116}{AC:11 DR:+20 NP:-25 Reaction:-5} Barbarian Clothes
+{8116}{AC:11 DR:20 NP:-25 Reaction:-5} Barbarian Clothes
 {8117}{} Rustic Finery
 {8118}{} Small Jacket
 {8119}{} Small Studded Leather
@@ -245,14 +245,14 @@
 {8121}{AC:15 DR:33 FR:10 ER:-20 NP:-80 TC:60} Small Guard Plate
 {8122}{AC:5(+6) DR:7(+12) FR:3(+8) MR:(+10) MC:80} Small Magick Robes
 {8123}{AC:20 DR:35 FR:30 NP:-35 [Crafting] TC:20} Small Elite Plate
-{8124}{AC:11 DR:+20 NP:-25 Reaction:-5} Small Barbarian Clothes
+{8124}{AC:11 DR:20 NP:-25 Reaction:-5} Small Barbarian Clothes
 {8125}{} Small Rustic Finery
 {8126}{} Rags
 {8127}{} Large Studded Leather
 {8128}{AC:20 DR:45 FR:30 NP:-35 [Crafting] TC:20} Large Elite Plate
 {8129}{} Large Rustic Finery
-{8130}{AC:13 DR:+24 FR:+5 ER:-10 NP:-25 [Crafting] TC:20} Feather-Weight Chain
-{8131}{AC:13 DR:+23 FR:+5 ER:-10 NP:-25 [Crafting] TC:20} Small Feather-Weight Chain
+{8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 [Crafting] TC:20} Feather-Weight Chain
+{8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 [Crafting] TC:20} Small Feather-Weight Chain
 {8132}{} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
