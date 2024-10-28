@@ -520,7 +520,7 @@
 {30527}{Sam Longwell} // Sam Longwell
 {30528}{James Legget} // James Legget
 {30614}{Prowling:(+2)} // Medallion of Silence
-{30615}{D:1-10(+1-10 vs Animals) FT:2-5 TH:(+10) RNG:15 MSR:8} // Ancient Elven Bow
+{30615}{D:1-10(+1-10 vs Animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} // Ancient Elven Bow
 {30616}{DX:+2 PE:+2} // Brigitte
 {30679}{D:1-8 FT:3-12 ST:CN:(+1)HR:(+50%)MSR:5 Maj Heal MC:40} // Complexity +40 // Staff of Restoration
 {30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Complexity +50 // Caladon Crusading Chain
@@ -536,12 +536,12 @@
 {30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on Self or enemy MSR:9/11 MC:75} // Blade of Unholy Fire
 {30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} // Black Stone Blade
 {30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75} // Axe of Dark Lightning
-{30746}{D:1-12(+35) FT:1-10(+29) ROH-Hasten enemy MSR:8/10 MC:70} // Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
+{30746}{D:1-12(+35) FT:1-10(+29) SPD:(-3) ROH-Hasten enemy MSR:8/10 MC:70} // Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
 {30748}{D:6-15 FT:1-3 ROH-Poisonous Vapors MSR:8/10 MC:40} // Axe of Creeping Death
-{30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 CM:75} // Mace of Betrayal
+{30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 MC:75} // Mace of Betrayal
 {30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis MSR:9/11 MC:80} // Star of Soul Bonding
 {30753}{D:1-8 ROH-Stun, Drain Will or Spawn 3 Hostile Zombies FT:1-10 MSR:10/12 Mana:16 CR(+2) MC:50} // Mace of the Damned
-{30755}{D:5-15(15) Speed:(+4) ROH-D:FT:(10-55) Self or enemy double D: on self. FT:1-5 SPD(+4) MSR:14/18 MC:90} // Blade of Vicious Haste
+{30755}{D:5-15(15) Speed:(+5) ROH-D:FT:(10-55) Self or enemy double D: on self. FT:1-5 SPD(+5) MSR:14/18 MC:90} // Blade of Vicious Haste
 {30757}{D:5-10(+20) FT:3-11 ROH-Squall of Ice MSR:15/19 MC:80} // Blade of Malevolent Storm
 {30759}{D:5-10(+10) FT:2-5 ROH-Harm ROM-Harm x2 MSR:11 MC:75} // Hurtful Long Bow
 {30761}{D:1-5 FT:1-3 CN:WP:(-6) RNG:15 ROH-FT:10-30 MSR:10 MC:50} // Bow of the Chill Reaper
@@ -576,35 +576,35 @@
 {30967}{ST:+1 CN:+1 Healing +50%} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} // Complexity +15 // Ellumyn's Bow
-{31134}{CH:+3 BE:+3 Persuasion +3, Haggle +3} // Ring of Influence
+{31134}{CH:(+3) BE:(+3) Persuasion:(+3), Haggle:(+3) MC:60} // Ring of Influence
 {31135}{DR:ER:FR:MR:PR:+20% Poison DOT, Poison Vapours} // Poisoned Plate Mail
 {31161}{} // TODO FIXME // Ceremonial Dagger
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
 {31175}{D:15-35 FT:1-8 FD:1-5 TH:+5 MSR:8/10 TC:80} // Iron Clan Hammer
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
-{31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MC:20} // Witch's Dagger
+{31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
 {31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
-{31192}{D:1-10FT:2-5 TH:(+15)SPD:(+2)CR:(+10)Call Air Elem. MC:45} // Blessed Bow
+{31192}{D:1-10FT:2-5 TH:(+15)SPD:(+2)CR:(+10)Call Air Elem. MSR:10 MC:45} // Blessed Bow
 {31193}{D:1-10 FT:1-5 TH:CR:(+10) MSR:5/7 Fireflash MC:20} // Screaming Scimitar
 {31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9 TC:35} // Complexity -35 // Long Range Rifle
 {31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) MSR:5 Divine Magick MC:40} // Complexity +40 // Divining Staff
 {31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0 // Fleet Boomerang
 {31198}{D:1-4 FT:1-2 TH:(+10) MSR:3/3 Bolt of Lightning MC:25} //Complexity +25 // Shocking Dagger
 {31199}{D:1-10 FT:2-5 TH:(+20) RNG:15 CR:(+15) MSR:10 MC:20} //Complexity +20 // Bow of Damage
-{31200}{AC:2 DR:+1 FR:(+30) NP:+10 Reaction:+20} // Complexity +20 // Enchanted Gown
-{31201}{AC:5(+6)DR:+7(+12)FR:+3(+20)MR:(+10)NP:(+20) MC:80} // Complexity +80 #MISSING: Weight -30 but doesn't fit // Silent Robes
-{31202}{D:1-4 FT:1-2 TH:(+15) SP:(+2) MSR 3/3 MC:10} // Complexity +10 // Dagger of Pain
+{31200}{AC:2 DR:1 FR:(+30) NP:+10 Reaction:+20 MC:20} // Complexity +20 // Enchanted Gown
+{31201}{AC:5(+6) DR:7(+12) FR:3(+20) MR:(+10) NP:(+20) MC:80} // Complexity +80 #MISSING: Weight -30 but doesn't fit // Silent Robes
+{31202}{D:1-4 FT:1-2 TH:(+15) SPD:(+2) MSR:3/3 MC:10} // Complexity +10 // Dagger of Pain
 {31203}{D:3-14 FT:2-10 TH:+15 MSR:7/9} // Complexity 0 // Almstead's Axe
-{31204}{AC:2 DR:+1 FR:+10 MR:+10 TC:10} // Complexity -10 // Suit of Resistance
+{31204}{AC:2 DR:1 FR:10 MR:10 TC:10} // Complexity -10 // Suit of Resistance
 {31205}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Finely Honed Dagger
 {31207}{D:1-7 FT:1-10 TH:+20 MSR:7/9 TC:10} // Complexity -10 // Dwarven Hammer
 {31208}{D:1-4 FT:2-9 TH:10 RNG:2 MSR:5 Divine Magic MC:30} // Complexity +30 // Righteous Staff
-{31209}{AC:2 DR:+10 NP+10 PE:-1} // Complexity 0 // Fleet Helm
+{31209}{AC:2 DR:10 NP:+10 PE:-1} // Complexity 0 // Fleet Helm
 {31210}{} // TODO FIXME // Dread Dagger
 {31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect MC:75} //  Complexity +75 // Fawn's Bow
-{31212}{AC:30(+10) DR:+10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
+{31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
 {40000}{[Quest] PE <8 +1 else -1} // Location:Caladon Inn Room 4, Quest:Master Prowler, Property:Only glass that can reveal the painting
 {40001}{} // TODO FIXME
 {40002}{D:2-9 FT:2-5 TH:+3 MSR:7/9}
