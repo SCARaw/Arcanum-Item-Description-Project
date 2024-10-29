@@ -31,7 +31,7 @@
 {6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
 {6053}{D:2-12 FT:1-6 MSR:3/3 TC:33} Mechanical Dagger
 {6054}{D:1-4 FT:1-2 MSR:2/2 Mana:10 MC:10} Mage's Dagger
-{6055}{D:1-4 FT:1-2 MSR:3/3 Speed:(+4) MC:10} Dagger of speed
+{6055}{D:1-4 FT:1-2 SPD:(+4) MSR:3/3 MC:10} Dagger of speed
 {6056}{D:1-4 FT:1-2 MSR:6/8} Rusty Sword
 {6057}{D:2-9 FT:2-5 MSR:6/8} Quality Sword
 {6058}{D:2-9 FT:2-5 MSR:6/8} Caladon Elite Sword
@@ -41,7 +41,7 @@
 {6062}{D:3-12 FT:1-3 MSR:4/6} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
 {6064}{D:1-8 FT:1-4 MSR:5/7 AC:(+30) MC:15} Sword of Defense
-{6065}{D:1-8(+4) FT:1-4 MSR:6/8 (Summon Animal) MC:40} Stillwater Blade
+{6065}{D:1-8(+4) FT:1-4 MSR:6/8 Succour Beast MC:40} Stillwater Blade
 {6066}{D:1-8 FT:1-4 MSR:8/10 [Chop]} Rusty Axe
 {6067}{D:3-14 FT:2-10 MSR:8/10 [Chop]} Quality Axe
 {6068}{D:5-18 FT:3-11 MSR:8/10 [Chop] TC:40} Power Axe
@@ -86,7 +86,7 @@
 {6107}{D:10-40 FT:1-10 RNG:15 MSR:12 TC:100} Levered Machine Gun
 {6108}{D:2-10 FT:1-5 RNG:15 MSR:9 TC:30} Rifle
 {6109}{D:1-10 FT:1-3 TH:-5 RNG:15 MSR:8 TC:30} Rusted Rifle
-{6110}{D:1-6 FT:1-3 ED:5-10 MSR:5 Requires Charges [Crafting] TC:90} Shocking Staff
+{6110}{D:1-6 FT:1-3 ED:1-10 MSR:5 Requires Charges [Crafting] TC:90} Shocking Staff
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 MSR:5 Major Healing MC:20} Staff of Healing
 {6113}{D:1-8 FT:3-12 MSR:5 Major Heal, Charm Beast, Regenerate MC:60} Shaman's Staff
@@ -96,7 +96,7 @@
 {6117}{D: 1-2 FT 1-3 MSR:10/12 [Crafting]} Large Pipe
 {6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 [Crafting] TC:85} Hand Cannon
 {6119}{D:1-15 FT:1-10 RNG:15 MSR:8 [Crafting] TC:70} Clarington Rifle
-{6120}{D:1-8(+12) FT:1-4 Crit Effect:+50 Crit Fail:+20% MSR:4/6 MC:75} Filament Sword
+{6120}{D:1-8(+12) FT:1-4 Crit Effect:(+50) Crit Fail:(+20) MSR:4/6 MC:75} Filament Sword
 {6121}{D:2-6 FT:1-3 MSR:3/3 TC:15} Finely Crafted Dagger 
 {6122}{D:1-4(+3) FT:1-2 MSR:3/3 MC:25} Charmed Dagger 
 {6123}{D:1-4(+6) FT:1-2(+1) MSR:3/3 Mana:5 MC:50} Magick Dagger
@@ -131,7 +131,7 @@
 {6152}{D:10-30 FT:5-20 RNG:15 MSR:11 Bypasses DR TC:30} Rifled Cannon 
 {6153}{D:1-15 FT:1-3 Acid damage to item:10 RNG:15 MSR:8 TC:48} Acid Gun 
 {6154}{D:1-4 ED:10-80 RNG:15 MSR:11 Requires Charges TC:100} Tesla Gun
-{6155}{D:1-4 FD:2-20 RNG:15 MSR:12 TC:100} Grenade Launcher 
+{6155}{D:6-14 FD:2-20 FT:5-10 AoE RNG:15 MSR:12 TC:100} Grenade Launcher 
 {6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 [Crafting] TC:48} Charged Accelerator Gun 
 {6157}{D:30-60 FT:5-15 RNG:15 MSR:15 TC:75} Blade Launcher 
 {6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8 TC:95} Pyrotechnic Gun 
@@ -275,7 +275,7 @@
 {8151}{AC:9 DR:16(+10) FR:5(+60) NP:-10 MC:60} Dragon Skin Leather
 {8152}{AC:9 DR:10(+10) FR:5(+60) NP:-10 MC:60} Small Dragon Skin Leather
 {8153}{AC:9 DR:20(+10) FR:5(+60) NP:-10 MC:60} Large Dragon Skin Leather
-{8154}{AC:8 DR:14 FR:5 NP:-10(+15) Backstab:Prowling(+2) MC:50} Creep Armour
+{8154}{AC:8 DR:14 FR:5 NP:-10(+15) Backstab:Prowling:(+2) MC:50} Creep Armour
 {8155}{AC:13 DR:25 FR:5 ER:-5 NP:-25 TC:5} Caladon Elite Guard Chainmail
 {8156}{AC:14 DR:27 FR:10 ER:-20 NP:-25 TC:10} Dwarven Chainmail
 {8157}{AC:14 DR:23 ER:(+10) NP:-25(+10) MC:10} Elven Chainmail
@@ -325,9 +325,9 @@
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
 {8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership //UNUSED INGAME
-{8204}{AC:6 DR:9 PE:-1 Magick Aptitude:(+20) Alignment:(-20) MC:40} Dark Helm
+{8204}{AC:6 DR:9 PE:-1 Magic Aptitude:(+20) Alignment:(-20) MC:40} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
-{8206}{Poison Heal Rate: x2, Bad Reaction Adjustment: -5 MC:40} Serpentine Necklace
+{8206}{Poison Recovery:(x2), Reaction Drop Adjustment:(-5) MC:40} Serpentine Necklace
 {8207}{[Quest]} Wheel Clan Spectacles
 {8208}{AC:9(+5) DR:16 FR:5 All Res:(+5) NP:-10 MC:25} Charmed Leather Armour
 {8209}{AC:9(+5) DR:14 FR:5 All Res:(+5) NP:-10 MC:25} Small Charmed Leather Armour
@@ -447,7 +447,7 @@
 {10082}{[Crafting: Herbology] Cure for all (made up) diseases.} Big Chief Snake Oil
 {10083}{[Crafting: Herbology] +10 Poison Level to the target} Venom
 {10084}{Restores 60 Health and 60 Fatigue [Crafting]} Wonder Drug
-{10085}{Explodes for 1-100 acid damage to items [Crafting]} Corrosive Acid
+{10085}{Explodes for 10-100 acid damage to items [Crafting]} Corrosive Acid
 {10086}{Spawns a random enemy 'Succour Beast' animal on target} Animal Lure
 {10087}{Prevents wild animals from attacking for 338 sec.} Animal Scent
 {10088}{[Crafting: Chemistry] Used for alcohol} Brewer's Yeast
@@ -770,7 +770,7 @@
 {15156}{[Quest]} Camera
 {15157}{First Component needed to create Technological Item} Component 1
 {15158}{Second Component needed to create Technological Item} Component 2
-{15159}{Casts a random spell} Jade Wizard Statuette
+{15159}{Casts a random spell} Jade Wizard Statuette //UNUSED INGAME
 {15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
 {15161}{Deals %70-150 FT damage depends on the targets} Knock Out Gas Grenade
 {15162}{Makes Target Flee} Hallucination Grenade
