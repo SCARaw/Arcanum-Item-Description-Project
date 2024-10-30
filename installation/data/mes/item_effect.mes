@@ -726,7 +726,7 @@
 {15112}{3x3 fire curtain for 10 sec., damages everyone [Crafting]} Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns] Complex self-loading gun system.} Auto Loading Chamber
-{15115}{[Crafting: Mechanical] Pieces of a watch.} Clock Parts
+{15115}{[Crafting: Mechanical] Set of matching gears .} Clock Parts
 {15116}{Moves randomly and draws enemy attention [Crafting]} Clockwork Decoy
 {15117}{[Valuable] Wellmade watch, essential for upper class.} Pocket Watch
 {15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
@@ -760,7 +760,7 @@
 {15146}{[Crafting: Explosives] Used to produce cosmetics.} Stearic Acid
 {15147}{[Crafting: Explosives] Personal hygiene could not hurt.} Liquid Soap
 {15148}{[Crafting: Guns] Looks like it burst broken on shot.} Broken Flintlock Pistol
-{15149}{[Crafting: Mechanical] Simple magnet, used to point North.} Compass
+{15149}{[Crafting: Mechanical] Magnetic needle that points north.} Compass
 {15150}{Causes blindness (-30 TH for affected enemies)} Flash Grenade
 {15151}{3x3 smoke veil for 10 sec. stops ranged attacks [Crafting]} Smoke Grenade
 {15152}{Stuns living targets for 1-5 sec. [Crafting]} Stun Grenade
