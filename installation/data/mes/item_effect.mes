@@ -15,22 +15,22 @@
 {6036}{D:1-10 FT:1-10 RNG:5 MSR:11 TC:30} Shotgun
 {6037}{D:1-4 FT:2-9 MSR:5 [Crafting]} Staff //changing its description effects unique item descriptions too
 {6038}{D:1-8 FT:1-4 PD:10-35 MSR:6/8 TC:30} Envenomed Sword
-{6039}{D:20-50 FT:1-15 RNG:15 MSR:12 [Crafting] TC:80} Elephant Gun
-{6040}{D:1-4 ED:10-40 RNG:15 MSR:8 Requires Charges [Crafting] TC:55} Tesla Rod //[Crafting] doesn't fit
+{6039}{D:20-50 FT:1-15 RNG:15 MSR:12 TC:80 [Crafting]} Elephant Gun
+{6040}{D:1-4 ED:10-40 RNG:15 Requires Charge TC:55[Crafting] MSR:8} Tesla Rod //MSR doesn't fit
 {6041}{D:1-4 FD:15-30 RNG:3 MSR:15 TC:80} Flame Thrower
 {6042}{D:1-8(+3) FT:1-4 MSR:5/7 MC:10} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
-{6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7 [Crafting] TC:35} Fine Revolver //changing its description effects unique item descriptions too
-{6045}{D:5-12 FT:1-8 RNG:15 MSR:8 [Crafting] TC:50} Repeater Rifle
-{6046}{D:2-14 FT:1-10 RNG:15 MSR:8 [Crafting] TC:25} Hunting Rifle
-{6047}{D:1-2 MSR:3/3 [Crafting: Mechanical] TC:1} Railroad Spike
-{6048}{D:3-12 FT:3-9 MSR:6/8 [Crafting] TC:5} Balanced Sword
+{6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7 TC:35 [Crafting]} Fine Revolver //changing its description effects unique item descriptions too
+{6045}{D:5-12 FT:1-8 RNG:15 MSR:8 TC:50 [Crafting]} Repeater Rifle
+{6046}{D:2-14 FT:1-10 RNG:15 MSR:8 TC:25 [Crafting]} Hunting Rifle
+{6047}{D:1-2 MSR:3/3 TC:1 [Crafting: Mechanical]} Railroad Spike
+{6048}{D:3-12 FT:3-9 MSR:6/8 TC:5 [Crafting]} Balanced Sword
 {6049}{D:1-4 FT:1-8 FD:1-20 ED:5-5 RNG:10 MSR:5/7 TC:60} Bronwyck's Gun
 {6050}{D:1-2 MSR:3/3} Rusty Dagger
 {6051}{D:2-6 FT:1-3 MSR:3/3 [Crafting]} Fine Steel Dagger
 {6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
 {6053}{D:2-12 FT:1-6 MSR:3/3 TC:33} Mechanical Dagger
-{6054}{D:1-4 FT:1-2 MSR:2/2 Mana:10 MC:10} Mage's Dagger
+{6054}{D:1-4 FT:1-2 Mana:10 MSR:2/2 MC:10} Mage's Dagger
 {6055}{D:1-4 FT:1-2 SPD:(+4) MSR:3/3 MC:10} Dagger of speed
 {6056}{D:1-4 FT:1-2 MSR:6/8} Rusty Sword
 {6057}{D:2-9 FT:2-5 MSR:6/8} Quality Sword
@@ -40,14 +40,14 @@
 {6061}{D:2-10 FT:1-5 MSR:6/8} Scimitar
 {6062}{D:3-12 FT:1-3 MSR:4/6} Katana
 {6063}{D:2-9 FT:3-9 MSR:6/8} Falchion
-{6064}{D:1-8 FT:1-4 MSR:5/7 AC:(+30) MC:15} Sword of Defense
-{6065}{D:1-8(+4) FT:1-4 MSR:6/8 Succour Beast MC:40} Stillwater Blade
+{6064}{D:1-8 FT:1-4 AC:(+30) MSR:5/7 MC:15} Sword of Defense
+{6065}{D:1-8(+4) FT:1-4 Succour Beast MSR:6/8 MC:40} Stillwater Blade
 {6066}{D:1-8 FT:1-4 MSR:8/10 [Chop]} Rusty Axe
 {6067}{D:3-14 FT:2-10 MSR:8/10 [Chop]} Quality Axe
-{6068}{D:5-18 FT:3-11 MSR:8/10 [Chop] TC:40} Power Axe
-{6069}{D:1-16 FT:3-11 MSR:4/6 [Crafting][Chop] TC:20} Feather-Weight Axe
-{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10 [Chop][Offering] MC:20} Reaper's Axe
-{6071}{D:1-12 FT:1-9 MSR:8/10 ST:(+1) CN:(+1)[Chop] MC:15} Axe of Strength
+{6068}{D:5-18 FT:3-11 MSR:8/10 TC:40 [Chop]} Power Axe
+{6069}{D:1-16 FT:3-11 MSR:4/6 TC:20 [Crafting][Chop]} Feather-Weight Axe
+{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10 [Chop][Offering] MC:20} Reaper's Axe //MC doesn't fit
+{6071}{D:1-12 FT:1-9 ST:(+1) CN:(+1) MSR:8/10 MC:15 [Chop]} Axe of Strength
 {6072}{D:1-3 FT:1-4 MSR:8/10} Rusty Mace
 {6073}{D:2-5 FT:2-9 MSR:6/8} Quality Mace
 {6074}{D:1-5 FT:1-8 MSR:8/10} Hammer
@@ -61,18 +61,18 @@
 {6082}{D:1-5 TH:-10 RNG:5 MSR:3/5 TC:5} Old Flintlock Pistol
 {6083}{D:3-12 FT:3-9 RNG:12 MSR:5/7 TC:20} Quality Revolver
 {6084}{D:2-9 FT:2-5 RNG:8 MSR:5/7 TC:30} Hushed Pistol //UNUSED INGAME
-{6085}{D:5-12 FT:2-5 RNG:15 MSR:5/7 [Crafting] TC:40} High Velocity Pistol
-{6086}{D:2-9 FT:2-5 RNG:10 MSR:5/7 [Crafting] TC:40} Fancy Pistol
+{6085}{D:5-12 FT:2-5 RNG:15 MSR:5/7 TC:40 [Crafting]} High Velocity Pistol
+{6086}{D:2-9 FT:2-5 RNG:10 MSR:5/7 TC:40 [Crafting]} Fancy Pistol
 {6087}{D:5-25 FT:1-5 RNG:10 MSR:6/8 TC:60} Schreck's Pistol
-{6088}{D:10-30 FT:2-6 RNG:20 MSR:6/8 [Crafting] TC:40} Long Range Pistol
+{6088}{D:10-30 FT:2-6 RNG:20 MSR:6/8 TC:40 [Crafting]} Long Range Pistol
 {6089}{D:6-18 FT:4-12 MSR:14/18} Quality Broadsword
 {6090}{D:1-14 FT:1-8 MSR:14/18} Rusty Broadsword
 {6091}{D:2-18 FT:2-10 MSR:14/18} Claymore
 {6092}{D:1-20 FT:1-10 MSR:14/18} Flamberge
 {6093}{D:8-20 FT:6-12 MSR:16/20} Barbarian's Heavy Blade
-{6094}{D:4-16 FT:3-11 MSR:8/12 (Weight:20) MC:40} Sword of Air
+{6094}{D:4-16 FT:3-11 MSR:8/12 Weight:(-80) MC:40} Sword of Air
 {6095}{D:4-16 FT:3-11 PD:1-20 MSR:14/18 MC:40} Sword of Sickness
-{6096}{D:5-18 FT:3-9 RNG:15 MSR:8 [Crafting] TC:20} Compound Bow
+{6096}{D:5-18 FT:3-9 RNG:15 MSR:8 TC:20 [Crafting]} Compound Bow
 {6097}{D:1-8 FT:1-3 RNG:10 MSR:5} Short Bow
 {6098}{D:1-12 FT:3-9 RNG:25 MSR:12 [Crafting]} Long Bow
 {6099}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8 MC:15} Elven Hunter's Bow //changing its description effects unique item descriptions too
@@ -81,65 +81,65 @@
 {6102}{D:1-15 FT:1-3 RNG:15 MSR:8 TC:55} Repeater Rifle Variant 1 //UNUSED INGAME
 {6103}{D:1-15 FT:1-3 RNG:15 MSR:8 TC:60} Repeater Rifle Variant 2 //UNUSED INGAME
 {6104}{D:1-30 FT:1-5 RNG:15 MSR:10 TC:100} Mechanized Gun
-{6105}{D:10-30 FT:1-15 TH:+20 RNG:25 MSR:8 [Crafting] TC:70} Looking Glass Rifle
-{6106}{D:4-14 FT:3-9 RNG:20 MSR:8 [Crafting] TC:52} Marksman Rifle
+{6105}{D:10-30 FT:1-15 TH:20 RNG:25 MSR:8 TC:70 [Crafting]} Looking Glass Rifle
+{6106}{D:4-14 FT:3-9 RNG:20 MSR:8 TC:52 [Crafting]} Marksman Rifle
 {6107}{D:10-40 FT:1-10 RNG:15 MSR:12 TC:100} Levered Machine Gun
 {6108}{D:2-10 FT:1-5 RNG:15 MSR:9 TC:30} Rifle
 {6109}{D:1-10 FT:1-3 TH:-5 RNG:15 MSR:8 TC:30} Rusted Rifle
-{6110}{D:1-6 FT:1-3 ED:1-10 MSR:5 Requires Charges [Crafting] TC:90} Shocking Staff
+{6110}{D:1-6 FT:1-3 ED:1-10 Requires Charges TC:90 [Crafting] MSR:5} Shocking Staff
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
-{6112}{D:1-8 FT:3-12 MSR:5 Major Healing MC:20} Staff of Healing
-{6113}{D:1-8 FT:3-12 MSR:5 Major Heal, Charm Beast, Regenerate MC:60} Shaman's Staff
-{6114}{D:1-8 FT:3-12 MSR:5 Mana:50 Illuminate, Dweomer Shield MC:60} Mage's Staff
+{6112}{D:1-8 FT:3-12 Major Healing MSR:5 MC:20} Staff of Healing
+{6113}{D:1-8 FT:3-12 Major Heal, Charm Beast, Regenerate MSR:5 MC:60} Shaman's Staff
+{6114}{D:1-8 FT:3-12 Mana:50 Illuminate, Dweomer Shield MSR:5 MC:60} Mage's Staff //MC:60 doesn't fit
 {6115}{D:2-9 FT:2-5 RNG:9 MSR:5/7 TC:30} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7 TC:20} Hand Crafted Flintlock
 {6117}{D: 1-2 FT 1-3 MSR:10/12 [Crafting]} Large Pipe
-{6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 [Crafting] TC:85} Hand Cannon
-{6119}{D:1-15 FT:1-10 RNG:15 MSR:8 [Crafting] TC:70} Clarington Rifle
+{6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 TC:85 [Crafting]} Hand Cannon
+{6119}{D:1-15 FT:1-10 RNG:15 MSR:8 TC:70 [Crafting]} Clarington Rifle
 {6120}{D:1-8(+12) FT:1-4 Crit Effect:(+50) Crit Fail:(+20) MSR:4/6 MC:75} Filament Sword
 {6121}{D:2-6 FT:1-3 MSR:3/3 TC:15} Finely Crafted Dagger 
 {6122}{D:1-4(+3) FT:1-2 MSR:3/3 MC:25} Charmed Dagger 
-{6123}{D:1-4(+6) FT:1-2(+1) MSR:3/3 Mana:5 MC:50} Magick Dagger
-{6124}{D:1-4(+9) FT:1-2(+2) MSR:3/3 Mana:10 MC:75} Mystic Dagger
-{6125}{D:1-6(+12) FT:1-2(+4) MSR:3/3 Mana:20 MC:100} Arcane Dagger
+{6123}{D:1-4(+6) FT:1-2(+1) Mana:5 MSR:3/3 MC:50} Magick Dagger
+{6124}{D:1-4(+9) FT:1-2(+2) Mana:10 MSR:3/3 MC:75} Mystic Dagger
+{6125}{D:1-6(+12) FT:1-2(+4) Mana:20 MSR:3/3 MC:100} Arcane Dagger
 {6126}{D:3-12 FT:3-9 ED:1-20 MSR:6/8 TC:45} Charged Sword 
 {6127}{D:1-8(+4) FT:1-4 MSR:6/8 MC:25} Charmed Sword 
 {6128}{D:1-8(+8) FT:1-4(+2) Mana:4 MSR:7/9 MC:50} Magick Sword
 {6129}{D:1-8(+12) FT:1-4(+4) Mana:8 MSR:8/10 MC:75} Mystic Sword
 {6130}{D:1-8(+16) FT:1-4(+8) Mana:16 MSR:9/11 MC:100} Arcane Sword
-{6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10 [Chop] TC:25} Envenomed Axe 
-{6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10 [Chop] TC:60} Charged Axe 
-{6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10 [Chop] TC:75} Pyrotechnic Axe 
-{6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 [Chop] MC:25} Charmed Axe 
-{6135}{D:1-12(+10) FT:1-9(+3) MSR:10/12 Mana:4[Chop] MC:50} Magick Axe
-{6136}{D:1-13(+15) FT:1-9(+6) MSR:11/13 Mana:8[Chop] CR:(+3) MC:75} Mystic Axe
-{6137}{D:3-14(+20) FT:2-10(+9) MSR:11/13 Mana:16[Chop] CR:(+5) MC:100} Arcane Axe
-{6138}{D:1-5(+4) FT:1-9(+2) MSR:8/10 Mana:8 CR:(+1) MC:25} Charmed Mace
-{6139}{D:2-5(+8) FT:2-9(+4) MSR:9/11 Mana:16 CR:(+2) MC:50} Magick Mace
-{6140}{D:1-9(+12) FT:1-12(+8) MSR:10/12 Mana:24 CR:(+3) MC:75} Mystic Mace
-{6141}{D:3-9(+16) FT:3-12(+12) MSR:10/12 Mana:32 CR:(+4) MC:100} Arcane Mace
-{6142}{D:4-16(+4) FT:3-11(+4) MSR:14/18 Mana:8 CR:(+2) MC:25} Charmed Great Sword
-{6143}{D:4-16(+8) FT:3-11(+8) MSR:15/19 Mana:12 CR:(+4) MC:50} Magick Great Sword
-{6144}{D:4-16(+12) FT:3-11(+12) MSR:16/20 Mana:16 CR:(+6) MC:75} Mystic Great Sword
-{6145}{D:4-16(+16) FT:3-11(+16) MSR:16/20 Mana:20 CR:(+8) MC:100} Arcane Great Sword
+{6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10 TC:25 [Chop]} Envenomed Axe 
+{6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10 TC:60 [Chop]} Charged Axe 
+{6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10 TC:75 [Chop]} Pyrotechnic Axe 
+{6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 MC:25 [Chop]} Charmed Axe 
+{6135}{D:1-12(+10) FT:1-9(+3) Mana:4 MSR:10/12[Chop] MC:50} Magick Axe
+{6136}{D:1-13(+15) FT:1-9(+6) CR:(+3) Mana:8 MSR:11/13[Chop] MC:75} Mystic Axe //MC doesn't fit
+{6137}{D:3-14(+20) FT:2-10(+9) CR:(+5) Mana:16 [Chop] MSR:11/13 MC:100} Arcane Axe //MSR doesn't fit
+{6138}{D:1-5(+4) FT:1-9(+2) CR:(+1) Mana:8 MSR:8/10 MC:25} Charmed Mace
+{6139}{D:2-5(+8) FT:2-9(+4) CR:(+2) Mana:16 MSR:9/11 MC:50} Magick Mace //MC doesn't fit
+{6140}{D:1-9(+12) FT:1-12(+8) CR:(+3) Mana:24 MSR:10/12 MC:75} Mystic Mace //MC doesn't fit
+{6141}{D:3-9(+16) FT:3-12(+12) CR:(+4) Mana:32 MSR:10/12 MC:100} Arcane Mace //MC doesn't fit
+{6142}{D:4-16(+4) FT:3-11(+4) CR:(+2) Mana:8 MSR:14/18 MC:25} Charmed Great Sword //MC doesn't fit
+{6143}{D:4-16(+8) FT:3-11(+8) CR:(+4) Mana:12 MSR:15/19 MC:50} Magick Great Sword //MC doesn't fit
+{6144}{D:4-16(+12) FT:3-11(+12) CR:(+6) Mana:16 MSR:16/20 MC:75} Mystic Great Sword //MC doesn't fit
+{6145}{D:4-16(+16) FT:3-11(+16) CR:(+8) Mana:20 MSR:16/20 MC:100} Arcane Great Sword //MC doesn't fit
 {6146}{D:1-10 FT:2-5 FD:5-20 RNG:20 MSR:10 TC:85} Pyrotechnic Bow 
 {6147}{D:1-10 FT:2-5 PD:10-30 RNG:20 MSR:10 TC:55} Envenomed Bow 
 {6148}{D:1-10(+2) FT:2-5 RNG:20 MSR:11 MC:25} Charmed Bow 
 {6149}{D:1-10(+4) FT:2-5 RNG:20 MSR:11 MC:50} Magick Bow 
 {6150}{D:1-10(+6) FT:2-5 RNG:20 MSR:11 MC:75} Mystic Bow 
 {6151}{D:1-10(+8) FT:2-5 RNG:20 MSR:11 MC:100} Arcane Bow 
-{6152}{D:10-30 FT:5-20 RNG:15 MSR:11 Bypasses DR TC:30} Rifled Cannon 
-{6153}{D:1-15 FT:1-3 Acid damage to item:10 RNG:15 MSR:8 TC:48} Acid Gun 
-{6154}{D:1-4 ED:10-80 RNG:15 MSR:11 Requires Charges TC:100} Tesla Gun
+{6152}{D:10-30 FT:5-20 RNG:15 Bypasses DR MSR:11 TC:30} Rifled Cannon 
+{6153}{D:1-15 FT:1-3 Acid damage to items:10 RNG:15 TC:48 MSR:8} Acid Gun //MSR doesn't fit
+{6154}{D:1-4 ED:10-80 RNG:15 Requires Charges MSR:11 TC:100} Tesla Gun
 {6155}{D:6-14 FD:2-20 FT:5-10 AoE RNG:15 MSR:12 TC:100} Grenade Launcher 
-{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 [Crafting] TC:48} Charged Accelerator Gun 
+{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 TC:48 [Crafting]} Charged Accelerator Gun 
 {6157}{D:30-60 FT:5-15 RNG:15 MSR:15 TC:75} Blade Launcher 
 {6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8 TC:95} Pyrotechnic Gun 
-{6159}{D:1-15 FT:%70-150 depends on the target, RNG:15 MSR:8 TC:100} Tranquilizer Gun 
-{6160}{D:1-8 FT:3-12(+6) MSR:5 Mana:20 MC:25} Charmed Staff
-{6161}{D:1-8 FT:3-12(+12) MSR:5 Mana:40 MC:50} Magick Staff
-{6162}{D:1-8 FT:3-12(+18) MSR:5 Mana:60 MC:75} Mystic Staff
-{6163}{D:1-8 FT:3-12(+24) MSR:5 Mana:80 MC:100} Arcane Staff
+{6159}{D:1-15 FT:%70-150 depends on the target RNG:15 TC:100 MSR:8} Tranquilizer Gun //MSR doesn't fit
+{6160}{D:1-8 FT:3-12(+6) Mana:20 MSR:5 MC:25} Charmed Staff
+{6161}{D:1-8 FT:3-12(+12) Mana:40 MSR:5 MC:50} Magick Staff
+{6162}{D:1-8 FT:3-12(+18) Mana:60 MSR:5 MC:75} Mystic Staff
+{6163}{D:1-8 FT:3-12(+24) Mana:80 MSR:5 MC:100} Arcane Staff
 {6164}{D:1-6 RNG:20 MSR:6/8} Boomerang
 {6165}{D:1-8 FT:1-2 RNG:20 MSR:6/8} Bladed Boomerang
 {6166}{D:1-10 FT:1-3 RNG:20 MSR:6/8 TC:5} Balanced Boomerang
@@ -150,7 +150,7 @@
 {6171}{D:20-40 RNG:8 MSR:6/8} Aerial Decapitator
 {6172}{D:10-25 FT:6-15 MSR:14/18} Void Sword //UNUSED INGAME
 {6173}{D:20-40 FT:1-10 ED:10-10 RNG:15 MSR:5/7 TC:85} Droch's Warbringer
-{6174}{D:5-25 FT:1-7 RNG:15 MSR:8 [Crafting] TC:70} Large Bore Vendigrothian Rifle
+{6174}{D:5-25 FT:1-7 RNG:15 MSR:8 TC:70 [Crafting]} Large Bore Vendigrothian Rifle
 {6175}{D:1-1 FT:1-3 MSR:6/8 [Crafting]} Oak Axe Handle
 {6176}{D:3-6 MSR:2/2 Bypasses AC/DR} Stiletto
 {6177}{D:1-3 MSR:3/3 [Offering]} Bone Dagger
@@ -166,9 +166,9 @@
 {8042}{} Heavy Wool Clothes
 {8043}{} Guard Leather
 {8044}{AC:12 DR:23 FR:5 ER:-10 NP:-25 TC:5} Chainmail
-{8045}{AC:30 DR:20 FR:20 NP:-90 ST:(+3) MA gives -resist TC:30} Machined Platemail //MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
+{8045}{AC:30 DR:20 FR:20 NP:-90 ST:(+3) MA gives -resist TC:30} Machined Platemail //TC doesn't fit,MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8046}{AC:3 DR:2 FR:-15 MR:10} Priest Robes
-{8047}{AC:15(+5) DR:20(+10) FR:15(+5) ER:10(+5) PR:5 MR:(+20) NP:-80 MC:20} Mithril Platemail //UNUSED INGAME
+{8047}{AC:15(+5) DR:20(+10) FR:15(+5) ER:10(+5) PR:5 MR:(+20) NP:-80 MC:20} Mithril Platemail //UNUSED INGAME,MR doesn't fit
 {8048}{AC:19(+31) DR:5 FR:(+5) NP:-20 Reaction:-10 MC:60} Dread Armour
 {8049}{} Nice Suit
 {8050}{} Battered Wooden Shield
@@ -177,44 +177,44 @@
 {8053}{} Boots
 {8054}{} Fancy Ring //changing its description effects unique item descriptions too
 {8055}{} Medallion //changing its description effects unique item descriptions too
-{8056}{DR:2 D:+1 [Crafting] Sturdy pair of Gloves} Leather Gloves
+{8056}{DR:2 D:+1 Sturdy pair of Gloves [Crafting]} Leather Gloves
 {8057}{Dexterity:(+2) TC:25} Charged Ring
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
 {8060}{AC:12 DR:21 FR:5 ER:-10 NP:-25 TC:5} Small Chainmail
-{8061}{AC:30 DR:15 FR:20 NP:-90 ST:(+3) MA gives -resist TC:30} Small Machined Platemail //MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
+{8061}{AC:30 DR:15 FR:20 NP:-90 ST:(+3) MA gives -resist TC:30} Small Machined Platemail //TC doesn't fit,MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8062}{AC:3 DR:2 FR:-15 MR:10} Small Priest Robes
-{8063}{AC:15(+5) DR:15(+10) FR:15(+5) ER:10(+5) PR:5 MR:(+20) NP:-80 MC:20} Small Mithril Platemail //UNUSED INGAME
+{8063}{AC:15(+5) DR:15(+10) FR:15(+5) ER:10(+5) PR:5 MR:(+20) NP:-80 MC:20} Small Mithril Platemail //UNUSED INGAME,MR doesn't fit
 {8064}{AC:19(+31) DR:5 FR:(+5) NP:-20 Reaction:-10 MC:60} Small Dread Armour
 {8065}{} Small Nice Suit
 {8066}{} Large Heavy Wool Clothes
 {8067}{} Large Guard Leather
-{8068}{AC:15(+5) DR:25(+10) FR:15(+5) ER:10(+5) PR:5 MR:(+20) NP:-80 MC:20} Large Mithril Platemail //UNUSED INGAME
+{8068}{AC:15(+5) DR:25(+10) FR:15(+5) ER:10(+5) PR:5 MR:(+20) NP:-80 MC:20} Large Mithril Platemail //UNUSED INGAME,MR doesn't fit
 {8069}{} Large Nice Suit
 {8070}{} Suede Jacket
-{8071}{AC:9 DR:16 FR:5 Prowl, Pickpocket, Spot Trap +1} Oiled Thieves Leather
-{8072}{AC:12(+2) DR:23(+2) FR:5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25 MC:40} Mithril Chainmail
+{8071}{AC:9 DR:16 FR:5 Prowl:Pickpocket:SpotTrap+1/20} Oiled Thieves Leather
+{8072}{AC:12(+2) DR:23(+2) FR:5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25 MC:40} Mithril Chainmail //MR doesn't fit
 {8073}{AC:25 DR:45 PR:20 FR:20 ER:-10 NP:-90 ST:(+3) TC:30} Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
-{8074}{AC:5 DR:7 FR:3 Prowling(+2) MC:40} Shadowing Robes
-{8075}{AC:15 DR:36 FR:10 ER:-20 NP:-80 [Crafting] TC:10} Basic Platemail
-{8076}{AC:11 DR:16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25 MC:60} Red Barbarian Clothes
+{8074}{AC:5 DR:7 FR:3 Prowling:(+2/20) MC:40} Shadowing Robes
+{8075}{AC:15 DR:36 FR:10 ER:-20 NP:-80 TC:10 [Crafting]} Basic Platemail
+{8076}{AC:11 DR:16 FR:ER:PR:(+40) MR:(+70) Reaction:-15 NP:-25 MC:60} Red Barbarian Clothes //NP doesn't fit
 {8077}{AC:2  DR:1  Reaction:+20} Smoking Jacket
 {8078}{} Small Suede Jacket
-{8079}{AC:9 DR:14 FR:5 NP:+5 Prowl, Pickpocket, Spot Trap +1} Small Oiled Thieves Leather
-{8080}{AC:12(+2) DR:21(+2) FR:5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25 MC:40} Small Mithril Chainmail
+{8079}{AC:9 DR:14 FR:5 NP:5 Prowl:Pickpocket:SpotTrap+1/20} Small Oiled Thieves Leather
+{8080}{AC:12(+2) DR:21(+2) FR:5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25 MC:40} Small Mithril Chainmail //MR doesn't fit
 {8081}{AC:25 DR:38 PR:20 FR:20 ER:-10 NP:-90 ST:(+3) TC:30} Small Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
-{8082}{AC:5 DR:7 FR:3 Prowling(+2) MC:40} Small Robe of the Chameleon
-{8083}{AC:14 DR:30 FR:8 ER:-20 NP:-80 [Crafting] TC:10} Small Basic Platemail
-{8084}{AC:11 DR:16 FR:(+40) ER:(+40) PR:(+40) Reaction:-15 MR:(+70) NP:-25 MC:60} Small Red Barbarian Clothes
+{8082}{AC:5 DR:7 FR:3 Prowling:(+2/20) MC:40} Small Robe of the Chameleon
+{8083}{AC:14 DR:30 FR:8 ER:-20 NP:-80 TC:10 [Crafting]} Small Basic Platemail
+{8084}{AC:11 DR:16 FR:ER:PR:(+40) MR:(+70) Reaction:-15 NP:-25 MC:60} Small Red Barbarian Clothes //NP doesn't fit
 {8085}{AC:2  DR:1  Reaction:+20} Small Smoking Jacket
 {8086}{} Heavy Rags
-{8087}{AC:9 DR:18 FR:5 NP:-5 Prowl, Pickpocket, Spot Trap +1} Large Oiled Thieves Leather
-{8088}{AC:15 DR:38 FR:10 ER:-20 NP:-80 [Crafting] TC:10} Large Basic Platemail
+{8087}{AC:9 DR:18 FR:5 NP-5 Prowl:Pickpocket:SpotTrap+1/20} Large Oiled Thieves Leather
+{8088}{AC:15 DR:38 FR:10 ER:-20 NP:-80 TC:10 [Crafting]} Large Basic Platemail
 {8089}{AC:2  DR:1  Reaction:+20} Large Smoking Jacket
 {8090}{} Wool Jacket
 {8091}{AC:9 DR:16 FR:5 NP:-10 [Crafting]} Leather Armour
 {8092}{AC:12 DR:23 FR:5 ER:-10 NP:-10 TC:5} Oiled Chainmail
-{8093}{AC:20 DR:30 FR:10 ER:-20 NP:-80 [Quest] TC:60} Basic Machined Plate
+{8093}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} Basic Machined Plate
 {8094}{} Robes
 {8095}{AC:15 DR:36 FR:30 ER:-10 NP:-80 TC:10} Bronzed Plate
 {8096}{AC:11 DR:20 NP:-25 Reaction:-5} Bronze Barbarian Clothes
@@ -236,7 +236,7 @@
 {8112}{AC:12 DR:23 FR:5 ER:-10 NP:-25 TC:5} Guard Chainmail
 {8113}{AC:15 DR:37 FR:10 ER:-20 NP:-80 TC:60} Guard Plate
 {8114}{AC:5(+6) DR:7(+12) FR:3(+8) MR:(+10) MC:80} Magick Robes
-{8115}{AC:20 DR:40 FR:30 NP:-35 [Crafting] TC:20} Elite Plate
+{8115}{AC:20 DR:40 FR:30 NP:-35 TC:20 [Crafting]} Elite Plate
 {8116}{AC:11 DR:20 NP:-25 Reaction:-5} Barbarian Clothes
 {8117}{} Rustic Finery
 {8118}{} Small Jacket
@@ -244,15 +244,15 @@
 {8120}{AC:12 DR:21 FR:5 ER:-10 NP:-25 TC:5} Small Guard Chainmail
 {8121}{AC:15 DR:33 FR:10 ER:-20 NP:-80 TC:60} Small Guard Plate
 {8122}{AC:5(+6) DR:7(+12) FR:3(+8) MR:(+10) MC:80} Small Magick Robes
-{8123}{AC:20 DR:35 FR:30 NP:-35 [Crafting] TC:20} Small Elite Plate
+{8123}{AC:20 DR:35 FR:30 NP:-35 TC:20 [Crafting]} Small Elite Plate
 {8124}{AC:11 DR:20 NP:-25 Reaction:-5} Small Barbarian Clothes
 {8125}{} Small Rustic Finery
 {8126}{} Rags
 {8127}{} Large Studded Leather
-{8128}{AC:20 DR:45 FR:30 NP:-35 [Crafting] TC:20} Large Elite Plate
+{8128}{AC:20 DR:45 FR:30 NP:-35 TC:20 [Crafting]} Large Elite Plate
 {8129}{} Large Rustic Finery
-{8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 [Crafting] TC:20} Feather-Weight Chain
-{8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 [Crafting] TC:20} Small Feather-Weight Chain
+{8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Feather-Weight Chain
+{8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Small Feather-Weight Chain
 {8132}{} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
@@ -269,13 +269,13 @@
 {8145}{AC:4 DR:5 FR:3 PR:(+80) MC:30} Venom-Shielded Garment
 {8146}{AC:4 DR:5 FR:3 PR:(+80) MC:30} Small Venom-Shielded Garment
 {8147}{AC:4 DR:5 FR:3 PR:(+80) MC:30} Large Venom-Shielded Garment
-{8148}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Regenerative Jacket
-{8149}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Small Regenerative Jacket
-{8150}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Large Regenerative Jacket
+{8148}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Regenerative Jacket //TC doesn't fit
+{8149}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Small Regenerative Jacket //TC doesn't fit
+{8150}{AC:8 DR:14 FR:5 Every 5 sec. uses 1 Charge to Heal 4HP. TC:80} Large Regenerative Jacket //TC doesn't fit
 {8151}{AC:9 DR:16(+10) FR:5(+60) NP:-10 MC:60} Dragon Skin Leather
 {8152}{AC:9 DR:10(+10) FR:5(+60) NP:-10 MC:60} Small Dragon Skin Leather
 {8153}{AC:9 DR:20(+10) FR:5(+60) NP:-10 MC:60} Large Dragon Skin Leather
-{8154}{AC:8 DR:14 FR:5 NP:-10(+15) Backstab:Prowling:(+2) MC:50} Creep Armour
+{8154}{AC:8 DR:14 FR:5 NP:-10(15) Backstab:Prowling:(+2/20) MC:50} Creep Armour
 {8155}{AC:13 DR:25 FR:5 ER:-5 NP:-25 TC:5} Caladon Elite Guard Chainmail
 {8156}{AC:14 DR:27 FR:10 ER:-20 NP:-25 TC:10} Dwarven Chainmail
 {8157}{AC:14 DR:23 ER:(+10) NP:-25(+10) MC:10} Elven Chainmail
@@ -286,7 +286,7 @@
 {8162}{} Decent Gold Ring
 {8163}{} Gilbert Bates' Ring
 {8164}{AC:(+10) DR:(+10) MC:40} Ring of Protection
-{8165}{Crit Rate:(+5), Gambling:(+1) MC:40} Fated Ring
+{8165}{Crit Rate:(+5), Gambling:(+1/20) MC:40} Fated Ring
 {8166}{DR:10 NP:-10 TC:5} Metal Boots
 {8167}{} Fine Stout Boots
 {8168}{} Shoes
@@ -304,10 +304,10 @@
 {8180}{DR:5 Dexterity:(+2) MC:20} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
-{8183}{Perception:(+2) [Crafting] TC:85} Eye Gear
+{8183}{Perception:(+2) TC:85 [Crafting]} Eye Gear
 {8184}{PE <8 +1 else -1 [Crafting: Quest][Crafting]} Eye Glasses
 {8185}{[Crafting] Cylindric Hat for upper class.} Top Hat
-{8186}{AC:3 DR:7 [Crafting] TC:10} Helmet of Vision
+{8186}{AC:3 DR:7 TC:10 [Crafting]} Helmet of Vision
 {8187}{DR:20 TC:50} Chapeau of Magnetic Inversion
 {8188}{AC:3 DR:7 PE:-1 Sheds Light MC:40} Helm of Light
 {8189}{AC:3(+15) DR:7 PE:-1 MC:20} Geleam's Helm
@@ -315,12 +315,12 @@
 {8191}{} Dented Iron Shield
 {8192}{AC:30 [Crafting]} Quality Iron Shield
 {8193}{} Kite Shield
-{8194}{AC:10, Shield slot, Detects Traps, Requires Charges TC:40} Flow Specktrometer
+{8194}{AC:10, Shield slot, Detects Traps, Requires Charges TC:40} Flow Specktrometer //TC doesn't fit
 {8195}{AC:30 ED:1-10 to Attacker MC:60} Shield of Force
 {8196}{AC=Evil Alignment/2 MC:40} Shadow Shield
 {8197}{AC:17 DR:40 FR:15 ER:-20 NP:-80 TC:15} Dwarven Platemail
 {8198}{AC:20(+5) DR:15(+7) FR:10(+10) ER:-20 HR:(+%40) NP:-80 MC:40} Minute Platemail of Regeneration
-{8199}{AC:3 DR:7 PE:-1 [Crafting] TC:20} Great Helm
+{8199}{AC:3 DR:7 PE:-1 TC:20 [Crafting]} Great Helm
 {8200}{AC:2  DR:1  NP:-10 Reaction:+20} Sunday's Best Dress
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
@@ -338,21 +338,21 @@
 {8214}{AC:9(+15) DR:16 FR:5 All Res:(+15) NP:-10(+4) MC:75} Mystic Leather Armour
 {8215}{AC:9(+15) DR:14 FR:5 All Res:(+15) NP:-10(+4) MC:75} Small Mystic Leather Armour
 {8216}{AC:9(+15) DR:18 FR:5 All Res:(+15) NP:-10(+4) MC:75} Large Mystic Leather Armour
-{8217}{AC:9(+20) DR:16 FR:5 All Res:(+20) NP:-10(+6) MC:100} Arcane Leather Armour
-{8218}{AC:9(+20) DR:14 FR:5 All Res:(+20) NP:-10(+6) MC:100} Small Arcane Leather Armour
-{8219}{AC:9(+20) DR:18 FR:5 All Res:(+20) NP:-10(+6) MC:100} Large Arcane Leather Armour
+{8217}{AC:9(+20) DR:16 FR:5 All Res:(+20) NP:-10(+6) MC:100} Arcane Leather Armour //MC doesn't fit
+{8218}{AC:9(+20) DR:14 FR:5 All Res:(+20) NP:-10(+6) MC:100} Small Arcane Leather Armour //MC doesn't fit
+{8219}{AC:9(+20) DR:18 FR:5 All Res:(+20) NP:-10(+6) MC:100} Large Arcane Leather Armour //MC doesn't fit
 {8220}{AC:14 DR:23 FR:5 ER:(+10) NP:-20(+10) MC:20} Qintarra Chainmail //UNUSED INGAME
-{8221}{AC:12(+5) DR:23 FR:5 ER:-10 All Res:(+5) NP:-25 MC:25} Charmed Chainmail //All res+5 except ER+0
-{8222}{AC:12(+5) DR:10 FR:5 ER:-10 All Res:(+5) NP:-25 MC:25} Small Charmed Chainmail //All res+5 except ER+0
-{8223}{AC:12(+10) DR:23 FR:5 ER:-10 All Res:(+10) NP:-25(+5) MC:50} Magick Chainmail //All res+10 except ER+5
-{8224}{AC:12(+10) DR:10 FR:5 ER:-10 All Res:(+10) NP:-25(+5) MC:50} Small Magick Chainmail //All res+10 except ER+5
-{8225}{AC:12(+15) DR:23 FR:5 ER:-10 All Res:(+15) NP:-25(+10) MC:75} Mystic Chainmail //All res+15 except ER+10
-{8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Res:(+15) NP:-25(+10) MC:75} Small Mystic Chainmail //All res+15 except ER+10
-{8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Res:(+20) NP:-25(+15) MC:100} Arcane Chainmail //All res+20 except ER+15
-{8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Res:(+20) NP:-25(+15) MC:100} Small Arcane Chainmail //All res+20 except ER+15
-{8229}{AC:18 DR:45 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
-{8230}{AC:18 DR:40 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Small Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
-{8231}{AC:18 DR:47 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Large Electro-Armor //MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8221}{AC:12(+5) DR:23 FR:5 ER:-10 All Res:(+5) NP:-25 MC:25} Charmed Chainmail //All res+5 except ER+0,MC doesn't fit
+{8222}{AC:12(+5) DR:10 FR:5 ER:-10 All Res:(+5) NP:-25 MC:25} Small Charmed Chainmail //All res+5 except ER+0,MC doesn't fit
+{8223}{AC:12(+10) DR:23 FR:5 ER:-10 All Res:(+10) NP:-25(+5) MC:50} Magick Chainmail //All res+10 except ER+5,NP doesn't fit
+{8224}{AC:12(+10) DR:10 FR:5 ER:-10 All Res:(+10) NP:-25(+5) MC:50} Small Magick Chainmail //All res+10 except ER+5,NP doesn't fit
+{8225}{AC:12(+15) DR:23 FR:5 ER:-10 All Res:(+15) NP:-25(+10) MC:75} Mystic Chainmail //All res+15 except ER+10,NP doesn't fit
+{8226}{AC:12(+15) DR:10 FR:5 ER:-10 All Res:(+15) NP:-25(+10) MC:75} Small Mystic Chainmail //All res+15 except ER+10,NP doesn't fit
+{8227}{AC:12(+20) DR:23 FR:5 ER:-10 All Res:(+20) NP:-25(+15) MC:100} Arcane Chainmail //All res+20 except ER+15,NP doesn't fit
+{8228}{AC:12(+20) DR:21 FR:5 ER:-10 All Res:(+20) NP:-25(+15) MC:100} Small Arcane Chainmail //All res+20 except ER+15,NP doesn't fit
+{8229}{AC:18 DR:45 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8230}{AC:18 DR:40 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Small Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8231}{AC:18 DR:47 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Large Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
 {8232}{AC:3 DR:3 FR:2(+10) All Other Res:(+10) MC:25} Charmed Robes
 {8233}{AC:3 DR:3 FR:2(+10) All Other Res:(+10) MC:25} Small Charmed Robes
 {8234}{AC:3 DR:3 FR:2(+20) All Other Res:(+20) MC:50} Magick Robes
@@ -361,24 +361,24 @@
 {8237}{AC:3 DR:3 FR:2(+35) All Other Res:(+35) MC:75} Small Mystic Robes
 {8238}{AC:3 DR:3 FR:2(+50) All Other Res:(+50) MC:100} Arcane Robes
 {8239}{AC:3 DR:3 FR:2(+50) All Other Res:(+50) MC:100} Small Arcane Robes
-{8240}{AC:3(+5) DR:3(+5) FR:2(+5) ER:(+5) PR:(+5) MC:25} Charmed Traveler's Cloak
-{8241}{AC:3(+5) DR:3(+5) FR:2(+5) ER:(+5) PR:(+5) MC:25} Small Charmed Traveler's Cloak
-{8242}{AC:3(+10) DR:3(+10) FR:2(+10) ER:(+10) PR:(+10) MC:50} Magick Traveler's Cloak
-{8243}{AC:3(+10) DR:3(+10) FR:2(+10) ER:(+10) PR:(+10) MC:50} Small Magick Traveler's Cloak
-{8244}{AC:3(+15) DR:3(+15) FR:2(+15) ER:(+15) PR:(+15) NP:(+5) MC:75} Mystic Traveler's Cloak
-{8245}{AC:3(+15) DR:3(+15) FR:2(+15) ER:(+15) PR:(+15) NP:(+5) MC:75} Small Mystic Traveler's Cloak
-{8246}{AC:3(+20) DR:3(+20) FR:2(+20) ER:(+20) PR:(+20) NP:(+5) MC:100} Arcane Traveler's Cloak
-{8247}{AC:3(+20) DR:3(+20) FR:2(+20) ER:(+20) PR:(+20) NP:(+5) MC:100} Small Arcane Traveler's Cloak
+{8240}{AC:3(+5) DR:3(+5) FR:2(+5) ER:PR:(+5) MC:25} Charmed Traveler's Cloak
+{8241}{AC:3(+5) DR:3(+5) FR:2(+5) ER:PR:(+5) MC:25} Small Charmed Traveler's Cloak
+{8242}{AC:3(+10) DR:3(+10) FR:2(+10) ER:PR:(+10) MC:50} Magick Traveler's Cloak
+{8243}{AC:3(+10) DR:3(+10) FR:2(+10) ER:PR:(+10) MC:50} Small Magick Traveler's Cloak
+{8244}{AC:3(+15) DR:3(+15) FR:2(+15) ER:PR:(+15) NP:(+5) MC:75} Mystic Traveler's Cloak //MC doesn't fit
+{8245}{AC:3(+15) DR:3(+15) FR:2(+15) ER:PR:(+15) NP:(+5) MC:75} Small Mystic Traveler's Cloak //MC doesn't fit
+{8246}{AC:3(+20) DR:3(+20) FR:2(+20) ER:PR:(+20) NP:(5) MC:100} Arcane Traveler's Cloak //MC doesn't fit
+{8247}{AC:3(+20) DR:3(+20) FR:2(+20) ER:PR:(+20) NP:(5) MC:100} Small Arcane Traveler's Cloak //MC doesn't fit
 {8248}{} Quality Robes
 {8249}{} Small Quality Robes
-{8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Res:(+4) NP:-80 MC:25} Charmed Platemail //All res+4 except ER+0
-{8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Res:(+4) NP:-80 MC:25} Small Charmed Platemail //All res+4 except ER+0
-{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Res:(+6) NP:-80(+5) MC:50} Magick Platemail //All res+6 except ER+5
-{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Res:(+6) NP:-80(+5) MC:50} Small Magick Platemail //All res+6 except ER+5
-{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Res:(+8) NP:-80(+10) MC:75} Mystic Platemail //All res+8 except ER+10
-{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Res:(+8) NP:-80(+10) MC:75} Small Mystic Platemail //All res+8 except ER+10
-{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Res:(+10) NP:-80(+15) MC:100} Arcane Platemail //All res+10 except ER+15
-{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Res:(+10) NP:-80(+15) MC:100} Small Arcane Platemail //All res+10 except ER+15
+{8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Res:(+4) NP:-80 MC:25} Charmed Platemail //All res+4 except ER+0,MC doesn't fit
+{8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Res:(+4) NP:-80 MC:25} Small Charmed Platemail //All res+4 except ER+0,MC doesn't fit
+{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Res:(+6) NP:-80(+5) MC:50} Magick Platemail //All res+6 except ER+5,NP doesn't fit
+{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Res:(+6) NP:-80(+5) MC:50} Small Magick Platemail //All res+6 except ER+5,NP doesn't fit
+{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Res:(+8) NP:-80(+10) MC:75} Mystic Platemail //All res+8 except ER+10,NP doesn't fit
+{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Res:(+8) NP:-80(+10) MC:75} Small Mystic Platemail //All res+8 except ER+10,NP doesn't fit
+{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Res:(+10) NP:-80(+15) MC:100} Arcane Platemail //All res+10 except ER+15,NP doesn't fit
+{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Res:(+10) NP:-80(+15) MC:100} Small Arcane Platemail //All res+10 except ER+15,NP doesn't fit
 {8258}{AC:30 MR:(+30) TC:60} Flow Disruptor Shield
 {8259}{AC:10(+4) FR:2(+4) MC:25} Charmed Shield
 {8260}{AC:10(+8) FR:2(+8) MC:50} Magick Shield
@@ -411,9 +411,9 @@
 {8287}{[Valuable]} Ruby Necklace
 {8288}{[Valuable]} Sapphire Necklace
 {8289}{[Valuable]} Diamond Necklace
-{8290}{AC:6 DR:9 PE:+3 TC:60} Goggled Helmet
+{8290}{AC:6 DR:9 PE:(+3) TC:60} Goggled Helmet
 {8291}{AC:25 DR:53 PR:20 FR:20 ER:-10 NP:-90 ST:(+3) TC:30} Large Machined Platemail //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
-{8292}{AC:13 DR:25 FR:5 ER:-10 NP:-25 [Crafting] TC:20} Large Feather-Weight Chain 
+{8292}{AC:13 DR:25 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Large Feather-Weight Chain 
 
 //Gold
 {9056}{} Gold
@@ -431,7 +431,7 @@
 {10066}{[Crafting: Chemistry] Leyden jar.} Electrolyte Solution
 {10067}{[Crafting: Chemistry] DX-1 CN-1 for 39min.} Varham's Aqua Vitae
 {10068}{[Crafting: Chemistry] +20 Poison Level to the target} Monroe's Cleaner
-{10069}{+2 Persuasion for 39 min.[Crafting]} Potion of Persuasion
+{10069}{Persuasion:+2/20 for 39 min.[Crafting]} Potion of Persuasion
 {10070}{+2 Strength for 39 min. [Crafting]} Elixir of Physical Prowess
 {10071}{[Crafting: Therapeutics] Used on skin prevent infection.} Spirit of Camphor
 {10072}{[Crafting: Therapeutics]} Famous Blood Pills
@@ -489,7 +489,7 @@
 {10124}{[Quest]} Vial of Dragon's Blood
 {10125}{[Offering] Works as Strong aphrodisiac.} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
-{10127}{[Gift] } Dwarven Snuff
+{10127}{[Gift]} Dwarven Snuff
 {10128}{[Gift] Magic essence in water.} Elven Spring Water
 {10129}{[Gift] Staple of quality on your table.} Earl Grey Tea
 {10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
@@ -735,7 +735,7 @@
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
 {15122}{[Crafting: Smithy] Looks like metal, but it's not iron.} Dwarven Ore
 {15123}{[Crafting: Smithy] Steel/copper wire on a spool} Spool of Heavy Wire
-{15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!! (UNUSABLE UNCRAFTABLE ITEM)
+{15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!! UNUSED INGAME (UNUSABLE UNCRAFTABLE ITEM)
 {15125}{[Crafting: Smithy] Big thin metal plate, easy to form.} Sheet Metal
 {15126}{You can use it to dig up Treasures.} Shovel
 {15127}{[Quest][Valuable] Distorted reflection of your face.} Crystal Ball
@@ -745,7 +745,7 @@
 {15131}{[Valuable] Unfaceted Ruby Gem.} Rough-Cut Ruby
 {15132}{D:5-30 FD:5-30 Knockback [Crafting]} Explosive Grenade
 {15133}{Who needs followers when you can craft one?} Automaton
-{15134}{D:100-200 FD:5-20 [Crafting] Fuse 11 sec.} Dynamite
+{15134}{D:100-200 FD:5-20 Fuse 11 sec. [Crafting]} Dynamite
 {15135}{[Crafting: Chemistry] Compound used in Cameras.} Bromide
 {15136}{[Crafting: Chemistry] Ideal for cleaning.} Potassium Chloride
 {15137}{[Crafting: Electric] Conduct power from batteries.} Small Electrical Parts
