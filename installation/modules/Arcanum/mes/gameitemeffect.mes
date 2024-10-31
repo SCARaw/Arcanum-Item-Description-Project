@@ -95,7 +95,7 @@
 {30101}{K'an Hua} // K'an Hua
 {30102}{"How Nasrudin Defeated the Nefarious Arronax! and Other Stories"} // "How Nasrudin Defeated the Nefarious Arronax! and Other Stories"
 {30103}{Statue of Saint Mannox} // Statue of Saint Mannox
-{30104}{CR:+2 PR:+20 WP:+1 Melee:+2} // Complexity 0 // The Finger of Mannox
+{30104}{CR:+2 PR:+20 WP:+1 Melee:+2/20} // Complexity 0 // The Finger of Mannox
 {30105}{Preston Radcliffe} // Preston Radcliffe
 {30106}{Weldo Rubin} // Weldo Rubin
 {30107}{Milly Fender} // Milly Fender
@@ -123,7 +123,7 @@
 {30129}{A freshly filled grave} // A freshly filled grave
 {31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
 {31031}{Sarcophagus lid} // Sarcophagus lid
-{31032}{D:5-20(+10) FT:8-16 Reaction:(-20) harm/lightning/q.life PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} // The Bangellian Scourge
+{31032}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} //FT doesn't fit The Bangellian Scourge
 {31033}{Gorrin the Pit Master} // Gorrin the Pit Master
 {31034}{Key To Bates' Mausoleum} // Key To Bates' Mausoleum
 {31035}{Sarcophagus} // Sarcophagus
@@ -362,12 +362,12 @@
 {30369}{[Quest]} // Lethe Wyvern Venom
 {30370}{[Quest]} // Napha Water
 {30371}{[Quest]} // Flawless Dwarven Rubies
-{30372}{Gambling:+2, Haggle:+1 [Quest]} // Lucky Medallion
+{30372}{Gambling:+2/20, Haggle:+1/20 [Quest]} // Lucky Medallion
 {30373}{[Quest]} // Madam Lil's Music Box
 {30374}{[Quest]} // Cassie's Jewelry
 {30375}{D:6-13 FT:1-4 MSR:6/8 [Quest]} // Sword of the Derian Ka
 {30376}{[Quest]} // Sunken Treasure
-{30377}{[Quest] Constitution:+2} // Ring of Virility
+{30377}{Constitution:+2 [Quest]} // Ring of Virility
 {30378}{[Quest] Enchanted Looking Glass} // Enchanted Looking Glass
 {30379}{BE:+2 CH:+1 [Quest]} // Jewel of Hebe
 {30380}{Bridge materials} // Bridge Materials
@@ -456,14 +456,14 @@
 {30463}{Thieves Underground Package} // Thieves Underground Package
 {30464}{[Quest]} // Trevor Lynwood's Camera
 {30465}{Mithral knife of G'har} // Mithral knife of G'har
-{30466}{D:1-8 FT:3-12 DX:PE:(+2) Teleport, Divine, See Contents MSR:5 MC:100}
+{30466}{D:1-8 FT:3-12 DX:PE:(+2) Teleport, Divine, See Contents MSR:5 MC:100} //MSR doesn't fit //Staff of K'an Tau
 {30467}{The Great Castle S'nel N'fa} // S'nel N'fa
 {30468}{} // Tannon Wroughtbringer's Journal
 {30469}{[Quest]} // Great Ruby of K'alru
-{30470}{Prowling:+2} // Ring of Concealment
+{30470}{Prowling:+2/20} // Ring of Concealment
 {30471}{[Quest]} // Potion to Heal the Blind
 {30472}{[Quest]} // J.T. Morgan's Master Locksmith Tools
-{30473}{Prowling:+2} // Complexity 0 Caladon, +40 Roseborough // Ring of Silence
+{30473}{Prowling:+2/20} // Complexity 0 Caladon, +40 Roseborough // Ring of Silence
 {30474}{CN:(+4) MR:(+40) MC:80} // Complexity +80 // Amulet of K'an-el
 {30475}{Considerable bonus to haggle when worn} // The Haggle Master's Ring
 {30476}{Firearm Master's Rifle} // Firearm Master's Rifle
@@ -519,34 +519,34 @@
 {30526}{Arthur Tyron} // Arthur Tyron
 {30527}{Sam Longwell} // Sam Longwell
 {30528}{James Legget} // James Legget
-{30614}{Prowling:(+2)} // Medallion of Silence
-{30615}{D:1-10(+1-10 vs Animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} // Ancient Elven Bow
+{30614}{Prowling:(+2/20)} // Medallion of Silence
+{30615}{D:1-10(+1-10 vs animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} //MC doesn't fit Ancient Elven Bow
 {30616}{DX:+2 PE:+2} // Brigitte
-{30679}{D:1-8 FT:3-12 ST:CN:(+1)HR:(+50%)MSR:5 Maj Heal MC:40} // Complexity +40 // Staff of Restoration
+{30679}{D:1-8 FT:3-12 ST:CN:(+1) HR:(+50%) Major Heal MSR:5 MC:40} //MC doesn't fit Complexity +40 // Staff of Restoration
 {30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Complexity +50 // Caladon Crusading Chain
-{30681}{Beauty:(+2) MC:20} // Complexity +20 // Great Aunt Ester's Amulet
+{30681}{Beauty:(+2) MC:20 [Quest]} // Complexity +20 // Great Aunt Ester's Amulet
 {30682}{Perception:+2 Dexterity:+2} // Complexity 0 // Trapmaker Spectacles
 {30719}{D:1-4 FT:1-2 Crit Fail:(+20) SPD:(+4) MSR:3/3 MC:10} // Fool's Dagger
 {30720}{D:2-9 FT:2-5 SPD:(-6) MSR:8/10 MC:10} // Lingering Sword
 {30721}{} // Hammer of Impotence //UNUSED INGAME
 {30722}{D:1-4 FT:1-2 Crit Fail:(+20) MSR:3/3 MC:20} // Hexed Dagger
-{30734}{D:1-6 FT:1-2 Backstab(+8/20) Self-D:PD:(1-10) MSR:3/3 MC:50} // Shadow Hand Dagger
+{30734}{D:1-6 FT:1-2 Backstab(+8/20) Self-D:PD:(1-10) MSR:3/3 MC:50} //MC doesn't fit Shadow Hand Dagger
 {30735}{D:1-4(+2) FT:1-2 HR:(-95%) MaxFT:(-50%) MSR:3/3 MC:40} // Life Stealer Dagger
-{30739}{D:5-20(+10) FT:8-16 Reaction:(-20) harm/lightning/q.life PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} // Sword of Bangelian Scourge
-{30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on Self or enemy MSR:9/11 MC:75} // Blade of Unholy Fire
-{30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} // Black Stone Blade
-{30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75} // Axe of Dark Lightning
-{30746}{D:1-12(+35) FT:1-10(+29) SPD:(-3) ROH-Hasten enemy MSR:8/10 MC:70} // Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
+{30739}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} //FT doesn't fit Sword of Bangelian Scourge
+{30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on Self or enemy MSR:9/11 MC:75} //MSR doesn't fit Blade of Unholy Fire
+{30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} //FT doesn't fit Black Stone Blade
+{30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75} //ROM:BoL doesn't fit Axe of Dark Lightning
+{30746}{D:1-12(+35) FT:1-10(+29) SPD:(-3) ROH-Hasten enemy MSR:8/10 MC:70} //MSR doesn't fit Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
 {30748}{D:6-15 FT:1-3 ROH-Poisonous Vapors MSR:8/10 MC:40} // Axe of Creeping Death
-{30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 MC:75} // Mace of Betrayal
+{30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 MC:75} //FT doesn't fit Mace of Betrayal
 {30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis MSR:9/11 MC:80} // Star of Soul Bonding
-{30753}{D:1-8 ROH-Stun, Drain Will or Spawn 3 Hostile Zombies FT:1-10 MSR:10/12 Mana:16 CR(+2) MC:50} // Mace of the Damned
-{30755}{D:5-15(15) Speed:(+5) ROH-D:FT:(10-55) Self or enemy double D: on self. FT:1-5 SPD(+5) MSR:14/18 MC:90} // Blade of Vicious Haste
+{30753}{D:1-8 ROH-Stun, Drain Will or Spawn 3 Hostile Zombies FT:1-10 MSR:10/12 Mana:16 CR(+2) MC:50} //FT doesn't fit Mace of the Damned
+{30755}{D:5-15(15) Speed:(+5) ROH-D:FT:(10-55) Self or enemy double D: on self. FT:1-5 SPD(+5) MSR:14/18 MC:90} //double D: doesn't fit Blade of Vicious Haste
 {30757}{D:5-10(+20) FT:3-11 ROH-Squall of Ice MSR:15/19 MC:80} // Blade of Malevolent Storm
-{30759}{D:5-10(+10) FT:2-5 ROH-Harm ROM-Harm x2 MSR:11 MC:75} // Hurtful Long Bow
-{30761}{D:1-5 FT:1-3 CN:WP:(-6) RNG:15 ROH-FT:10-30 MSR:10 MC:50} // Bow of the Chill Reaper
-{30763}{D:FT:1-3(+8) DX:(-4) Speed:(-4) TH:30(+30) very heavy MSR:16(-6) CR:(+10) W:(-1000) MaxCarry(-2000) MC:20} // Grack's Burdensome Staff //D:(+20) but capped at 9, FT:(+20) but capped at 9
-{30764}{D:1-15(+10) FT:2-9(+10) ROH-Self-DX:ST:CN:(+3/-4) MSR:5 MC:75}  // Hexed Berserker's Staff
+{30759}{D:5-10(+10) FT:2-5 ROH-Harm ROM-Harm x2 MSR:11 MC:75} //MC doesn't fit Hurtful Long Bow
+{30761}{D:1-5 FT:1-3 CN:WP:(-6) RNG:15 ROH-FT:10-30 MSR:10 MC:50} //MC doesn't fit Bow of the Chill Reaper
+{30763}{D:FT:1-3(+8) DX:(-4) Speed:(-4) TH:30(+30) very heavy MSR:16(-6) CR:(+10) W:(-1000) MaxCarry(-2000) MC:20} //MSR doesn't fit Grack's Burdensome Staff //D:(+20) but capped at 9, FT:(+20) but capped at 9
+{30764}{D:1-15(+10) FT:2-9(+10) ROH-Self-DX:ST:CN:(+3/-4) MSR:5 MC:75}  //MSR doesn't fit Hexed Berserker's Staff
 {30767}{D:FT:1-3(+6) Random Shield of Protection MSR:5 MC:80} // Staff of Hypocrisy
 {30768}{MR:+20% DR-50%} // Hexed Leather Armour
 {30769}{DR:+20% PR:-100% Poison and FT DOT} // Diseased Leather Armour
@@ -554,7 +554,7 @@
 {30801}{DR:ER:FR:MR:+100% PR:-100% Poison and FT DOT} // Venomous Robes
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} // Chill Plate Mail
 {30803}{DR:+20% Fatigue DOT, Crit: FT:-100%} // Consuming Plate Mail
-{30806}{DR:ER:FR:MR:PR:+20% ST,DX,PE:-3 -Dodge Skill} // Hexed Barbarian Armour
+{30806}{AC:11 DR:20 AllRes(+20%) ST:DX:PE(-3) Dodge(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
 {30807}{AC 11(+20) DR:16(+30) FR:ER:(+30) PR:MR:0 (1.2*DR) NP:-25} Hero's Weakness Barbarian Armour
 {30815}{DR:ER:FR:MR:PR:+20% ST,DX,WP:-3 FT:-95%} // Chill Shield
 {30817}{DR:MR:-50% PE:+4 Bow +2, HT/FT Reduced} // Helmet of Yzar's Cost
@@ -564,19 +564,19 @@
 {30831}{MR:+20% IN:+1 DR:ER:FR:PR:-50%} // Ring of Dark Magicks
 {30832}{Invisibility, Heal Rate -100%, HT/FT DOT} // Ring of Shadows
 {30836}{MR:+20% DR:-50%} // Medallion of Dark Magicks
-{30837}{Fireflash DOT in combat} // Hellfire Medallion
+{30837}{Cast Fireflash every 5 sec on everyone in combat MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
 {30874}{[Quest]}White Scarf
-{30877}{D:1-10 FT:2-5 TH:(+30) RNG:15(+50) CR:(+50) MSR:10 MC:80} // Bow of Ecclesiastes
+{30877}{D:1-10 FT:2-5 TH:(+30) RNG:15(+50) CR:(+50) MSR:10 MC:80} //MSR doesn't fit Bow of Ecclesiastes
 {30881}{This stone is covered in ancient dwarven runes.} // The Durin Stone
 {30890}{This stone altar looks unused and stained.} // Desecrated Altar
 {30899}{} // TODO FIXME // Fa'al Kin's Dagger
-{30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} // Torian Kel's Ancestral Sword
+{30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} //FT doesn't fit Torian Kel's Ancestral Sword
 {30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18} // Kryggird's Falchion
-{30967}{ST:+1 CN:+1 Healing +50%} // Amulet of N'Tala
+{30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
-{31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} // Complexity +15 // Ellumyn's Bow
-{31134}{CH:(+3) BE:(+3) Persuasion:(+3), Haggle:(+3) MC:60} // Ring of Influence
+{31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
+{31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
 {31135}{DR:ER:FR:MR:PR:+20% Poison DOT, Poison Vapours} // Poisoned Plate Mail
 {31161}{} // TODO FIXME // Ceremonial Dagger
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
@@ -586,13 +586,13 @@
 {31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
 {31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
-{31192}{D:1-10FT:2-5 TH:(+15)SPD:(+2)CR:(+10)Call Air Elem. MSR:10 MC:45} // Blessed Bow
-{31193}{D:1-10 FT:1-5 TH:CR:(+10) MSR:5/7 Fireflash MC:20} // Screaming Scimitar
+{31192}{D:1-10 FT:2-5 TH:(+15)SPD:(+2)CR:(+10) Call Air Elem. MSR:10 MC:45} //MSR doesn't fit Blessed Bow
+{31193}{D:1-10 FT:1-5 TH:CR:(+10) Fireflash MSR:5/7 MC:20} // Screaming Scimitar
 {31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9 TC:35} // Complexity -35 // Long Range Rifle
-{31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) MSR:5 Divine Magick MC:40} // Complexity +40 // Divining Staff
+{31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) Divine Magick MSR:5 MC:40} // Complexity +40 // Divining Staff
 {31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0 // Fleet Boomerang
-{31198}{D:1-4 FT:1-2 TH:(+10) MSR:3/3 Bolt of Lightning MC:25} //Complexity +25 // Shocking Dagger
-{31199}{D:1-10 FT:2-5 TH:(+20) RNG:15 CR:(+15) MSR:10 MC:20} //Complexity +20 // Bow of Damage
+{31198}{D:1-4 FT:1-2 TH:(+10) Bolt of Lightning MSR:3/3 MC:25} //Complexity +25 // Shocking Dagger
+{31199}{D:1-10 FT:2-5 TH:(+20) CR:(+15) RNG:15 MSR:10 MC:20} //Complexity +20 // Bow of Damage
 {31200}{AC:2 DR:1 FR:(+30) NP:+10 Reaction:+20 MC:20} // Complexity +20 // Enchanted Gown
 {31201}{AC:5(+6) DR:7(+12) FR:3(+20) MR:(+10) NP:(+20) MC:80} // Complexity +80 #MISSING: Weight -30 but doesn't fit // Silent Robes
 {31202}{D:1-4 FT:1-2 TH:(+15) SPD:(+2) MSR:3/3 MC:10} // Complexity +10 // Dagger of Pain
@@ -600,12 +600,12 @@
 {31204}{AC:2 DR:1 FR:10 MR:10 TC:10} // Complexity -10 // Suit of Resistance
 {31205}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Finely Honed Dagger
 {31207}{D:1-7 FT:1-10 TH:+20 MSR:7/9 TC:10} // Complexity -10 // Dwarven Hammer
-{31208}{D:1-4 FT:2-9 TH:10 RNG:2 MSR:5 Divine Magic MC:30} // Complexity +30 // Righteous Staff
+{31208}{D:1-4 FT:2-9 TH:10 RNG:2 Divine Magic MSR:5 MC:30} // Complexity +30 // Righteous Staff
 {31209}{AC:2 DR:10 NP:+10 PE:-1} // Complexity 0 // Fleet Helm
 {31210}{} // TODO FIXME // Dread Dagger
 {31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect MC:75} //  Complexity +75 // Fawn's Bow
 {31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
-{40000}{[Quest] PE <8 +1 else -1} // Location:Caladon Inn Room 4, Quest:Master Prowler, Property:Only glass that can reveal the painting
+{40000}{PE <8 +1 else -1 [Quest]} // Location:Caladon Inn Room 4, Quest:Master Prowler, Property:Only glass that can reveal the painting
 {40001}{} // TODO FIXME
 {40002}{D:2-9 FT:2-5 TH:+3 MSR:7/9}
 {40003}{D:1-12 FT:1-9 MSR:8/10}
