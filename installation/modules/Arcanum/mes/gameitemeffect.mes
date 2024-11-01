@@ -368,7 +368,7 @@
 {30375}{D:6-13 FT:1-4 MSR:6/8 [Quest]} // Sword of the Derian Ka
 {30376}{[Quest]} // Sunken Treasure
 {30377}{Constitution:+2 [Quest]} // Ring of Virility
-{30378}{[Quest] Enchanted Looking Glass} // Enchanted Looking Glass
+{30378}{[Quest]} // Enchanted Looking Glass
 {30379}{BE:+2 CH:+1 [Quest]} // Jewel of Hebe
 {30380}{Bridge materials} // Bridge Materials
 {30381}{Shrouded Hills Steam Engine} // Shrouded Hills Steam Engine
@@ -477,7 +477,7 @@
 {30484}{[Quest]} // Daniel Hallaway's Strongbox
 {30485}{The Bleeding Rose Inn} // The Bleeding Rose Inn
 {30486}{Thieves underground Bag of Jewels} // Thieves underground Bag of Jewels
-{30487}{MR:+40 [Quest]} // Cassie's Necklace
+{30487}{Magick Resistance:+40 [Quest]} // Cassie's Necklace
 {30488}{[Quest]} // Gift for Mrs. Regina Halster
 {30489}{[Quest]} // Note for Mrs. Regina Halster
 {30490}{L.N. Renford} // L.N. Renford
@@ -503,7 +503,7 @@
 {30510}{Jason C. Guy} // Jason C. Guy
 {30511}{Scholarly Gentleman} // Scholarly Gentleman
 {30512}{Key to Bates' Factory} // Key to Bates' Factory
-{30513}{[Quest] Map of Tarantian Sewers} // Map of Tarantian Sewers
+{30513}{[Quest]} // Map of Tarantian Sewers
 {30514}{Nicholas Longfoot} // Nicholas Longfoot
 {30515}{Madam's Bartender/Bouncer} // Madam's Bartender/Bouncer
 {30516}{Lianna} // Lianna
@@ -551,7 +551,7 @@
 {30768}{AC:9 DR:14 FR:5 (0.5*DR) (1.2*MR) NP:-10 MC:25} // Hexed Leather Armour
 {30769}{AC:9 DR:16 FR:5 (1.2*DR)(0*PR) DOT:FT:1/3,PD:15-30 NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
 {30796}{AC:12 DR:23 FR:5(1.2*DR)(0*PR) DOT:FT:1/3,PD:10-30 ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
-{30801}{DR:2 (1.2*DR:ER:PR:MR) (0*PR) DOT:FT:1/3,PD15-30 AC:3 FR:-15 MR:(10) MC:50} //AC doesn't fit Venomous Robes
+{30801}{DR:2 (1.2*DR:ER:PR:MR) (0*PR) DOT:FT:1/3,PD:15-30 AC:3 FR:-15 MR:(10) MC:50} //AC doesn't fit Venomous Robes
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} // Chill Plate Mail
 {30803}{DR:+20% Fatigue DOT, Crit: FT:-100%} // Consuming Plate Mail
 {30806}{AC:11 DR:20 AllRes(+20%) ST:DX:PE(-3) Dodge(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
@@ -566,11 +566,18 @@
 {30836}{MR:+20% DR:-50%} // Medallion of Dark Magicks
 {30837}{Cast Fireflash every 5 sec on everyone in combat MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
+{30864}{Magick Resistance:+40 [Quest]} //Pelojian's Amulet
 {30874}{[Quest]}White Scarf
+{30875}{} //Cynthia Boggs' Locket
 {30877}{D:1-10 FT:2-5 TH:(+30) RNG:15(+50) CR:(+50) MSR:10 MC:80} //MSR doesn't fit Bow of Ecclesiastes
 {30881}{This stone is covered in ancient dwarven runes.} // The Durin Stone
 {30890}{This stone altar looks unused and stained.} // Desecrated Altar
-{30899}{} // TODO FIXME // Fa'al Kin's Dagger
+{30894}{[Quest]} // Fa'al Kin's Ring
+{30895}{AC:2 DR:5 PE:-1 [Quest]} // Fa'al Kin's Helmet
+{30896}{[Quest]} // Fa'al Kin's Amulet
+{30897}{DR:5 D:+3 [Quest]} // Fa'al Kin's Gauntlets
+{30898}{DR:5 [Quest]} // Fa'al Kin's Boots
+{30899}{D:1-4 FT:1-2 MSR:3/3 [Quest]} // TODO FIXME // Fa'al Kin's Dagger
 {30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} //FT doesn't fit Torian Kel's Ancestral Sword
 {30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18} // Kryggird's Falchion
 {30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
@@ -578,7 +585,7 @@
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
 {31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
 {31135}{DR:ER:FR:MR:PR:+20% Poison DOT, Poison Vapours} // Poisoned Plate Mail
-{31161}{} // TODO FIXME // Ceremonial Dagger
+{31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]} // TODO FIXME // Ceremonial Dagger
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
 {31175}{D:15-35 FT:1-8 FD:1-5 TH:+5 MSR:8/10 TC:80} // Iron Clan Hammer
