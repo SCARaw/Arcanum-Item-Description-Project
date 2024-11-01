@@ -93,7 +93,7 @@
 {6114}{D:1-8 FT:3-12 Mana:50 Illuminate, Dweomer Shield MSR:5 MC:60} Mage's Staff //MC:60 doesn't fit
 {6115}{D:2-9 FT:2-5 RNG:9 MSR:5/7 TC:30} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7 TC:20} Hand Crafted Flintlock
-{6117}{D: 1-2 FT 1-3 MSR:10/12 [Crafting]} Large Pipe
+{6117}{D:1-2 FT:1-3 MSR:10/12 [Crafting]} Large Pipe
 {6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 TC:85 [Crafting]} Hand Cannon
 {6119}{D:1-15 FT:1-10 RNG:15 MSR:8 TC:70 [Crafting]} Clarington Rifle
 {6120}{D:1-8(+12) FT:1-4 Crit Effect:(+50) Crit Fail:(+20) MSR:4/6 MC:75} Filament Sword
@@ -300,7 +300,7 @@
 {8176}{AC:5 DR:7 D:+15 TC:20} Machined Gauntlets
 {8177}{AC:6 DR:8 D:+10 TC:10} War Gauntlets
 {8178}{AC:4 DR:6 D:+2 TC:5} Chain Gloves
-{8179}{DR:5 Pickpocket(+1) MC:40} Light-Fingered Gauntlets
+{8179}{DR:5 Pickpocket(+1/20) MC:40} Light-Fingered Gauntlets
 {8180}{DR:5 Dexterity:(+2) MC:20} Gloves of Dexterity
 {8181}{AC:6 DR:9 PE:-1} Fine Helmet
 {8182}{AC:10 DR:12 PE:-1} Pig Face Basset
@@ -316,10 +316,10 @@
 {8192}{AC:30 [Crafting]} Quality Iron Shield
 {8193}{} Kite Shield
 {8194}{AC:10, Shield slot, Detects Traps, Requires Charges TC:40} Flow Specktrometer //TC doesn't fit
-{8195}{AC:30 ED:1-10 to Attacker MC:60} Shield of Force
+{8195}{AC:30 ED:3-5 to Melee attackers MC:60} Shield of Force
 {8196}{AC=Evil Alignment/2 MC:40} Shadow Shield
 {8197}{AC:17 DR:40 FR:15 ER:-20 NP:-80 TC:15} Dwarven Platemail
-{8198}{AC:20(+5) DR:15(+7) FR:10(+10) ER:-20 HR:(+%40) NP:-80 MC:40} Minute Platemail of Regeneration
+{8198}{AC:20(5) DR:15(7) FR:10(10) ER:-20 Heal Rate:(+%40) NP:-80 MC:40} //NP doesn't fit Minute Platemail of Regeneration
 {8199}{AC:3 DR:7 PE:-1 TC:20 [Crafting]} Great Helm
 {8200}{AC:2  DR:1  NP:-10 Reaction:+20} Sunday's Best Dress
 {8201}{} Officer's Uniform
