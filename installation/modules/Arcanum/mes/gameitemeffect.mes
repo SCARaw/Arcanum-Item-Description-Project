@@ -522,7 +522,7 @@
 {30614}{Prowling:(+2/20)} // Medallion of Silence
 {30615}{D:1-10(+1-10 vs animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} //MC doesn't fit Ancient Elven Bow
 {30616}{DX:+2 PE:+2} // Brigitte
-{30679}{D:1-8 FT:3-12 ST:CN:(+1) HR:(+50%) Major Heal MSR:5 MC:40} //MC doesn't fit Complexity +40 // Staff of Restoration
+{30679}{D:1-8 FT:3-12 ST:CN:(+1) Heal Rate:(+50%) Major Heal MSR:5 MC:40} //MSR doesn't fit Complexity +40 // Staff of Restoration
 {30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Complexity +50 // Caladon Crusading Chain
 {30681}{Beauty:(+2) MC:20 [Quest]} // Complexity +20 // Great Aunt Ester's Amulet
 {30682}{Perception:+2 Dexterity:+2} // Complexity 0 // Trapmaker Spectacles
@@ -531,7 +531,7 @@
 {30721}{} // Hammer of Impotence //UNUSED INGAME
 {30722}{D:1-4 FT:1-2 Crit Fail:(+20) MSR:3/3 MC:20} // Hexed Dagger
 {30734}{D:1-6 FT:1-2 Backstab(+8/20) Self-D:PD:(1-10) MSR:3/3 MC:50} //MC doesn't fit Shadow Hand Dagger
-{30735}{D:1-4(+2) FT:1-2 HR:(-95%) MaxFT:(-50%) MSR:3/3 MC:40} // Life Stealer Dagger
+{30735}{D:1-4(+2) FT:1-2 Heal Rate(-95%) maxFT(-50%) MC:40 MSR:3/3} // MSR doesn't fit Life Stealer Dagger
 {30739}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} //FT doesn't fit Sword of Bangelian Scourge
 {30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on Self or enemy MSR:9/11 MC:75} //MSR doesn't fit Blade of Unholy Fire
 {30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} //FT doesn't fit Black Stone Blade
@@ -548,21 +548,21 @@
 {30763}{D:FT:1-3(+8) DX:(-4) Speed:(-4) TH:30(+30) very heavy MSR:16(-6) CR:(+10) W:(-1000) MaxCarry(-2000) MC:20} //MSR doesn't fit Grack's Burdensome Staff //D:(+20) but capped at 9, FT:(+20) but capped at 9
 {30764}{D:1-15(+10) FT:2-9(+10) ROH-Self-DX:ST:CN:(+3/-4) MSR:5 MC:75}  //MSR doesn't fit Hexed Berserker's Staff
 {30767}{D:FT:1-3(+6) Random Shield of Protection MSR:5 MC:80} // Staff of Hypocrisy
-{30768}{MR:+20% DR-50%} // Hexed Leather Armour
-{30769}{DR:+20% PR:-100% Poison and FT DOT} // Diseased Leather Armour
-{30796}{DR:+20% PR:-100% Poison and FT DOT} // Diseased Chain Mail
-{30801}{DR:ER:FR:MR:+100% PR:-100% Poison and FT DOT} // Venomous Robes
+{30768}{AC:9 DR:14 FR:5 (0.5*DR) (1.2*MR) NP:-10 MC:25} // Hexed Leather Armour
+{30769}{AC:9 DR:16 FR:5 (1.2*DR)(0*PR) DOT:FT:1/3,PD:15-30 NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
+{30796}{AC:12 DR:23 FR:5(1.2*DR)(0*PR) DOT:FT:1/3,PD:10-30 ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
+{30801}{DR:2 (1.2*DR:ER:PR:MR) (0*PR) DOT:FT:1/3,PD15-30 AC:3 FR:-15 MR:(10) MC:50} //AC doesn't fit Venomous Robes
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} // Chill Plate Mail
 {30803}{DR:+20% Fatigue DOT, Crit: FT:-100%} // Consuming Plate Mail
 {30806}{AC:11 DR:20 AllRes(+20%) ST:DX:PE(-3) Dodge(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
-{30807}{AC 11(+20) DR:16(+30) FR:ER:(+30) PR:MR:0 (1.2*DR) NP:-25} Hero's Weakness Barbarian Armour
-{30815}{DR:ER:FR:MR:PR:+20% ST,DX,WP:-3 FT:-95%} // Chill Shield
-{30817}{DR:MR:-50% PE:+4 Bow +2, HT/FT Reduced} // Helmet of Yzar's Cost
+{30807}{AC:11(+20) DR:16(+30) FR:ER:(30)(1.2*DR)(0*PR:MR) NP:-25 MC:100} //NP doesn't fit Hero's Weakness Barbarian Armour
+{30815}{AC:30 (1.2*AllRes) ST:DX:WP:(-3) MaxFT:(-95%) MC:20} //MC doesn't fit Chill Shield
+{30817}{DR:5 (0.5*DR:MR)(0.8*maxHP:FT) PE(+4)Bow(+2/20) AC:10 MC:50} //AC doesn't fit Helmet of Yzar's Cost
 {30818}{AC:15 DR:+5(+20%) PE:-1 Crit: Entangle} // Nature's Wrath Helm
-{30823}{DR:ER:FR:MR:+20% PR:-100% Poison and FT DOT} // Baneful Gauntlets
-{30830}{Dexterity:+2 FT DOT} // Boots of the Dark Toll
-{30831}{MR:+20% IN:+1 DR:ER:FR:PR:-50%} // Ring of Dark Magicks
-{30832}{Invisibility, Heal Rate -100%, HT/FT DOT} // Ring of Shadows
+{30823}{DR:5 (2*AllRes) (0*PR) DOT:FT:1/3,PD:20-30 MC:30 D:+3 ROH:PD:1-10} //D:+3 doesn't fit Baneful Gauntlets
+{30830}{DR:3 Dexterity:(+2) DOT:FT:1/3 MC:40} // Boots of the Dark Toll
+{30831}{(0.5*DR:FR:ER:PR) (1.2*MR) IN:(+1) MC:80} // Ring of Dark Magicks
+{30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP:FT:1/3 MC:75} //MC doesn't fit Ring of Shadows
 {30836}{MR:+20% DR:-50%} // Medallion of Dark Magicks
 {30837}{Cast Fireflash every 5 sec on everyone in combat MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
