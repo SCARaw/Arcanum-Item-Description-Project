@@ -172,7 +172,7 @@
 {8048}{AC:19(+31) DR:5 FR:(+5) NP:-20 Reaction:-10 MC:60} Dread Armour
 {8049}{} Nice Suit
 {8050}{} Battered Wooden Shield
-{8051}{AC:2 DR:5 PE:-1} Helmet
+{8051}{AC:2 DR:5 Perception:-1} Helmet
 {8052}{DR:5 D:+3 TC:5} Gauntlets
 {8053}{} Boots
 {8054}{} Fancy Ring //changing its description effects unique item descriptions too
@@ -302,25 +302,25 @@
 {8178}{AC:4 DR:6 D:+2 TC:5} Chain Gloves
 {8179}{DR:5 Pickpocket(+1/20) MC:40} Light-Fingered Gauntlets
 {8180}{DR:5 Dexterity:(+2) MC:20} Gloves of Dexterity
-{8181}{AC:6 DR:9 PE:-1} Fine Helmet
-{8182}{AC:10 DR:12 PE:-1} Pig Face Basset
+{8181}{AC:6 DR:9 Perception:-1} Fine Helmet
+{8182}{AC:10 DR:12 Perception:-1} Pig Face Basset
 {8183}{Perception:(+2) TC:85 [Crafting]} Eye Gear
-{8184}{PE <8 +1 else -1 [Crafting: Quest][Crafting]} Eye Glasses
+{8184}{Perception <8 +1 else -1 [Crafting]} Eye Glasses
 {8185}{[Crafting] Cylindric Hat for upper class.} Top Hat
 {8186}{AC:3 DR:7 TC:10 [Crafting]} Helmet of Vision
 {8187}{DR:20 TC:50} Chapeau of Magnetic Inversion
-{8188}{AC:3 DR:7 PE:-1 Sheds Light MC:40} Helm of Light
-{8189}{AC:3(+15) DR:7 PE:-1 MC:20} Geleam's Helm
+{8188}{AC:3 DR:7 Perception:-1 Sheds Light MC:40} Helm of Light
+{8189}{AC:3(+15) DR:7 Perception:-1 MC:20} Geleam's Helm
 {8190}{} Wooden Shield
 {8191}{} Dented Iron Shield
 {8192}{AC:30 [Crafting]} Quality Iron Shield
 {8193}{} Kite Shield
 {8194}{AC:10, Shield slot, Detects Traps, Requires Charges TC:40} Flow Specktrometer //TC doesn't fit
-{8195}{AC:30 ED:3-5 to Melee attackers MC:60} Shield of Force
+{8195}{AC:30 when hit ED:3-5 to Melee attackers MC:60} Shield of Force
 {8196}{AC=Evil Alignment/2 MC:40} Shadow Shield
 {8197}{AC:17 DR:40 FR:15 ER:-20 NP:-80 TC:15} Dwarven Platemail
 {8198}{AC:20(5) DR:15(7) FR:10(10) ER:-20 Heal Rate:(+%40) NP:-80 MC:40} //NP doesn't fit Minute Platemail of Regeneration
-{8199}{AC:3 DR:7 PE:-1 TC:20 [Crafting]} Great Helm
+{8199}{AC:3 DR:7 Perception:-1 TC:20 [Crafting]} Great Helm
 {8200}{AC:2  DR:1  NP:-10 Reaction:+20} Sunday's Best Dress
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
@@ -385,10 +385,10 @@
 {8261}{AC:10(+12) FR:2(+12) MC:75} Mystic Shield
 {8262}{AC:10(+16) FR:2(+16) MC:100} Arcane Shield
 {8263}{AC:15 Sheds Light TC:15} Miner's Helmet
-{8264}{AC:10(+4) DR:12(+2) PE:-1 MC:25} Charmed Helmet
-{8265}{AC:10(+6) DR:12(+4) PE:-1 MC:50} Magick Helmet
-{8266}{AC:10(+8) DR:12(+6) PE:-1 MC:75} Mystic Helmet
-{8267}{AC:10(+10) DR:12(+8) PE:-1 MC:100} Arcane Helmet
+{8264}{AC:10(+4) DR:12(+2) Perception:-1 MC:25} Charmed Helmet
+{8265}{AC:10(+6) DR:12(+4) Perception:-1 MC:50} Magick Helmet
+{8266}{AC:10(+8) DR:12(+6) Perception:-1 MC:75} Mystic Helmet
+{8267}{AC:10(+10) DR:12(+8) Perception:-1 MC:100} Arcane Helmet
 {8268}{AC:(+2) DR:5(+2) MC:25} Charmed Gauntlets
 {8269}{AC:(+3) DR:5(+3) MC:50} Magick Gauntlets
 {8270}{AC:(+4) DR:5(+4) MC:75} Mystic Gauntlets
@@ -411,7 +411,7 @@
 {8287}{[Valuable]} Ruby Necklace
 {8288}{[Valuable]} Sapphire Necklace
 {8289}{[Valuable]} Diamond Necklace
-{8290}{AC:6 DR:9 PE:(+3) TC:60} Goggled Helmet
+{8290}{AC:6 DR:9 Perception:(+3) TC:60} Goggled Helmet
 {8291}{AC:25 DR:53 PR:20 FR:20 ER:-10 NP:-90 ST:(+3) TC:30} Large Machined Platemail //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
 {8292}{AC:13 DR:25 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Large Feather-Weight Chain 
 
