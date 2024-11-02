@@ -36,6 +36,7 @@ Other potentially confusing words:
 
 All Res - short for All Resistances - include DR, PR, FR, ER, MR   
 CR - Critical Rate (chance to crit, usually as + to all your other crit chances)   
+(Brackets) - imply Bonus is related to aptitude (often magical), used already in vanilla game, mod make it consistent   
 TC - Technological Complexity, its reverse of Magic Complexity, but as positive value, determine power of some Tech items   
 MC - Magic Complexity, determine power level of magical items and penalty of techno items   
 ROH - Random on Hit, vanilla term, but defined only in scripts, it is effect trigger that can or can't happen when you attack things   
