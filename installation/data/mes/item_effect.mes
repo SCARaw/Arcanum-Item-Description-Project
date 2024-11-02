@@ -715,9 +715,9 @@
 {15101}{[Crafting: Mechanical] Big opened Ring with a lock.} Metal Clamp
 {15102}{Use it to safely trigger a trap} Trap Springer
 {15103}{[Crafting: Mechanical] Parts from a good watch.} Pocket Watch Parts
-{15104}{} Vase
+{15104}{[junk]} Vase // use description of candlestick anyways, no need fixing
 {15105}{[Junk] Decorative, plays music when opened.} Music Box
-{15106}{[Junk] Impractical without a table, just find lamp.} Candle Stick
+{15106}{[Junk] Thieves must have grabbed whatever lied around.} Candle Stick
 {15107}{[Junk] Heavily worn gears. Unusable.} Old Gears
 {15108}{[Crafting: Electric] Conducts electrcity across installation.} Electrical Harness
 {15109}{[Crafting: Electric] Accumulates big charges of energy.} Large Capacitor
