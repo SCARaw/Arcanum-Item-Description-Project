@@ -123,7 +123,7 @@
 {30129}{A freshly filled grave} // A freshly filled grave
 {31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
 {31031}{Sarcophagus lid} // Sarcophagus lid
-{31032}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} //FT doesn't fit The Bangellian Scourge
+{31032}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100 unbreakable} //FT doesn't fit The Bangellian Scourge
 {31033}{Gorrin the Pit Master} // Gorrin the Pit Master
 {31034}{Key To Bates' Mausoleum} // Key To Bates' Mausoleum
 {31035}{Sarcophagus} // Sarcophagus
@@ -535,9 +535,9 @@
 {30739}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} //FT doesn't fit Sword of Bangelian Scourge
 {30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on Self or enemy MSR:9/11 MC:75} //MSR doesn't fit Blade of Unholy Fire
 {30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} //FT doesn't fit Black Stone Blade
-{30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75} //ROM:BoL doesn't fit Axe of Dark Lightning
-{30746}{D:1-12(+35) FT:1-10(+29) SPD:(-3) ROH-Hasten enemy MSR:8/10 MC:70} //MSR doesn't fit Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
-{30748}{D:6-15 FT:1-3 ROH-Poisonous Vapors MSR:8/10 MC:40} // Axe of Creeping Death
+{30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75 [Chop]} //ROM:BoL doesn't fit Axe of Dark Lightning
+{30746}{D:1-12(+35) FT:1-10(+29) SPD:(-3) ROH-Hasten enemy MSR:8/10 MC:70 [Chop]} //MSR doesn't fit Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
+{30748}{D:6-15 FT:1-3 ROH-Poisonous Vapors MSR:8/10 MC:40 [Chop]} // Axe of Creeping Death
 {30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 MC:75} //FT doesn't fit Mace of Betrayal
 {30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis MSR:9/11 MC:80} // Star of Soul Bonding
 {30753}{D:1-8 ROH-Stun, Drain Will or Spawn 3 Hostile Zombies FT:1-10 MSR:10/12 Mana:16 CR(+2) MC:50} //FT doesn't fit Mace of the Damned
@@ -593,7 +593,7 @@
 {31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
 {31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
-{31192}{D:1-10 FT:2-5 TH:(+15)SPD:(+2)CR:(+10) Call Air Elem. MSR:10 MC:45} //MSR doesn't fit Blessed Bow
+{31192}{D:1-10 FT:2-5 TH:(+15)SPD:(+2)CR:(+10) Air Elem. MSR:10 MC:45} //MSR doesn't fit Blessed Bow
 {31193}{D:1-10 FT:1-5 TH:CR:(+10) Fireflash MSR:5/7 MC:20} // Screaming Scimitar
 {31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9 TC:35} // Complexity -35 // Long Range Rifle
 {31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) Divine Magick MSR:5 MC:40} // Complexity +40 // Divining Staff
@@ -603,7 +603,7 @@
 {31200}{AC:2 DR:1 FR:(+30) NP:+10 Reaction:+20 MC:20} // Complexity +20 // Enchanted Gown
 {31201}{AC:5(+6) DR:7(+12) FR:3(+20) MR:(+10) NP:(+20) MC:80} // Complexity +80 #MISSING: Weight -30 but doesn't fit // Silent Robes
 {31202}{D:1-4 FT:1-2 TH:(+15) SPD:(+2) MSR:3/3 MC:10} // Complexity +10 // Dagger of Pain
-{31203}{D:3-14 FT:2-10 TH:+15 MSR:7/9} // Complexity 0 // Almstead's Axe
+{31203}{D:3-14 FT:2-10 TH:+15 MSR:7/9 [Chop]} // Complexity 0 // Almstead's Axe
 {31204}{AC:2 DR:1 FR:10 MR:10 TC:10} // Complexity -10 // Suit of Resistance
 {31205}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Finely Honed Dagger
 {31207}{D:1-7 FT:1-10 TH:+20 MSR:7/9 TC:10} // Complexity -10 // Dwarven Hammer
