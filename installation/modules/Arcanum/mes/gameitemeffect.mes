@@ -14,7 +14,7 @@
 {30011}{Prince Auguste Farad} // Prince Auguste Farad
 {30012}{King Farad} // King Farad
 {30013}{Tugal's Statue} // Tugal's Statue
-{30014}{[Quest]} // Grunwalde's Poison
+{30014}{+70 Poison Level to the target [Quest]} // Grunwalde's Poison
 {30015}{[Quest] This item seems very expensive.} // Black Root's Taxes
 {30016}{[Quest]} // Princess Aria's Amulet
 {30017}{Music Box} // Music Box
@@ -123,7 +123,7 @@
 {30129}{A freshly filled grave} // A freshly filled grave
 {31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
 {31031}{Sarcophagus lid} // Sarcophagus lid
-{31032}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100 unbreakable} //FT doesn't fit The Bangellian Scourge
+{31032}{The Bangellian Scourge} //The Bangellian Scourge
 {31033}{Gorrin the Pit Master} // Gorrin the Pit Master
 {31034}{Key To Bates' Mausoleum} // Key To Bates' Mausoleum
 {31035}{Sarcophagus} // Sarcophagus
@@ -356,10 +356,10 @@
 {30363}{- 77 Devonshire Way * Madam Toussaude's House of Secrets -} // - 77 Devonshire Way * Madam Toussaude's House of Secrets -
 {30364}{- 69 Devonshire Way * Madam Lil's -} // - Madam Lil's -
 {30365}{[Quest]} // Heron Device
-{30366}{[Quest]} // Mr. Fitzgerald's Potion of Dark Power
+{30366}{Makes living targets flee [Quest]} // Mr. Fitzgerald's Potion of Dark Power
 {30367}{[Quest]} // Will-o-the-Wisp Essence
 {30368}{[Quest]} // Schreck's Multi-Barreled Pistol
-{30369}{[Quest]} // Lethe Wyvern Venom
+{30369}{IN:-1 and +70 Poison Level to the target [Quest]} // Lethe Wyvern Venom
 {30370}{[Quest]} // Napha Water
 {30371}{[Quest]} // Flawless Dwarven Rubies
 {30372}{Gambling:+2/20, Haggle:+1/20 [Quest]} // Lucky Medallion
@@ -584,7 +584,7 @@
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
 {31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
-{31135}{DR:ER:FR:MR:PR:+20% Poison DOT, Poison Vapours} // Poisoned Plate Mail
+{31135}{DR:20 (1.2*DR:FR:ER:MR)(0*PR) DOT:FT:1/3,PD:30-45 AC:7 ER:-20 FR:2 NP:-90 MC:50 cannot be resisted} //AC doesn't fit Poisoned Plate Mail
 {31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]} // TODO FIXME // Ceremonial Dagger
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
