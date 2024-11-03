@@ -373,12 +373,12 @@
 {8249}{} Small Quality Robes
 {8250}{AC:15(+4) DR:36 FR:10 ER:-20 All Res:(+4) NP:-80 MC:25} Charmed Platemail //All res+4 except ER+0,MC doesn't fit
 {8251}{AC:15(+4) DR:32 FR:10 ER:-20 All Res:(+4) NP:-80 MC:25} Small Charmed Platemail //All res+4 except ER+0,MC doesn't fit
-{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Res:(+6) NP:-80(+5) MC:50} Magick Platemail //All res+6 except ER+5,NP doesn't fit
-{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Res:(+6) NP:-80(+5) MC:50} Small Magick Platemail //All res+6 except ER+5,NP doesn't fit
-{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Res:(+8) NP:-80(+10) MC:75} Mystic Platemail //All res+8 except ER+10,NP doesn't fit
-{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Res:(+8) NP:-80(+10) MC:75} Small Mystic Platemail //All res+8 except ER+10,NP doesn't fit
-{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Res:(+10) NP:-80(+15) MC:100} Arcane Platemail //All res+10 except ER+15,NP doesn't fit
-{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Res:(+10) NP:-80(+15) MC:100} Small Arcane Platemail //All res+10 except ER+15,NP doesn't fit
+{8252}{AC:15(+6) DR:36 FR:10 ER:-20 All Res:(+6) MC:50 NP:-80(+5)} Magick Platemail //All res+6 except ER+5,NP doesn't fit
+{8253}{AC:15(+6) DR:32 FR:10 ER:-20 All Res:(+6) MC:50 NP:-80(+5)} Small Magick Platemail //All res+6 except ER+5,NP doesn't fit
+{8254}{AC:15(+8) DR:36 FR:10 ER:-20 All Res:(+8) MC:75 NP:-80(+10)} Mystic Platemail //All res+8 except ER+10,NP doesn't fit
+{8255}{AC:15(+8) DR:32 FR:10 ER:-20 All Res:(+8) MC:75 NP:-80(+10)} Small Mystic Platemail //All res+8 except ER+10,NP doesn't fit
+{8256}{AC:15(+10) DR:36 FR:10 ER:-20 All Res:(+10) MC:100 NP:-80(+15)} Arcane Platemail //All res+10 except ER+15,NP doesn't fit
+{8257}{AC:15(+10) DR:32 FR:10 ER:-20 All Res:(+10) MC:100 NP:-80(+15)} Small Arcane Platemail //All res+10 except ER+15,NP doesn't fit
 {8258}{AC:30 MR:(+30) TC:60} Flow Disruptor Shield
 {8259}{AC:10(+4) FR:2(+4) MC:25} Charmed Shield
 {8260}{AC:10(+8) FR:2(+8) MC:50} Magick Shield
