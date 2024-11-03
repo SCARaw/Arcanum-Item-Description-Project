@@ -713,12 +713,12 @@
 {15099}{[Quest][Valuable] Gold bars are heavier than coins.} Chest of Gold
 {15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
 {15101}{[Crafting: Mechanical] Big opened Ring with a lock.} Metal Clamp
-{15102}{Use it to safely trigger a trap} Trap Springer
+{15102}{Use it to safely trigger a trap.} Trap Springer
 {15103}{[Crafting: Mechanical] Parts from a good watch.} Pocket Watch Parts
 {15104}{[junk]} Vase // use description of candlestick anyways, no need fixing
-{15105}{[Junk] Decorative, plays music when opened.} Music Box
+{15105}{[Junk] Device plays music when opened.} Music Box
 {15106}{[Junk] Thieves must have grabbed whatever lied around.} Candle Stick
-{15107}{[Junk] Heavily worn gears. Unusable.} Old Gears
+{15107}{[Junk] Heavily worn gears with teared cogs. Unusable.} Old Gears
 {15108}{[Crafting: Electric] Conducts electrcity across installation.} Electrical Harness
 {15109}{[Crafting: Electric] Accumulates big charges of energy.} Large Capacitor
 {15110}{[Crafting: Electric] High-frequency electro-transmiter.} Tesla Coil
@@ -726,10 +726,10 @@
 {15112}{3x3 fire curtain for 10 sec., damages everyone [Crafting]} Fire Obstruction
 {15113}{} Breach Loading Chamber //UNUSED INGAME
 {15114}{[Crafting: Guns] Complex self-loading gun system.} Auto Loading Chamber
-{15115}{[Crafting: Mechanical] Set of matching gears .} Clock Parts
+{15115}{[Crafting: Mechanical] Set of matching gears.} Clock Parts
 {15116}{Moves randomly and draws enemy attention [Crafting]} Clockwork Decoy
 {15117}{[Valuable] Wellmade watch, essential for upper class.} Pocket Watch
-{15118}{[Crafting: Guns] Short steel pipe.} Small Metal Tube
+{15118}{[Crafting: Guns] Common element of hydraulic installations.} Small Metal Tube
 {15119}{[Crafting: Smithy] Leftovers from tailoring.} Leather Straps
 {15120}{[Junk] Completely useless and inventors don't want it.} Electrical Component
 {15121}{[Crafting: Guns]} Looking Glass //changing its description effects unique item descriptions too (Ancient Looking Glass from IoD)
