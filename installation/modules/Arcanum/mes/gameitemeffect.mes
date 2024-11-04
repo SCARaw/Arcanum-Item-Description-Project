@@ -463,7 +463,7 @@
 {30470}{Prowling:+2/20} // Ring of Concealment
 {30471}{[Quest]} // Potion to Heal the Blind
 {30472}{[Quest]} // J.T. Morgan's Master Locksmith Tools
-{30473}{Prowling:+2/20} // Complexity 0 Caladon, +40 Roseborough // Ring of Silence
+{30473}{Prowling:+2/20} // This description cover both rings Complexity 0 or 40 in Roseborough and Caladon // Ring of Silence
 {30474}{CN:(+4) MR:(+40) MC:80} // Complexity +80 // Amulet of K'an-el
 {30475}{Considerable bonus to haggle when worn} // The Haggle Master's Ring
 {30476}{Firearm Master's Rifle} // Firearm Master's Rifle
@@ -512,7 +512,7 @@
 {30519}{Mr. Razzia} // Mr. Razzia
 {30520}{Saboteurs} // Saboteurs
 {30521}{Vendigroth Journal} // Vendigroth Journal
-{30522}{} // Matchbook from The Roseborough Inn
+{30522}{[Junk] Gift matchbook from inn, but where is that?} // Matchbook from The Roseborough Inn
 {30523}{Simeon Tor} // Simeon Tor
 {30524}{Jorian} // Jorian
 {30525}{V'ed Eckes} // V'ed Eckes
