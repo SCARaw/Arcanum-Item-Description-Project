@@ -30,7 +30,7 @@
 {30027}{Pub} // Pub
 {30028}{Gormek's Ring of Invisibilty} // Gormek's Ring of Invisibilty
 {30029}{Princes Aria} // Princess Aria
-{30030}{Amulet} // Amulet
+{30030}{MR:(40)} // Amulet
 {30031}{Theodore's Machine Plate} // Theodore's Improved Leather Armour
 {30032}{Theodore} // Theodore
 {30033}{Old Sprocket} // Old Sprocket
@@ -519,6 +519,22 @@
 {30526}{Arthur Tyron} // Arthur Tyron
 {30527}{Sam Longwell} // Sam Longwell
 {30528}{James Legget} // James Legget
+{30567}{[Quest] MC:50} // Mastery Medallion of Conveyance
+{30568}{[Quest] MC:50} // Mastery Medallion of Divination
+{30569}{[Quest] MC:50} // Mastery Medallion of Air
+{30570}{[Quest] MC:50} // Mastery Medallion of Earth
+{30571}{[Quest] MC:50} // Mastery Medallion of Fire
+{30572}{[Quest] MC:50} // Mastery Medallion of Water
+{30573}{[Quest] MC:50} // Mastery Medallion of Force
+{30574}{[Quest] MC:50} // Mastery Medallion of Mental
+{30575}{[Quest] MC:50} // Mastery Medallion of Meta
+{30576}{[Quest] MC:50} // Mastery Medallion of Morph
+{30577}{[Quest] MC:50} // Mastery Medallion of Nature
+{30578}{[Quest] MC:50} // Mastery Medallion of Necromantic Black
+{30579}{[Quest] MC:50} // Mastery Medallion of Necromantic White
+{30580}{[Quest] MC:50} // Mastery Medallion of Phantasm
+{30581}{[Quest] MC:50} // Mastery Medallion of Summoning
+{30582}{[Quest] MC:50} // Mastery Medallion of Temporal
 {30614}{Prowling:(+2/20) NP:(+20) MC:10} // Medallion of Silence
 {30615}{D:1-10(+1-10 vs animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} //MC doesn't fit Ancient Elven Bow
 {30616}{DX:+2 PE:+2} // Brigitte
@@ -550,6 +566,7 @@
 {30767}{D:FT:1-3(+6) Random Shield of Protection MSR:5 MC:80} // Staff of Hypocrisy
 {30768}{AC:9 DR:14 FR:5 (0.5*DR) (1.2*MR) NP:-10 MC:25} // Hexed Leather Armour
 {30769}{AC:9 DR:16 FR:5 (1.2*DR)(0*PR) DOT:FT:1/3,PD:15-30 NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
+{30776}{AC:3 DR:5 UD:7 TC:-15 if dwarf DX:+2  ST:CN:+1} // Mysterious Dwarven Gauntlets
 {30796}{AC:12 DR:23 FR:5(1.2*DR)(0*PR) DOT:FT:1/3,PD:10-30 ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
 {30801}{DR:2 (1.2*DR:ER:PR:MR) (0*PR) DOT:FT:1/3,PD:15-30 AC:3 FR:-15 MR:(10) MC:50} //AC doesn't fit Venomous Robes
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} // Chill Plate Mail
@@ -577,24 +594,31 @@
 {30896}{[Quest]} // Fa'al Kin's Amulet
 {30897}{DR:5 D:+3 [Quest]} // Fa'al Kin's Gauntlets
 {30898}{DR:5 [Quest]} // Fa'al Kin's Boots
-{30899}{D:1-4 FT:1-2 MSR:3/3 [Quest]} // TODO FIXME // Fa'al Kin's Dagger
+{30899}{D:1-4 FT:1-2 MSR:3/3 [Quest]}
 {30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} //FT doesn't fit Torian Kel's Ancestral Sword
 {30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18} // Kryggird's Falchion
+{30936}{AC:(10) PR:(20) MC:20} // Ring of Poison Resistance
 {30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
 {31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
 {31135}{DR:20 (1.2*DR:FR:ER:MR)(0*PR) DOT:FT:1/3,PD:30-45 AC:7 ER:-20 FR:2 NP:-90 MC:50 cannot be resisted} //AC doesn't fit Poisoned Plate Mail
-{31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]} // TODO FIXME // Ceremonial Dagger
+{31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]}
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
+{31174}{AC:45(-30) DR:50(-20) PR:30(-30) ER:(-30) FR:30(-20) NP:-20 TC:-30} // Iron Clan Armor
 {31175}{D:15-35 FT:1-8 FD:1-5 TH:+5 MSR:8/10 TC:80} // Iron Clan Hammer
+{31178}{AC:5(6) DR:7(12) FR:(50) MR:(10) MC:80} // Robe of Fire Protection
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
+{31186}{MR:(10) Charm MC:20} // Charming Medallion
 {31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
 {31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
+{31190}{AC:2 DR:15} // Helmet of Strength
+{31191}{AC:5(6) DR:7(12) FR:(38) MR:(10) MC:80} // Ashen Robes
 {31192}{D:1-10 FT:2-5 TH:(+15)SPD:(+2)CR:(+10) Air Elem. MSR:10 MC:45} //MSR doesn't fit Blessed Bow
 {31193}{D:1-10 FT:1-5 TH:CR:(+10) Fireflash MSR:5/7 MC:20} // Screaming Scimitar
+{31194}{MR:10 Charm Dominate Will MC:40} // Negotiator's Ring
 {31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9 TC:35} // Complexity -35 // Long Range Rifle
 {31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) Divine Magick MSR:5 MC:40} // Complexity +40 // Divining Staff
 {31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0 // Fleet Boomerang
@@ -606,31 +630,37 @@
 {31203}{D:3-14 FT:2-10 TH:+15 MSR:7/9 [Chop]} // Complexity 0 // Almstead's Axe
 {31204}{AC:2 DR:1 FR:10 MR:10 TC:10} // Complexity -10 // Suit of Resistance
 {31205}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Finely Honed Dagger
+{31206}{AC:30 DR:10 TC:-10} // Tempered Shield
 {31207}{D:1-7 FT:1-10 TH:+20 MSR:7/9 TC:10} // Complexity -10 // Dwarven Hammer
 {31208}{D:1-4 FT:2-9 TH:10 RNG:2 Divine Magic MSR:5 MC:30} // Complexity +30 // Righteous Staff
 {31209}{AC:2 DR:10 NP:+10 PE:-1} // Complexity 0 // Fleet Helm
-{31210}{} // TODO FIXME // Dread Dagger
+{31210}{D:1-4 FT:1-2 TH(+20) CR:(+10 )MSR:3/3} // Dread Dagger CANNOT BE FOUND IN GAME
 {31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect MC:75} //  Complexity +75 // Fawn's Bow
 {31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
 {40000}{PE <8 +1 else -1 [Quest]} // Location:Caladon Inn Room 4, Quest:Master Prowler, Property:Only glass that can reveal the painting
-{40001}{} // TODO FIXME
-{40002}{D:2-9 FT:2-5 TH:+3 MSR:7/9}
-{40003}{D:1-12 FT:1-9 MSR:8/10}
-{40004}{D:2-9 FT:2-5 TH:+3 MSR:7/9}
-{40005}{}
-{40006}{}
-{40007}{}
+{40001}{D:1-8 FT:1-4 TH:(+5) SPD:(+2) MSR:4/6} // Doc Roberts' magickal sword (quest reward)
+{40002}{D:2-9 FT:2-5 TH:+3 MSR:7/9} // Doc Roberts' finely made pistol (quest reward)
+{40003}{D:1-12 FT:1-9 MSR:8/10} // Doc Roberts' battle axe (quest reward)
+{40004}{D:2-9 FT:2-5 TH:+3 MSR:7/9} // Doc Roberts' finely made pistol (his own pistol)
+{40005}{D:1-7 FT:1-10 MSR:6/8} // Malloy's Peacemaker
+{40006}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7 TC:20 [Quest]} // Lorria's old pistol
+{40007}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8 MC:15} Elven Hunter's Bow
 {40010}{D:2-10 FT:1-10 MSR:8/10}
 {40011}{D:10-15 MSR:6/8}
 {40012}{D:1-20 MSR:8/10}
-{40013}{} // TODO FIXME
-{40014}{} // TODO FIXME
-{40015}{} // TODO FIXME
-{40016}{} // TODO FIXME
+{40013}{D:5-35 FT:1-10 RNG:12 MSR:5/7 TC:85 [Crafting]} // Pickpocket Master's Pistol
+{40014}{D:1-8(+4) FT:1-4 Succour Beast MSR:6/8 MC:40} // Stillwater Blade
+{40015}{D:10-30 FT:1-15 TH:20 RNG:25 MSR:8 TC:70 [Crafting]} // Firearm Master's Rifle
+{40016}{D:1-4 FT:1-2 Mana:10 MSR:2/2 MC:10} // Mage's Dagger
 {40018}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:8/10}
 {40019}{D:1-4 FT:1-2 MSR:3/5}
 {40020}{D:1-4 FT:1-2 TH:+10 MSR:2/2}
 {40021}{D:1-4 FT:1-2 TH:+15 MSR:2/2}
+{40022}{DR:20 Tech: Magnetic Inversion TC:-50} // Chapeau of Magnetic Inversion
+{40023}{AC:4 DR:17 FR:5 NP:-10} // This item has no custom name
+{40024}{AC:4 DR:17 FR:5 NP:-10} // This item has no custom name
+{40025}{AC:16 DR:23 ER:(10) NP:-40(10) MC:10} // 2813 Mr Winde's special Elven Chain
+{40026}{PR:(10) ER:(10) FR:(10) MR:(10) Reflection Shield MC:50} // This item has no custom name
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
 
