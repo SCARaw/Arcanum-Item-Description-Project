@@ -25,7 +25,8 @@ or fork the whole thing and edit-in your changes and submit contributions
 or use Discord for Arcanum: https://discord.com/invite/KT7sRzY and pass me your edit or whats not :)
 
 ## Example
-![mrrrer](https://github.com/user-attachments/assets/6aad7e7b-270d-4b8f-b9ae-c7e6a1e1679b)
+![image](https://github.com/user-attachments/assets/b19336d4-e5d4-4170-bce6-1df6b821afcf)
+
 
 ## Release
 
