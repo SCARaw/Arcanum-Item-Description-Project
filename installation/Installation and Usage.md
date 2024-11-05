@@ -35,7 +35,7 @@ Vanilla game keywords:
 Other potentially confusing words:
 
 AllRes - short for All Resistances - include DR, PR, FR, ER, MR   
-OtherRes - Other Resistances - anything left not included previously in description
+OtherRes - Other Resistances - anything left not included previously in description   
 CR - Critical Rate (chance to crit, usually as + to all your other crit chances)   
 (Brackets) - imply Bonus is related to aptitude (often magical), used already in vanilla game, mod make it consistent   
 TC - Technological Complexity, its reverse of Magic Complexity, but as positive value, determine power of some Tech items   
