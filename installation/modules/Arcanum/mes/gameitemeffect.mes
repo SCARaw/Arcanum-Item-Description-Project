@@ -682,6 +682,29 @@
 {40024}{AC:4 DR:17 FR:5 NP:-10} // This item has no custom name
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
 {40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit This item has no custom name
+{40027}{[Quest]} // Volar's Wisp Essence
+{40028}{[Quest]} // Stolen goods obtained from D'ak Taan the thief
+{40029}{[Quest]} // Stolen goods obtained from D'ak Taan the thief
+{40030}{[Quest]} // Hedgewizard's statue
+{40031}{[Quest]} // Crystal Ball
+{40032}{[Quest]} // Empty Vial
+{40033}{[Quest]} // Ancient Gun Chassis
+{40034}{[Quest]} // Stillwater Trap
+{40035}{[Quest]} // Case of Five Gold Bars
+{40036}{[Quest]} // Volar's Wisp Essence
+{40037}{[Quest]} // Ancient Gun Chassis
+{40038}{[Quest]} // Volar's Wisp Essence
+{40039}{[Quest]} // Volar's Wisp Essence
+{40040}{[Quest]} // Volar's Wisp Essence
+{40041}{[Quest]} // Old Sprocket
+{40042}{[Quest]} // Stone
+{40043}{[Quest]} // Stone
+{40044}{[Quest]} // Stone
+{40045}{[Quest]} // Stone
+{40046}{[Quest]} // Stone
+{40047}{[Quest]} // Stone
+{40048}{[Quest]} // Stone
+
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
 
