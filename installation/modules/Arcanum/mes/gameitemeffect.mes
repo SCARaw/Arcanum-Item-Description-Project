@@ -541,7 +541,7 @@
 {30630}{[Quest]}//Package for Jongle Dunne
 {30673}{[Quest]}//Ryan Sander's Timepiece
 {30679}{D:1-8 FT:3-12 ST:CN:(+1) Heal Rate:(+50%) Major Heal MSR:5 MC:40} //MSR doesn't fit Complexity +40 // Staff of Restoration
-{30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Complexity +50 // Caladon Crusading Chain
+{30680}{AC:14 DR:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Caladon Crusading Chain
 {30681}{Beauty:(+2) MC:20 [Quest]} // Complexity +20 // Great Aunt Ester's Amulet
 {30682}{Perception:+2 Dexterity:+2} // Complexity 0 // Trapmaker Spectacles
 {30719}{D:1-4 FT:1-2 Crit Fail:(+20) SPD:(+4) MSR:3/3 MC:10} // Fool's Dagger
