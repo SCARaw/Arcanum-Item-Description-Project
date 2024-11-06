@@ -588,7 +588,7 @@
 {30831}{(0.5*DR:FR:ER:PR) (1.2*MR) IN:(+1) MC:80} // Ring of Dark Magicks
 {30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP:FT:1/3 MC:75} //MC doesn't fit Ring of Shadows
 {30836}{MR:+20% DR:-50%} // Medallion of Dark Magicks
-{30837}{Cast Fireflash every 5 sec on everyone in combat MC:100} // Hellfire Medallion
+{30837}{Cast Fireflash every 5 sec on everyone in area MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
 {30864}{Magick Resistance:+40 [Quest]} //Pelojian's Amulet
 {30874}{[Quest]}White Scarf
