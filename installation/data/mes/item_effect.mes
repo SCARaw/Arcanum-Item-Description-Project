@@ -46,7 +46,7 @@
 {6067}{D:3-14 FT:2-10 MSR:8/10 [Chop]} Quality Axe
 {6068}{D:5-18 FT:3-11 MSR:8/10 TC:40 [Chop]} Power Axe
 {6069}{D:1-16 FT:3-11 MSR:4/6 TC:20 [Crafting][Chop]} Feather-Weight Axe
-{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10 [Chop][Offering] MC:20} Reaper's Axe //MC doesn't fit
+{6070}{D:1-12(+10 Undead) FT:1-9 MSR:8/10 [Offering][Chop] MC:20} Reaper's Axe //MC doesn't fit
 {6071}{D:1-12 FT:1-9 ST:(+1) CN:(+1) MSR:8/10 MC:15 [Chop]} Axe of Strength
 {6072}{D:1-3 FT:1-4 MSR:8/10} Rusty Mace
 {6073}{D:2-5 FT:2-9 MSR:6/8} Quality Mace
@@ -86,7 +86,7 @@
 {6107}{D:10-40 FT:1-10 RNG:15 MSR:12 TC:100} Levered Machine Gun
 {6108}{D:2-10 FT:1-5 RNG:15 MSR:9 TC:30} Rifle
 {6109}{D:1-10 FT:1-3 TH:-5 RNG:15 MSR:8 TC:30} Rusted Rifle
-{6110}{D:1-6 FT:1-3 ED:1-10 Requires Charges TC:90 [Crafting] MSR:5} Shocking Staff
+{6110}{D:1-6 FT:1-3 ED:1-10 Requires Charges TC:90 [Crafting] MSR:5} Shocking Staff //MSR doesn't fit
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 Major Healing MSR:5 MC:20} Staff of Healing
 {6113}{D:1-8 FT:3-12 Major Heal, Charm Beast, Regenerate MSR:5 MC:60} Shaman's Staff
@@ -214,7 +214,7 @@
 {8090}{} Wool Jacket
 {8091}{AC:9 DR:16 FR:5 NP:-10 [Crafting]} Leather Armour
 {8092}{AC:12 DR:23 FR:5 ER:-10 NP:-10 TC:5} Oiled Chainmail
-{8093}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60} Basic Machined Plate
+{8093}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60} Basic Machined Plate //Quest
 {8094}{} Robes
 {8095}{AC:15 DR:36 FR:30 ER:-10 NP:-80 TC:10} Bronzed Plate
 {8096}{AC:11 DR:20 NP:-25 Reaction:-5} Bronze Barbarian Clothes
@@ -253,7 +253,7 @@
 {8129}{} Large Rustic Finery
 {8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Feather-Weight Chain
 {8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Small Feather-Weight Chain
-{8132}{} Copper Ring //changing its description effects unique item descriptions too
+{8132}{[Crafting][Valuable]} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
 {8135}{} NO GOOD Large Ladies City Dweller Clothes
@@ -328,7 +328,7 @@
 {8204}{AC:6 DR:9 PE:-1 Magic Aptitude:(+20) Alignment:(-20) MC:40} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
 {8206}{Poison Recovery:(x2), Reaction Drop Adjustment:(-5) MC:40} Serpentine Necklace
-{8207}{} Wheel Clan Spectacles
+{8207}{} Wheel Clan Spectacles //Quest
 {8208}{AC:9(+5) DR:16 FR:5 AllRes:(+5) NP:-10 MC:25} Charmed Leather Armour
 {8209}{AC:9(+5) DR:14 FR:5 AllRes:(+5) NP:-10 MC:25} Small Charmed Leather Armour
 {8210}{AC:9(+5) DR:18 FR:5 AllRes:(+5) NP:-10 MC:25} Large Charmed Leather Armour
@@ -399,7 +399,7 @@
 {8275}{FR:(+20) ER:(+20) PR:(+20) MR:(+20) MC:100} Arcane Ring
 {8276}{AC:4 D:+2 [Crafting]} Vendigrothian Padded Leather Gloves
 {8277}{AC:15 D:+15 TC:10} Vendigrothian War Gauntlets
-{8278}{} Void Ring
+{8278}{} Void Ring //Quest
 {8279}{[Valuable]} Emerald Ring
 {8280}{[Valuable]} Ruby Ring
 {8281}{[Valuable]} Sapphire Ring
@@ -468,7 +468,7 @@
 {10103}{Perception:+2 for 39 min.} Liquid of Awareness
 {10104}{[Junk]} Nimm's Phosphorous Tincture
 {10105}{[Crafting: Therapeutics] Salt for harsh diseases.} Quinine
-{10106}{[Junk]} Witch Hazel Extract // UNUSED INGAME
+{10106}{} Witch Hazel Extract // UNUSED INGAME
 {10107}{[Crafting: Therapeutics] Mustard plasters.} Rheumatism Cure
 {10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
 {10109}{[Crafting: Therapeutics] Inflamation aid.} Tincture of Arnica
@@ -486,7 +486,7 @@
 {10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
 {10122}{[Crafting: Electric][Food]} Lemon
 {10123}{[Crafting: Electric][Food]} Potato
-{10124}{} Vial of Dragon's Blood
+{10124}{} Vial of Dragon's Blood //Quest
 {10125}{[Offering] Works as Strong aphrodisiac.} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
 {10127}{[Gift]} Dwarven Snuff
@@ -678,8 +678,8 @@
 // Items
 {15065}{} Generic Item 1a
 {15066}{Can be repaired and reused if not destroyed [Crafting]} Mechanized Arachnid
-{15067}{Small trap to catch a giant.} Stillwater trap (empty)
-{15068}{There is a rabbit inside.} Stillwater trap (full)
+{15067}{Small trap to catch a giant.} Stillwater trap (empty) //Quest
+{15068}{There is a rabbit inside.} Stillwater trap (full) //Quest
 {15069}{[Crafting: Chemistry] Metal is a good conductor.} Metal Plates
 {15070}{Lowers light penalty, scales with TA [Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emitter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
@@ -707,17 +707,17 @@
 {15093}{[Crafting: Guns] Does it still work?} Ancient Gun Chassis
 {15094}{It's Mithril, what did you expect?} Mithril Ore
 {15095}{[Junk] Drinking wine from the glass makes you upper class.} Wine Glass
-{15096}{} Empty Vial
-{15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera
-{15098}{} Small Statuette //Blackroot rob the hedge wizard for the thieves quest
-{15099}{} Chest of Gold
+{15096}{} Empty Vial //Quest
+{15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera //Quest
+{15098}{} Small Statuette //Quest
+{15099}{} Chest of Gold //Quest
 {15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
 {15101}{[Crafting: Mechanical] Big opened Ring with a lock.} Metal Clamp
 {15102}{Use it to safely trigger a trap.} Trap Springer
 {15103}{[Crafting: Mechanical] Parts from a good watch.} Pocket Watch Parts
 {15104}{[junk]} Vase // use description of candlestick anyways, no need fixing
 {15105}{[Junk] Device plays music when opened.} Music Box
-{15106}{[Junk] Thieves must have grabbed whatever lied around.} Candle Stick
+{15106}{[Junk] Useless without a table, just take the lamp.} Candle Stick
 {15107}{[Junk] Heavily worn gears with teared cogs. Unusable.} Old Gears
 {15108}{[Crafting: Electric] Conducts electrcity across installation.} Electrical Harness
 {15109}{[Crafting: Electric] Accumulates big charges of energy.} Large Capacitor
@@ -738,7 +738,7 @@
 {15124}{} Oak Axe Handle //REPLACE ME PLEASE!!!! UNUSED INGAME (UNUSABLE UNCRAFTABLE ITEM)
 {15125}{[Crafting: Smithy] Big thin metal plate, easy to form.} Sheet Metal
 {15126}{You can use it to dig up Treasures.} Shovel
-{15127}{[Valuable] Distorted reflection of your face.} Crystal Ball
+{15127}{} Crystal Ball //Quest
 {15128}{[Valuable] Unfaceted Sapphire Gem.} Rough-Cut Sapphire
 {15129}{[Valuable] Unfaceted Emerald Gem.} Rough-Cut Emerald
 {15130}{[Valuable] Unfaceted Diamond Gem.} Rough-Cut Diamond
@@ -791,7 +791,7 @@
 {15177}{[Crafting: Mechanical] Small, well as small as they go.} Minute Steam Works
 {15178}{Allow to use lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
-{15180}{} Deed to the Bessie Toone Mine
+{15180}{} Deed to the Bessie Toone Mine //Quest
 {15181}{[Offering] Carved wooden statue.} Li'tani
 {15182}{[Offering][Crafting: Quest]} Heartstone
 {15183}{[Offering][Valuable] Silver Coin} Mnura Coin
@@ -822,7 +822,7 @@
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
 {15209}{D:3-15 FD:3-15 Knockback} Molotov Cocktail
 {15210}{[Junk]} Wisp Essence
-{15211}{} Volar's Wisp Essence
+{15211}{} Volar's Wisp Essence //Quest
 {15212}{Healing Robot Spider, it's awesome.} Medical Arachnid
 {15213}{Train your party members up to your level} Educator's Guide
 
