@@ -683,8 +683,6 @@
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
 {40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit This item has no custom name
 {40027}{[Quest]} // Volar's Wisp Essence
-{40028}{[Quest]} // Stolen goods obtained from D'ak Taan the thief
-{40029}{[Quest]} // Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest]} // Hedgewizard's statue
 {40031}{[Quest]} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
@@ -704,7 +702,7 @@
 {40046}{[Quest]} // Stone
 {40047}{[Quest]} // Stone
 {40048}{[Quest]} // Stone
-
+{40049}{[Quest]} // Matthew Jones' Wedding Ring
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
 
