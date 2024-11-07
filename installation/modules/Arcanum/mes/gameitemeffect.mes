@@ -15,13 +15,13 @@
 {30012}{King Farad} // King Farad
 {30013}{Tugal's Statue} // Tugal's Statue
 {30014}{+70 Poison Level to the target [Quest]} // Grunwalde's Poison
-{30015}{[Quest] This item seems very expensive.} // Black Root's Taxes
+{30015}{[Quest][Valuable] Goldbars are heavier than coins.} // Black Root's Taxes
 {30016}{[Quest]} // Princess Aria's Amulet
 {30017}{Music Box} // Music Box
 {30018}{Candlestick} // Candlestick
 {30019}{Vase} // Vase
 {30020}{Poisoned Sword} // Poisoned Sword
-{30021}{[Quest]} // Gladys' Ring
+{30021}{[Quest] Ring of the old lady in Dermholm.} // Gladys' Ring
 {30022}{D:15-25 FT:5-15 MSR:14/18 MC:25} // Complexity +25 // Sword of Baltar
 {30023}{Smithy} // Smithy
 {30024}{General Store and Magicks} // General Store and Magicks
@@ -47,7 +47,7 @@
 {30044}{Pelonious Schuyler} // Pelonious Schuyler
 {30045}{Magnus Shale Fist} // Magnus
 {30046}{Captain Edward Teach} // Captain Edward Teach
-{30047}{[Quest]} // "The Hand" by Frederick Von Hapsgood"
+{30047}{[Quest] Old book.} // "The Hand" by Frederick Von Hapsgood"
 {30048}{Randver Thunder Stone} // Randver Thunder Stone
 {30049}{Loghaire Thunder Stone} // Loghaire Thunder Stone
 {30050}{D:4-18 FT:3-12 dwarf/elf/align[D:1-42 FT:1-24]MSR:10/12} //Harrow
@@ -56,9 +56,9 @@
 {30053}{William Bench} // William Bench
 {30054}{Surveyor} // Surveyor
 {30055}{Shovel} // Shovel
-{30056}{You can use it to dig up Treasures.} // Bingham's Shovel
+{30056}{Shovel of a gravekeeper from Caladon.} // Bingham's Shovel
 {30057}{Bingham Shulefest} // Bingham Shulefest
-{30058}{[Quest]} // "T'sen-Ang: Horror Among the Dark Elves"
+{30058}{[Quest] Book contain human research of the dark elves.} // "T'sen-Ang: Horror Among the Dark Elves"
 {30059}{[Quest]} // "The Curse of T'sen-Ang"
 {30060}{Alexander the Acolyte} // Alexander the Acolyte
 {30070}{Gunther Willhelm} // Gunther Willhelm
@@ -71,15 +71,15 @@
 {30077}{Arronax} // Arronax
 {30078}{} // "How to be a Dwarf"
 {30079}{James Kingsford} // James Kingsford
-{30080}{[Quest]} // Purchase order for Signet Ring
+{30080}{[Quest] Dug ancient burial ground and file cabinets for this.} // Purchase order for Signet Ring
 {30081}{Cedric Appleby} // Cedric Appleby
 {30082}{Signet Ring} // Signet Ring
 {30083}{Capt. of Bates' Guard} // Capt. of Bates' Guard
 {30084}{Prototype Steam Engine} // Prototype Steam Engine
-{30085}{[Quest]} // Amulet of the Molochean Hand
+{30085}{[Quest] Hand seen in the middle.} // Amulet of the Molochean Hand
 {30086}{Fake Stillwater Giant pelt} // Fake Stillwater Giant pelt
 {30087}{Real Stillwater Giant pelt} // Real Stillwater Giant pelt
-{30088}{[Quest]} // Stillwater Giant scent
+{30088}{[Quest] This will protect you from Giant rage.} // Stillwater Giant scent
 {30089}{[Quest]} // Vendigroth Device
 {30090}{H.T. Parnell} // H.T. Parnell
 {30091}{Stanley Xavier Hippington} // Stanley Xavier Hippington
@@ -107,7 +107,7 @@
 {30113}{Nasrudin} // Nasrudin
 {30114}{Meat Shank} // Meat Shank
 {30115}{Camera} // Camera
-{30116}{[Quest]} // Bessie Toone's Boot
+{30116}{[Quest] Old boot from the silver mine, singular.} // Bessie Toone's Boot
 {30117}{Jongle Dunne} // Jongle Dunne
 {30118}{Gurloes' Metalworkings} // Gurloes' Metalworkings
 {30119}{Shrouded Hills Inn} // Shrouded Hills Inn
@@ -152,7 +152,7 @@
 {31058}{Rorry LImes} // Rorry Limes
 {31059}{Benjamin Gershwin} // Benjamin Gershwin
 {31060}{Matthew Jones} // Matthew Jameson
-{31061}{[Quest]} // The skulls of the Ren'ar Siamese Twins
+{31061}{[Quest] there is something odd about these skulls.} // The skulls of the Ren'ar Siamese Twins
 {31062}{The skull of Xin Ren'ar} // The skull of Xin Ren'ar
 {31063}{Polgram} // Polgram
 {31064}{Evelyn Garringsburg} // Evelyn Garringsburg
@@ -162,7 +162,7 @@
 {31068}{Thaddeus Mynor} // Thaddeus Mynor
 {31069}{Jacob Bens} // Jacob Bens
 {31070}{Passport} // Passport
-{31071}{[Quest]} // Stringy Pete's Treasure
+{31071}{[Quest] Legendary undead pirate hoarded this gold for centuries.} // Stringy Pete's Treasure
 {31072}{[Quest]} // The Boot Buckles of Jonas Williamson
 {31073}{Virgil} // Virgil
 {31074}{First Bank of Shrouded Hills} // First Bank of Shrouded Hills
@@ -224,7 +224,7 @@
 {30230}{Richard Leeks} // Richard Leeks
 {30231}{Erick Obsidian} // Erick Obsidian
 {30232}{Drog Black Tooth} // Drog Black Tooth
-{30233}{DX:-3 BE:+2 CH:+1 [Quest]} // Statue of the goddess Geshtianna
+{30233}{DX:-3 BE:+2 CH:+1 when you have it with you [Quest]} // Statue of the goddess Geshtianna
 {30234}{Cyrus} // Cyrus
 {30235}{Edward Willoughsby} // Edward Willoughsby
 {30236}{Perriman Smythe} // Perriman Smythe
@@ -253,7 +253,7 @@
 {30259}{Special Invitation to the Wellington Gentlemen's Club} // Special Invitation to the Wellington Gentlemen's Club
 {30260}{Telegraph Operator} // Telegraph Operator
 {30261}{Dept. of Water Clerk} // Dept. of Water Clerk
-{30262}{[Quest]} // Vine Rope
+{30262}{[Quest] Now you can help the hunter escape.} // Vine Rope
 {30263}{Sogg Mead Mug} // Sogg Mead Mug
 {30264}{Dwarven Undead} // Dwarven Undead
 {30265}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Quest]} // Norian's Potato Moonshine
@@ -364,7 +364,7 @@
 {30371}{[Quest]} // Flawless Dwarven Rubies
 {30372}{Gambling:+2/20, Haggle:+1/20 [Quest]} // Lucky Medallion
 {30373}{[Quest]} // Madam Lil's Music Box
-{30374}{[Quest]} // Cassie's Jewelry
+{30374}{[Quest] This might cause an affair.} // Cassie's Jewelry
 {30375}{D:6-13 FT:1-4 MSR:6/8 [Quest]} // Sword of the Derian Ka
 {30376}{[Quest]} // Sunken Treasure
 {30377}{Constitution:+2 [Quest]} // Ring of Virility
@@ -450,16 +450,16 @@
 {30457}{Librarian} // Librarian
 {30458}{Mr. Victor Wright} // Mr. Victor Wright
 {30459}{Well-to-do business man} // Well-to-do business man
-{30460}{[Quest]} // Divinations and Magicks for the Adept Wizard
+{30460}{[Quest] This is just empty book for you.} // Divinations and Magicks for the Adept Wizard
 {30461}{Beauty:(+2) MC:40 [Quest]} // Complexity +40 // Necklace of Queen K'na S'ea
-{30462}{[Quest]} // Liam Cameron's Journal
+{30462}{[Quest] Clue to find Liam.} // Liam Cameron's Journal
 {30463}{Thieves Underground Package} // Thieves Underground Package
 {30464}{[Quest]} // Trevor Lynwood's Camera
 {30465}{Mithral knife of G'har} // Mithral knife of G'har
 {30466}{D:1-8 FT:3-12 DX:PE:(+2) Teleport, Divine, See Contents MSR:5 MC:100} //MSR doesn't fit //Staff of K'an Tau
 {30467}{The Great Castle S'nel N'fa} // S'nel N'fa
 {30468}{} // Tannon Wroughtbringer's Journal
-{30469}{[Quest]} // Great Ruby of K'alru
+{30469}{[Quest] Ruby described in the book.} // Great Ruby of K'alru
 {30470}{Prowling:+2/20} // Ring of Concealment
 {30471}{[Quest]} // Potion to Heal the Blind
 {30472}{[Quest]} // J.T. Morgan's Master Locksmith Tools
@@ -478,7 +478,7 @@
 {30485}{The Bleeding Rose Inn} // The Bleeding Rose Inn
 {30486}{Thieves underground Bag of Jewels} // Thieves underground Bag of Jewels
 {30487}{Magick Resistance:+40 [Quest]} // Cassie's Necklace
-{30488}{[Quest]} // Gift for Mrs. Regina Halster
+{30488}{[Quest] Madam Lil have her ways around upper class society.} // Gift for Mrs. Regina Halster
 {30489}{[Quest]} // Note for Mrs. Regina Halster
 {30490}{L.N. Renford} // L.N. Renford
 {30491}{Tarry Thornpick} // Tarry Thornpick
@@ -539,7 +539,7 @@
 {30615}{D:1-10(+1-10 vs animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} //MC doesn't fit Ancient Elven Bow
 {30616}{DX:+2 PE:+2} // Brigitte
 {30630}{[Quest]}//Package for Jongle Dunne
-{30673}{[Quest]}//Ryan Sander's Timepiece
+{30673}{[Quest] Just a clockwatch.}//Ryan Sander's Timepiece
 {30679}{D:1-8 FT:3-12 ST:CN:(+1) Heal Rate:(+50%) Major Heal MSR:5 MC:40} //MSR doesn't fit Complexity +40 // Staff of Restoration
 {30680}{AC:14 DR:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Caladon Crusading Chain
 {30681}{Beauty:(+2) MC:20 [Quest]} // Complexity +20 // Great Aunt Ester's Amulet
@@ -605,12 +605,12 @@
 {30900}{[Quest]}//Fa'al Kin's Coin
 {30901}{[Quest]}//Fa'al Kin's Chalice
 {30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} //FT doesn't fit Torian Kel's Ancestral Sword
-{30916}{[Quest]}//Toy Train
+{30916}{[Quest] Dwarven family heirlom is just a toy.}//Toy Train
 {30918}{[Quest]}//Silver Boot Buckles
 {30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18} // Kryggird's Falchion
 {30934}{[Quest]}//Robbery Heirloom Statue
 {30936}{AC:(+10) PR:(+20) MC:20} // Ring of Poison Resistance
-{30957}{[Quest]}//Eyes of Sir Garrick Stout
+{30957}{[Quest] Yuck.}//Eyes of Sir Garrick Stout
 {30963}{[Quest]}//Arbalah's Sacred Artifact
 {30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
@@ -618,7 +618,7 @@
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
 {31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
 {31135}{DR:20 (1.2*DR:FR:ER:MR)(0*PR) DOT:FT:1/3,PD:30-45 AC:7 ER:-20 FR:2 NP:-90 MC:50 cannot be resisted} //AC doesn't fit Poisoned Plate Mail
-{31136}{[Quest]}//Gem of Water Purity
+{31136}{[Quest] Daring quest design...}//Gem of Water Purity
 {31137}{}//Whysper's Gem
 {31153}{[Quest]}//Glass Key
 {31156}{[Quest]}//The Eye of Kraka-tur
