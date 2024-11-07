@@ -620,6 +620,7 @@
 {31135}{DR:20 (1.2*DR:FR:ER:MR)(0*PR) DOT:FT:1/3,PD:30-45 AC:7 ER:-20 FR:2 NP:-90 MC:50 cannot be resisted} //AC doesn't fit Poisoned Plate Mail
 {31136}{[Quest] Daring quest design...}//Gem of Water Purity
 {31137}{}//Whysper's Gem
+{31144}{[Quest]} // Pilgrim's Robes
 {31153}{[Quest]}//Glass Key
 {31156}{[Quest]}//The Eye of Kraka-tur
 {31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]}
