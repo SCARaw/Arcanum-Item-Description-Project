@@ -15,7 +15,7 @@
 {30012}{King Farad} // King Farad
 {30013}{Tugal's Statue} // Tugal's Statue
 {30014}{+70 Poison Level to the target [Quest]} // Grunwalde's Poison
-{30015}{[Quest][Valuable] Goldbars are heavier than coins.} // Black Root's Taxes
+{30015}{[Quest][Valuable] Goldbars are heavier than coins.} // Black Root's Taxes //UNUSED//
 {30016}{[Quest]} // Princess Aria's Amulet
 {30017}{Music Box} // Music Box
 {30018}{Candlestick} // Candlestick
@@ -667,38 +667,38 @@
 {40005}{D:1-7 FT:1-10 MSR:6/8} // Malloy's Peacemaker
 {40006}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7 TC:20 [Quest]} // Lorria's old pistol
 {40007}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8 MC:15} Elven Hunter's Bow
-{40010}{D:2-10 FT:1-10 MSR:8/10}
-{40011}{D:10-15 MSR:6/8}
-{40012}{D:1-20 MSR:8/10}
+{40010}{D:2-10 FT:1-10 MSR:8/10} // Isle of despair pit hammer
+{40011}{D:10-15 MSR:6/8} // Isle of despair pit sword
+{40012}{D:1-20 MSR:8/10} // Isle of despair pit axe
 {40013}{D:5-35 FT:1-10 RNG:12 MSR:5/7 TC:85 [Crafting]} // Pickpocket Master's Pistol
 {40014}{D:1-8(+4) FT:1-4 Succour Beast MSR:6/8 MC:40} // Stillwater Blade
 {40015}{D:10-30 FT:1-15 TH:20 RNG:25 MSR:8 TC:70 [Crafting]} // Firearm Master's Rifle
 {40016}{D:1-4 FT:1-2 Mana:10 MSR:2/2 MC:10} // Mage's Dagger
 {40018}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:8/10}
 {40019}{D:1-4 FT:1-2 MSR:3/3 [Quest]} Weak Blade of Xerxes
-{40020}{D:1-4 FT:1-2 TH:+10 MSR:2/2}
-{40021}{D:1-4 FT:1-2 TH:+15 MSR:2/2}
+{40020}{D:1-4 FT:1-2 TH:+10 MSR:2/2} // Caladon's Herbalist Dread Dagger
+{40021}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Tarant's Herbalist Dread Dagger
 {40022}{Its magnetic inversion bubble protects for DR:20 TC:50} // Chapeau of Magnetic Inversion
-{40023}{AC:4 DR:17 FR:5 NP:-10} // This item has no custom name
-{40024}{AC:4 DR:17 FR:5 NP:-10} // This item has no custom name
+{40023}{AC:4 DR:17 FR:5 NP:-10} // Shrouded Hills - Lukan's Henchman Large Leather Armour
+{40024}{AC:4 DR:17 FR:5 NP:-10} // Shrouded Hills - Lukan's Henchman Large Leather Armour
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
-{40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit This item has no custom name
+{40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave ring
 {40027}{[Quest]} // Volar's Wisp Essence
-{40028}{} // Stolen goods obtained from D'ak Taan the thief
-{40029}{} // Stolen goods obtained from D'ak Taan the thief
+{40028}{} // Music Box - Stolen goods obtained from D'ak Taan the thief
+{40029}{} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest]} // Hedgewizard's statue
 {40031}{[Quest]} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
 {40033}{[Quest]} // Ancient Gun Chassis
 {40034}{[Quest]} // Stillwater Trap
-{40035}{[Quest]} // Case of Five Gold Bars
+{40035}{[Quest]} // Blackroot Taxes - Case of Five Gold Bars
 {40036}{[Quest]} // Volar's Wisp Essence
 {40037}{[Quest]} // Ancient Gun Chassis
 {40038}{[Quest]} // Volar's Wisp Essence
 {40039}{[Quest]} // Volar's Wisp Essence
 {40040}{[Quest]} // Volar's Wisp Essence
 {40041}{[Quest]} // Old Sprocket
-{40042}{[Quest]} // Stone
+{40042}{[Quest]} // Torin Quarry Stone
 {40043}{[Quest]} // Stone
 {40044}{[Quest]} // Stone
 {40045}{[Quest]} // Stone
