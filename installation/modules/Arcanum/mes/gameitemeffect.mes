@@ -15,7 +15,7 @@
 {30012}{King Farad} // King Farad
 {30013}{Tugal's Statue} // Tugal's Statue
 {30014}{+70 Poison Level to the target [Quest]} // Grunwalde's Poison
-{30015}{[Quest][Valuable] Goldbars are heavier than coins.} // Black Root's Taxes //UNUSED//
+{30015}{} // Black Root's Taxes //UNUSED//
 {30016}{[Quest]} // Princess Aria's Amulet
 {30017}{Music Box} // Music Box
 {30018}{Candlestick} // Candlestick
@@ -58,28 +58,28 @@
 {30055}{Shovel} // Shovel
 {30056}{Shovel of a gravekeeper from Caladon.} // Bingham's Shovel
 {30057}{Bingham Shulefest} // Bingham Shulefest
-{30058}{[Quest] Book contain human research of the dark elves.} // "T'sen-Ang: Horror Among the Dark Elves"
+{30058}{Book contains human research of the Dark Elves.} //Quest "T'sen-Ang: Horror Among the Dark Elves"
 {30059}{[Quest]} // "The Curse of T'sen-Ang"
 {30060}{Alexander the Acolyte} // Alexander the Acolyte
 {30070}{Gunther Willhelm} // Gunther Willhelm
 {30071}{Hadrian the Archaeologist} // Hadrian the Archaeologist
 {30072}{[Quest]} // Skull from the Tomb of Nasrudin
-{30073}{[Quest]} // Map to Stringy Pete's Cove
+{30073}{} //Quest Map to Stringy Pete's Cove
 {30074}{Salty Seadrick} // Salty Seadrick
 {30075}{D:2-9 FT:2-5 MSR:6/8 [Quest]} // Complexity 0 // Sword of Mannox
 {30076}{Kerghan} // Kerghan
 {30077}{Arronax} // Arronax
 {30078}{} // "How to be a Dwarf"
 {30079}{James Kingsford} // James Kingsford
-{30080}{[Quest] Dug ancient burial ground and file cabinets for this.} // Purchase order for Signet Ring
+{30080}{Dug ancient burial ground and file cabinets for this.} //Quest Purchase order for Signet Ring
 {30081}{Cedric Appleby} // Cedric Appleby
 {30082}{Signet Ring} // Signet Ring
 {30083}{Capt. of Bates' Guard} // Capt. of Bates' Guard
 {30084}{Prototype Steam Engine} // Prototype Steam Engine
-{30085}{[Quest] Hand seen in the middle.} // Amulet of the Molochean Hand
+{30085}{[Quest] Eye is seen in the middle.} // Amulet of the Molochean Hand
 {30086}{Fake Stillwater Giant pelt} // Fake Stillwater Giant pelt
 {30087}{Real Stillwater Giant pelt} // Real Stillwater Giant pelt
-{30088}{[Quest] This will protect you from Giant rage.} // Stillwater Giant scent
+{30088}{[Quest] This will protect you from Giant's rage.} // Stillwater Giant scent
 {30089}{[Quest]} // Vendigroth Device
 {30090}{H.T. Parnell} // H.T. Parnell
 {30091}{Stanley Xavier Hippington} // Stanley Xavier Hippington
@@ -152,7 +152,7 @@
 {31058}{Rorry LImes} // Rorry Limes
 {31059}{Benjamin Gershwin} // Benjamin Gershwin
 {31060}{Matthew Jones} // Matthew Jameson
-{31061}{[Quest] there is something odd about these skulls.} // The skulls of the Ren'ar Siamese Twins
+{31061}{[Quest] There is something odd about these skulls.} // The skulls of the Ren'ar Siamese Twins
 {31062}{The skull of Xin Ren'ar} // The skull of Xin Ren'ar
 {31063}{Polgram} // Polgram
 {31064}{Evelyn Garringsburg} // Evelyn Garringsburg
@@ -161,7 +161,7 @@
 {31067}{Bank Teller} // Bank Teller
 {31068}{Thaddeus Mynor} // Thaddeus Mynor
 {31069}{Jacob Bens} // Jacob Bens
-{31070}{Passport} // Passport
+{31070}{}//Passport //Quest
 {31071}{[Quest] Legendary undead pirate hoarded this gold for centuries.} // Stringy Pete's Treasure
 {31072}{[Quest]} // The Boot Buckles of Jonas Williamson
 {31073}{Virgil} // Virgil
@@ -239,7 +239,7 @@
 {30245}{Renard} // Renard
 {30246}{Lobbyist} // Lobbyist
 {30247}{Mellin Bungerton} // Mellin Bungerton
-{30248}{[Quest]} // Joachim's note to Virgil
+{30248}{} //Quest Joachim's note to Virgil
 {30249}{Steamrail Station A: West Garillon Bridge} // Steamrail Station A: West Garillon Bridge
 {30250}{Steamrail Station B: Vermillion Station} // Steamrail Station B: Vermillion Station
 {30251}{Steamrail Station C: Tarant University} // Steamrail Station C: Tarant University
@@ -250,10 +250,10 @@
 {30256}{Exit only: NO RETURN SERVICE} // Exit only: NO RETURN SERVICE
 {30257}{Exit Only} // Exit Only
 {30258}{Steamrail Attendant} // Steamrail Attendant
-{30259}{Special Invitation to the Wellington Gentlemen's Club} // Special Invitation to the Wellington Gentlemen's Club
+{30259}{[Quest]} // Special Invitation to the Wellington Gentlemen's Club
 {30260}{Telegraph Operator} // Telegraph Operator
 {30261}{Dept. of Water Clerk} // Dept. of Water Clerk
-{30262}{[Quest] Now you can help the hunter escape.} // Vine Rope
+{30262}{[Quest] Now you can help the elven hunter escape.} // Vine Rope
 {30263}{Sogg Mead Mug} // Sogg Mead Mug
 {30264}{Dwarven Undead} // Dwarven Undead
 {30265}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Quest]} // Norian's Potato Moonshine
@@ -452,7 +452,7 @@
 {30459}{Well-to-do business man} // Well-to-do business man
 {30460}{[Quest] This is just empty book for you.} // Divinations and Magicks for the Adept Wizard
 {30461}{Beauty:(+2) MC:40 [Quest]} // Complexity +40 // Necklace of Queen K'na S'ea
-{30462}{[Quest] Clue to find Liam.} // Liam Cameron's Journal
+{30462}{Clue to find Liam.} //Quest Liam Cameron's Journal
 {30463}{Thieves Underground Package} // Thieves Underground Package
 {30464}{[Quest]} // Trevor Lynwood's Camera
 {30465}{Mithral knife of G'har} // Mithral knife of G'har
@@ -469,8 +469,8 @@
 {30476}{Firearm Master's Rifle} // Firearm Master's Rifle
 {30477}{Note from Willenbecker Gang} // Note from Willenbecker Gang
 {30478}{Note from Lady Druella} // Note from Lady Druella
-{30479}{[Quest]} // Prowling Master Note 1
-{30480}{[Quest]} // Prowling Master Note 2
+{30479}{} //Quest Prowling Master Note 1
+{30480}{} //Quest Prowling Master Note 2
 {30481}{[Quest]} // Prowling Master Note 3
 {30482}{The Mushroom Inn} // The Mushroom Inn
 {30483}{The Sobbing Onion} // The Sobbing Onion
@@ -614,7 +614,7 @@
 {30963}{[Quest]}//Arbalah's Sacred Artifact
 {30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
-{31070}{[Quest]}//Passport
+{31070}{}//Quest Passport
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
 {31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
 {31135}{DR:20 (1.2*DR:FR:ER:MR)(0*PR) DOT:FT:1/3,PD:30-45 AC:7 ER:-20 FR:2 NP:-90 MC:50 cannot be resisted} //AC doesn't fit Poisoned Plate Mail
@@ -623,7 +623,7 @@
 {31144}{[Quest]} // Pilgrim's Robes
 {31153}{[Quest]}//Glass Key
 {31156}{[Quest]}//The Eye of Kraka-tur
-{31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]}
+{31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]} //Ceremonial Dagger
 {31166}{}//Mysterious Gem
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
@@ -684,16 +684,16 @@
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
 {40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave ring
 {40027}{[Quest]} // Volar's Wisp Essence
-{40028}{} // Music Box - Stolen goods obtained from D'ak Taan the thief
-{40029}{} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
+{40028}{Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
+{40029}{Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest]} // Hedgewizard's statue
-{40031}{[Quest]} // Crystal Ball
+{40031}{[Quest][Valuable] Distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
-{40033}{[Quest]} // Ancient Gun Chassis
+{40033}{} // Ancient Gun Chassis
 {40034}{[Quest]} // Stillwater Trap
-{40035}{[Quest]} // Blackroot Taxes - Case of Five Gold Bars
+{40035}{[Quest][Valuable] Goldbars are heavier than coins.} // Blackroot Taxes - Case of Five Gold Bars
 {40036}{[Quest]} // Volar's Wisp Essence
-{40037}{[Quest]} // Ancient Gun Chassis
+{40037}{} // Ancient Gun Chassis
 {40038}{[Quest]} // Volar's Wisp Essence
 {40039}{[Quest]} // Volar's Wisp Essence
 {40040}{[Quest]} // Volar's Wisp Essence
