@@ -106,7 +106,7 @@
 {30112}{The Bane of Kree} // The Bane of Kree
 {30113}{Nasrudin} // Nasrudin
 {30114}{Meat Shank} // Meat Shank
-{30115}{Camera} // Camera
+{30115}{[Quest] Photographic camera is wonder of technology.} // Camera
 {30116}{[Quest] Old boot from the silver mine, singular.} // Bessie Toone's Boot
 {30117}{Jongle Dunne} // Jongle Dunne
 {30118}{Gurloes' Metalworkings} // Gurloes' Metalworkings
@@ -161,7 +161,7 @@
 {31067}{Bank Teller} // Bank Teller
 {31068}{Thaddeus Mynor} // Thaddeus Mynor
 {31069}{Jacob Bens} // Jacob Bens
-{31070}{}//Passport //Quest
+{31070}{Found on the crashsite on the name Preston Radiffe.}//Passport //Quest
 {31071}{[Quest] Legendary undead pirate hoarded this gold for centuries.} // Stringy Pete's Treasure
 {31072}{[Quest]} // The Boot Buckles of Jonas Williamson
 {31073}{Virgil} // Virgil
@@ -190,8 +190,8 @@
 {30196}{Muggs} // Muggs
 {30197}{Larrs} // Larrs
 {30198}{Caleb Malloy} // Caleb Malloy
-{30199}{[Quest]} // Case of ale
-{30200}{[Quest]} // Case of whiskey
+{30199}{[Quest] Ale you are supposed to get to Pullock Clan.} // Case of ale
+{30200}{[Quest] Maloy has been waiting for this delivery.} // Case of whiskey
 {30201}{Vermillion Station} // Vermillion Station
 {30202}{Castleton's General Store} // Castleton's General Store
 {30203}{Vorman Fine Clothes & Tailor} // Vorman Fine Clothes & Tailor
@@ -276,7 +276,7 @@
 {30282}{Bubba} // Bubba
 {30283}{- University Court -} // - University Court -
 {30284}{Safe} // Safe
-{30285}{[Quest]}//"Kerghan and Persephone"
+{30285}{[Quest] Stolen painting from Tarant.}//"Kerghan and Persephone"
 {30286}{yourself (self-inflicted)}	// description used by ego page // yourself (self-inflicted)
 {30287}{another Player}			// description used by ego page // another Player
 {30288}{Wolf Cub} // Wolf Cub
@@ -361,7 +361,7 @@
 {30368}{[Quest]} // Schreck's Multi-Barreled Pistol
 {30369}{IN:-1 and +70 Poison Level to the target [Quest]} // Lethe Wyvern Venom
 {30370}{[Quest]} // Napha Water
-{30371}{[Quest]} // Flawless Dwarven Rubies
+{30371}{[Quest] Small sack of rubies.} // Flawless Dwarven Rubies
 {30372}{Gambling:+2/20, Haggle:+1/20 [Quest]} // Lucky Medallion
 {30373}{[Quest]} // Madam Lil's Music Box
 {30374}{[Quest] This might cause an affair.} // Cassie's Jewelry
@@ -557,7 +557,7 @@
 {30746}{D:1-12(+35) FT:1-10(+29) SPD:(-3) ROH-Hasten enemy MSR:8/10 MC:70 [Chop]} //MSR doesn't fit Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
 {30748}{D:6-15 FT:1-3 ROH-Poisonous Vapors MSR:8/10 MC:40 [Chop]} // Axe of Creeping Death
 {30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 MC:75} //FT doesn't fit Mace of Betrayal
-{30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis MSR:9/11 MC:80} // Star of Soul Bonding
+{30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis MSR:9/11 MC:80} // Star of Soul Bonding - ROH is self vs enemy depends who have higher MA, works only if used by player character vs NPC
 {30753}{D:1-8 ROH-Stun, Drain Will or Spawn 3 Hostile Zombies FT:1-10 MSR:10/12 Mana:16 CR(+2) MC:50} //FT doesn't fit Mace of the Damned
 {30755}{D:5-15(15) Speed:(+5) ROH-D:FT:(10-55) Self or enemy double D: on self. FT:1-5 SPD(+5) MSR:14/18 MC:90} //double D: doesn't fit Blade of Vicious Haste
 {30757}{D:5-10(+20) FT:3-11 ROH-Squall of Ice MSR:15/19 MC:80} // Blade of Malevolent Storm
