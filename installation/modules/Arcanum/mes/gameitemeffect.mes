@@ -33,7 +33,7 @@
 {30030}{Magick Resistance:+40 [Quest]} // Amulet (it's Cassie's Necklace)
 {30031}{Theodore's Machine Plate} // Theodore's Improved Leather Armour
 {30032}{Theodore} // Theodore
-{30033}{Old Sprocket} // Old Sprocket
+{30033}{[Quest]} // Old Sprocket Mysterious Ruins of the Wastes
 {30034}{[Quest]} // The Journal of Gilbert Bates
 {30035}{Thorvald Two Stones} // Thorvald Two Stones
 {30036}{Chukka} // Chukka
@@ -106,7 +106,7 @@
 {30112}{The Bane of Kree} // The Bane of Kree
 {30113}{Nasrudin} // Nasrudin
 {30114}{Meat Shank} // Meat Shank
-{30115}{[Quest] Photographic camera is wonder of technology.} // Camera
+{30115}{[Quest] Photographic camera is wonder of technology.} //UNUSED INGAME Camera
 {30116}{[Quest] Old boot from the silver mine, singular.} // Bessie Toone's Boot
 {30117}{Jongle Dunne} // Jongle Dunne
 {30118}{Gurloes' Metalworkings} // Gurloes' Metalworkings
@@ -121,58 +121,6 @@
 {30127}{Pillar of Truth} // Pillar of Truth
 {30128}{Vendigroth Journal} // Vendigroth Journal
 {30129}{A freshly filled grave} // A freshly filled grave
-{31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
-{31031}{Sarcophagus lid} // Sarcophagus lid
-{31032}{The Bangellian Scourge} //The Bangellian Scourge
-{31033}{Gorrin the Pit Master} // Gorrin the Pit Master
-{31034}{Key To Bates' Mausoleum} // Key To Bates' Mausoleum
-{31035}{Sarcophagus} // Sarcophagus
-{31036}{Stillwater Giant display case} // Stillwater Giant display case
-{31037}{Lava pit} // Lava pit
-{31038}{- Vermillion Road -} // - Vermillion Road -
-{31039}{- Lungsten Road -} // - Lungsten Road -
-{31040}{- Pickwick Alley -} // - Pickwick Alley -
-{31041}{- Devonshire Way -} // - Devonshire Way -
-{31042}{- Grimson Way -} // - Grimson Way -
-{31043}{- Dollins Turn -} // - Dollins Turn -
-{31044}{- Polton Cross -} // - Polton Cross -
-{31045}{- Torry Road -} // - Torry Road -
-{31046}{- Desaille Terrace -} // - Desaille Terrace -
-{31047}{- East End Avenue -} // - East End Avenue -
-{31048}{- Rue de Avellone -} // - Rue de Avellone -
-{31049}{- Low Dervish Row -} // - Low Dervish Row -
-{31050}{- Quilton Bend -} // - Quilton Bend -
-{31051}{- Lion's Head Circle -} // - Lion's Head Circle -
-{31052}{- Westrel South -} // - Westrel South -
-{31053}{- Mulligan Bone Alley -} // - Mulligan Bone Alley -
-{31054}{- Ten Hands Alley -} // - Ten Hands Alley -
-{31055}{- Kensington Broadway -} // - Kensington Broadway -
-{31056}{Madame Toussaude} // Madame Toussaude
-{31057}{Delores Beston} // Delores Beston
-{31058}{Rorry LImes} // Rorry Limes
-{31059}{Benjamin Gershwin} // Benjamin Gershwin
-{31060}{Matthew Jones} // Matthew Jameson
-{31061}{[Quest] There is something odd about these skulls.} // The skulls of the Ren'ar Siamese Twins
-{31062}{The skull of Xin Ren'ar} // The skull of Xin Ren'ar
-{31063}{Polgram} // Polgram
-{31064}{Evelyn Garringsburg} // Evelyn Garringsburg
-{31065}{Doc Roberts} // Doc Roberts
-{31066}{Bank Robber} // Bank Robber
-{31067}{Bank Teller} // Bank Teller
-{31068}{Thaddeus Mynor} // Thaddeus Mynor
-{31069}{Jacob Bens} // Jacob Bens
-{31070}{Found on the crashsite on the name Preston Radiffe.}//Passport //Quest
-{31071}{[Quest] Legendary undead pirate hoarded this gold for centuries.} // Stringy Pete's Treasure
-{31072}{[Quest]} // The Boot Buckles of Jonas Williamson
-{31073}{Virgil} // Virgil
-{31074}{First Bank of Shrouded Hills} // First Bank of Shrouded Hills
-{31075}{Safe} // Safe
-{31076}{Slim Pickens'} // Slim Pickens'
-{31077}{Ol' Bessie} // Ol' Bessie
-{31078}{Gurloes Fine Steel Dagger} // Gurloes Fine Steel Dagger
-{31079}{Norian} // Norian
-{31080}{Maximillian} // Maximillian
-{31081}{Jones the Collector} // Jones the Collector
 {30182}{Geoffrey Tarellond-Ashe} // Geoffrey Tarellond-Ashe
 {30183}{Cynthia Boggs} // Cynthia Boggs
 {30184}{Lorria} // Lorria
@@ -539,6 +487,7 @@
 {30615}{D:1-10(+1-10 vs animals) FT:2-5 TH:(+10) RNG:15 MSR:8 MC:15} //MC doesn't fit Ancient Elven Bow
 {30616}{DX:+2 PE:+2} // Brigitte
 {30630}{[Quest]}//Package for Jongle Dunne
+{30636}{[Quest]}//Gem Of Malachi Rench
 {30673}{[Quest] Just a clockwatch.}//Ryan Sander's Timepiece
 {30679}{D:1-8 FT:3-12 ST:CN:(+1) Heal Rate:(+50%) Major Heal MSR:5 MC:40} //MSR doesn't fit Complexity +40 // Staff of Restoration
 {30680}{AC:14 DR:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1) MC:50} // Caladon Crusading Chain
@@ -551,22 +500,22 @@
 {30734}{D:1-6 FT:1-2 Backstab(+8/20) Self-D:PD:(1-10) MSR:3/3 MC:50} //MC doesn't fit Shadow Hand Dagger
 {30735}{D:1-4(+2) FT:1-2 Heal Rate(-95%) maxFT(-50%) MC:40 MSR:3/3} // MSR doesn't fit Life Stealer Dagger
 {30739}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} //FT doesn't fit Sword of Bangelian Scourge
-{30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on Self or enemy MSR:9/11 MC:75} //MSR doesn't fit Blade of Unholy Fire
+{30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on self or enemy MSR:9/11 MC:75} //MSR doesn't fit Blade of Unholy Fire
 {30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} //FT doesn't fit Black Stone Blade
 {30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75 [Chop]} //ROM:BoL doesn't fit Axe of Dark Lightning
 {30746}{D:1-12(+35) FT:1-10(+29) SPD:(-3) ROH-Hasten enemy MSR:8/10 MC:70 [Chop]} //MSR doesn't fit Axe of Lost Time //D:(+60) but capped at 36, FT:(+40) but capped at 30
 {30748}{D:6-15 FT:1-3 ROH-Poisonous Vapors MSR:8/10 MC:40 [Chop]} // Axe of Creeping Death
 {30750}{D:1-8(+15) Aids enemy:ROH-Heal 45-65FT & Major Heal FT:1-5(+10) MSR:8/10 MC:75} //FT doesn't fit Mace of Betrayal
-{30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis MSR:9/11 MC:80} // Star of Soul Bonding - ROH is self vs enemy depends who have higher MA, works only if used by player character vs NPC
+{30751}{D:1-8 FT:1-10(+15) RNG:20 ROH-Stasis on self or enemy MSR:9/11 MC:80} //MSR doesn't fit Star of Soul Bonding - ROH is self vs enemy depends who have higher MA, works only if used by player character vs NPC
 {30753}{D:1-8 ROH-Stun, Drain Will or Spawn 3 Hostile Zombies FT:1-10 MSR:10/12 Mana:16 CR(+2) MC:50} //FT doesn't fit Mace of the Damned
-{30755}{D:5-15(15) Speed:(+5) ROH-D:FT:(10-55) Self or enemy double D: on self. FT:1-5 SPD(+5) MSR:14/18 MC:90} //double D: doesn't fit Blade of Vicious Haste
+{30755}{D:5-15(15) Speed:(+4) ROH-D:FT:(10-55) self or enemy double D: on self. FT:1-5 SPD(+5) MSR:14/18 MC:90} //double D: doesn't fit Blade of Vicious Haste
 {30757}{D:5-10(+20) FT:3-11 ROH-Squall of Ice MSR:15/19 MC:80} // Blade of Malevolent Storm
-{30759}{D:5-10(+10) FT:2-5 ROH-Harm ROM-Harm x2 MSR:11 MC:75} //MC doesn't fit Hurtful Long Bow
+{30759}{D:5-10(+10)ROH-Harm self and enemy,ROM-SelfHarmx2 FT:2-5 MSR:11 MC:75} //FT doesn't fit, ROH if trigger will always harm the enemy, then has 50% to harm you as well Hurtful Long Bow
 {30761}{D:1-5 FT:1-3 CN:WP:(-6) RNG:15 ROH-FT:10-30 MSR:10 MC:50} //MC doesn't fit Bow of the Chill Reaper
 {30763}{D:FT:1-3(+8) DX:(-4) Speed:(-4) TH:30(+30) very heavy MSR:16(-6) CR:(+10) W:(-1000) MaxCarry(-2000) MC:20} //MSR doesn't fit Grack's Burdensome Staff //D:(+20) but capped at 9, FT:(+20) but capped at 9
 {30764}{D:1-15(+10) FT:2-9(+10) ROH-Self-DX:ST:CN:(+3/-4) MSR:5 MC:75}  //MSR doesn't fit Hexed Berserker's Staff
 {30767}{D:FT:1-3(+6) Random Shield of Protection MSR:5 MC:80} // Staff of Hypocrisy
-{30768}{AC:9 DR:14 FR:5 (0.5*DR) (1.2*MR) NP:-10 MC:25} // Hexed Leather Armour
+{30768}{(0.5*DR) (1.2*MR) MC:80} // Hexed Leather Armour but this is medallion of dark magic description (Description file is bugged, it will show hexed leather description for the medallion of dark magic and vice versa) 
 {30769}{AC:9 DR:16 FR:5 (1.2*DR)(0*PR) DOT:FT:1/3,PD:15-30 NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
 {30776}{AC:3 DR:5 D:+7 if Dwarf:[DX:+2 ST:+1 CN:+1] TC:15} // Mysterious Dwarven Gauntlets
 {30777}{[Quest]} // Book Half Ogre Laboratory Journal
@@ -576,19 +525,19 @@
 {30785}{[Quest]}//Ancient Looking Glass
 {30786}{[Quest]}//Ancient Filament
 {30796}{AC:12 DR:23 FR:5(1.2*DR)(0*PR) DOT:FT:1/3,PD:10-30 ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
-{30801}{DR:2 (1.2*DR:ER:PR:MR) (0*PR) DOT:FT:1/3,PD:15-30 AC:3 FR:-15 MR:(10) MC:50} //AC doesn't fit Venomous Robes
-{30802}{DR:+20% Heal Rate -100%, FT:-90%} // Chill Plate Mail
-{30803}{DR:+20% Fatigue DOT, Crit: FT:-100%} // Consuming Plate Mail
+{30801}{DR:5 (2*AllRes) (0*PR) DOT:FT:1/3,PD:20-30 MC:30 D:+3 ROH:PD:1-10} //Venomous Robes but this is baneful gauntlets description (Description file is bugged, it will show baneful gauntlets description for the venomous robes and vice versa) 
+{30802}{DR:+20% Heal Rate -100%, FT:-90%} //UNUSED INGAME Chill Plate Mail
+{30803}{AC:15 DR:36 FR:30(1.2*DR) DOT:FT:1/3 crit:self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail
 {30806}{AC:11 DR:20 AllRes(+20%) ST:DX:PE(-3) Dodge(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
 {30807}{AC:11(+20) DR:16(+30) FR:ER:(30)(1.2*DR)(0*PR:MR) NP:-25 MC:100} //NP doesn't fit Hero's Weakness Barbarian Armour
 {30815}{AC:30 (1.2*AllRes) ST:DX:WP:(-3) MaxFT:(-95%) MC:20} //MC doesn't fit Chill Shield
 {30817}{DR:5 (0.5*DR:MR)(0.8*maxHP:FT) PE(+4)Bow(+2/20) AC:10 MC:50} //AC doesn't fit Helmet of Yzar's Cost
-{30818}{AC:15 DR:+5(+20%) PE:-1 Crit: Entangle} // Nature's Wrath Helm
-{30823}{DR:5 (2*AllRes) (0*PR) DOT:FT:1/3,PD:20-30 MC:30 D:+3 ROH:PD:1-10} //D:+3 doesn't fit Baneful Gauntlets
+{30818}{AC:15 DR:5 PE:-1 (1.2*DR) MC:80} //Doesn't entangle bugged  Nature's Wrath Helm
+{30823}{DR:2 (1.2*DR:ER:PR:MR) (0*PR) DOT:FT:1/3,PD:15-30 AC:3 FR:-15 MR:(10) MC:50} //Baneful Gauntlets but this is venomous robes description (Description file is bugged, it will show baneful gauntlets description for the venomous robes and vice versa)
 {30830}{DR:3 Dexterity:(+2) DOT:FT:1/3 MC:40} // Boots of the Dark Toll
 {30831}{(0.5*DR:FR:ER:PR) (1.2*MR) IN:(+1) MC:80} // Ring of Dark Magicks
 {30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP:FT:1/3 MC:75} //MC doesn't fit Ring of Shadows
-{30836}{MR:+20% DR:-50%} // Medallion of Dark Magicks
+{30836}{AC:9 DR:14 FR:5 (0.5*DR) (1.2*MR) NP:-10 MC:25} // Medallion of Dark Magicks but this is hexed leather description (Description file is bugged, it will show hexed leather description for the medallion of dark magic and vice versa) 
 {30837}{Cast Fireflash every 5 sec on everyone in area MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
 {30864}{Magick Resistance:+40 [Quest]} //Pelojian's Amulet
@@ -604,7 +553,7 @@
 {30896}{[Quest]} // Fa'al Kin's Amulet
 {30897}{DR:5 D:+3 [Quest]} // Fa'al Kin's Gauntlets
 {30898}{DR:5 [Quest]} // Fa'al Kin's Boots
-{30899}{D:1-4 FT:1-2 MSR:3/3 [Quest]}
+{30899}{D:1-4 FT:1-2 MSR:3/3 [Quest]}//Fa'al Kin's Dagger
 {30900}{[Quest]}//Fa'al Kin's Coin
 {30901}{[Quest]}//Fa'al Kin's Chalice
 {30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} //FT doesn't fit Torian Kel's Ancestral Sword
@@ -617,23 +566,74 @@
 {30963}{[Quest]}//Arbalah's Sacred Artifact
 {30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
-{31070}{}//Quest Passport
+{31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
+{31031}{Sarcophagus lid} // Sarcophagus lid
+{31032}{The Bangellian Scourge} //The Bangellian Scourge
+{31033}{Gorrin the Pit Master} // Gorrin the Pit Master
+{31034}{Key To Bates' Mausoleum} // Key To Bates' Mausoleum
+{31035}{Sarcophagus} // Sarcophagus
+{31036}{Stillwater Giant display case} // Stillwater Giant display case
+{31037}{Lava pit} // Lava pit
+{31038}{- Vermillion Road -} // - Vermillion Road -
+{31039}{- Lungsten Road -} // - Lungsten Road -
+{31040}{- Pickwick Alley -} // - Pickwick Alley -
+{31041}{- Devonshire Way -} // - Devonshire Way -
+{31042}{- Grimson Way -} // - Grimson Way -
+{31043}{- Dollins Turn -} // - Dollins Turn -
+{31044}{- Polton Cross -} // - Polton Cross -
+{31045}{- Torry Road -} // - Torry Road -
+{31046}{- Desaille Terrace -} // - Desaille Terrace -
+{31047}{- East End Avenue -} // - East End Avenue -
+{31048}{- Rue de Avellone -} // - Rue de Avellone -
+{31049}{- Low Dervish Row -} // - Low Dervish Row -
+{31050}{- Quilton Bend -} // - Quilton Bend -
+{31051}{- Lion's Head Circle -} // - Lion's Head Circle -
+{31052}{- Westrel South -} // - Westrel South -
+{31053}{- Mulligan Bone Alley -} // - Mulligan Bone Alley -
+{31054}{- Ten Hands Alley -} // - Ten Hands Alley -
+{31055}{- Kensington Broadway -} // - Kensington Broadway -
+{31056}{Madame Toussaude} // Madame Toussaude
+{31057}{Delores Beston} // Delores Beston
+{31058}{Rorry LImes} // Rorry Limes
+{31059}{Benjamin Gershwin} // Benjamin Gershwin
+{31060}{Matthew Jones} // Matthew Jameson
+{31061}{[Quest] There is something odd about these skulls.} // The skulls of the Ren'ar Siamese Twins
+{31062}{The skull of Xin Ren'ar} // The skull of Xin Ren'ar
+{31063}{Polgram} // Polgram
+{31064}{Evelyn Garringsburg} // Evelyn Garringsburg
+{31065}{Doc Roberts} // Doc Roberts
+{31066}{Bank Robber} // Bank Robber
+{31067}{Bank Teller} // Bank Teller
+{31068}{Thaddeus Mynor} // Thaddeus Mynor
+{31069}{Jacob Bens} // Jacob Bens
+{31070}{Found on the crashsite on the name Preston Radiffe.}//Passport //Quest
+{31071}{[Quest] Legendary undead pirate hoarded this gold for centuries.} // Stringy Pete's Treasure
+{31072}{} //UNUSED INGAME The Boot Buckles of Jonas Williamson
+{31073}{Virgil} // Virgil
+{31074}{First Bank of Shrouded Hills} // First Bank of Shrouded Hills
+{31075}{Safe} // Safe
+{31076}{Slim Pickens'} // Slim Pickens'
+{31077}{Ol' Bessie} // Ol' Bessie
+{31078}{Gurloes Fine Steel Dagger} // Gurloes Fine Steel Dagger
+{31079}{Norian} // Norian
+{31080}{Maximillian} // Maximillian
+{31081}{Jones the Collector} // Jones the Collector
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
 {31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
 {31135}{DR:20 (1.2*DR:FR:ER:MR)(0*PR) DOT:FT:1/3,PD:30-45 AC:7 ER:-20 FR:2 NP:-90 MC:50 cannot be resisted} //AC doesn't fit Poisoned Plate Mail
 {31136}{[Quest] Daring quest design...}//Gem of Water Purity
-{31137}{}//Whysper's Gem
+{31137}{Invisibility on use for 80 sec.}//Whysper's Gem
 {31144}{[Quest]} // Pilgrim's Robes
 {31153}{[Quest]}//Glass Key
 {31156}{[Quest]}//The Eye of Kraka-tur
 {31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]} //Ceremonial Dagger
-{31166}{}//Mysterious Gem
+{31166}{Spawns a mighty halfling for aid if you won ancient game.}//Mysterious Gem
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
 {31174}{AC:45(-30) DR:50(-20) PR:30(-30) ER:(-30) FR:30(-20) NP:-20 TC:-30} // Iron Clan Armor MA maluses AC:-30 DR:-20 PR:-30 ER:-30 FR:-20
 {31175}{D:15-35 FT:1-8 FD:1-5 TH:+5 MSR:8/10 TC:80} // Iron Clan Hammer
 {31178}{AC:5(+6) DR:7(+12) FR:(+50) MR:(+10) MC:80} // Robe of Fire Protection
-{31182}{}//Crash Site Camera
+{31182}{}//Crash Site Camera//Quest
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
 {31186}{MR:(+10) Charm MC:20} // Charming Medallion
 {31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
@@ -677,7 +677,7 @@
 {40014}{D:1-8(+4) FT:1-4 Succour Beast MSR:6/8 MC:40} // Stillwater Blade
 {40015}{D:10-30 FT:1-15 TH:20 RNG:25 MSR:8 TC:70 [Crafting]} // Firearm Master's Rifle
 {40016}{D:1-4 FT:1-2 Mana:10 MSR:2/2 MC:10} // Mage's Dagger
-{40018}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:8/10}
+{40018}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:8/10}//Azram's Star
 {40019}{D:1-4 FT:1-2 MSR:3/3 [Quest]} Weak Blade of Xerxes
 {40020}{D:1-4 FT:1-2 TH:+10 MSR:2/2} // Caladon's Herbalist Dread Dagger
 {40021}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Tarant's Herbalist Dread Dagger
@@ -692,24 +692,24 @@
 {40030}{[Quest]} // Hedgewizard's statue
 {40031}{[Quest][Valuable] Distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
-{40033}{} // Ancient Gun Chassis
+{40033}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
 {40034}{[Quest]} // Stillwater Trap
 {40035}{[Quest][Valuable] Goldbars are heavier than coins.} // Blackroot Taxes - Case of Five Gold Bars
 {40036}{[Quest]} // Volar's Wisp Essence
-{40037}{} // Ancient Gun Chassis
+{40037}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
 {40038}{[Quest]} // Volar's Wisp Essence
 {40039}{[Quest]} // Volar's Wisp Essence
 {40040}{[Quest]} // Volar's Wisp Essence
-{40041}{[Quest]} // Old Sprocket
-{40042}{[Quest]} // Torin Quarry Stone
+{40041}{[Quest]} // Old Sprocket Bessie Toone Mines
+{40042}{[Quest]Perfect for making a glorious altar for Halcyon.} // Torin Quarry Stone 
 {40043}{[Quest]} // Stone
 {40044}{[Quest]} // Stone
 {40045}{[Quest]} // Stone
 {40046}{[Quest]} // Stone
 {40047}{[Quest]} // Stone
-{40048}{[Quest]} // Stone
+{40048}{[Quest]} // Elven Ruins Funerary Stone 
 {40049}{[Quest]} // Matthew Jones' Wedding Ring
-{40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} // Theodore's Technological Plate / Basic Machined Plate
+{40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} //Ashbury Theodore's Technological Plate / Basic Machined Plate
 {40051}{[Quest]} // Note from Maximillian confirming receipt of Moonshine
 {40052}{[Quest]} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
