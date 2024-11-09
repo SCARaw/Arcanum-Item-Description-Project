@@ -569,6 +569,7 @@
 {30768}{AC:9 DR:14 FR:5 (0.5*DR) (1.2*MR) NP:-10 MC:25} // Hexed Leather Armour
 {30769}{AC:9 DR:16 FR:5 (1.2*DR)(0*PR) DOT:FT:1/3,PD:15-30 NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
 {30776}{AC:3 DR:5 D:+7 if Dwarf:[DX:+2 ST:+1 CN:+1] TC:15} // Mysterious Dwarven Gauntlets
+{30777}{[Quest]} // Book Half Ogre Laboratory Journal
 {30782}{[Quest]}//Golden Idol of Kree
 {30783}{[Quest]}//Ancient Pocket Watch
 {30784}{[Quest]}//Ancient Gears
@@ -591,7 +592,8 @@
 {30837}{Cast Fireflash every 5 sec on everyone in area MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
 {30864}{Magick Resistance:+40 [Quest]} //Pelojian's Amulet
-{30874}{[Quest]}White Scarf
+{30873}{[Quest]} // Book The Journal of Saint Mannox
+{30874}{[Quest]} // White Scarf
 {30875}{} //Cynthia Boggs' Locket
 {30877}{D:1-10 FT:2-5 TH:(+30) RNG:15(+50) CR:(+50) MSR:10 MC:80} //MSR doesn't fit Bow of Ecclesiastes
 {30880}{[Quest]} // Void Ring
@@ -708,6 +710,10 @@
 {40048}{[Quest]} // Stone
 {40049}{[Quest]} // Matthew Jones' Wedding Ring
 {40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} // Theodore's Technological Plate / Basic Machined Plate
+{40051}{[Quest]} // Note from Maximillian confirming receipt of Moonshine
+{40052}{[Quest]} // Newspaper with editorial on Arland-Tarant difficulties
+{40053}{[Quest]} // The Journal of Kraka-tur
+
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
 
