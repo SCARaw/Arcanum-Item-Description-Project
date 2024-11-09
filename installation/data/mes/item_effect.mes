@@ -135,7 +135,7 @@
 {6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 TC:48 [Crafting]} Charged Accelerator Gun 
 {6157}{D:30-60 FT:5-15 RNG:15 MSR:15 TC:75} Blade Launcher 
 {6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8 TC:95} Pyrotechnic Gun 
-{6159}{D:1-15 FT:%70-150 depends on the target RNG:15 TC:100 MSR:8} Tranquilizer Gun //MSR doesn't fit
+{6159}{D:1-15 FT:10+CurrentFT RNG:15 TC:100 MSR:8} Tranquilizer Gun
 {6160}{D:1-8 FT:3-12(+6) Mana:20 MSR:5 MC:25} Charmed Staff
 {6161}{D:1-8 FT:3-12(+12) Mana:40 MSR:5 MC:50} Magick Staff
 {6162}{D:1-8 FT:3-12(+18) Mana:60 MSR:5 MC:75} Mystic Staff
@@ -152,7 +152,7 @@
 {6173}{D:20-40 FT:1-10 ED:10-10 RNG:15 MSR:5/7 TC:85} Droch's Warbringer
 {6174}{D:5-25 FT:1-7 RNG:15 MSR:8 TC:70 [Crafting]} Large Bore Vendigrothian Rifle
 {6175}{D:1-1 FT:1-3 MSR:6/8 [Crafting]} Oak Axe Handle
-{6176}{D:3-6 MSR:2/2 Bypasses AC/DR} Stiletto
+{6176}{D:3-6 MSR:2/2 Bypasses DR} Stiletto
 {6177}{D:1-3 MSR:3/3 [Offering]} Bone Dagger
 {6178}{D:2-6 MSR:3/3} Kite Sword 
 
@@ -280,7 +280,7 @@
 {8156}{AC:14 DR:27 FR:10 ER:-20 NP:-25 TC:10} Dwarven Chainmail
 {8157}{AC:14 DR:23 ER:(+10) NP:-25(+10) MC:10} Elven Chainmail
 {8158}{AC:12(+2) DR:23 FR:5 ER:-10(+10) NP:-20 MC:10} Gnomish Chainmail
-{8159}{} Molochean Hand Amulet
+{8159}{[Quest] Eye is seen in the middle.} Molochean Hand Amulet
 {8160}{Beauty:(+2) MC:40} Medallion of Beauty
 {8161}{Magick Resistance:(+40) MC:80} Dorian Amulet
 {8162}{} Decent Gold Ring
@@ -328,7 +328,7 @@
 {8204}{AC:6 DR:9 PE:-1 Magic Aptitude:(+20) Alignment:(-20) MC:40} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
 {8206}{Poison Recovery:(x2), Reaction Drop Adjustment:(-5) MC:40} Serpentine Necklace
-{8207}{} Wheel Clan Spectacles //Quest
+{8207}{[Quest]} Wheel Clan Spectacles
 {8208}{AC:9(+5) DR:16 FR:5 AllRes:(+5) NP:-10 MC:25} Charmed Leather Armour
 {8209}{AC:9(+5) DR:14 FR:5 AllRes:(+5) NP:-10 MC:25} Small Charmed Leather Armour
 {8210}{AC:9(+5) DR:18 FR:5 AllRes:(+5) NP:-10 MC:25} Large Charmed Leather Armour
@@ -482,11 +482,11 @@
 {10117}{Halves the target's Willpower for 60 sec.} Mental Inhibitor
 {10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer
 {10119}{Damage Resistance:+30 for 120 sec. [Crafting]} Fortifier
-{10120}{Deals %70-150FT dmg depends on the target [Crafting]} Sleep Aid Anaesthesizer
+{10120}{Deals FT:10+CurrentFT to the target [Crafting]} Sleep Aid Anaesthesizer
 {10121}{Paralyzes the target for 6 sec.} Potion of Paralysis Paralyzer
 {10122}{[Crafting: Electric][Food]} Lemon
 {10123}{[Crafting: Electric][Food]} Potato
-{10124}{} Vial of Dragon's Blood //Quest
+{10124}{[Quest]} Vial of Dragon's Blood
 {10125}{[Offering] Works as Strong aphrodisiac.} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
 {10127}{[Gift]} Dwarven Snuff
@@ -501,7 +501,7 @@
 {10136}{Restores up to 70pts of Fatigue.} Greater Fatigue Restore
 {10137}{Heals up to 120pts of Poison.} Heal Poison
 {10138}{Heals up to 120pts of Health, Poison and Fatigue.} Morgana's Tears
-{10139}{Halves the use of Fatigue for 60 sec.} Fatigue Slower
+{10139}{Halves fatigue consumption for 60 sec.} Fatigue Slower
 {10140}{Boosts Intelligence by 10 points for 60 sec.} Essence of Intellect
 {10141}{Speed:+20 for 60 sec.} Potion of Haste
 {10142}{Damage Resistance:+20 for 60 sec.} Liquid of Skin Thickening
@@ -772,7 +772,7 @@
 {15158}{Second Component needed to create Technological Item} Component 2
 {15159}{Casts any random spell:30% chance you will be the target} Jade Wizard Statuette //UNUSED INGAME
 {15160}{[Crafting: Quest][Valuable]} Kathorn Crystal
-{15161}{Deals %70-150 FT damage depends on the targets} Knock Out Gas Grenade
+{15161}{Deals FT:10+CurrentFT to the targets} Knock Out Gas Grenade
 {15162}{Makes living targets flee} Hallucination Grenade
 {15163}{D:1-5 ED:5-30 can of lightning} Electrocution Grenade
 {15164}{D:25-50 FT:10-20 Knockback} Concussion Grenade
@@ -791,7 +791,7 @@
 {15177}{[Crafting: Mechanical] Small, well as small as they go.} Minute Steam Works
 {15178}{Allow to use lock picking skill} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries} Bandages
-{15180}{} Deed to the Bessie Toone Mine //Quest
+{15180}{[Quest] Toone family members are valid recipients.} Deed to the Bessie Toone Mine
 {15181}{[Offering] Carved wooden statue.} Li'tani
 {15182}{[Offering][Crafting: Quest]} Heartstone
 {15183}{[Offering][Valuable] Silver Coin} Mnura Coin
@@ -822,7 +822,7 @@
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
 {15209}{D:3-15 FD:3-15 Knockback} Molotov Cocktail
 {15210}{[Junk]} Wisp Essence
-{15211}{} Volar's Wisp Essence //Quest
+{15211}{[Quest]} Volar's Wisp Essence
 {15212}{Healing Robot Spider, it's awesome.} Medical Arachnid
 {15213}{Train your party members up to your level} Educator's Guide
 
