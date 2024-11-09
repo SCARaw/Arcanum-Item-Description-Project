@@ -594,6 +594,7 @@
 {30874}{[Quest]}White Scarf
 {30875}{} //Cynthia Boggs' Locket
 {30877}{D:1-10 FT:2-5 TH:(+30) RNG:15(+50) CR:(+50) MSR:10 MC:80} //MSR doesn't fit Bow of Ecclesiastes
+{30880}{[Quest]} // Void Ring
 {30881}{[Quest]This stone is covered in ancient dwarven runes.} // The Durin Stone
 {30890}{This stone altar looks unused and stained.} // Desecrated Altar
 {30894}{[Quest]} // Fa'al Kin's Ring
@@ -706,6 +707,7 @@
 {40047}{[Quest]} // Stone
 {40048}{[Quest]} // Stone
 {40049}{[Quest]} // Matthew Jones' Wedding Ring
+{40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} // Theodore's Technological Plate / Basic Machined Plate
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
 
