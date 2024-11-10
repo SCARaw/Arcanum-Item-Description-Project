@@ -251,8 +251,8 @@
 {8127}{} Large Studded Leather
 {8128}{AC:20 DR:45 FR:30 NP:-35 TC:20 [Crafting]} Large Elite Plate
 {8129}{} Large Rustic Finery
-{8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 MA:+Weight TC:20 [Crafting]} Feather-Weight Chain //Crafting does not fit
-{8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 MA:+Weight TC:20 [Crafting]} Small Feather-Weight Chain //Crafting does not fit
+{8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Feather-Weight Chain //MA:+Weight
+{8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Small Feather-Weight Chain //MA:+Weight
 {8132}{[Crafting][Valuable]} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
@@ -413,7 +413,7 @@
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 Perception:(+3) TC:60} Goggled Helmet
 {8291}{AC:25 DR:53 PR:20 FR:20 ER:-10 MA:-Res ST:(+3)-NP TC:30} Large Machined Platemail //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20 NP:-90
-{8292}{AC:13 DR:25 FR:5 ER:-10 NP:-25 MA:+Weight TC:20 [Crafting]} Large Feather-Weight Chain //Crafting does not fit
+{8292}{AC:13 DR:25 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Large Feather-Weight Chain //MA:+Weight
 
 //Gold
 {9056}{} Gold
