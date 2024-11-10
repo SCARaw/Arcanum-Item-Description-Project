@@ -545,7 +545,7 @@
 {30874}{[Quest]} // White Scarf
 {30875}{} //Cynthia Boggs' Locket
 {30877}{D:1-10 FT:2-5 TH:(+30) RNG:15(+50) CR:(+50) MSR:10 MC:80} //MSR doesn't fit Bow of Ecclesiastes
-{30880}{[Quest]} // Void Ring
+{30880}{[Quest] Helps traveling in the Void.} // Void Ring
 {30881}{[Quest]This stone is covered in ancient dwarven runes.} // The Durin Stone
 {30890}{This stone altar looks unused and stained.} // Desecrated Altar
 {30894}{[Quest]} // Fa'al Kin's Ring
@@ -564,7 +564,7 @@
 {30936}{AC:(+10) PR:(+20) MC:20} // Ring of Poison Resistance
 {30957}{[Quest] Yuck.}//Eyes of Sir Garrick Stout
 {30963}{[Quest] Cheaply made trinket.}//Arbalah's Sacred Artifact
-{30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
+{30967}{Strength:(+1) Constitution:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
 {31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
 {31031}{Sarcophagus lid} // Sarcophagus lid
@@ -624,13 +624,13 @@
 {31136}{[Quest] Daring quest design...}//Gem of Water Purity
 {31137}{Invisibility on use for 80 sec.}//Whysper's Gem
 {31144}{[Quest]} // Pilgrim's Robes
-{31153}{[Quest]}//Glass Key
-{31156}{[Quest]}//The Eye of Kraka-tur
+{31153}{[Quest]} //Glass Key
+{31156}{[Quest]} //The Eye of Kraka-tur
 {31161}{D:2-6 FT:1-3 MSR:3/3 [Quest]} //Ceremonial Dagger
 {31166}{Spawns a mighty halfling for aid if you won ancient game.}//Mysterious Gem
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
-{31174}{AC:45(-30) DR:50(-20) PR:30(-30) ER:(-30) FR:30(-20) NP:-20 TC:-30} // Iron Clan Armor MA maluses AC:-30 DR:-20 PR:-30 ER:-30 FR:-20
+{31174}{AC:45 DR:50 PR:30 FR:30 MA:-Res NP:-20 TC:-30} // Iron Clan Armor MA maluses AC:-30 DR:-20 PR:-30 ER:-30 FR:-20
 {31175}{D:15-35 FT:1-8 FD:1-5 TH:+5 MSR:8/10 TC:80} // Iron Clan Hammer
 {31178}{AC:5(+6) DR:7(+12) FR:(+50) MR:(+10) MC:80} // Robe of Fire Protection
 {31182}{}//Crash Site Camera//Quest
@@ -662,7 +662,7 @@
 {31210}{D:1-4 FT:1-2 TH(+20) CR:(+10 )MSR:3/3} // Dread Dagger CANNOT BE FOUND IN GAME
 {31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect MC:75} //  Complexity +75 // Fawn's Bow
 {31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
-{40000}{PE <8 +1 else -1 [Quest]} // Location:Caladon Inn Room 4, Quest:Master Prowler, Property:Only glass that can reveal the painting
+{40000}{PE <8 +1 else -1 [Quest]} // Location: Caladon Inn Room 4, Quest: Master Prowler, Property: Only glass that can reveal the painting
 {40001}{D:1-8 FT:1-4 TH:(+5) SPD:(+2) MSR:4/6} // Doc Roberts' magickal sword (quest reward)
 {40002}{D:2-9 FT:2-5 TH:+3 MSR:7/9} // Doc Roberts' finely made pistol (quest reward)
 {40003}{D:1-12 FT:1-9 MSR:8/10} // Doc Roberts' battle axe (quest reward)
@@ -686,31 +686,31 @@
 {40024}{AC:4 DR:17 FR:5 NP:-10} // Shrouded Hills - Lukan's Henchman Large Leather Armour
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
 {40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave ring
-{40027}{[Quest]} // Volar's Wisp Essence
+{40027}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
 {40028}{Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
 {40029}{Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
-{40030}{[Quest]} // Hedgewizard's statue
+{40030}{[Quest] Looks like replica of elven statues.} // Hedgewizard's statue
 {40031}{[Quest][Valuable] Distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
 {40033}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
-{40034}{[Quest]} // Stillwater Trap
+{40034}{[Quest] Small trap to catch the giant.} // Stillwater Trap
 {40035}{[Quest][Valuable] Goldbars are heavier than coins.} // Blackroot Taxes - Case of Five Gold Bars
-{40036}{[Quest]} // Volar's Wisp Essence
+{40036}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
 {40037}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
-{40038}{[Quest]} // Volar's Wisp Essence
-{40039}{[Quest]} // Volar's Wisp Essence
-{40040}{[Quest]} // Volar's Wisp Essence
+{40038}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
+{40039}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
+{40040}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
 {40041}{[Quest] This part will undo all the damage.} // Old Sprocket Bessie Toone Mines
-{40042}{[Quest] Perfect for making a glorious altar for Halcyon.} // Torin Quarry Stone 
+{40042}{[Quest] Perfect for new altar for Halcyon.} // Torin Quarry Stone 
 {40043}{[Quest]} // Stone
 {40044}{[Quest]} // Stone
 {40045}{[Quest]} // Stone
 {40046}{[Quest]} // Stone
 {40047}{[Quest] Thats the heaviest rock.} // Stone
 {40048}{[Quest] Lady with too much money could not find better hobby.} // Elven Ruins Funerary Stone 
-{40049}{[Quest]} // Matthew Jones' Wedding Ring
+{40049}{[Quest] Lost ring of Matthew Jones.} // Matthew Jones' Wedding Ring
 {40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} //Ashbury Theodore's Technological Plate / Basic Machined Plate
-{40051}{[Quest]} // Note from Maximillian confirming receipt of Moonshine
+{40051}{[Quest] Note from Maximillian} // Note from Maximillian confirming receipt of Moonshine
 {40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
 
