@@ -166,7 +166,7 @@
 {8042}{} Heavy Wool Clothes
 {8043}{} Guard Leather
 {8044}{AC:12 DR:23 FR:5 ER:-10 NP:-25 TC:5} Chainmail
-{8045}{AC:30 DR:20 FR:20 NP:-90 ST:(+3) MA gives -resist TC:30} Machined Platemail //TC doesn't fit,MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
+{8045}{AC:30 DR:20 FR:20 NP:-90 ST:(+3) MA:-Res TC:30} Machined Platemail //TC doesn't fit,MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8046}{AC:3 DR:2 FR:-15 MR:10} Priest Robes
 {8047}{AC:15(5) DR:20(10) FR:15(5) ER:10(5) PR:5 MR:(20) NP:-80 MC:20} Mithril Platemail //UNUSED INGAME,NP doesn't fit
 {8048}{AC:19(+31) DR:5 FR:(+5) NP:-20 Reaction:-10 MC:60} Dread Armour
@@ -182,7 +182,7 @@
 {8058}{} Small Heavy Wool Clothes
 {8059}{} Small Guard Leather
 {8060}{AC:12 DR:21 FR:5 ER:-10 NP:-25 TC:5} Small Chainmail
-{8061}{AC:30 DR:15 FR:20 NP:-90 ST:(+3) MA gives -resist TC:30} Small Machined Platemail //TC doesn't fit,MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
+{8061}{AC:30 DR:15 FR:20 NP:-90 ST:(+3) MA:-Res TC:30} Small Machined Platemail //MA maluses AC:-10 DR:-5 FR:-10 ER:-20 PR:-20
 {8062}{AC:3 DR:2 FR:-15 MR:10} Small Priest Robes
 {8063}{AC:15(5) DR:15(10) FR:15(5) ER:10(5) PR:5 MR:(20) NP:-80 MC:20} Small Mithril Platemail //UNUSED INGAME,NP doesn't fit
 {8064}{AC:19(+31) DR:5 FR:(+5) NP:-20 Reaction:-10 MC:60} Small Dread Armour
@@ -194,7 +194,7 @@
 {8070}{} Suede Jacket
 {8071}{AC:9 DR:16 FR:5 Prowl:Pickpocket:SpotTrap+1/20} Oiled Thieves Leather
 {8072}{AC:12(+2) DR:23(+2) FR:5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25 MC:40} Mithril Chainmail //MR doesn't fit
-{8073}{AC:25 DR:45 PR:20 FR:20 ER:-10 NP:-90 ST:(+3) TC:30} Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
+{8073}{AC:25 DR:45 PR:20 FR:20 ER:-10 MA:-Res ST:(+3)-NP TC:30} Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20 NP:-90
 {8074}{AC:5 DR:7 FR:3 Prowling:(+2/20) MC:40} Shadowing Robes
 {8075}{AC:15 DR:36 FR:10 ER:-20 NP:-80 TC:10 [Crafting]} Basic Platemail
 {8076}{AC:11 DR:16 FR:ER:PR:(+40) MR:(+70) Reaction:-15 NP:-25 MC:60} Red Barbarian Clothes //NP doesn't fit
@@ -202,7 +202,7 @@
 {8078}{} Small Suede Jacket
 {8079}{AC:9 DR:14 FR:5 NP:5 Prowl:Pickpocket:SpotTrap+1/20} Small Oiled Thieves Leather
 {8080}{AC:12(+2) DR:21(+2) FR:5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25 MC:40} Small Mithril Chainmail //MR doesn't fit
-{8081}{AC:25 DR:38 PR:20 FR:20 ER:-10 NP:-90 ST:(+3) TC:30} Small Machined Plate //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
+{8081}{AC:25 DR:38 PR:20 FR:20 ER:-10 MA:-Res ST:(+3)-NP TC:30} Small Machined Plate NP:-90 does not fit //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20 
 {8082}{AC:5 DR:7 FR:3 Prowling:(+2/20) MC:40} Small Robe of the Chameleon
 {8083}{AC:14 DR:30 FR:8 ER:-20 NP:-80 TC:10 [Crafting]} Small Basic Platemail
 {8084}{AC:11 DR:16 FR:ER:PR:(+40) MR:(+70) Reaction:-15 NP:-25 MC:60} Small Red Barbarian Clothes //NP doesn't fit
@@ -251,8 +251,8 @@
 {8127}{} Large Studded Leather
 {8128}{AC:20 DR:45 FR:30 NP:-35 TC:20 [Crafting]} Large Elite Plate
 {8129}{} Large Rustic Finery
-{8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Feather-Weight Chain
-{8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Small Feather-Weight Chain
+{8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 TC:20 MA:+Weight [Crafting]} Feather-Weight Chain
+{8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 TC:20 MA:+Weight [Crafting]} Small Feather-Weight Chain
 {8132}{[Crafting][Valuable]} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
@@ -350,9 +350,9 @@
 {8226}{AC:12(+15) DR:10 FR:5 ER:-10 AllRes:(15) NP:-25(+10) MC:75} Small Mystic Chainmail //All res+15 except ER+10,MC doesn't fit
 {8227}{AC:12(+20) DR:23 FR:5 ER:-10 AllRes:(20) NP-25(+15) MC:100} Arcane Chainmail //All res+20 except ER+15,MC doesn't fit
 {8228}{AC:12(+20) DR:21 FR:5 ER:-10 AllRes:(20) NP-25(+15) MC:100} Small Arcane Chainmail //All res+20 except ER+15,MC doesn't fit
-{8229}{AC:18 DR:45 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
-{8230}{AC:18 DR:40 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Small Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
-{8231}{AC:18 DR:47 FR:10 ER:65 NP:-80 MA gives -resist TC:100} Large Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8229}{AC:18 DR:45 FR:10 ER:65 NP:-80 MA:-Res TC:100} Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8230}{AC:18 DR:40 FR:10 ER:65 NP:-80 MA:-Res TC:100} Small Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
+{8231}{AC:18 DR:47 FR:10 ER:65 NP:-80 MA:-Res TC:100} Large Electro-Armor //TC doesn't fit,MA maluses AC:-10 DR:-15 FR:-10 ER:-75
 {8232}{AC:3 DR:3 FR:2(+10) OtherRes:(+10) MC:25} Charmed Robes
 {8233}{AC:3 DR:3 FR:2(+10) OtherRes:(+10) MC:25} Small Charmed Robes
 {8234}{AC:3 DR:3 FR:2(+20) OtherRes:(+20) MC:50} Magick Robes
@@ -412,7 +412,7 @@
 {8288}{[Valuable]} Sapphire Necklace
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 Perception:(+3) TC:60} Goggled Helmet
-{8291}{AC:25 DR:53 PR:20 FR:20 ER:-10 NP:-90 ST:(+3) TC:30} Large Machined Platemail //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
+{8291}{AC:25 DR:53 PR:20 FR:20 ER:-10 MA:-Res ST:(+3)-NP TC:30} Large Machined Platemail //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20 NP:-90
 {8292}{AC:13 DR:25 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Large Feather-Weight Chain 
 
 //Gold
