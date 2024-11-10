@@ -16,7 +16,7 @@
 {30013}{Tugal's Statue} // Tugal's Statue
 {30014}{+70 Poison Level to the target [Quest]} // Grunwalde's Poison
 {30015}{} // Black Root's Taxes //UNUSED//
-{30016}{[Quest]} // Princess Aria's Amulet
+{30016}{[Quest] Found on a body on shipwreck} // Princess Aria's Amulet
 {30017}{Music Box} // Music Box
 {30018}{Candlestick} // Candlestick
 {30019}{Vase} // Vase
@@ -63,7 +63,7 @@
 {30060}{Alexander the Acolyte} // Alexander the Acolyte
 {30070}{Gunther Willhelm} // Gunther Willhelm
 {30071}{Hadrian the Archaeologist} // Hadrian the Archaeologist
-{30072}{[Quest]} // Skull from the Tomb of Nasrudin
+{30072}{[Quest] Elven skull schould be a bit different.} // Skull from the Tomb of Nasrudin
 {30073}{} //Quest Map to Stringy Pete's Cove
 {30074}{Salty Seadrick} // Salty Seadrick
 {30075}{D:2-9 FT:2-5 MSR:6/8 [Quest]} // Complexity 0 // Sword of Mannox
@@ -303,7 +303,7 @@
 {30362}{- 11 Low Dervish Row -} // - 11 Low Dervish Row -
 {30363}{- 77 Devonshire Way * Madam Toussaude's House of Secrets -} // - 77 Devonshire Way * Madam Toussaude's House of Secrets -
 {30364}{- 69 Devonshire Way * Madam Lil's -} // - Madam Lil's -
-{30365}{[Quest]} // Heron Device
+{30365}{[Quest] Miniaturized steam engine.} // Heron Device
 {30366}{Makes living targets flee [Quest]} // Mr. Fitzgerald's Potion of Dark Power
 {30367}{[Quest]} // Will-o-the-Wisp Essence
 {30368}{[Quest]} // Schreck's Multi-Barreled Pistol
@@ -402,7 +402,7 @@
 {30461}{Beauty:(+2) MC:40 [Quest]} // Complexity +40 // Necklace of Queen K'na S'ea
 {30462}{Clue to find Liam.} //Quest Liam Cameron's Journal
 {30463}{Thieves Underground Package} // Thieves Underground Package
-{30464}{[Quest]} // Trevor Lynwood's Camera
+{30464}{[Quest] Functional photocamera.} // Trevor Lynwood's Camera
 {30465}{Mithral knife of G'har} // Mithral knife of G'har
 {30466}{D:1-8 FT:3-12 DX:PE:(+2) Teleport, Divine, See Contents MSR:5 MC:100} //MSR doesn't fit //Staff of K'an Tau
 {30467}{The Great Castle S'nel N'fa} // S'nel N'fa
@@ -410,7 +410,7 @@
 {30469}{[Quest] Ruby described in the book.} // Great Ruby of K'alru
 {30470}{Prowling:+2/20} // Ring of Concealment
 {30471}{[Quest]} // Potion to Heal the Blind
-{30472}{[Quest]} // J.T. Morgan's Master Locksmith Tools
+{30472}{[Quest] Usable only by master locksmith.} // J.T. Morgan's Master Locksmith Tools
 {30473}{Prowling:+2/20} // This description cover both rings Complexity 0 or 40 in Roseborough and Caladon // Ring of Silence
 {30474}{CN:(+4) MR:(+40) MC:80} // Complexity +80 // Amulet of K'an-el
 {30475}{Considerable bonus to haggle when worn} // The Haggle Master's Ring
@@ -422,7 +422,7 @@
 {30481}{[Quest]} // Prowling Master Note 3
 {30482}{The Mushroom Inn} // The Mushroom Inn
 {30483}{The Sobbing Onion} // The Sobbing Onion
-{30484}{[Quest]} // Daniel Hallaway's Strongbox
+{30484}{[Quest] Strongbox of Tavern owner.} // Daniel Hallaway's Strongbox
 {30485}{The Bleeding Rose Inn} // The Bleeding Rose Inn
 {30486}{Thieves underground Bag of Jewels} // Thieves underground Bag of Jewels
 {30487}{Magick Resistance:+40 [Quest]} // Cassie's Necklace
@@ -438,7 +438,7 @@
 {30497}{Middle aged farmer} // Middle aged farmer
 {30498}{Cynthia Wit} // Cynthia Wit
 {30499}{Pretty farm girl} // Pretty farm girl
-{30500}{[Quest]} // Lycanthrope Restorative
+{30500}{[Quest] Looks just like regular potion.} // Lycanthrope Restorative
 {30501}{Winno Whitewash} // Winno Whitewash
 {30502}{Maid} // Maid
 {30503}{Maug Maulman} // Maug Maulman
@@ -451,7 +451,7 @@
 {30510}{Jason C. Guy} // Jason C. Guy
 {30511}{Scholarly Gentleman} // Scholarly Gentleman
 {30512}{Key to Bates' Factory} // Key to Bates' Factory
-{30513}{[Quest]} // Map of Tarantian Sewers
+{30513}{[Quest] Thieves underground wanna have their hand on this.} // Map of Tarantian Sewers
 {30514}{Nicholas Longfoot} // Nicholas Longfoot
 {30515}{Madam's Bartender/Bouncer} // Madam's Bartender/Bouncer
 {30516}{Lianna} // Lianna
@@ -518,7 +518,7 @@
 {30768}{(0.5*DR) (1.2*MR) MC:80} // Hexed Leather Armour but this is medallion of dark magic description (Description file is bugged, it will show hexed leather description for the medallion of dark magic and vice versa) 
 {30769}{AC:9 DR:16 FR:5 (1.2*DR)(0*PR) DOT:FT:1/3,PD:15-30 NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
 {30776}{AC:3 DR:5 D:+7 if Dwarf:[DX:+2 ST:+1 CN:+1] TC:15} // Mysterious Dwarven Gauntlets
-{30777}{[Quest]} // Book Half Ogre Laboratory Journal
+{30777}{[Quest] There is no author or any names mentioned.} // Book Half Ogre Laboratory Journal
 {30782}{[Quest]}//Golden Idol of Kree
 {30783}{[Quest]}//Ancient Pocket Watch
 {30784}{[Quest]}//Ancient Gears
@@ -563,7 +563,7 @@
 {30934}{[Quest]}//Robbery Heirloom Statue
 {30936}{AC:(+10) PR:(+20) MC:20} // Ring of Poison Resistance
 {30957}{[Quest] Yuck.}//Eyes of Sir Garrick Stout
-{30963}{[Quest]}//Arbalah's Sacred Artifact
+{30963}{[Quest] Cheaply made trinket.}//Arbalah's Sacred Artifact
 {30967}{ST:(+1) CN:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
 {31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
@@ -700,18 +700,18 @@
 {40038}{[Quest]} // Volar's Wisp Essence
 {40039}{[Quest]} // Volar's Wisp Essence
 {40040}{[Quest]} // Volar's Wisp Essence
-{40041}{[Quest]} // Old Sprocket Bessie Toone Mines
-{40042}{[Quest]Perfect for making a glorious altar for Halcyon.} // Torin Quarry Stone 
+{40041}{[Quest] This part will undo all the damage.} // Old Sprocket Bessie Toone Mines
+{40042}{[Quest] Perfect for making a glorious altar for Halcyon.} // Torin Quarry Stone 
 {40043}{[Quest]} // Stone
 {40044}{[Quest]} // Stone
 {40045}{[Quest]} // Stone
 {40046}{[Quest]} // Stone
-{40047}{[Quest]} // Stone
-{40048}{[Quest]} // Elven Ruins Funerary Stone 
+{40047}{[Quest] Thats the heaviest rock.} // Stone
+{40048}{[Quest] Lady with too much money could not find better hobby.} // Elven Ruins Funerary Stone 
 {40049}{[Quest]} // Matthew Jones' Wedding Ring
 {40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} //Ashbury Theodore's Technological Plate / Basic Machined Plate
 {40051}{[Quest]} // Note from Maximillian confirming receipt of Moonshine
-{40052}{[Quest]} // Newspaper with editorial on Arland-Tarant difficulties
+{40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
 
 
