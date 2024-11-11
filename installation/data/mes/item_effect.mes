@@ -399,7 +399,7 @@
 {8275}{FR:(+20) ER:(+20) PR:(+20) MR:(+20) MC:100} Arcane Ring
 {8276}{AC:4 D:+2 [Crafting]} Vendigrothian Padded Leather Gloves
 {8277}{AC:15 D:+15 TC:10} Vendigrothian War Gauntlets
-{8278}{} Void Ring //Quest
+{8278}{Helps traveling in the Void.} Void Ring //Quest
 {8279}{[Valuable]} Emerald Ring
 {8280}{[Valuable]} Ruby Ring
 {8281}{[Valuable]} Sapphire Ring
@@ -648,7 +648,7 @@
 {14103}{} Pyrotechnic Gun 
 {14104}{} Blade Launcher 
 {14105}{} High Velocity Pistol 
-{14106}{} Schreck's Multi-Barreled Pistol // UAP made it useable
+{14106}{[Quest]} Schreck's Multi-Barreled Pistol // UAP made it useable
 {14107}{} Long Range Pistol 
 {14108}{} Tranquilizer Gun 
 {14109}{} Poison Arachnid 
