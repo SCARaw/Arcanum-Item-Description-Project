@@ -713,6 +713,12 @@
 {40051}{[Quest] Note from Maximillian} // Note from Maximillian confirming receipt of Moonshine
 {40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
+{40054}{[Quest]} // Wheel Clan Spectacles
+{40055}{[Quest]} // Arronax Warden's Medallion
+{40056}{[Quest]} // Caladon's Sunken Chest
+{40057}{[Quest]} // Liam's Magick Trap
+{40058}{[Quest]} // Enchanted Looking Glass
+
 
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
