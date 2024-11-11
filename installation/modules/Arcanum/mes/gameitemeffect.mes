@@ -17,7 +17,7 @@
 {30014}{+70 Poison Level to the target [Quest]} // Grunwalde's Poison
 {30015}{} // Black Root's Taxes //UNUSED//
 {30016}{[Quest] Found on a body on shipwreck} // Princess Aria's Amulet
-{30017}{Music Box} // Music Box
+{30017}{[Quest]} // Music Box (Madam Lil's)
 {30018}{Candlestick} // Candlestick
 {30019}{Vase} // Vase
 {30020}{Poisoned Sword} // Poisoned Sword
@@ -198,7 +198,7 @@
 {30256}{Exit only: NO RETURN SERVICE} // Exit only: NO RETURN SERVICE
 {30257}{Exit Only} // Exit Only
 {30258}{Steamrail Attendant} // Steamrail Attendant
-{30259}{[Quest]} // Special Invitation to the Wellington Gentlemen's Club
+{30259}{} //Special Invitation to the Wellington Gentlemen's Club //UNUSED INGAME 
 {30260}{Telegraph Operator} // Telegraph Operator
 {30261}{Dept. of Water Clerk} // Dept. of Water Clerk
 {30262}{[Quest] Now you can help the elven hunter escape.} // Vine Rope
@@ -311,10 +311,10 @@
 {30370}{[Quest]} // Napha Water
 {30371}{[Quest] Small sack of rubies.} // Flawless Dwarven Rubies
 {30372}{Gambling:+2/20, Haggle:+1/20 [Quest]} // Lucky Medallion
-{30373}{[Quest]} // Madam Lil's Music Box
+{30373}{} // Madam Lil's Music Box //UNUSED INGAME
 {30374}{[Quest] This might cause an affair.} // Cassie's Jewelry
 {30375}{D:6-13 FT:1-4 MSR:6/8 [Quest]} // Sword of the Derian Ka
-{30376}{[Quest]} // Sunken Treasure
+{30376}{} // Sunken Treasure //UNUSED INGAME
 {30377}{Constitution:+2 [Quest]} // Ring of Virility
 {30378}{[Quest]} // Enchanted Looking Glass
 {30379}{BE:+2 CH:+1 [Quest]} // Jewel of Hebe
@@ -451,7 +451,7 @@
 {30510}{Jason C. Guy} // Jason C. Guy
 {30511}{Scholarly Gentleman} // Scholarly Gentleman
 {30512}{Key to Bates' Factory} // Key to Bates' Factory
-{30513}{[Quest] Thieves underground wanna have their hand on this.} // Map of Tarantian Sewers
+{30513}{[Quest] Thieves underground wanna have their hands on it.} // Map of Tarantian Sewers
 {30514}{Nicholas Longfoot} // Nicholas Longfoot
 {30515}{Madam's Bartender/Bouncer} // Madam's Bartender/Bouncer
 {30516}{Lianna} // Lianna
@@ -460,7 +460,7 @@
 {30519}{Mr. Razzia} // Mr. Razzia
 {30520}{Saboteurs} // Saboteurs
 {30521}{Vendigroth Journal} // Vendigroth Journal
-{30522}{[Junk] Gift matchbook from inn, but where is that?} // Matchbook from The Roseborough Inn
+{30522}{Wherever is Roseborough, i should ask locals about it.} // Matchbook from The Roseborough Inn
 {30523}{Simeon Tor} // Simeon Tor
 {30524}{Jorian} // Jorian
 {30525}{V'ed Eckes} // V'ed Eckes
@@ -543,10 +543,10 @@
 {30864}{Magick Resistance:+40 [Quest]} //Pelojian's Amulet
 {30873}{[Quest]} // Book The Journal of Saint Mannox
 {30874}{[Quest]} // White Scarf
-{30875}{} //Cynthia Boggs' Locket
+{30875}{[Junk]} //Cynthia Boggs' Locket
 {30877}{D:1-10 FT:2-5 TH:(+30) RNG:15(+50) CR:(+50) MSR:10 MC:80} //MSR doesn't fit Bow of Ecclesiastes
-{30880}{[Quest] Helps traveling in the Void.} // Void Ring
-{30881}{[Quest]This stone is covered in ancient dwarven runes.} // The Durin Stone
+{30880}{Helps traveling in the Void.} // Void Ring
+{30881}{[Quest] This stone is covered in ancient dwarven runes.} // The Durin Stone
 {30890}{This stone altar looks unused and stained.} // Desecrated Altar
 {30894}{[Quest]} // Fa'al Kin's Ring
 {30895}{AC:2 DR:5 PE:-1 [Quest]} // Fa'al Kin's Helmet
@@ -564,6 +564,7 @@
 {30936}{AC:(+10) PR:(+20) MC:20} // Ring of Poison Resistance
 {30957}{[Quest] Yuck.}//Eyes of Sir Garrick Stout
 {30963}{[Quest] Cheaply made trinket.}//Arbalah's Sacred Artifact
+{30964}{[Quest]} //Invitation to the Wellington Club
 {30967}{Strength:(+1) Constitution:(+1) Heal Rate:(+50%)} // Amulet of N'Tala
 {30973}{This old drum seems to have a key carved into its face.} // Ancient Iron Drum
 {31030}{Entrance to the Wheel Clan} // Entrance to the Wheel Clan
@@ -607,7 +608,7 @@
 {31068}{Thaddeus Mynor} // Thaddeus Mynor
 {31069}{Jacob Bens} // Jacob Bens
 {31070}{Found on the crashsite on the name Preston Radiffe.}//Passport //Quest
-{31071}{[Quest] Legendary undead pirate hoarded this gold for centuries.} // Stringy Pete's Treasure
+{31071}{[Quest] Legendary undead pirate hoarded this gold.} // Stringy Pete's Treasure
 {31072}{} //UNUSED INGAME The Boot Buckles of Jonas Williamson
 {31073}{Virgil} // Virgil
 {31074}{First Bank of Shrouded Hills} // First Bank of Shrouded Hills
@@ -630,7 +631,7 @@
 {31166}{Spawns a mighty halfling for aid if you won ancient game.}//Mysterious Gem
 {31169}{This old drum seems to have a book carved into its face.} // Ancient Iron Drum
 {31170}{There's a faded symbol carved onto the drum's surface.} // Ancient Iron Drum
-{31174}{AC:45 DR:50 PR:30 FR:30 MA:-Res NP:-20 TC:-30} // Iron Clan Armor MA maluses AC:-30 DR:-20 PR:-30 ER:-30 FR:-20
+{31174}{AC:45 DR:50 PR:30 FR:30 MA:-Res NP:-20 TC:30} // Iron Clan Armor MA maluses AC:-30 DR:-20 PR:-30 ER:-30 FR:-20
 {31175}{D:15-35 FT:1-8 FD:1-5 TH:+5 MSR:8/10 TC:80} // Iron Clan Hammer
 {31178}{AC:5(+6) DR:7(+12) FR:(+50) MR:(+10) MC:80} // Robe of Fire Protection
 {31182}{}//Crash Site Camera//Quest
@@ -641,7 +642,7 @@
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
 {31190}{AC:2 DR:15} // Helmet of Strength
 {31191}{AC:5(+6) DR:7(+12) FR:(+38) MR:(+10) MC:80} // Ashen Robes
-{31192}{D:1-10 FT:2-5 TH:(+15)SPD:(+2)CR:(+10) Air Elem. MSR:10 MC:45} //MSR doesn't fit Blessed Bow
+{31192}{D:1-10 FT:2-5 TH:(+15) CR:(+10) SPD:(+2)Air Elemental MSR:10 MC:45} //MSR doesn't fit Blessed Bow
 {31193}{D:1-10 FT:1-5 TH:CR:(+10) Fireflash MSR:5/7 MC:20} // Screaming Scimitar
 {31194}{Magick Resistance:+10  MC:40} // Negotiator's Ring
 {31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9 TC:35} // Complexity -35 // Long Range Rifle
@@ -686,7 +687,7 @@
 {40024}{AC:4 DR:17 FR:5 NP:-10} // Shrouded Hills - Lukan's Henchman Large Leather Armour
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
 {40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave ring
-{40027}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
+{40027}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
 {40028}{Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
 {40029}{Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest] Looks like replica of elven statues.} // Hedgewizard's statue
@@ -695,11 +696,11 @@
 {40033}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
 {40034}{[Quest] Small trap to catch the giant.} // Stillwater Trap
 {40035}{[Quest][Valuable] Goldbars are heavier than coins.} // Blackroot Taxes - Case of Five Gold Bars
-{40036}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
+{40036}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
 {40037}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
-{40038}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
-{40039}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
-{40040}{[Quest] Essence formed from corpse of Valar's Wisp.} // Volar's Wisp Essence
+{40038}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
+{40039}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
+{40040}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
 {40041}{[Quest] This part will undo all the damage.} // Old Sprocket Bessie Toone Mines
 {40042}{[Quest] Perfect for new altar for Halcyon.} // Torin Quarry Stone 
 {40043}{[Quest]} // Stone
@@ -713,11 +714,11 @@
 {40051}{[Quest] Note from Maximillian} // Note from Maximillian confirming receipt of Moonshine
 {40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
-{40054}{[Quest]} // Wheel Clan Spectacles
+{40054}{[Quest]} // Wheel Clan Spectacles (Thorvald's)
 {40055}{[Quest]} // Arronax Warden's Medallion
 {40056}{[Quest]} // Caladon's Sunken Chest
 {40057}{[Quest]} // Liam's Magick Trap
-{40058}{[Quest]} // Enchanted Looking Glass
+{40058}{[Quest]} // Enchanted Looking Glass (Tarant Thieves Underground Quest)
 
 
 
