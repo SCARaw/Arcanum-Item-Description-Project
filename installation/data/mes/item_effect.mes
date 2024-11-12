@@ -175,8 +175,8 @@
 {8051}{AC:2 DR:5 Perception:-1} Helmet
 {8052}{DR:5 D:+3 TC:5} Gauntlets
 {8053}{} Boots
-{8054}{} Fancy Ring //changing its description effects unique item descriptions too
-{8055}{} Medallion //changing its description effects unique item descriptions too
+{8054}{[Valuable]} Fancy Ring //changing its description effects unique item descriptions too
+{8055}{[Valuable]} Medallion //changing its description effects unique item descriptions too
 {8056}{DR:2 D:+1 Sturdy pair of Gloves [Crafting]} Leather Gloves
 {8057}{Dexterity:(+2) TC:25} Charged Ring
 {8058}{} Small Heavy Wool Clothes
@@ -198,7 +198,7 @@
 {8074}{AC:5 DR:7 FR:3 Prowling:(+2/20) MC:40} Shadowing Robes
 {8075}{AC:15 DR:36 FR:10 ER:-20 NP:-80 TC:10 [Crafting]} Basic Platemail
 {8076}{AC:11 DR:16 FR:ER:PR:(+40) MR:(+70) Reaction:-15 NP:-25 MC:60} Red Barbarian Clothes //NP doesn't fit
-{8077}{AC:2  DR:1  Reaction:+20} Smoking Jacket
+{8077}{AC:2 DR:1 Reaction:+20} Smoking Jacket
 {8078}{} Small Suede Jacket
 {8079}{AC:9 DR:14 FR:5 NP:5 Prowl:Pickpocket:SpotTrap+1/20} Small Oiled Thieves Leather
 {8080}{AC:12(+2) DR:21(+2) FR:5(+20) ER:-10(+20) PR:(+5) MR:(+20) NP:-25 MC:40} Small Mithril Chainmail //MR doesn't fit
@@ -206,11 +206,11 @@
 {8082}{AC:5 DR:7 FR:3 Prowling:(+2/20) MC:40} Small Robe of the Chameleon
 {8083}{AC:14 DR:30 FR:8 ER:-20 NP:-80 TC:10 [Crafting]} Small Basic Platemail
 {8084}{AC:11 DR:16 FR:ER:PR:(+40) MR:(+70) Reaction:-15 NP:-25 MC:60} Small Red Barbarian Clothes //NP doesn't fit
-{8085}{AC:2  DR:1  Reaction:+20} Small Smoking Jacket
+{8085}{AC:2 DR:1 Reaction:+20} Small Smoking Jacket
 {8086}{} Heavy Rags
 {8087}{AC:9 DR:18 FR:5 NP-5 Prowl:Pickpocket:SpotTrap+1/20} Large Oiled Thieves Leather
 {8088}{AC:15 DR:38 FR:10 ER:-20 NP:-80 TC:10 [Crafting]} Large Basic Platemail
-{8089}{AC:2  DR:1  Reaction:+20} Large Smoking Jacket
+{8089}{AC:2 DR:1 Reaction:+20} Large Smoking Jacket
 {8090}{} Wool Jacket
 {8091}{AC:9 DR:16 FR:5 NP:-10 [Crafting]} Leather Armour
 {8092}{AC:12 DR:23 FR:5 ER:-10 NP:-10 TC:5} Oiled Chainmail
@@ -253,13 +253,13 @@
 {8129}{} Large Rustic Finery
 {8130}{AC:13 DR:24 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Feather-Weight Chain //MA:+Weight
 {8131}{AC:13 DR:23 FR:5 ER:-10 NP:-25 TC:20 [Crafting]} Small Feather-Weight Chain //MA:+Weight
-{8132}{[Crafting][Valuable]} Copper Ring //changing its description effects unique item descriptions too
+{8132}{[Crafting]} Copper Ring //changing its description effects unique item descriptions too
 {8133}{} Plain Dress
 {8134}{} Small Plain Dress Small Ladies City Dweller Clothes
 {8135}{} NO GOOD Large Ladies City Dweller Clothes
-{8136}{AC:2  DR:1  Reaction:+20} Elegant Dress Ladies Smoking Jacket
-{8137}{AC:2  DR:1  Reaction:+20} Small Elegant Dress Small Ladies Smoking Jacket
-{8138}{AC:2  DR:1  Reaction:+20} NO GOOD Large Ladies Smoking Jacket
+{8136}{AC:2 DR:1 Reaction:+20} Elegant Dress Ladies Smoking Jacket
+{8137}{AC:2 DR:1 Reaction:+20} Small Elegant Dress Small Ladies Smoking Jacket
+{8138}{AC:2 DR:1 Reaction:+20} NO GOOD Large Ladies Smoking Jacket
 {8139}{} Servant's Dress FEMALE
 {8140}{} Small Servant's Dress Small Ladyservants Clothes
 {8141}{} NO GOOD Large Ladyservants Clothes
@@ -283,7 +283,7 @@
 {8159}{[Quest] Eye is seen in the middle.} Molochean Hand Amulet
 {8160}{Beauty:(+2) MC:40} Medallion of Beauty
 {8161}{Magick Resistance:(+40) MC:80} Dorian Amulet
-{8162}{} Decent Gold Ring
+{8162}{[Valuable]} Decent Gold Ring
 {8163}{} Gilbert Bates' Ring
 {8164}{AC:(+10) DR:(+10) MC:40} Ring of Protection
 {8165}{Crit Rate:(+5), Gambling:(+1/20) MC:40} Fated Ring
@@ -317,11 +317,11 @@
 {8193}{} Kite Shield
 {8194}{AC:10, Shield slot, Detects Traps, Requires Charges TC:40} Flow Specktrometer //TC doesn't fit
 {8195}{AC:30 when hit ED:3-5 to Melee attackers MC:60} Shield of Force
-{8196}{AC=Evil Alignment/2 MC:40} Shadow Shield
+{8196}{AC:Evil Alignment/2 MC:40} Shadow Shield
 {8197}{AC:17 DR:40 FR:15 ER:-20 NP:-80 TC:15} Dwarven Platemail
 {8198}{AC:20(5) DR:15(7) FR:10(10) ER:-20 Heal Rate:(+%40) NP:-80 MC:40} //NP doesn't fit Minute Platemail of Regeneration
 {8199}{AC:3 DR:7 Perception:-1 TC:20 [Crafting]} Great Helm
-{8200}{AC:2  DR:1  NP:-10 Reaction:+20} Sunday's Best Dress
+{8200}{AC:2 DR:1 NP:-10 Reaction:+20} Sunday's Best Dress
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
 {8203}{Max Followers: +1, Increased Reaction Adjustment} Amulet of Leadership //UNUSED INGAME
@@ -401,14 +401,14 @@
 {8277}{AC:15 D:+15 TC:10} Vendigrothian War Gauntlets
 {8278}{Helps traveling in the Void.} Void Ring //Quest
 {8279}{[Valuable]} Emerald Ring
-{8280}{[Valuable]} Ruby Ring
+{8280}{[Valuable][Offering]} Ruby Ring
 {8281}{[Valuable]} Sapphire Ring
 {8282}{[Valuable]} Diamond Ring
-{8283}{[Junk] Looks decorative from a far.} Wooden Ring
-{8284}{[Valuable]} Silver Ring
+{8283}{[Junk] Looks decorative from afar.} Wooden Ring
+{8284}{[Junk]} Silver Ring
 {8285}{[Valuable]} Mithril Ring
 {8286}{[Valuable]} Emerald Necklace
-{8287}{[Valuable]} Ruby Necklace
+{8287}{[Valuable][Offering]} Ruby Necklace
 {8288}{[Valuable]} Sapphire Necklace
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 Perception:(+3) TC:60} Goggled Helmet
@@ -419,8 +419,8 @@
 {9056}{} Gold
 
 // Food
-{10057}{[Food] It has no effect} Bread
-{10058}{[Food] It has no effect} Water
+{10057}{[Food] It has no effect.} Bread
+{10058}{[Food] It has no effect.} Water
 {10059}{Heals 20pts of health. [Crafting]} Healing Salve
 {10060}{Restores 20pts of fatigue. [Crafting]} Fatigue Restorer
 {10061}{[Crafting: Herbology] Used for anxiety in folk medicine.} Ginka Root
@@ -742,7 +742,7 @@
 {15128}{[Valuable] Unfaceted Sapphire Gem.} Rough-Cut Sapphire
 {15129}{[Valuable] Unfaceted Emerald Gem.} Rough-Cut Emerald
 {15130}{[Valuable] Unfaceted Diamond Gem.} Rough-Cut Diamond
-{15131}{[Valuable] Unfaceted Ruby Gem.} Rough-Cut Ruby
+{15131}{[Offering][Valuable] Unfaceted Ruby Gem.} Rough-Cut Ruby
 {15132}{D:5-30 FD:5-30 Knockback [Crafting]} Explosive Grenade
 {15133}{Who needs followers when you can craft one?} Automaton
 {15134}{D:100-200 FD:5-20 Fuse 11 sec. [Crafting]} Dynamite
@@ -797,7 +797,7 @@
 {15183}{[Offering][Valuable] Silver Coin} Mnura Coin
 {15184}{[Offering] Cooled lump of magma.} Lava Rock
 {15185}{[Offering] Symbol of peace.} Olive Branch
-{15186}{[Offering] Rock with mineral formation inside.} Geode
+{15186}{[Offering][Valuable] Rock with mineral formation inside.} Geode
 {15187}{[Offering][Valuable] Rare diamond, glossy and tar.} Black Diamond
 {15188}{Gives expertise bonus equal to Intelligence, can be stacked} Chemistry Manuals
 {15189}{Gives expertise bonus equal to Intelligence, can be stacked} Explosives Manuals
@@ -812,10 +812,10 @@
 {15198}{Demons consider this meat tasty.} Void Animal Carcass
 {15199}{WOAH, you got the real one?} Authentic Stillwater Giant Pelt
 {15200}{[Valuable]} Emerald
-{15201}{[Valuable]} Ruby
+{15201}{[Offering][Valuable]} Ruby
 {15202}{[Valuable]} Sapphire
 {15203}{[Valuable] Looks magnificient.} Diamond
-{15204}{[Valuable] It looks so cool.} Star Ruby
+{15204}{[Valuable][Offering] It looks so cool.} Star Ruby
 {15205}{[Valuable] It looks so cool.} Star Sapphire
 {15206}{} Medical Kit //UNUSED INGAME
 {15207}{[Crafting: Explosives] Distilled crude oil used in lamps.} Kerosene
