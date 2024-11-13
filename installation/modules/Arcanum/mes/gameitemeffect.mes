@@ -95,7 +95,7 @@
 {30101}{K'an Hua} // K'an Hua
 {30102}{"How Nasrudin Defeated the Nefarious Arronax! and Other Stories"} // "How Nasrudin Defeated the Nefarious Arronax! and Other Stories"
 {30103}{Statue of Saint Mannox} // Statue of Saint Mannox
-{30104}{CR:+2 PR:+20 WP:+1 Melee:+2/20} // Complexity 0 // The Finger of Mannox
+{30104}{Crit Rate:+2 PR:+20 WP:+1 Melee:+2/20} // Complexity 0 // The Finger of Mannox
 {30105}{Preston Radcliffe} // Preston Radcliffe
 {30106}{Weldo Rubin} // Weldo Rubin
 {30107}{Milly Fender} // Milly Fender
@@ -688,8 +688,8 @@
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
 {40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave ring
 {40027}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
-{40028}{Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
-{40029}{Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
+{40028}{[Junk] Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
+{40029}{[Junk] Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest] Looks like replica of elven statues.} // Hedgewizard's statue
 {40031}{[Quest][Valuable] Distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
