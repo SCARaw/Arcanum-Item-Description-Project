@@ -379,7 +379,7 @@
 {8255}{AC:15(+8) DR:32 FR:10 ER:-20 AllRes:(+8) NP:-80(+10) MC:75} Small Mystic Platemail //All res+8 except ER+10,MC doesn't fit
 {8256}{AC:15(+10) DR:36 FR:10 ER:-20 AllRes:(10) NP-80(+15) MC:100} Arcane Platemail //All res+10 except ER+15,MC doesn't fit
 {8257}{AC:15(+10) DR:32 FR:10 ER:-20 AllRes:(10) NP-80(+15) MC:100} Small Arcane Platemail //All res+10 except ER+15,MC doesn't fit
-{8258}{AC:30 MR:(+30) TC:60} Flow Disruptor Shield
+{8258}{AC:30 Magick Resistance:(+30) TC:60} Flow Disruptor Shield
 {8259}{AC:10(+4) FR:2(+4) MC:25} Charmed Shield
 {8260}{AC:10(+8) FR:2(+8) MC:50} Magick Shield
 {8261}{AC:10(+12) FR:2(+12) MC:75} Mystic Shield
