@@ -95,7 +95,7 @@
 {30101}{K'an Hua} // K'an Hua
 {30102}{"How Nasrudin Defeated the Nefarious Arronax! and Other Stories"} // "How Nasrudin Defeated the Nefarious Arronax! and Other Stories"
 {30103}{Statue of Saint Mannox} // Statue of Saint Mannox
-{30104}{Crit Rate:+2 PR:+20 WP:+1 Melee:+2/20} // Complexity 0 // The Finger of Mannox
+{30104}{Crit Rate:+2 PR:+20 Willpower:+1 Melee:+2/20} // Complexity 0 // The Finger of Mannox
 {30105}{Preston Radcliffe} // Preston Radcliffe
 {30106}{Weldo Rubin} // Weldo Rubin
 {30107}{Milly Fender} // Milly Fender
@@ -172,7 +172,7 @@
 {30230}{Richard Leeks} // Richard Leeks
 {30231}{Erick Obsidian} // Erick Obsidian
 {30232}{Drog Black Tooth} // Drog Black Tooth
-{30233}{DX:-3 BE:+2 CH:+1 when you have it with you [Quest]} // Statue of the goddess Geshtianna
+{30233}{Dexterity:-3 Beauty:+2 Charisma:+1 when carried [Quest]} // Statue of the goddess Geshtianna
 {30234}{Cyrus} // Cyrus
 {30235}{Edward Willoughsby} // Edward Willoughsby
 {30236}{Perriman Smythe} // Perriman Smythe
@@ -317,7 +317,7 @@
 {30376}{} // Sunken Treasure //UNUSED INGAME
 {30377}{Constitution:+2 [Quest]} // Ring of Virility
 {30378}{[Quest]} // Enchanted Looking Glass
-{30379}{BE:+2 CH:+1 [Quest]} // Jewel of Hebe
+{30379}{Beauty:+2 Charisma:+1 [Quest]} // Jewel of Hebe
 {30380}{Bridge materials} // Bridge Materials
 {30381}{Shrouded Hills Steam Engine} // Shrouded Hills Steam Engine
 {30382}{Ryan Sanders} // Ryan Sanders
@@ -412,7 +412,7 @@
 {30471}{[Quest]} // Potion to Heal the Blind
 {30472}{[Quest] Usable only by master locksmith.} // J.T. Morgan's Master Locksmith Tools
 {30473}{Prowling:+2/20} // This description cover both rings Complexity 0 or 40 in Roseborough and Caladon // Ring of Silence
-{30474}{CN:(+4) MR:(+40) MC:80} // Complexity +80 // Amulet of K'an-el
+{30474}{Magick Resistance:(+40) Consitution:(+4) MC:80} // Complexity +80 // Amulet of K'an-el
 {30475}{Considerable bonus to haggle when worn} // The Haggle Master's Ring
 {30476}{Firearm Master's Rifle} // Firearm Master's Rifle
 {30477}{Note from Willenbecker Gang} // Note from Willenbecker Gang
@@ -535,7 +535,7 @@
 {30818}{AC:15 DR:5 Perception:-1 (1.2*DR) MC:80} //Doesn't entangle bugged  Nature's Wrath Helm
 {30823}{DR:2 (1.2*DR:ER:PR:MR) (0*PR) DOT:FT:1/3,PD:15-30 AC:3 FR:-15 MR:(10) MC:50} //Baneful Gauntlets but this is venomous robes description (Description file is bugged, it will show baneful gauntlets description for the venomous robes and vice versa)
 {30830}{DR:3 Dexterity:(+2) DOT:FT:1/3 MC:40} // Boots of the Dark Toll
-{30831}{(0.5*DR:FR:ER:PR) (1.2*MR) IN:(+1) MC:80} // Ring of Dark Magicks
+{30831}{(0.5*DR:FR:ER:PR) (1.2*MR) Intelligence:(+1) MC:80} // Ring of Dark Magicks
 {30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP:FT:1/3 MC:75} //MC doesn't fit Ring of Shadows
 {30836}{AC:9 DR:14 FR:5 (0.5*DR) (1.2*MR) NP:-10 MC:25} // Medallion of Dark Magicks but this is hexed leather description (Description file is bugged, it will show hexed leather description for the medallion of dark magic and vice versa) 
 {30837}{Cast Fireflash every 5 sec on everyone in area MC:100} // Hellfire Medallion
@@ -549,7 +549,7 @@
 {30881}{[Quest] This stone is covered in ancient dwarven runes.} // The Durin Stone
 {30890}{This stone altar looks unused and stained.} // Desecrated Altar
 {30894}{[Quest]} // Fa'al Kin's Ring
-{30895}{AC:2 DR:5 PE:-1 [Quest]} // Fa'al Kin's Helmet
+{30895}{AC:2 DR:5 Perception:-1 [Quest]} // Fa'al Kin's Helmet
 {30896}{[Quest]} // Fa'al Kin's Amulet
 {30897}{DR:5 D:+3 [Quest]} // Fa'al Kin's Gauntlets
 {30898}{DR:5 [Quest]} // Fa'al Kin's Boots
@@ -636,7 +636,7 @@
 {31178}{AC:5(+6) DR:7(+12) FR:(+50) MR:(+10) MC:80} // Robe of Fire Protection
 {31182}{}//Crash Site Camera//Quest
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
-{31186}{MR:(+10) Charm MC:20} // Charming Medallion
+{31186}{Magick Resistance:(+10) Charm MC:20} // Charming Medallion
 {31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
 {31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
@@ -659,8 +659,8 @@
 {31206}{AC:30 DR:10 TC:10} // Tempered Shield
 {31207}{D:1-7 FT:1-10 TH:+20 MSR:7/9 TC:10} // Complexity -10 // Dwarven Hammer
 {31208}{D:1-4 FT:2-9 TH:10 RNG:2 Divine Magic MSR:5 MC:30} // Complexity +30 // Righteous Staff
-{31209}{AC:2 DR:10 NP:+10 PE:-1} // Complexity 0 // Fleet Helm
-{31210}{D:1-4 FT:1-2 TH(+20) CR:(+10 )MSR:3/3} // Dread Dagger CANNOT BE FOUND IN GAME
+{31209}{AC:2 DR:10 NP:+10 Perception:-1} // Complexity 0 // Fleet Helm
+{31210}{D:1-4 FT:1-2 TH(+20) CR:(+10) MSR:3/3} // Dread Dagger CANNOT BE FOUND IN GAME
 {31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect MC:75} //  Complexity +75 // Fawn's Bow
 {31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
 {40000}{PE <8 +1 else -1 [Quest]} // Location: Caladon Inn Room 4, Quest: Master Prowler, Property: Only glass that can reveal the painting
@@ -686,12 +686,12 @@
 {40023}{AC:4 DR:17 FR:5 NP:-10} // Shrouded Hills - Lukan's Henchman Large Leather Armour
 {40024}{AC:4 DR:17 FR:5 NP:-10} // Shrouded Hills - Lukan's Henchman Large Leather Armour
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
-{40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave ring
+{40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave Ring
 {40027}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
 {40028}{[Junk] Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
 {40029}{[Junk] Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest] Looks like replica of elven statues.} // Hedgewizard's statue
-{40031}{[Quest][Valuable] Distorted reflection of your face.} // Crystal Ball
+{40031}{[Quest] Distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
 {40033}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
 {40034}{[Quest] Small trap to catch the giant.} // Stillwater Trap
