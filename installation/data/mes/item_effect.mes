@@ -329,27 +329,27 @@
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
 {8206}{Poison Recovery:(x2), Reaction Drop Adjustment:(-5) MC:40} Serpentine Necklace
 {8207}{[Quest]} Wheel Clan Spectacles
-{8208}{AC:9(+5) DR:16 FR:5 AllRes:(+5) NP:-10 MC:25} Charmed Leather Armour
-{8209}{AC:9(+5) DR:14 FR:5 AllRes:(+5) NP:-10 MC:25} Small Charmed Leather Armour
-{8210}{AC:9(+5) DR:18 FR:5 AllRes:(+5) NP:-10 MC:25} Large Charmed Leather Armour
-{8211}{AC:9(+10) DR:16 FR:5 AllRes:(+10) NP:-10(+2) MC:50} Magick Leather Armour
-{8212}{AC:9(+10) DR:14 FR:5 AllRes:(+10) NP:-10(+2) MC:50} Small Magick Leather Armour
-{8213}{AC:9(+10) DR:18 FR:5 AllRes:(+10) NP:-10(+2) MC:50} Large Magick Leather Armour
-{8214}{AC:9(+15) DR:16 FR:5 AllRes:(+15) NP:-10(+4) MC:75} Mystic Leather Armour
-{8215}{AC:9(+15) DR:14 FR:5 AllRes:(+15) NP:-10(+4) MC:75} Small Mystic Leather Armour
-{8216}{AC:9(+15) DR:18 FR:5 AllRes:(+15) NP:-10(+4) MC:75} Large Mystic Leather Armour
-{8217}{AC:9(+20) DR:16 FR:5 AllRes:(+20) NP:-10(+6) MC:100} Arcane Leather Armour //MC doesn't fit
-{8218}{AC:9(+20) DR:14 FR:5 AllRes:(+20) NP:-10(+6) MC:100} Small Arcane Leather Armour //MC doesn't fit
-{8219}{AC:9(+20) DR:18 FR:5 AllRes:(+20) NP:-10(+6) MC:100} Large Arcane Leather Armour //MC doesn't fit
+{8208}{AC:9(+5) DR:16 FR:5 AR:(+5) NP:-10 MC:25} Charmed Leather Armour
+{8209}{AC:9(+5) DR:14 FR:5 AR:(+5) NP:-10 MC:25} Small Charmed Leather Armour
+{8210}{AC:9(+5) DR:18 FR:5 AR:(+5) NP:-10 MC:25} Large Charmed Leather Armour
+{8211}{AC:9(+10) DR:16 FR:5 AR:(+10) NP:-10(+2) MC:50} Magick Leather Armour
+{8212}{AC:9(+10) DR:14 FR:5 AR:(+10) NP:-10(+2) MC:50} Small Magick Leather Armour
+{8213}{AC:9(+10) DR:18 FR:5 AR:(+10) NP:-10(+2) MC:50} Large Magick Leather Armour
+{8214}{AC:9(+15) DR:16 FR:5 AR:(+15) NP:-10(+4) MC:75} Mystic Leather Armour
+{8215}{AC:9(+15) DR:14 FR:5 AR:(+15) NP:-10(+4) MC:75} Small Mystic Leather Armour
+{8216}{AC:9(+15) DR:18 FR:5 AR:(+15) NP:-10(+4) MC:75} Large Mystic Leather Armour
+{8217}{AC:9(+20) DR:16 FR:5 AR:(+20) NP:-10(+6) MC:100} Arcane Leather Armour
+{8218}{AC:9(+20) DR:14 FR:5 AR:(+20) NP:-10(+6) MC:100} Small Arcane Leather Armour
+{8219}{AC:9(+20) DR:18 FR:5 AR:(+20) NP:-10(+6) MC:100} Large Arcane Leather Armour
 {8220}{AC:14 DR:23 FR:5 ER:(+10) NP:-20(+10) MC:20} Qintarra Chainmail //UNUSED INGAME
-{8221}{AC:12(+5) DR:23 FR:5 ER:-10 AllRes:(+5) NP:-25 MC:25} Charmed Chainmail //All res+5 except ER+0,MC doesn't fit
-{8222}{AC:12(+5) DR:10 FR:5 ER:-10 AllRes:(+5) NP:-25 MC:25} Small Charmed Chainmail //All res+5 except ER+0,MC doesn't fit
-{8223}{AC:12(+10) DR:23 FR:5 ER:-10 AllRes:(+10) NP:-25(+5) MC:50} Magick Chainmail //All res+10 except ER+5,MC doesn't fit
-{8224}{AC:12(+10) DR:10 FR:5 ER:-10 AllRes:(+10) NP:-25(+5) MC:50} Small Magick Chainmail //All res+10 except ER+5,MC doesn't fit
-{8225}{AC:12(+15) DR:23 FR:5 ER:-10 AllRes:(15) NP:-25(+10) MC:75} Mystic Chainmail //All res+15 except ER+10,MC doesn't fit
-{8226}{AC:12(+15) DR:10 FR:5 ER:-10 AllRes:(15) NP:-25(+10) MC:75} Small Mystic Chainmail //All res+15 except ER+10,MC doesn't fit
-{8227}{AC:12(+20) DR:23 FR:5 ER:-10 AllRes:(20) NP-25(+15) MC:100} Arcane Chainmail //All res+20 except ER+15,MC doesn't fit
-{8228}{AC:12(+20) DR:21 FR:5 ER:-10 AllRes:(20) NP-25(+15) MC:100} Small Arcane Chainmail //All res+20 except ER+15,MC doesn't fit
+{8221}{AC:12(+5) DR:23 FR:5 ER:-10 AR:(+5) NP:-25 MC:25} Charmed Chainmail //All res+5 except ER+0
+{8222}{AC:12(+5) DR:10 FR:5 ER:-10 AR:(+5) NP:-25 MC:25} Small Charmed Chainmail //All res+5 except ER+0
+{8223}{AC:12(+10) DR:23 FR:5 ER:-10 AR:(+10) NP:-25(+5) MC:50} Magick Chainmail //All res+10 except ER+5,MC doesn't fit
+{8224}{AC:12(+10) DR:10 FR:5 ER:-10 AR:(+10) NP:-25(+5) MC:50} Small Magick Chainmail //All res+10 except ER+5,MC doesn't fit
+{8225}{AC:12(+15) DR:23 FR:5 ER:-10 AR:(+15) NP:-25(+10) MC:75} Mystic Chainmail //All res+15 except ER+10,MC doesn't fit
+{8226}{AC:12(+15) DR:10 FR:5 ER:-10 AR:(+15) NP:-25(+10) MC:75} Small Mystic Chainmail //All res+15 except ER+10,MC doesn't fit
+{8227}{AC:12(+20) DR:23 FR:5 ER:-10 AR:(+20) NP:-25(+15) MC:100} Arcane Chainmail //All res+20 except ER+15,MC doesn't fit
+{8228}{AC:12(+20) DR:21 FR:5 ER:-10 AR:(+20) NP:-25(+15) MC:100} Small Arcane Chainmail //All res+20 except ER+15,MC doesn't fit
 {8229}{AC:18 DR:45 FR:10 ER:65 NP:-80 MA:-Res TC:100} Electro-Armor // MA maluses AC:-10 DR:-15 FR:-10 ER:-75
 {8230}{AC:18 DR:40 FR:10 ER:65 NP:-80 MA:-Res TC:100} Small Electro-Armor // MA maluses AC:-10 DR:-15 FR:-10 ER:-75
 {8231}{AC:18 DR:47 FR:10 ER:65 NP:-80 MA:-Res TC:100} Large Electro-Armor // MA maluses AC:-10 DR:-15 FR:-10 ER:-75
@@ -371,14 +371,14 @@
 {8247}{AC:3(+20) DR:3(+20) FR:2(+20) ER:PR:(+20) NP:(5) MC:100} Small Arcane Traveler's Cloak //MC doesn't fit
 {8248}{} Quality Robes
 {8249}{} Small Quality Robes
-{8250}{AC:15(+4) DR:36 FR:10 ER:-20 AllRes:(+4) NP:-80 MC:25} Charmed Platemail //All res+4 except ER+0,MC doesn't fit
-{8251}{AC:15(+4) DR:32 FR:10 ER:-20 AllRes:(+4) NP:-80 MC:25} Small Charmed Platemail //All res+4 except ER+0,MC doesn't fit
-{8252}{AC:15(+6) DR:36 FR:10 ER:-20 AllRes:(+6) NP:-80(+5) MC:50} Magick Platemail //All res+6 except ER+5,MC doesn't fit
-{8253}{AC:15(+6) DR:32 FR:10 ER:-20 AllRes:(+6) NP:-80(+5) MC:50} Small Magick Platemail //All res+6 except ER+5,MC doesn't fit
-{8254}{AC:15(+8) DR:36 FR:10 ER:-20 AllRes:(+8) NP:-80(+10) MC:75} Mystic Platemail //All res+8 except ER+10,MC doesn't fit
-{8255}{AC:15(+8) DR:32 FR:10 ER:-20 AllRes:(+8) NP:-80(+10) MC:75} Small Mystic Platemail //All res+8 except ER+10,MC doesn't fit
-{8256}{AC:15(+10) DR:36 FR:10 ER:-20 AllRes:(10) NP-80(+15) MC:100} Arcane Platemail //All res+10 except ER+15,MC doesn't fit
-{8257}{AC:15(+10) DR:32 FR:10 ER:-20 AllRes:(10) NP-80(+15) MC:100} Small Arcane Platemail //All res+10 except ER+15,MC doesn't fit
+{8250}{AC:15(+4) DR:36 FR:10 ER:-20 AR:(+4) NP:-80 MC:25} Charmed Platemail //All res+4 except ER+0
+{8251}{AC:15(+4) DR:32 FR:10 ER:-20 AR:(+4) NP:-80 MC:25} Small Charmed Platemail //All res+4 except ER+0
+{8252}{AC:15(+6) DR:36 FR:10 ER:-20 AR:(+6) NP:-80(+5) MC:50} Magick Platemail //All res+6 except ER+5,MC doesn't fit
+{8253}{AC:15(+6) DR:32 FR:10 ER:-20 AR:(+6) NP:-80(+5) MC:50} Small Magick Platemail //All res+6 except ER+5,MC doesn't fit
+{8254}{AC:15(+8) DR:36 FR:10 ER:-20 AR:(+8) NP:-80(+10) MC:75} Mystic Platemail //All res+8 except ER+10,MC doesn't fit
+{8255}{AC:15(+8) DR:32 FR:10 ER:-20 AR:(+8) NP:-80(+10) MC:75} Small Mystic Platemail //All res+8 except ER+10,MC doesn't fit
+{8256}{AC:15(+10) DR:36 FR:10 ER:-20 AR:(+10) NP:-80(+15) MC:100} Arcane Platemail //All res+10 except ER+15,MC doesn't fit
+{8257}{AC:15(+10) DR:32 FR:10 ER:-20 AR:(+10) NP:-80(+15) MC:100} Small Arcane Platemail //All res+10 except ER+15,MC doesn't fit
 {8258}{AC:30 Magick Resistance:(+30) TC:60} Flow Disruptor Shield
 {8259}{AC:10(+4) FR:2(+4) MC:25} Charmed Shield
 {8260}{AC:10(+8) FR:2(+8) MC:50} Magick Shield
@@ -822,7 +822,7 @@
 {15208}{[Crafting] Piece of cloth, too dirty for bandage.} Rag
 {15209}{D:3-15 FD:3-15 Knockback} Molotov Cocktail
 {15210}{[Junk]} Wisp Essence
-{15211}{[Quest]} Volar's Wisp Essence
+{15211}{[Quest] Essence formed from corpse of Volar's Wisp.} Volar's Wisp Essence
 {15212}{Healing Robot Spider, it's awesome.} Medical Arachnid
 {15213}{Train your party members up to your level} Educator's Guide
 
