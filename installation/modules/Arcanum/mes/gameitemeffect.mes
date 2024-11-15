@@ -516,7 +516,7 @@
 {30764}{D:1-15(+10) FT:2-9(+10) ROH-Self-DX:ST:CN:(+3/-4) MSR:5 MC:75}  //MSR doesn't fit Hexed Berserker's Staff
 {30767}{D:FT:1-3(+6) Random Shield of Protection MSR:5 MC:80} // Staff of Hypocrisy
 {30768}{DR:(-50%) MR:(+20%) MC:80} // Medallion of Dark Magick
-{30769}{AC:9 DR:16 FR:5 (1.2*DR)(0*PR) DOT:FT:1/3,PD:15-30 NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
+{30769}{AC:9 DR:16 FR:5 DR:(+20%) PR:(-100%) DOT:FT,PD NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
 {30776}{AC:3 DR:5 D:+7 if Dwarf:[DX:+2 ST:+1 CN:+1] TC:15} // Mysterious Dwarven Gauntlets
 {30777}{[Quest] There is no author or any names mentioned.} // Book Half Ogre Laboratory Journal
 {30782}{[Quest]}//Golden Idol of Kree
@@ -524,19 +524,19 @@
 {30784}{[Quest]}//Ancient Gears
 {30785}{[Quest]}//Ancient Looking Glass
 {30786}{[Quest]}//Ancient Filament
-{30796}{AC:12 DR:23 FR:5(1.2*DR)(0*PR) DOT:FT:1/3,PD:10-30 ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
-{30801}{DR:5 AllRes:(+100%) PR(-200%) DOT:FT:1/3,PD:20-30 D:+3 ROH:PD:1-10 MC:30} //D: doesn't fit Baneful Gauntlets
+{30796}{AC:12 DR:23 FR:5 DR:(+20%) PR:(-100%) DOT:FT,PD ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
+{30801}{DR:5 D:+3 AR:(+100%) PR(-200%) DOT:FT,PD MC:30 ROH:PD:1-10} //ROH doesn't fit Baneful Gauntlets
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} //UNUSED INGAME Chill Plate Mail
-{30803}{AC:15 DR:36 DR:(+%20) DOT:FT:1/3 Crit:Self-FTdmg FR:30 ER:-10 NP:-80 MC:50} //FR doesn't fit Consuming Plate Mail
-{30806}{AC:11 DR:20 AllRes(+20%) ST:DX:PE(-3) Dodge(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
-{30807}{AC:11(+20) DR:16(+30) FR:ER:(30)(1.2*DR)(0*PR:MR) NP:-25 MC:100} //NP doesn't fit Hero's Weakness Barbarian Armour
-{30815}{AC:30 AllRes:(+20%) ST:DX:WP:(-3) MaxFT:(-95%) MC:20} //MC doesn't fit Chill Shield
+{30803}{AC:15 DR:36 FR:30 DR(+%20) DOT:FT crit:Self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail
+{30806}AC:11 DR:20 AR:(+20%) ST:DX:PE:(-3) Dodge:(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
+{30807}{AC:11(+20) DR:16 AR:(+30) DR(+20%)PR:MR(-100%) NP:-25 MC:100} //NP doesn't fit//doesn't give PR:MR:(+30) but those are zeroed by the penalty Hero's Weakness Barbarian Armour
+{30815}{AC:30 AR(+20%) ST:DX:WP(-3) MaxFT(-95%) MC:20} // Chill Shield
 {30817}{DR:MR:(-50%) PE:(+4) Bow:(+2/20) maxHP:FT(-20%) AC:10 DR:5 MC:50} //AC doesn't fit, Helmet of Yzar's Cost, not pixel of a space left c
 {30818}{AC:15 DR:5 Perception:-1 DR:(+20%) MC:80} //Doesn't entangle bugged Nature's Wrath Helm
-{30823}{DR:ER:PR:MR(+20%) PR:(-100%) DOT:FT:1/3,PD:15-30 AC:3 DR:2 FR:-15 MR:(10) MC:50} // Venomous Robes AC+ does not fit
-{30830}{DR:3 Dexterity:(+2) DOT:FT:1/3 MC:40} // Boots of the Dark Toll
+{30823}{FR:-15 DR:ER:PR:MR:(+20%) PR:(-100%) DOT:FT,PD AC:3 DR:2 MR:(10) MC:50} //AC doesn't fit Venomous Robes 
+{30830}{DR:3 Dexterity:(+2) DOT:FT MC:40} // Boots of the Dark Toll
 {30831}{MR:(+20%) OtherRes:(-50%) Intelligence:(+1) MC:80} // Ring of Dark Magicks
-{30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP:FT:1/3 MC:75} //MC doesn't fit Ring of Shadows
+{30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP,FT MC:75} //MC doesn't fit Ring of Shadows
 {30836}{AC:9 DR:14 FR:5 DR:(-50%) MR(+20%) NP:-10 MC:25} // Hexed Leather Armour
 {30837}{Cast Fireflash every 5 sec on everyone in area MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
@@ -621,7 +621,7 @@
 {31081}{Jones the Collector} // Jones the Collector
 {31099}{D:1-10(+1-10 vs Animals) FT:2-5 TH:+10 RNG:15 MSR:8 MC:15} //MC doesn't fit Complexity +15 // Ellumyn's Bow
 {31134}{CH:(+3) BE:(+3) Persuasion:(+3/20) Haggle:(+3/20) MC:60} //MC doesn't fit Ring of Influence
-{31135}{DR:20 (1.2*DR:FR:ER:MR)(0*PR) DOT:FT:1/3,PD:30-45 AC:7 ER:-20 FR:2 NP:-90 MC:50 cannot be resisted} //AC doesn't fit Poisoned Plate Mail
+{31135}{AC:7 DR:20 (PR:-100%, OtherRes:+20%) DOT:FT,PD FR:2 ER:-20 NP:-90 MC:50 cannot be resisted} // FR doesn't fit Poisoned Plate Mail
 {31136}{[Quest] Daring quest design...}//Gem of Water Purity
 {31137}{Invisibility on use for 80 sec.}//Whysper's Gem
 {31144}{[Quest]} // Pilgrim's Robes
