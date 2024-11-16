@@ -25,7 +25,7 @@ Keywords list and explaination:
 
 Vanilla game keywords:
 
-    [MSR] - it's in vanilla but can't be seen until you are too weak
+    [MSR] - it's in vanilla but can't be seen until you're below the required Strength for your equipped weapon
     [D:x-x2] - Damage
     [FT:y-y2] - Fatigue damage
     [TH] - To Hit bonus (flat bonus for chances to land a hit)
