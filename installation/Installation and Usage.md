@@ -20,30 +20,30 @@ Keywords list and explaination:
     [Gift] - this item is a gift for a disgruntled companion
     [Valuable] - this item sells decently
     [Junk] - this item is useless (please do not call Bread and Water Junk)
-    [MSR:x/y] - minimal strength requirement without/with offhand item
+    [MSR:x/y] - Minimum Strength Requirement without/with offhand item
     [Chop]- can break wooden objects without damaging weapon. Only applies to axes
 
 Vanilla game keywords:
 
-    [MSR] - its in vanilla, just not show to you until you are too weak, but already paid for weapon
+    [MSR] - it's in vanilla but can't be seen until you're below the required Strength for your equipped weapon
     [D:x-x2] - Damage
     [FT:y-y2] - Fatigue damage
-    [TH] - to hit bonus (increases hit and crit chances)
+    [TH] - To Hit bonus (flat bonus for chances to land a hit)
     [RNG] - Range of the item
     [Axe] - Chop exist in vanilla, just not described anywhere
     
 Other potentially confusing words:
 
-AllRes - short for All Resistances - include DR, PR, FR, ER, MR   
-OtherRes - Other Resistances - anything left not included previously in description   
-MA:-Res - Some of the Techno Armors have a restrictions to prevent mages from using them, sadly you will have to get by with Legendary Mithlir chainmail   
-CR - Critical Rate (chance to crit, usually as + to all your other crit chances)   
-(Brackets) - imply Bonus is related to aptitude (often magical), used already in vanilla game, mod make it consistent   
-TC - Technological Complexity, its reverse of Magic Complexity, but as positive value, determine power of some Tech items   
-MC - Magic Complexity, determine power level of magical items and penalty of techno items   
-ROH - Random on Hit, vanilla term, but defined only in scripts, it is effect trigger that can or can't happen when you attack things   
+AR - short for All Resistances - includes DR, FR, ER, PR, MR   
+OtherRes - Other Resistances - any resistances not included previously in description   
+MA:-Res - some of the technological armors have penalties scaled with magical aptitude
+CR - Critical Rate (chance to land a critical hit, flat bonus added to your total critical hit chance)   
+(Brackets) - implies the bonus is affected by magickal aptitude (usually scaled), already used in vanilla game, mod makes it consistent
+MC - Magic Complexity, determines power level of magical items
+TC - Technological Complexity, it's the tech equivalent of Magic Complexity, determines power level of tech items
+ROH - Random on Hit, vanilla term, but defined only in scripts, it's effect has a chance to be triggered with a successful hit
 SPD - Weapon Speed, adds to the speed of the weapon, can lower AP cost per hit   
-Speed - Global speed, add on top of your base speed   
-AoE - Area of Effect, it means damage hit multiple targets around contact poimt 
+Speed - Global speed, add on top of your base speed
+AoE - Area of Effect, it means its damage hits multiple targets around contact point 
 
 
