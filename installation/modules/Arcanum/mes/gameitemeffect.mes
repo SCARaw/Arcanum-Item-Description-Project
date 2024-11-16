@@ -63,7 +63,7 @@
 {30060}{Alexander the Acolyte} // Alexander the Acolyte
 {30070}{Gunther Willhelm} // Gunther Willhelm
 {30071}{Hadrian the Archaeologist} // Hadrian the Archaeologist
-{30072}{[Quest] Elven skull schould be a bit different.} // Skull from the Tomb of Nasrudin
+{30072}{[Quest] Elven skull should be a bit different.} // Skull from the Tomb of Nasrudin
 {30073}{} //Quest Map to Stringy Pete's Cove
 {30074}{Salty Seadrick} // Salty Seadrick
 {30075}{D:2-9 FT:2-5 MSR:6/8 [Quest]} // Complexity 0 // Sword of Mannox
@@ -412,7 +412,7 @@
 {30471}{[Quest]} // Potion to Heal the Blind
 {30472}{[Quest] Usable only by master locksmith.} // J.T. Morgan's Master Locksmith Tools
 {30473}{Prowling:+2/20} // This description cover both rings Complexity 0 or 40 in Roseborough and Caladon // Ring of Silence
-{30474}{Magick Resistance:(+40) Consitution:(+4) MC:80} // Complexity +80 // Amulet of K'an-el
+{30474}{Magick Resistance:(+40) Constitution:(+4) MC:80} // Complexity +80 // Amulet of K'an-el
 {30475}{Considerable bonus to haggle when worn} // The Haggle Master's Ring
 {30476}{Firearm Master's Rifle} // Firearm Master's Rifle
 {30477}{Note from Willenbecker Gang} // Note from Willenbecker Gang
@@ -438,7 +438,7 @@
 {30497}{Middle aged farmer} // Middle aged farmer
 {30498}{Cynthia Wit} // Cynthia Wit
 {30499}{Pretty farm girl} // Pretty farm girl
-{30500}{[Quest] Looks just like regular potion.} // Lycanthrope Restorative
+{30500}{[Quest] Appears to be a regular potion.} // Lycanthrope Restorative
 {30501}{Winno Whitewash} // Winno Whitewash
 {30502}{Maid} // Maid
 {30503}{Maug Maulman} // Maug Maulman
@@ -460,7 +460,7 @@
 {30519}{Mr. Razzia} // Mr. Razzia
 {30520}{Saboteurs} // Saboteurs
 {30521}{Vendigroth Journal} // Vendigroth Journal
-{30522}{Wherever is Roseborough, i should ask locals about it.} // Matchbook from The Roseborough Inn
+{30522}{Wherever is Roseborough, I should ask locals about it.} // Matchbook from The Roseborough Inn
 {30523}{Simeon Tor} // Simeon Tor
 {30524}{Jorian} // Jorian
 {30525}{V'ed Eckes} // V'ed Eckes
@@ -521,7 +521,7 @@
 {30774}{[Quest] Strongbox of Tavern owner.} //Antique Strongbox
 {30769}{AC:9 DR:16 FR:5 DR:(+20%) PR:(-100%) DOT:FT,PD NP:-10 MC:10 cannot be resisted} //NP doesn't fit Diseased Leather Armour
 {30776}{AC:3 DR:5 D:+7 if Dwarf:[DX:+2 ST:+1 CN:+1] TC:15} // Mysterious Dwarven Gauntlets
-{30777}{[Quest] There is no author or any names mentioned.} // Book Half Ogre Laboratory Journal
+{30777}{[Quest] There is no author or any name mentioned.} // Book Half Ogre Laboratory Journal
 {30782}{[Quest]}//Golden Idol of Kree
 {30783}{[Quest]}//Ancient Pocket Watch
 {30784}{[Quest]}//Ancient Gears
@@ -538,7 +538,7 @@
 {30818}{AC:15 DR:5 Perception:-1 DR:(+20%) MC:80} //Doesn't entangle bugged Nature's Wrath Helm
 {30823}{AC:3 DR:2 (PR:-100%, OtherRes:+20%) DOT:FT,PD FR:-15 MR:(10) MC:50} //FR doesn't fit Venomous Robes 
 {30830}{DR:3 Dexterity:(+2) DOT:FT MC:40} // Boots of the Dark Toll
-{30831}{(MR:+20%), OtherRes:-50%) Intelligence:(+1) MC:80} // Ring of Dark Magicks
+{30831}{(MR:+20%, OtherRes:-50%) Intelligence:(+1) MC:80} // Ring of Dark Magicks
 {30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP,FT MC:75} //MC doesn't fit Ring of Shadows
 {30836}{AC:9 DR:14 FR:5 DR:(-50%) MR(+20%) NP:-10 MC:25} // Hexed Leather Armour
 {30837}{Cast Fireflash every 5 sec on everyone in area MC:100} // Hellfire Medallion
@@ -690,31 +690,31 @@
 {40024}{AC:4 DR:17 FR:5 NP:-10} // Shrouded Hills - Lukan's Henchman Large Leather Armour
 {40025}{AC:16 DR:23 ER:(+10) NP:-40(+10) MC:10} // 2813 Mr Winde's special Elven Chain
 {40026}{FR:(+10) ER:(+10) PR:(+10) MR:(+10) Reflection Shield MC:50} //MC doesn't fit Uncharted Cave Ring
-{40027}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
+{40027}{[Quest] Essence formed from corpse of a Volar's Wisp.} // Volar's Wisp Essence
 {40028}{[Junk] Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
 {40029}{[Junk] Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
-{40030}{[Quest] Looks like replica of elven statues.} // Hedgewizard's statue
+{40030}{[Quest] Looks like a replica of elven statues.} // Hedgewizard's statue
 {40031}{[Quest] Distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
 {40033}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
 {40034}{[Quest] Small trap to catch the giant.} // Stillwater Trap
 {40035}{[Quest][Valuable] Goldbars are heavier than coins.} // Blackroot Taxes - Case of Five Gold Bars
-{40036}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
+{40036}{[Quest] Essence formed from corpse of a Volar's Wisp.} // Volar's Wisp Essence
 {40037}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
-{40038}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
-{40039}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
-{40040}{[Quest] Essence formed from corpse of Volar's Wisp.} // Volar's Wisp Essence
+{40038}{[Quest] Essence formed from corpse of a Volar's Wisp.} // Volar's Wisp Essence
+{40039}{[Quest] Essence formed from corpse of a Volar's Wisp.} // Volar's Wisp Essence
+{40040}{[Quest] Essence formed from corpse of a Volar's Wisp.} // Volar's Wisp Essence
 {40041}{[Quest] This part will undo all the damage.} // Old Sprocket Bessie Toone Mines
-{40042}{[Quest] Perfect for new altar for Halcyon.} // Torin Quarry Stone 
+{40042}{[Quest] Perfect for Halcyon's new altar.} // Torin Quarry Stone 
 {40043}{[Quest]} // Stone
 {40044}{[Quest]} // Stone
 {40045}{[Quest]} // Stone
 {40046}{[Quest]} // Stone
-{40047}{[Quest] Thats the heaviest rock.} // Stone
+{40047}{[Quest] That's the heaviest rock.} // Stone
 {40048}{[Quest] Lady with too much money could not find better hobby.} // Elven Ruins Funerary Stone 
-{40049}{[Quest] Lost ring of Matthew Jones.} // Matthew Jones' Wedding Ring
+{40049}{[Quest] Matthew Jameson's lost ring.} // Matthew Jameson's Wedding Ring
 {40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} //Ashbury Theodore's Technological Plate / Basic Machined Plate
-{40051}{[Quest] Note from Maximillian} // Note from Maximillian confirming receipt of Moonshine
+{40051}{[Quest] Note from Maximillian.} // Note from Maximillian confirming receipt of Moonshine
 {40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
 {40054}{[Quest]} // Wheel Clan Spectacles (Thorvald's)
