@@ -531,7 +531,7 @@
 {30801}{DR:5 D:+3 AR:(+100%) PR(-200%) DOT:FT,PD MC:30 ROH:PD:1-10} //ROH doesn't fit Baneful Gauntlets
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} //UNUSED INGAME Chill Plate Mail
 {30803}{AC:15 DR:36 FR:30 DR(+%20) DOT:FT crit:Self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail
-{30806}AC:11 DR:20 AR:(+20%) ST:DX:PE:(-3) Dodge:(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
+{30806}{AC:11 DR:20 AR:(+20%) ST:DX:PE:(-3) Dodge:(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
 {30807}{AC:11(+20) DR:16 AR:(+30) DR(+20%)PR:MR(-100%) NP:-25 MC:100} //NP doesn't fit//doesn't give PR:MR:(+30) but those are zeroed by the penalty Hero's Weakness Barbarian Armour
 {30815}{AC:30 AR(+20%) ST:DX:WP(-3) MaxFT(-95%) MC:20} // Chill Shield
 {30817}{DR:MR:(-50%) PE:(+4) Bow:(+2/20) maxHP:FT(-20%) AC:10 DR:5 MC:50} //AC doesn't fit, Helmet of Yzar's Cost, not pixel of a space left c
