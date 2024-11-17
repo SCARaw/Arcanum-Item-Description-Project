@@ -34,16 +34,16 @@ Vanilla game keywords:
     
 Other potentially confusing words:
 
-AR - short for All Resistances - includes DR, FR, ER, PR, MR   
-OtherRes - Other Resistances - any resistances not included previously in description   
-MA:-Res - some of the technological armors have penalties scaled with magical aptitude
+AR - short for All Resistances - includes DR, FR, ER, PR, MR  
+OtherRes - Other Resistances - any resistances not included previously in description  
+MA:-Res - some of the technological armors have penalties scaled with magical aptitude  
 CR - Critical Rate (chance to land a critical hit, flat bonus added to your total critical hit chance)   
-(Brackets) - implies the bonus is affected by magickal aptitude (usually scaled), already used in vanilla game, mod makes it consistent
-MC - Magic Complexity, determines power level of magical items
-TC - Technological Complexity, it's the tech equivalent of Magic Complexity, determines power level of tech items
-ROH - Random on Hit, vanilla term, but defined only in scripts, it's effect has a chance to be triggered with a successful hit
-SPD - Weapon Speed, adds to the speed of the weapon, can lower AP cost per hit   
-Speed - Global speed, add on top of your base speed
-AoE - Area of Effect, it means its damage hits multiple targets around contact point 
+(Brackets) - implies the bonus is affected by magickal aptitude (usually scaled), already used in vanilla game, mod makes it consistent  
+MC - Magic Complexity, determines power level of magical items  
+TC - Technological Complexity, it's the tech equivalent of Magic Complexity, determines power level of tech items  
+ROH - Random on Hit, vanilla term, but defined only in scripts, it's effect has a chance to be triggered with a successful hit  
+SPD - Weapon Speed, adds to the speed of the weapon, can lower AP cost per hit  
+Speed - Global speed, add on top of your base speed  
+AoE - Area of Effect, it means its damage hits multiple targets around contact point  
 
 
