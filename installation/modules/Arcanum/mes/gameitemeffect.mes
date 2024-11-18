@@ -496,7 +496,7 @@
 {30681}{Beauty:(+2) MC:20 [Quest]} // Complexity +20 // Great Aunt Ester's Amulet
 {30682}{Perception:+2 Dexterity:+2} // Complexity 0 // Trapmaker Spectacles
 {30719}{D:1-4 FT:1-2 Crit Fail:(+20) SPD:(+4) MSR:3/3 MC:10} // Fool's Dagger
-{30720}{D:2-9 FT:2-5 SPD:(-6) MSR:8/10 MC:10} // Lingering Sword
+{30720}{D:2-9 FT:2-5 SPD:(-6) MSR:6/8 MC:10} // Lingering Sword
 {30721}{} // Hammer of Impotence //UNUSED INGAME
 {30722}{D:1-4 FT:1-2 Crit Fail:(+20) MSR:3/3 MC:20} // Hexed Dagger
 {30734}{D:1-6 FT:1-2 Backstab(+8/20) Self-D:PD:(1-10) MSR:3/3 MC:50} //MC doesn't fit Shadow Hand Dagger
@@ -641,7 +641,7 @@
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
 {31186}{Magick Resistance:(+10) Charm MC:20} // Charming Medallion
 {31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
-{31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:7/9 TC:40} // Sharp Shooter's Pistol
+{31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:5/7 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
 {31190}{AC:2 DR:15} // Helmet of Strength
 {31191}{AC:5(+6) DR:7(+12) FR:(+38) MR:(+10) MC:80} // Ashen Robes
@@ -667,10 +667,10 @@
 {31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect MC:75} //  Complexity +75 // Fawn's Bow
 {31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
 {40000}{PE <8 +1 else -1 [Quest]} // Location: Caladon Inn Room 4, Quest: Master Prowler, Property: Only glass that can reveal the painting
-{40001}{D:1-8 FT:1-4 TH:(+5) SPD:(+2) MSR:4/6} // Doc Roberts' magickal sword (quest reward)
-{40002}{D:2-9 FT:2-5 TH:+3 MSR:7/9} // Doc Roberts' finely made pistol (quest reward)
+{40001}{D:1-8 FT:1-4 TH:(+5) SPD:(+2) MSR:2/4} // Doc Roberts' magickal sword (quest reward)
+{40002}{D:2-9 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (quest reward)
 {40003}{D:1-12 FT:1-9 MSR:8/10} // Doc Roberts' battle axe (quest reward)
-{40004}{D:2-9 FT:2-5 TH:+3 MSR:7/9} // Doc Roberts' finely made pistol (his own pistol)
+{40004}{D:2-9 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (his own pistol)
 {40005}{D:1-7 FT:1-10 MSR:6/8} // Malloy's Peacemaker
 {40006}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7 TC:20 [Quest]} // Lorria's old pistol
 {40007}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8 MC:15} Elven Hunter's Bow
@@ -681,7 +681,7 @@
 {40014}{D:1-8(+4) FT:1-4 Succour Beast MSR:6/8 MC:40} // Stillwater Blade
 {40015}{D:10-30 FT:1-15 TH:20 RNG:25 MSR:8 TC:70 [Crafting]} // Firearm Master's Rifle
 {40016}{D:1-4 FT:1-2 Mana:10 MSR:2/2 MC:10} // Mage's Dagger
-{40018}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:8/10}//Azram's Star
+{40018}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:6/8}//Azram's Star
 {40019}{D:1-4 FT:1-2 MSR:3/3 [Quest]} Weak Blade of Xerxes
 {40020}{D:1-4 FT:1-2 TH:+10 MSR:2/2} // Caladon's Herbalist Dread Dagger
 {40021}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Tarant's Herbalist Dread Dagger
