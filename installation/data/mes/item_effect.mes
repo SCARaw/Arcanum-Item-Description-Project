@@ -146,7 +146,7 @@
 {6167}{D:1-10 FT:1-3 RNG:20 MSR:6/8} Chakram
 {6168}{D:1-10(+5) FT:1-3 RNG:20 MSR:6/8 MC:40} Serrated Chakram
 {6169}{D:1-10(+7) FT:1-3 RNG:20 MSR:6/8 MC:50} Mystical Chakram
-{6170}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:6/8 MC:75} Azram's Star
+{6170}{D:1-10(+20) FT:1-3 RNG:20(+50) CR:(+50) MSR:6/8 MC:75} Azram's Star
 {6171}{D:20-40 RNG:8 MSR:6/8} Aerial Decapitator
 {6172}{D:10-25 FT:6-15 MSR:14/18} Void Sword //UNUSED INGAME
 {6173}{D:20-40 FT:1-10 ED:10-10 RNG:15 MSR:5/7 TC:85} Droch's Warbringer
