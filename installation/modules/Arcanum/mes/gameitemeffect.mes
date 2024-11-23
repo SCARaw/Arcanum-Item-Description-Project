@@ -407,7 +407,7 @@
 {30466}{D:1-8 FT:3-12 DX:PE:(+2) Teleport, Divine, See Contents MSR:5 MC:100} //MSR doesn't fit //Staff of K'an Tau
 {30467}{The Great Castle S'nel N'fa} // S'nel N'fa
 {30468}{} // Tannon Wroughtbringer's Journal
-{30469}{[Quest] Ruby described in the book.} // Great Ruby of K'alru
+{30469}{[Quest][Valuable] Ruby described in the book.} // Great Ruby of K'alru
 {30470}{Prowling:+2/20} // Ring of Concealment
 {30471}{[Quest]} // Potion to Heal the Blind
 {30472}{[Quest] Usable only by master locksmith.} // J.T. Morgan's Master Locksmith Tools
@@ -535,7 +535,7 @@
 {30807}{AC:11(+20) DR:16 AR:(+30) DR(+20%)PR:MR(-100%) NP:-25 MC:100} //NP doesn't fit//doesn't give PR:MR:(+30) but those are zeroed by the penalty Hero's Weakness Barbarian Armour
 {30815}{AC:30 AR(+20%) ST:DX:WP(-3) MaxFT(-95%) MC:20} // Chill Shield
 {30817}{DR:MR:(-50%) PE:(+4) Bow:(+2/20) maxHP:FT(-20%) AC:10 DR:5 MC:50} //AC doesn't fit, Helmet of Yzar's Cost, not pixel of a space left c
-{30818}{AC:15 DR:5 Perception:-1 DR:(+20%) MC:80} //Doesn't entangle bugged Nature's Wrath Helm
+{30818}{AC:15 DR:5 Perception:-1 DR:(+20%) Entangle MC:80} //Doesn't entangle bugged Nature's Wrath Helm
 {30823}{AC:3 DR:2 (PR:-100%, OtherRes:+20%) DOT:FT,PD FR:-15 MR:(10) MC:50} //FR doesn't fit Venomous Robes 
 {30830}{DR:3 Dexterity:(+2) DOT:FT MC:40} // Boots of the Dark Toll
 {30831}{(MR:+20%, OtherRes:-50%) Intelligence:(+1) MC:80} // Ring of Dark Magicks
