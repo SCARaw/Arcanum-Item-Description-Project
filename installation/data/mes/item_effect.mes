@@ -113,7 +113,7 @@
 {6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 MC:25 [Chop]} Charmed Axe 
 {6135}{D:1-12(+10) FT:1-9(+3) Mana:4 MSR:10/12[Chop] MC:50} Magick Axe
 {6136}{D:1-13(+15) FT:1-9(+6) CR:(+3) Mana:8 MSR:11/13[Chop] MC:75} Mystic Axe //MC doesn't fit
-{6137}{D:3-14(+20) FT:2-10(+9) CR:(+5) Mana:16 [Chop] MSR:11/13 MC:100} Arcane Axe //MSR doesn't fit
+{6137}{D:3-14(+20) FT:2-10(+9) CR:(+5) Mana:16 MSR:11/13 MC:100} Arcane Axe //MSR doesn't fit
 {6138}{D:1-5(+4) FT:1-9(+2) CR:(+1) Mana:8 MSR:8/10 MC:25} Charmed Mace
 {6139}{D:2-5(+8) FT:2-9(+4) CR:(+2) Mana:16 MSR:9/11 MC:50} Magick Mace //MC doesn't fit
 {6140}{D:1-9(+12) FT:1-12(+8) CR:(+3) Mana:24 MSR:10/12 MC:75} Mystic Mace //MC doesn't fit
