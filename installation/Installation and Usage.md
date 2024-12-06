@@ -31,6 +31,7 @@ Vanilla game keywords:
     [TH] - To Hit bonus (flat bonus for chances to land a hit)
     [RNG] - Range of the item
     [Axe] - Chop exist in vanilla, just not described anywhere
+    Arcane - Every Arcane Weapon can't take weapon damage from anything unless you Crit Fail
     
 Other potentially confusing words:
 

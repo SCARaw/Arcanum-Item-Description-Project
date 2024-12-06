@@ -501,7 +501,7 @@
 {30722}{D:1-4 FT:1-2 Crit Fail:(+20) MSR:3/3 MC:20} // Hexed Dagger
 {30734}{D:1-6 FT:1-2 Backstab(+8/20) Self-D:PD:(1-10) MSR:3/3 MC:50} //MC doesn't fit Shadow Hand Dagger
 {30735}{D:1-4(+2) FT:1-2 Heal Rate(-95%) maxFT(-50%) MC:40 MSR:3/3} // MSR doesn't fit Life Stealer Dagger
-{30739}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, OW(-150 alignment), ROH:-20 alignment, MC:100} //FT doesn't fit Sword of Bangelian Scourge
+{30739}{D:5-20(+10) -Align Reaction:(-20) Harm/Lightning/Qlife FT:8-16 PD:10-15(+10) MSR:12/14, On Wear Alignment:(-75), ROH:-20 alignment, MC:100} //FT doesn't fit Sword of Bangelian Scourge
 {30740}{D:5-15(+15) FT:1-8(+8) ROH-FD:20-30 on self or enemy MSR:9/11 MC:75} //MSR doesn't fit Blade of Unholy Fire
 {30741}{D:1-5(+10) DX:(-4) Self-FT:5-10, ROH-Flesh To Stone FT:1-2(+10) MSR:11/13 MC:80} //FT doesn't fit Black Stone Blade
 {30745}{D:5-15 FT:1-9 ER:(-100%) Random Bolt of Lightning ROM:BoL only targets allies MSR:8/10 MC:75 [Chop]} //ROM:BoL doesn't fit Axe of Dark Lightning
@@ -528,9 +528,9 @@
 {30785}{[Quest]}//Ancient Looking Glass
 {30786}{[Quest]}//Ancient Filament
 {30796}{AC:12 DR:23 FR:5 DR:(+20%) PR:(-100%) DOT:FT,PD ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
-{30801}{DR:5 D:+3 AR:(+100%) PR(-200%) DOT:FT,PD MC:30 ROH:PD:1-10} //ROH doesn't fit Baneful Gauntlets
+{30801}{DR:5 D:+3 AR:(+100%) PR(-200%) DOT:FT,PD MC:30 ROCH:Self-PD:1-10} //ROCH doesn't fit Baneful Gauntlets //receiving critical hits or critical misses deals Self-PD:1-10
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} //UNUSED INGAME Chill Plate Mail
-{30803}{AC:15 DR:36 FR:30 DR(+%20) DOT:FT crit:Self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail
+{30803}{AC:15 DR:36 FR:30 DR(+%20) DOT:FT crit:Self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail //receiving critical hits or critical misses deals Self-FTdmg:100%
 {30806}{AC:11 DR:20 AR:(+20%) ST:DX:PE:(-3) Dodge:(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
 {30807}{AC:11(+20) DR:16 AR:(+30) DR(+20%)PR:MR(-100%) NP:-25 MC:100} //NP doesn't fit//doesn't give PR:MR:(+30) but those are zeroed by the penalty Hero's Weakness Barbarian Armour
 {30815}{AC:30 AR(+20%) ST:DX:WP(-3) MaxFT(-95%) MC:20} // Chill Shield
@@ -541,7 +541,7 @@
 {30831}{(MR:+20%, OtherRes:-50%) Intelligence:(+1) MC:80} // Ring of Dark Magicks
 {30832}{Invisibility on wear, Heal Rate:(-100%) DOT:HP,FT MC:75} //MC doesn't fit Ring of Shadows
 {30836}{AC:9 DR:14 FR:5 DR:(-50%) MR(+20%) NP:-10 MC:25} // Hexed Leather Armour
-{30837}{Cast Fireflash every 5 sec on everyone in area MC:100} // Hellfire Medallion
+{30837}{(Casts Fireflash every 5 sec on everyone in area) MC:100} // Hellfire Medallion
 {30853}{D:1-4 FT:1-2 TH:+15 CR:+10 MSR:3/3 [Quest]} // Blade of Xerxes
 {30864}{Magick Resistance:+40 [Quest]} //Pelojian's Amulet
 {30873}{[Quest]} // Book The Journal of Saint Mannox
@@ -717,7 +717,7 @@
 {40051}{[Quest] Note from Maximillian.} // Note from Maximillian confirming receipt of Moonshine
 {40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
-{40054}{[Quest]} // Wheel Clan Spectacles (Thorvald's)
+{40054}{[Quest] Perception:-1} // Wheel Clan Spectacles (Thorvald's)
 {40055}{[Quest]} // Arronax Warden's Medallion
 {40056}{[Quest]} // Caladon's Sunken Chest
 {40057}{[Quest]} // Liam's Magick Trap

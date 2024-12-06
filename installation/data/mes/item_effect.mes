@@ -113,7 +113,7 @@
 {6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 MC:25 [Chop]} Charmed Axe 
 {6135}{D:1-12(+10) FT:1-9(+3) Mana:4 MSR:10/12[Chop] MC:50} Magick Axe
 {6136}{D:1-13(+15) FT:1-9(+6) CR:(+3) Mana:8 MSR:11/13[Chop] MC:75} Mystic Axe //MC doesn't fit
-{6137}{D:3-14(+20) FT:2-10(+9) CR:(+5) Mana:16 [Chop] MSR:11/13 MC:100} Arcane Axe //MSR doesn't fit
+{6137}{D:3-14(+20) FT:2-10(+9) CR:(+5) Mana:16 MSR:11/13 MC:100} Arcane Axe //MSR doesn't fit
 {6138}{D:1-5(+4) FT:1-9(+2) CR:(+1) Mana:8 MSR:8/10 MC:25} Charmed Mace
 {6139}{D:2-5(+8) FT:2-9(+4) CR:(+2) Mana:16 MSR:9/11 MC:50} Magick Mace //MC doesn't fit
 {6140}{D:1-9(+12) FT:1-12(+8) CR:(+3) Mana:24 MSR:10/12 MC:75} Mystic Mace //MC doesn't fit
@@ -309,14 +309,14 @@
 {8185}{[Crafting] Cylindric Hat for upper class.} Top Hat
 {8186}{AC:3 DR:7 TC:10 [Crafting]} Helmet of Vision
 {8187}{Its magnetic inversion bubble protects for DR:20 TC:50} Chapeau of Magnetic Inversion
-{8188}{AC:3 DR:7 PE:-1 Lowers light penalty, scales with MA MC:40} Helm of Light //MC doesn't fit
+{8188}{AC:3 DR:7 PE:-1 Lowers light penalty MA scaled, MC:40} Helm of Light
 {8189}{AC:3(+15) DR:7 Perception:-1 MC:20} Geleam's Helm
 {8190}{} Wooden Shield
 {8191}{} Dented Iron Shield
 {8192}{AC:30 [Crafting]} Quality Iron Shield
 {8193}{} Kite Shield
-{8194}{AC:10, Shield slot, Detects Traps, Requires Charges TC:40} Flow Specktrometer //TC doesn't fit
-{8195}{AC:30 when hit ED:3-5 to Melee attackers MC:60} Shield of Force
+{8194}{AC:10, Detects Traps TA scaled, Requires Charges TC:40} Flow Specktrometer
+{8195}{AC:30 (When hit ED:3-5 to Melee attackers) MC:60} Shield of Force
 {8196}{AC:Evil Alignment/2 MC:40} Shadow Shield
 {8197}{AC:17 DR:40 FR:15 ER:-20 NP:-80 TC:15} Dwarven Platemail
 {8198}{AC:20(5) DR:15(7) FR:10(10) ER:-20 Heal Rate:(+%40) NP:-80 MC:40} //NP doesn't fit Minute Platemail of Regeneration
@@ -328,7 +328,7 @@
 {8204}{AC:6 DR:9 PE:-1 Magic Aptitude:(+20) Alignment:(-20) MC:40} Dark Helm
 {8205}{AC:3, Carry: +1000, WP: -2} Teamster Gloves //UNUSED INGAME
 {8206}{Poison Recovery:(x2), Reaction Drop Adjustment:(-5) MC:40} Serpentine Necklace
-{8207}{[Quest]} Wheel Clan Spectacles
+{8207}{[Quest] Perception:-1} Wheel Clan Spectacles
 {8208}{AC:9(+5) DR:16 FR:5 AR:(+5) NP:-10 MC:25} Charmed Leather Armour
 {8209}{AC:9(+5) DR:14 FR:5 AR:(+5) NP:-10 MC:25} Small Charmed Leather Armour
 {8210}{AC:9(+5) DR:18 FR:5 AR:(+5) NP:-10 MC:25} Large Charmed Leather Armour
@@ -384,7 +384,7 @@
 {8260}{AC:10(+8) FR:2(+8) MC:50} Magick Shield
 {8261}{AC:10(+12) FR:2(+12) MC:75} Mystic Shield
 {8262}{AC:10(+16) FR:2(+16) MC:100} Arcane Shield
-{8263}{AC:15 Lowers light penalty, scales with TA TC:15} Miner's Helmet
+{8263}{AC:15 Lowers light penalty TA scaled, TC:15} Miner's Helmet
 {8264}{AC:10(+4) DR:12(+2) Perception:-1 MC:25} Charmed Helmet
 {8265}{AC:10(+6) DR:12(+4) Perception:-1 MC:50} Magick Helmet
 {8266}{AC:10(+8) DR:12(+6) Perception:-1 MC:75} Mystic Helmet
@@ -681,7 +681,7 @@
 {15067}{} Stillwater trap (empty) //Quest
 {15068}{There is a rabbit inside.} Stillwater trap (full) //Quest
 {15069}{[Crafting: Chemistry] Metal is a good conductor.} Metal Plates
-{15070}{Lowers light penalty, scales with TA [Crafting]} Electric Light
+{15070}{Lowers light penalty TA scaled [Crafting]} Electric Light
 {15071}{[Crafting: Electric] Sturdy glass with light emitter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Lowers light penalty [Crafting]} Lantern
 {15073}{[Crafting: Electric] Holds energy charge.} Capacitor
