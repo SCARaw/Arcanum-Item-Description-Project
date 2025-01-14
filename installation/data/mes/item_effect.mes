@@ -682,7 +682,7 @@
 {15068}{There is a rabbit inside.} Stillwater trap (full) //Quest
 {15069}{[Crafting: Chemistry] Metal is a good conductor.} Metal Plates
 {15070}{Lowers light penalty TA scaled [Crafting]} Electric Light
-{15071}{[Crafting: Electric] Sturdy glass with light emitter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
+{15071}{[Crafting: Electric] A thin piece of metal wire.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Lowers light penalty [Crafting]} Lantern
 {15073}{[Crafting: Electric] Holds energy charge.} Capacitor
 {15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
