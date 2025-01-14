@@ -21,7 +21,7 @@
 {30018}{Candlestick} // Candlestick
 {30019}{Vase} // Vase
 {30020}{Poisoned Sword} // Poisoned Sword
-{30021}{[Quest] Ring of the old lady in Dermholm.} // Gladys' Ring
+{30021}{[Quest] Ring of the old lady in Dernholm.} // Gladys' Ring
 {30022}{D:15-25 FT:5-15 MSR:14/18 MC:25} // Complexity +25 // Sword of Baltar
 {30023}{Smithy} // Smithy
 {30024}{General Store and Magicks} // General Store and Magicks
@@ -528,9 +528,9 @@
 {30785}{[Quest]}//Ancient Looking Glass
 {30786}{[Quest]}//Ancient Filament
 {30796}{AC:12 DR:23 FR:5 DR:(+20%) PR:(-100%) DOT:FT,PD ER:-10 NP:-25 MC:60 cannot be resisted} //ER doesn't fit Diseased Chain Mail
-{30801}{DR:5 D:+3 AR:(+100%) PR(-200%) DOT:FT,PD MC:30 ROCH:Self-PD:1-10} //ROCH doesn't fit Baneful Gauntlets //receiving critical hits or critical misses deals Self-PD:1-10
+{30801}{DR:5 D:+3 AR:(+100%) PR(-200%) DOT:FT,PD MC:30 ROCH:Self-PD:1-10} //ROCH doesn't fit Baneful Gauntlets //critical misses or receiving critical hits deal Self-PD:1-10
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} //UNUSED INGAME Chill Plate Mail
-{30803}{AC:15 DR:36 FR:30 DR(+%20) DOT:FT crit:Self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail //receiving critical hits or critical misses deals Self-FTdmg:100%
+{30803}{AC:15 DR:36 FR:30 DR(+%20) DOT:FT crit:Self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail //critical misses or receiving critical hits deal Self-FTdmg:100%
 {30806}{AC:11 DR:20 AR:(+20%) ST:DX:PE:(-3) Dodge:(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
 {30807}{AC:11(+20) DR:16 AR:(+30) DR(+20%)PR:MR(-100%) NP:-25 MC:100} //NP doesn't fit//doesn't give PR:MR:(+30) but those are zeroed by the penalty Hero's Weakness Barbarian Armour
 {30815}{AC:30 AR(+20%) ST:DX:WP(-3) MaxFT(-95%) MC:20} // Chill Shield
@@ -640,10 +640,10 @@
 {31182}{}//Crash Site Camera//Quest
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
 {31186}{Magick Resistance:(+10) Charm MC:20} // Charming Medallion
-{31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // Witch's Dagger
+{31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // MC doesn't fit Witch's Dagger
 {31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:5/7 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
-{31190}{AC:2 DR:15} // Helmet of Strength
+{31190}{AC:2 DR:15 Perception:-1} // Helmet of Strength 
 {31191}{AC:5(+6) DR:7(+12) FR:(+38) MR:(+10) MC:80} // Ashen Robes
 {31192}{D:1-10 FT:2-5 TH:(+15) CR:(+10) SPD:(+2)Air Elemental MSR:10 MC:45} //MSR doesn't fit Blessed Bow
 {31193}{D:1-10 FT:1-5 TH:CR:(+10) Fireflash MSR:5/7 MC:20} // Screaming Scimitar
@@ -672,7 +672,7 @@
 {40003}{D:1-12 FT:1-9 MSR:8/10} // Doc Roberts' battle axe (quest reward)
 {40004}{D:2-9 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (his own pistol)
 {40005}{D:1-7 FT:1-10 MSR:6/8} // Malloy's Peacemaker
-{40006}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7 TC:20 [Quest]} // Lorria's old pistol
+{40006}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7 TC:20} // Lorria's old pistol
 {40007}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8 MC:15} Elven Hunter's Bow
 {40010}{D:2-10 FT:1-10 MSR:8/10} // Isle of despair pit hammer
 {40011}{D:10-15 MSR:6/8} // Isle of despair pit sword
@@ -711,7 +711,7 @@
 {40045}{[Quest]} // Stone
 {40046}{[Quest]} // Stone
 {40047}{[Quest] That's the heaviest rock.} // Stone
-{40048}{[Quest] Lady with too much money found herself a hobby.} // Elven Ruins Funerary Stone 
+{40048}{[Quest] Lady with too much money found a hobby.} // Elven Ruins Funerary Stone  
 {40049}{[Quest] Matthew Jameson's lost ring.} // Matthew Jameson's Wedding Ring
 {40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} //Ashbury Theodore's Technological Plate / Basic Machined Plate
 {40051}{[Quest] Note from Maximillian.} // Note from Maximillian confirming receipt of Moonshine
