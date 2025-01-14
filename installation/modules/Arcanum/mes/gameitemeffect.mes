@@ -640,7 +640,7 @@
 {31182}{}//Crash Site Camera//Quest
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
 {31186}{Magick Resistance:(+10) Charm MC:20} // Charming Medallion
-{31187}{D:1-4 FT:1-2 TH(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // MC doesn't fit Witch's Dagger
+{31187}{D:1-4 FT:1-2 TH:(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // MC doesn't fit Witch's Dagger
 {31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:5/7 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
 {31190}{AC:2 DR:15 Perception:-1} // Helmet of Strength 
