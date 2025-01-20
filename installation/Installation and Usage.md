@@ -4,7 +4,9 @@
    2. Copy `Jen_ApplyFix.bat` inside the Arcanum root directory as well, and launch it by double-clicking
    3. Enjoy :3
 
-Note: If at any time, Windows asks to replace files during copy, select `yes` / `yes to all` / `replace files in this destination`.
+Note: If at any time, Windows asks to replace files during copy, select `yes` / `yes to all` / `replace files in this destination`.   
+
+WARNING: Fix for Unique Items will work only for items previously not moved from their original position in current save or in a brand new game.
 
 ### Keywords
 
