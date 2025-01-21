@@ -9,23 +9,23 @@
 {6030}{D:1-8 FT:1-4 MSR:6/8} Sword //changing its description effects unique item descriptions too
 {6031}{D:1-12 FT:1-9 MSR:8/10 [Chop]} Axe //changing its description effects unique item descriptions too
 {6032}{D:1-4 FT:1-8 MSR:8/10} Mace
-{6033}{D:4-10 FT:2-5 RNG:10 MSR:5/7 TC:20} Revolver
+{6033}{D:2-9 FT:2-5 RNG:10 MSR:5/7 TC:20} Revolver
 {6034}{D:4-16 FT:3-11 MSR:14/18} Broadsword
 {6035}{D:1-10 FT:2-5 RNG:15 MSR:10} Bow
 {6036}{D:1-10 FT:1-10 RNG:5 MSR:11 TC:30} Shotgun
 {6037}{D:1-4 FT:2-9 MSR:5 [Crafting]} Staff //changing its description effects unique item descriptions too
 {6038}{D:1-8 FT:1-4 PD:10-35 MSR:6/8 TC:30} Envenomed Sword
-{6039}{D:32-64 FT:9-15 RNG:15 MSR:12 TC:80 [Crafting]} Elephant Gun
-{6040}{D:1-3 ED:22-44 RNG:15 Requires Charge TC:55[Crafting] MSR:7} Tesla Rod //MSR doesn't fit
-{6041}{D:1-2 FD:26-52 RNG:3 MSR:12 TC:80} Flame Thrower
+{6039}{D:20-50 FT:1-15 RNG:15 MSR:12 TC:80 [Crafting]} Elephant Gun
+{6040}{D:1-4 ED:10-40 RNG:15 Requires Charge TC:55[Crafting] MSR:8} Tesla Rod //MSR doesn't fit
+{6041}{D:1-4 FD:15-30 RNG:3 MSR:15 TC:80} Flame Thrower
 {6042}{D:1-8(+3) FT:1-4 MSR:5/7 MC:10} Enchanted Sword
 {6043}{} UNUSED //UNUSED INGAME
-{6044}{D:7-13 FT:3-9 TH:+5 RNG:15 MSR:5/7 TC:35 [Crafting]} Fine Revolver
-{6045}{D:4-9 FT:1-5 RNG:15 MSR:8 TC:50 [Crafting]} Repeater Rifle
-{6046}{D:8-16 FT:1-10 RNG:15 MSR:8 TC:25 [Crafting]} Hunting Rifle
+{6044}{D:3-12 FT:3-9 TH:+5 RNG:15 MSR:5/7 TC:35 [Crafting]} Fine Revolver //changing its description effects unique item descriptions too
+{6045}{D:5-12 FT:1-8 RNG:15 MSR:8 TC:50 [Crafting]} Repeater Rifle
+{6046}{D:2-14 FT:1-10 RNG:15 MSR:8 TC:25 [Crafting]} Hunting Rifle
 {6047}{D:1-2 MSR:3/3 TC:1 [Crafting: Mechanical]} Railroad Spike
 {6048}{D:3-12 FT:3-9 MSR:6/8 TC:5 [Crafting]} Balanced Sword
-{6049}{D:1-2 FT:4-10 FD:9-17 ED:9-17 RNG:15 MSR:5/7 TC:60} Bronwyck's Gun
+{6049}{D:1-4 FT:1-8 FD:1-20 ED:5-5 RNG:10 MSR:5/7 TC:60} Bronwyck's Gun
 {6050}{D:1-2 MSR:3/3} Rusty Dagger
 {6051}{D:2-6 FT:1-3 MSR:3/3 [Crafting]} Fine Steel Dagger
 {6052}{D:1-4 D:1-2 RNG:15 MSR:3/3} Throwing Dagger
@@ -57,14 +57,14 @@
 {6078}{D:1-8 FT:1-10 Crit Rate:(+10) MSR:8/10 MC:10} Crushing Hammer
 {6079}{D:1-8 FT:1-10 FD:5-10 MSR:8/10 MC:20} Inferno Hammer
 {6080}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7 TC:20} Old Revolver
-{6081}{D:3-7 FT:1-3 RNG:8 MSR:3/5 TC:5} Flintlock Pistol
+{6081}{D:1-6 FT:1-3 TH:-5 RNG:8 MSR:3/5 TC:5} Flintlock Pistol
 {6082}{D:1-5 TH:-10 RNG:5 MSR:3/5 TC:5} Old Flintlock Pistol
-{6083}{D:8-16 FT:3-9 RNG:12 MSR:5/7 TC:20} Quality Revolver
+{6083}{D:3-12 FT:3-9 RNG:12 MSR:5/7 TC:20} Quality Revolver
 {6084}{D:2-9 FT:2-5 RNG:8 MSR:5/7 TC:30} Hushed Pistol //UNUSED INGAME
-{6085}{D:3-13 FT:2-5 ED:8-8 RNG:15 MSR:5/7 TC:40 [Crafting]} High Velocity Pistol
+{6085}{D:5-12 FT:2-5 RNG:15 MSR:5/7 TC:40 [Crafting]} High Velocity Pistol
 {6086}{D:2-9 FT:2-5 RNG:10 MSR:5/7 TC:40 [Crafting]} Fancy Pistol
-{6087}{D:9-17 FT:1-5 RNG:10 MSR:6/8 TC:85} Schreck's Pistol
-{6088}{D:14-28 FT:2-6 RNG:20 MSR:5/7 TC:40 [Crafting]} Long Range Pistol
+{6087}{D:5-25 FT:1-5 RNG:10 MSR:6/8 TC:60} Schreck's Pistol
+{6088}{D:10-30 FT:2-6 RNG:20 MSR:6/8 TC:40 [Crafting]} Long Range Pistol
 {6089}{D:6-18 FT:4-12 MSR:14/18} Quality Broadsword
 {6090}{D:1-14 FT:1-8 MSR:14/18} Rusty Broadsword
 {6091}{D:2-18 FT:2-10 MSR:14/18} Claymore
@@ -80,22 +80,22 @@
 {6101}{D:1-15 FT:1-3 RNG:15 MSR:8 TC:60} Folding Rifle //UNUSED INGAME
 {6102}{D:1-15 FT:1-3 RNG:15 MSR:8 TC:55} Repeater Rifle Variant 1 //UNUSED INGAME
 {6103}{D:1-15 FT:1-3 RNG:15 MSR:8 TC:60} Repeater Rifle Variant 2 //UNUSED INGAME
-{6104}{D:6-12 FT:1-8 RNG:15 MSR:8 TC:70} Mechanized Gun
-{6105}{D:22-44 FT:1-15 TH:20 RNG:30 MSR:8 TC:70 [Crafting]} Looking Glass Rifle
+{6104}{D:1-30 FT:1-5 RNG:15 MSR:10 TC:100} Mechanized Gun
+{6105}{D:10-30 FT:1-15 TH:20 RNG:25 MSR:8 TC:70 [Crafting]} Looking Glass Rifle
 {6106}{D:4-14 FT:3-9 RNG:20 MSR:8 TC:52 [Crafting]} Marksman Rifle
-{6107}{D:20-40 FT:1-10 RNG:15 MSR:12 TC:100} Levered Machine Gun
+{6107}{D:10-40 FT:1-10 RNG:15 MSR:12 TC:100} Levered Machine Gun
 {6108}{D:2-10 FT:1-5 RNG:15 MSR:9 TC:30} Rifle
 {6109}{D:1-10 FT:1-3 TH:-5 RNG:15 MSR:8 TC:30} Rusted Rifle
-{6110}{D:4-12 FT:5-7 ED:12-24 MSR:5 TC:90 [Crafting]} Shocking Staff
+{6110}{D:1-6 FT:1-3 ED:1-10 Requires Charges TC:90 [Crafting] MSR:5} Shocking Staff //MSR doesn't fit
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 Major Healing MSR:5 MC:20} Staff of Healing
 {6113}{D:1-8 FT:3-12 Major Heal, Charm Beast, Regenerate MSR:5 MC:60} Shaman's Staff
 {6114}{D:1-8 FT:3-12 Mana:50 Illuminate, Dweomer Shield MSR:5 MC:60} Mage's Staff //MC doesn't fit
-{6115}{D:12-24 FT:2-5 TH:+10 RNG:12 MSR:3/5 TC:30} Hushed Revolver
-{6116}{D:4-9 FT:1-4 RNG:15 MSR:3/5 TC:20} Hand Crafted Flintlock
+{6115}{D:2-9 FT:2-5 RNG:9 MSR:5/7 TC:30} Hushed Revolver
+{6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7 TC:20} Hand Crafted Flintlock
 {6117}{D:1-2 FT:1-3 MSR:10/12 [Crafting]} Large Pipe
-{6118}{D:16-32 FT:4-10 RNG:12 MSR:5/7 TC:85 [Crafting]} Hand Cannon
-{6119}{D:13-26 FT:1-10 RNG:15 MSR:8 TC:35 [Crafting]} Clarington Rifle
+{6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 TC:85 [Crafting]} Hand Cannon
+{6119}{D:1-15 FT:1-10 RNG:15 MSR:8 TC:70 [Crafting]} Clarington Rifle
 {6120}{D:1-8(+12) FT:1-4 Crit Effect:(+50) Crit Fail:(+20) MSR:4/6 MC:75} Filament Sword
 {6121}{D:2-6 FT:1-3 MSR:3/3 TC:15} Finely Crafted Dagger 
 {6122}{D:1-4(+3) FT:1-2 MSR:3/3 MC:25} Charmed Dagger 
@@ -128,29 +128,29 @@
 {6149}{D:1-10(+4) FT:2-5 RNG:20 MSR:11 MC:50} Magick Bow 
 {6150}{D:1-10(+6) FT:2-5 RNG:20 MSR:11 MC:75} Mystic Bow 
 {6151}{D:1-10(+8) FT:2-5 RNG:20 MSR:11 MC:100} Arcane Bow 
-{6152}{D:18-36 FT:5-20 RNG:15 Bypasses DR MSR:11 TC:30} Rifled Cannon 
-{6153}{D:10-20 FD:10-20 FT:4-7 RNG:15 Acid damage to item:10 TC:48 MSR:8} Acid Gun //TC doesn't fit
-{6154}{D:1-2 ED:35-70 RNG:20 Requires Charge MSR:10 TC:100} Tesla Gun
-{6155}{D:21-42 FT:5-10 FD:21-42 AoE RNG:15 Requires Fuel MSR:12 TC:100} Grenade Launcher //MSR doesn't fit
-{6156}{D:10-20 FT:4-7 ED:10-20 RNG:15 TC:48 [Crafting] MSR:8} Charged Accelerator Gun //MSR doesn't fit
-{6157}{D:22-44 FT:5-15 RNG:12 Bypasses DR, Silent TC:75 MSR:11} Blade Launcher //MSR doesn't fit
-{6158}{D:10-20 FT:5-10 FD:15-30 RNG:20 MSR:8 TC:95} Pyrotechnic Gun
+{6152}{D:10-30 FT:5-20 RNG:15 Bypasses DR MSR:11 TC:30} Rifled Cannon 
+{6153}{D:1-15 FT:1-3 Acid damage to items:10 RNG:15 TC:48 MSR:8} Acid Gun //MSR doesn't fit
+{6154}{D:1-4 ED:10-80 RNG:15 Requires Charges MSR:11 TC:100} Tesla Gun
+{6155}{D:6-14 FD:2-20 FT:5-10 AoE RNG:15 MSR:12 TC:100} Grenade Launcher 
+{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 TC:48 [Crafting]} Charged Accelerator Gun 
+{6157}{D:30-60 FT:5-15 RNG:15 MSR:15 TC:75} Blade Launcher 
+{6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8 TC:95} Pyrotechnic Gun 
 {6159}{D:1-15 FT:10+CurrentFT RNG:15 TC:100 MSR:8} Tranquilizer Gun
 {6160}{D:1-8 FT:3-12(+6) Mana:20 MSR:5 MC:25} Charmed Staff
 {6161}{D:1-8 FT:3-12(+12) Mana:40 MSR:5 MC:50} Magick Staff
 {6162}{D:1-8 FT:3-12(+18) Mana:60 MSR:5 MC:75} Mystic Staff
 {6163}{D:1-8 FT:3-12(+24) Mana:80 MSR:5 MC:100} Arcane Staff
-{6164}{D:5-8 RNG:20 MSR:6/8} Boomerang
-{6165}{D:8-16 FT:1-2 RNG:20 MSR:6/8} Bladed Boomerang
-{6166}{D:16-32 FT:7-14 RNG:20 MSR:6/8 TC:5} Balanced Boomerang
-{6167}{D:8-18 FT:1-3 RNG:20 MSR:6/8} Chakram
-{6168}{D:7-19(+5) FT:1-3 RNG:20 MSR:6/8 MC:40} Serrated Chakram
-{6169}{D:10-26(+7) FT:1-3 RNG:20 MSR:6/8 MC:50} Mystical Chakram
-{6170}{D:22-40(+20) FT:1-3 RNG:20 CR:(+50) MSR:6/8 MC:75} Azram's Star //MC doesn't fit
-{6171}{D:20-40 ED:10-10 RNG:15 MSR:6/8} Aerial Decapitator
+{6164}{D:1-6 RNG:20 MSR:6/8} Boomerang
+{6165}{D:1-8 FT:1-2 RNG:20 MSR:6/8} Bladed Boomerang
+{6166}{D:1-10 FT:1-3 RNG:20 MSR:6/8 TC:5} Balanced Boomerang
+{6167}{D:1-10 FT:1-3 RNG:20 MSR:6/8} Chakram
+{6168}{D:1-10(+5) FT:1-3 RNG:20 MSR:6/8 MC:40} Serrated Chakram
+{6169}{D:1-10(+7) FT:1-3 RNG:20 MSR:6/8 MC:50} Mystical Chakram
+{6170}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:6/8 MC:75} Azram's Star
+{6171}{D:20-40 RNG:8 MSR:6/8} Aerial Decapitator
 {6172}{D:10-25 FT:6-15 MSR:14/18} Void Sword //UNUSED INGAME
-{6173}{D:20-40 FT:7-10 ED:10-10 RNG:15 MSR:5/7 TC:85} Droch's Warbringer
-{6174}{D:30-60 FT:11-17 ED:12-24 TH:+10 RNG:20 [Crafting] MSR:12 TC:70} Large Bore Vendigrothian Rifle //MSR doesn't fit
+{6173}{D:20-40 FT:1-10 ED:10-10 RNG:15 MSR:5/7 TC:85} Droch's Warbringer
+{6174}{D:5-25 FT:1-7 RNG:15 MSR:8 TC:70 [Crafting]} Large Bore Vendigrothian Rifle
 {6175}{D:1-1 FT:1-3 MSR:6/8 [Crafting]} Oak Axe Handle
 {6176}{D:3-6 MSR:2/2 Bypasses DR} Stiletto
 {6177}{D:1-3 MSR:3/3 [Offering]} Bone Dagger
@@ -775,7 +775,7 @@
 {15161}{Deals FT:10+CurrentFT to the targets} Knock Out Gas Grenade
 {15162}{Makes living targets flee} Hallucination Grenade
 {15163}{D:1-5 ED:5-30 can of lightning} Electrocution Grenade
-{15164}{D:25-50 FT:10-20 Stun} Concussion Grenade
+{15164}{D:25-50 FT:10-20 Knockback} Concussion Grenade
 {15165}{Paralyzes targets for 6 sec.} Paralysis Grenade
 {15166}{Creates 3x3 poison curtain PD:15-25 per sec. lasts 30 sec.} Mustard Gas Grenade
 {15167}{[Crafting: Mechanical] Arrangement of ropes and pulleys.} Boat Rigging
