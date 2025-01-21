@@ -641,7 +641,7 @@
 {31185}{D:1-7 FT:1-10 TH:+10 MSR:8/10} // Lloyd's Hammer
 {31186}{Magick Resistance:(+10) Charm MC:20} // Charming Medallion
 {31187}{D:1-4 FT:1-2 TH:(+15) RNG:(+1) CR:(+10) MSR:3/3 MC:20} // MC doesn't fit Witch's Dagger
-{31188}{D:7-13 FT:3-9 TH:+15 RNG:20 MSR:5/7 TC:40} // Sharp Shooter's Pistol
+{31188}{D:3-12 FT:3-9 TH:+15 RNG:20 MSR:5/7 TC:40} // Sharp Shooter's Pistol
 {31189}{D:1-8 FR:1-4 TH:+15 MSR:5/7} // Tempered Sword
 {31190}{AC:2 DR:15 Perception:-1} // Helmet of Strength 
 {31191}{AC:5(+6) DR:7(+12) FR:(+38) MR:(+10) MC:80} // Ashen Robes
@@ -650,7 +650,7 @@
 {31194}{Magick Resistance:+10  MC:40} // Negotiator's Ring
 {31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9 TC:35} // Complexity -35 // Long Range Rifle
 {31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) Divine Magick MSR:5 MC:40} // Complexity +40 // Divining Staff
-{31197}{D:8-16 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0 // Fleet Boomerang
+{31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0 // Fleet Boomerang
 {31198}{D:1-4 FT:1-2 TH:(+10) Bolt of Lightning MSR:3/3 MC:25} //Complexity +25 // Shocking Dagger
 {31199}{D:1-10 FT:2-5 TH:(+20) CR:(+15) RNG:15 MSR:10 MC:20} //Complexity +20 // Bow of Damage
 {31200}{AC:2 DR:1 FR:(+30) NP:+10 Reaction:+20 MC:20} // Complexity +20 // Enchanted Gown
@@ -668,20 +668,20 @@
 {31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
 {40000}{PE <8 +1 else -1 [Quest]} // Location: Caladon Inn Room 4, Quest: Master Prowler, Property: Only glass that can reveal the painting
 {40001}{D:1-8 FT:1-4 TH:(+5) SPD:(+2) MSR:2/4} // Doc Roberts' magickal sword (quest reward)
-{40002}{D:4-10 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (quest reward)
+{40002}{D:2-9 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (quest reward)
 {40003}{D:1-12 FT:1-9 MSR:8/10} // Doc Roberts' battle axe (quest reward)
-{40004}{D:4-10 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (his own pistol)
+{40004}{D:2-9 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (his own pistol)
 {40005}{D:1-7 FT:1-10 MSR:6/8} // Malloy's Peacemaker
 {40006}{D:1-5 FT:1-2 TH:-10 RNG:8 MSR:5/7 TC:20} // Lorria's old pistol
 {40007}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8 MC:15} Elven Hunter's Bow
 {40010}{D:2-10 FT:1-10 MSR:8/10} // Isle of despair pit hammer
 {40011}{D:10-15 MSR:6/8} // Isle of despair pit sword
 {40012}{D:1-20 MSR:8/10} // Isle of despair pit axe
-{40013}{D:16-32 FT:4-10 RNG:12 MSR:5/7 TC:85 [Crafting]} // Pickpocket Master's Pistol
+{40013}{D:5-35 FT:1-10 RNG:12 MSR:5/7 TC:85 [Crafting]} // Pickpocket Master's Pistol
 {40014}{D:1-8(+4) FT:1-4 Succour Beast MSR:6/8 MC:40} // Stillwater Blade
-{40015}{D:22-44 FT:1-15 TH:20 RNG:30 MSR:8 TC:70 [Crafting]} // Firearm Master's Rifle
+{40015}{D:10-30 FT:1-15 TH:20 RNG:25 MSR:8 TC:70 [Crafting]} // Firearm Master's Rifle
 {40016}{D:1-4 FT:1-2 Mana:10 MSR:2/2 MC:10} // Mage's Dagger
-{40018}{D:22-40(+20) FT:1-3 RNG:20 CR:(+50) MSR:6/8 MC:75}//Azram's Star //MC doesn't fit 
+{40018}{D:1-10(+20) FT:1-3 RNG:20 CR:(+50) MSR:6/8}//Azram's Star
 {40019}{D:1-4 FT:1-2 MSR:3/3 [Quest]} Weak Blade of Xerxes
 {40020}{D:1-4 FT:1-2 TH:+10 MSR:2/2} // Caladon's Herbalist Dread Dagger
 {40021}{D:1-4 FT:1-2 TH:+15 MSR:2/2} // Tarant's Herbalist Dread Dagger
