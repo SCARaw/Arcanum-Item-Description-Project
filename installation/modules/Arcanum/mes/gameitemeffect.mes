@@ -562,7 +562,7 @@
 {30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} //FT doesn't fit Torian Kel's Ancestral Sword
 {30916}{[Quest] Dwarven family heirlom is just a toy.}//Toy Train
 {30918}{[Quest]}//Silver Boot Buckles
-{30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18} // Kryggird's Falchion
+{30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18 [Quest]} // Kryggird's Falchion
 {30934}{[Quest]}//Robbery Heirloom Statue
 {30936}{AC:(+10) PR:(+20) MC:20} // Ring of Poison Resistance
 {30957}{[Quest] Yuck.}//Eyes of Sir Garrick Stout
