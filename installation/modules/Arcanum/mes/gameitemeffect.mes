@@ -58,7 +58,7 @@
 {30055}{Shovel} // Shovel
 {30056}{Shovel of a gravekeeper from Caladon.} // Bingham's Shovel
 {30057}{Bingham Shulefest} // Bingham Shulefest
-{30058}{Book contains human research of the Dark Elves.} //Quest "T'sen-Ang: Horror Among the Dark Elves"
+{30058}{Contains human research on the Dark Elves.} //Quest "T'sen-Ang: Horror Among the Dark Elves"
 {30059}{} //Quest "The Curse of T'sen-Ang"
 {30060}{Alexander the Acolyte} // Alexander the Acolyte
 {30070}{Gunther Willhelm} // Gunther Willhelm
@@ -138,8 +138,8 @@
 {30196}{Muggs} // Muggs
 {30197}{Larrs} // Larrs
 {30198}{Caleb Malloy} // Caleb Malloy
-{30199}{[Quest] Ale you are supposed to get to Pullock Clan.} // Case of ale
-{30200}{[Quest] Maloy has been waiting for this delivery.} // Case of whiskey
+{30199}{[Quest] Ale you are supposed to get to Pollock Clan.} // Case of ale
+{30200}{[Quest] Malloy has been waiting for this delivery.} // Case of whiskey
 {30201}{Vermillion Station} // Vermillion Station
 {30202}{Castleton's General Store} // Castleton's General Store
 {30203}{Vorman Fine Clothes & Tailor} // Vorman Fine Clothes & Tailor
@@ -398,7 +398,7 @@
 {30457}{Librarian} // Librarian
 {30458}{Mr. Victor Wright} // Mr. Victor Wright
 {30459}{Well-to-do business man} // Well-to-do business man
-{30460}{[Quest] This is just empty book for you.} // Divinations and Magicks for the Adept Wizard
+{30460}{[Quest] This is just an empty book for you.} // Divinations and Magicks for the Adept Wizard
 {30461}{Beauty:(+2) MC:40 [Quest]} // Complexity +40 // Necklace of Queen K'na S'ea
 {30462}{Clue to find Liam.} //Quest Liam Cameron's Journal
 {30463}{Thieves Underground Package} // Thieves Underground Package
@@ -451,7 +451,7 @@
 {30510}{Jason C. Guy} // Jason C. Guy
 {30511}{Scholarly Gentleman} // Scholarly Gentleman
 {30512}{Key to Bates' Factory} // Key to Bates' Factory
-{30513}{[Quest] Thieves underground wanna have their hands on it.} // Map of Tarantian Sewers
+{30513}{[Quest] Thieves underground wanna get their hands on it.} // Map of Tarantian Sewers
 {30514}{Nicholas Longfoot} // Nicholas Longfoot
 {30515}{Madam's Bartender/Bouncer} // Madam's Bartender/Bouncer
 {30516}{Lianna} // Lianna
@@ -694,7 +694,7 @@
 {40028}{[Junk] Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
 {40029}{[Junk] Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest] Looks like a replica of elven statues.} // Hedgewizard's statue
-{40031}{[Quest] Distorted reflection of your face.} // Crystal Ball
+{40031}{[Quest] You see a distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
 {40033}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
 {40034}{[Quest] Small trap to catch the giant.} // Stillwater Trap
@@ -715,7 +715,7 @@
 {40049}{[Quest] Matthew Jameson's lost ring.} // Matthew Jameson's Wedding Ring
 {40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} //Ashbury Theodore's Technological Plate / Basic Machined Plate
 {40051}{[Quest] Note from Maximillian.} // Note from Maximillian confirming receipt of Moonshine
-{40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
+{40052}{[Quest] Newspaper editorial on Arland-Tarant difficulties} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
 {40054}{[Quest] Perception:-1} // Wheel Clan Spectacles (Thorvald's)
 {40055}{[Quest]} // Arronax Warden's Medallion
