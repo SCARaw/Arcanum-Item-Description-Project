@@ -424,9 +424,9 @@
 {10059}{Heals 20pts of health [Crafting]} Healing Salve
 {10060}{Restores 20pts of fatigue [Crafting]} Fatigue Restorer
 {10061}{[Crafting: Herbology] Used for anxiety in folk medicine.} Ginka Root
-{10062}{[Crafting: Herbology] Folks cure for backpain.} Kadura Stem
+{10062}{[Crafting: Herbology] Folk cure for backpain.} Kadura Stem
 {10063}{[Crafting: Herbology] Recommended on cold and fevers.} Coca Leaves
-{10064}{[Crafting: Herbology] For recreation and resuscitation.} Tobacco Leaves
+{10064}{[Crafting: Herbology] For recreation and resuscitation.} Tobacco Leaves //The tobacco resuscitator kit was made by Evans & Co. of London in 1774.
 {10065}{+70 Poison Level to the target [Crafting]} Poison
 {10066}{[Crafting: Chemistry] Leyden jar.} Electrolyte Solution
 {10067}{[Crafting: Chemistry] DX:-1 CN:-1 for 27min.} Varham's Aqua Vitae //Duration changes depending on RT-TB game state (27/33/39 min.)
@@ -458,7 +458,7 @@
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]} Wine
 {10094}{[Crafting: Chemistry] Smells of jessamine.} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk] Smells like lavender and spirit.} Dragon Cologne
-{10096}{[Junk] Healing herb used for asthma and neuralgias.} Lingham's Belladonna
+{10096}{[Junk] Healing herb used for asthma and neuralgia.} Lingham's Belladonna
 {10097}{+2 to All Stats for 27 min.} Revitalizer //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10098}{+2 to Mental Stats for 27 min.[Crafting]} Mind Marvel //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10099}{Dexterity:+2 for 27 min.} Tonic of Increased Reflexes //Duration changes depending on RT-TB game state (27/33/39 min.)
@@ -471,7 +471,7 @@
 {10106}{} Witch Hazel Extract // UNUSED INGAME
 {10107}{[Crafting: Therapeutics] Mustard plasters.} Rheumatism Cure
 {10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
-{10109}{[Crafting: Therapeutics] Inflamation aid.} Tincture of Arnica
+{10109}{[Crafting: Therapeutics] Inflammation aid.} Tincture of Arnica
 {10110}{[Crafting: Explosives] Staple of every house.} CK Sugar
 {10111}{Turns target into a mindless slave for 60 sec.} Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
 {10112}{Permanent:+1 to Mental, -1 to Physical Stats.} Brain Builder
@@ -487,10 +487,10 @@
 {10122}{[Crafting: Electric][Food]} Lemon
 {10123}{[Crafting: Electric][Food]} Potato
 {10124}{[Quest]} Vial of Dragon's Blood
-{10125}{[Offering] Works as Strong aphrodisiac.} Passion Root
+{10125}{[Offering] Works as a strong aphrodisiac.} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
 {10127}{[Gift]} Dwarven Snuff
-{10128}{[Gift] Magic essence in water.} Elven Spring Water
+{10128}{[Gift] Magickal essence in water.} Elven Spring Water
 {10129}{[Gift] Staple of quality on your table.} Earl Grey Tea
 {10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
 {10131}{[Gift] Yum.} Sweet Cakes
