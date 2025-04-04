@@ -91,7 +91,7 @@
 {6112}{D:1-8 FT:3-12 Major Healing MSR:5 MC:20} Staff of Healing
 {6113}{D:1-8 FT:3-12 Major Heal, Charm Beast, Regenerate MSR:5 MC:60} Shaman's Staff
 {6114}{D:1-8 FT:3-12 Mana:50 Illuminate, Dweomer Shield MSR:5 MC:60} Mage's Staff //MC doesn't fit
-{6115}{D:2-9 FT:2-5 RNG:9 MSR:5/7 TC:30} Hushed Revolver
+{6115}{D:2-9 FT:2-5 RNG:9 Silent MSR:5/7 TC:30} Hushed Revolver
 {6116}{D:2-6 FT:1-4 TH:+5 RNG:15 MSR:5/7 TC:20} Hand Crafted Flintlock
 {6117}{D:1-2 FT:1-3 MSR:10/12 [Crafting]} Large Pipe
 {6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 TC:85 [Crafting]} Hand Cannon
@@ -300,7 +300,7 @@
 {8176}{AC:5 DR:7 D:+15 TC:20} Machined Gauntlets
 {8177}{AC:6 DR:8 D:+10 TC:10} War Gauntlets
 {8178}{AC:4 DR:6 D:+2 TC:5} Chain Gloves
-{8179}{DR:5 Pickpocket(+1/20) MC:40} Light-Fingered Gauntlets
+{8179}{DR:5 Pickpocket:(+1/20) MC:40} Light-Fingered Gauntlets
 {8180}{DR:5 Dexterity:(+2) MC:20} Gloves of Dexterity
 {8181}{AC:6 DR:9 Perception:-1} Fine Helmet
 {8182}{AC:10 DR:12 Perception:-1} Pig Face Basset
@@ -462,7 +462,7 @@
 {10097}{+2 to All Stats for 27 min.} Revitalizer //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10098}{+2 to Mental Stats for 27 min.[Crafting]} Mind Marvel //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10099}{Dexterity:+2 for 27 min.} Tonic of Increased Reflexes //Duration changes depending on RT-TB game state (27/33/39 min.)
-{10100}{ST+2 CN+2 DX+2 BE+2 for 27 min. [Crafting]} Energizer //Duration changes depending on RT-TB game state (27/33/39 min.)
+{10100}{+2 to Physical Stats for 27 min. [Crafting]} Energizer //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
 {10102}{[Crafting: Therapeutics]} Nerve Pills
 {10103}{Perception:+2 for 27 min.} Liquid of Awareness //Duration changes depending on RT-TB game state (27/33/39 min.)
@@ -691,7 +691,7 @@
 {15077}{[Junk] Leftovers from Factory work.} Metal Shavings
 {15078}{[Crafting: Guns] High quality handgun part.} Gun Chassis
 {15079}{[Crafting: Guns] Cylinder designed to hold bullets.} Revolver Chamber
-{15080}{Deals 15-25 damage.} Spike Trap
+{15080}{Deals D:15-25 when stepped on.} Spike Trap
 {15081}{Bonus to picklock skill +10%} Auto Skeleton Key
 {15082}{[Crafting: Mechanical] Bigger spring, greater force.} Large Spring
 {15083}{[Crafting: Mechanical] Popular in industrial quality devices} Small Spring
@@ -711,9 +711,9 @@
 {15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera //Quest
 {15098}{} Small Statuette //Quest
 {15099}{} Chest of Gold //Quest
-{15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
+{15100}{Deals D:5-10 and immobilises for 10 sec. when stepped on.} Bear Trap
 {15101}{[Crafting: Mechanical] Big opened ring with a lock.} Metal Clamp
-{15102}{Use it to safely trigger a trap.} Trap Springer
+{15102}{Use it to safely trigger traps on doors or containers.} Trap Springer
 {15103}{[Crafting: Mechanical] Parts from a good watch.} Pocket Watch Parts
 {15104}{[Junk]} Vase // use description of candlestick anyways, no need fixing
 {15105}{[Junk] Device plays music when opened.} Music Box
