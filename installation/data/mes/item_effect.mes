@@ -86,12 +86,12 @@
 {6107}{D:20-40 FT:1-10 RNG:15 MSR:12 TC:100} Levered Machine Gun
 {6108}{D:2-10 FT:1-5 RNG:15 MSR:9 TC:30} Rifle
 {6109}{D:1-10 FT:1-3 TH:-5 RNG:15 MSR:8 TC:30} Rusted Rifle
-{6110}{D:4-12 FT:5-7 ED:12-24 MSR:5 TC:90 [Crafting]} Shocking Staff
+{6110}{D:4-12 FT:5-7 ED:12-24 Requires Charges TC:90 [Crafting] MSR:5} Shocking Staff //MSR doesn't fit
 {6111}{D:1-8 FT:3-12 MSR:5} Quality Staff
 {6112}{D:1-8 FT:3-12 Major Healing MSR:5 MC:20} Staff of Healing
 {6113}{D:1-8 FT:3-12 Major Heal, Charm Beast, Regenerate MSR:5 MC:60} Shaman's Staff
 {6114}{D:1-8 FT:3-12 Mana:50 Illuminate, Dweomer Shield MSR:5 MC:60} Mage's Staff //MC doesn't fit
-{6115}{D:12-24 FT:2-5 TH:+10 RNG:12 MSR:3/5 TC:30} Hushed Revolver
+{6115}{D:12-24 FT:2-5 TH:+10 RNG:12 Silent MSR:3/5 TC:30} Hushed Revolver
 {6116}{D:4-9 FT:1-4 RNG:15 MSR:3/5 TC:20} Hand Crafted Flintlock
 {6117}{D:1-2 FT:1-3 MSR:10/12 [Crafting]} Large Pipe
 {6118}{D:16-32 FT:4-10 RNG:12 MSR:5/7 TC:85 [Crafting]} Hand Cannon
@@ -300,7 +300,7 @@
 {8176}{AC:5 DR:7 D:+15 TC:20} Machined Gauntlets
 {8177}{AC:6 DR:8 D:+10 TC:10} War Gauntlets
 {8178}{AC:4 DR:6 D:+2 TC:5} Chain Gloves
-{8179}{DR:5 Pickpocket(+1/20) MC:40} Light-Fingered Gauntlets
+{8179}{DR:5 Pickpocket:(+1/20) MC:40} Light-Fingered Gauntlets
 {8180}{DR:5 Dexterity:(+2) MC:20} Gloves of Dexterity
 {8181}{AC:6 DR:9 Perception:-1} Fine Helmet
 {8182}{AC:10 DR:12 Perception:-1} Pig Face Basset
@@ -424,7 +424,7 @@
 {10059}{Heals 20pts of health [Crafting]} Healing Salve
 {10060}{Restores 20pts of fatigue [Crafting]} Fatigue Restorer
 {10061}{[Crafting: Herbology] Used for anxiety in folk medicine.} Ginka Root
-{10062}{[Crafting: Herbology] Folks cure for backpain.} Kadura Stem
+{10062}{[Crafting: Herbology] Folk cure for backpain.} Kadura Stem
 {10063}{[Crafting: Herbology] Recommended on cold and fevers.} Coca Leaves
 {10064}{[Crafting: Herbology] For recreation and resuscitation.} Tobacco Leaves
 {10065}{+70 Poison Level to the target [Crafting]} Poison
@@ -458,11 +458,11 @@
 {10093}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Crafting]} Wine
 {10094}{[Crafting: Chemistry] Smells of jessamine.} Morning Star Perfume //changing its description effects unique item descriptions too (Napha Water)
 {10095}{[Junk] Smells like lavender and spirit.} Dragon Cologne
-{10096}{[Junk] Healing herb used for asthma and neuralgias.} Lingham's Belladonna
+{10096}{[Junk] Healing herb used for asthma and neuralgia.} Lingham's Belladonna
 {10097}{+2 to All Stats for 27 min.} Revitalizer //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10098}{+2 to Mental Stats for 27 min.[Crafting]} Mind Marvel //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10099}{Dexterity:+2 for 27 min.} Tonic of Increased Reflexes //Duration changes depending on RT-TB game state (27/33/39 min.)
-{10100}{ST+2 CN+2 DX+2 BE+2 for 27 min. [Crafting]} Energizer //Duration changes depending on RT-TB game state (27/33/39 min.)
+{10100}{+2 to Physical Stats for 27 min. [Crafting]} Energizer //Duration changes depending on RT-TB game state (27/33/39 min.)
 {10101}{[Crafting: Therapeutics]} Doolittle's Glyceride
 {10102}{[Crafting: Therapeutics]} Nerve Pills
 {10103}{Perception:+2 for 27 min.} Liquid of Awareness //Duration changes depending on RT-TB game state (27/33/39 min.)
@@ -471,7 +471,7 @@
 {10106}{} Witch Hazel Extract // UNUSED INGAME
 {10107}{[Crafting: Therapeutics] Mustard plasters.} Rheumatism Cure
 {10108}{[Crafting: Therapeutics] Popular amongst ladies.} Migraine Cure
-{10109}{[Crafting: Therapeutics] Inflamation aid.} Tincture of Arnica
+{10109}{[Crafting: Therapeutics] Inflammation aid.} Tincture of Arnica
 {10110}{[Crafting: Explosives] Staple of every house.} CK Sugar
 {10111}{Turns target into a mindless slave for 60 sec.} Elixir of Hypnotic Suggestion // Scroll of Dominate Will text
 {10112}{Permanent:+1 to Mental, -1 to Physical Stats.} Brain Builder
@@ -487,10 +487,10 @@
 {10122}{[Crafting: Electric][Food]} Lemon
 {10123}{[Crafting: Electric][Food]} Potato
 {10124}{[Quest]} Vial of Dragon's Blood
-{10125}{[Offering] Works as Strong aphrodisiac.} Passion Root
+{10125}{[Offering] Works as a strong aphrodisiac.} Passion Root
 {10126}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Chateau de Be'ron Brandy
 {10127}{[Gift]} Dwarven Snuff
-{10128}{[Gift] Magic essence in water.} Elven Spring Water
+{10128}{[Gift] Magical essence in water.} Elven Spring Water
 {10129}{[Gift] Staple of quality on your table.} Earl Grey Tea
 {10130}{ST+1 CN+1 DX-1 PE-1 CH-2 IN-3 for 360s [Gift]} Absinthe
 {10131}{[Gift] Yum.} Sweet Cakes
@@ -691,7 +691,7 @@
 {15077}{[Junk] Leftovers from Factory work.} Metal Shavings
 {15078}{[Crafting: Guns] High quality handgun part.} Gun Chassis
 {15079}{[Crafting: Guns] Cylinder designed to hold bullets.} Revolver Chamber
-{15080}{Deals 15-25 damage.} Spike Trap
+{15080}{Deals D:15-25 when stepped on.} Spike Trap
 {15081}{Bonus to picklock skill +10%} Auto Skeleton Key
 {15082}{[Crafting: Mechanical] Bigger spring, greater force.} Large Spring
 {15083}{[Crafting: Mechanical] Popular in industrial quality devices} Small Spring
@@ -711,9 +711,9 @@
 {15097}{This slightly charred camera looks like it has seen better days.} Crash Site Camera //Quest
 {15098}{} Small Statuette //Quest
 {15099}{} Chest of Gold //Quest
-{15100}{Deals 5-10 Damage and immobilises the target for 10 sec.} Bear Trap
+{15100}{Deals D:5-10 and immobilises for 10 sec. when stepped on.} Bear Trap
 {15101}{[Crafting: Mechanical] Big opened ring with a lock.} Metal Clamp
-{15102}{Use it to safely trigger a trap.} Trap Springer
+{15102}{Use it to safely trigger traps on doors or containers.} Trap Springer
 {15103}{[Crafting: Mechanical] Parts from a good watch.} Pocket Watch Parts
 {15104}{[Junk]} Vase // use description of candlestick anyways, no need fixing
 {15105}{[Junk] Device plays music when opened.} Music Box
@@ -775,7 +775,7 @@
 {15161}{Deals FT:10+CurrentFT to the targets} Knock Out Gas Grenade
 {15162}{Makes living targets flee} Hallucination Grenade
 {15163}{D:1-5 ED:5-30 can of lightning} Electrocution Grenade
-{15164}{D:25-50 FT:10-20 Stun} Concussion Grenade
+{15164}{D:25-50 FT:10-20 Knockback} Concussion Grenade
 {15165}{Paralyzes targets for 6 sec.} Paralysis Grenade
 {15166}{Creates 3x3 poison curtain PD:15-25 per sec. lasts 30 sec.} Mustard Gas Grenade
 {15167}{[Crafting: Mechanical] Arrangement of ropes and pulleys.} Boat Rigging
@@ -789,7 +789,7 @@
 {15175}{Detonates all planted plastiques.} Detonator
 {15176}{} UNUSED Medical Arachnid //UNUSED INGAME
 {15177}{[Crafting: Mechanical] Small, well as small as they go.} Minute Steam Works
-{15178}{Allow to use lock picking skill.} Crude Lockpicks
+{15178}{Allows use of the picklocks skill.} Crude Lockpicks
 {15179}{Uses your Heal skill to restore health and cure injuries.} Bandages
 {15180}{[Quest] Toone family members are valid recipients.} Deed to the Bessie Toone Mine
 {15181}{[Offering] Carved wooden statue.} Li'tani
