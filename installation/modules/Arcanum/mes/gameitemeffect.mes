@@ -58,7 +58,7 @@
 {30055}{Shovel} // Shovel
 {30056}{Shovel of a gravekeeper from Caladon.} // Bingham's Shovel
 {30057}{Bingham Shulefest} // Bingham Shulefest
-{30058}{Book contains human research of the Dark Elves.} //Quest "T'sen-Ang: Horror Among the Dark Elves"
+{30058}{Contains Renford's research on the Dark Elves.} //Quest "T'sen-Ang: Horror Among the Dark Elves" 
 {30059}{} //Quest "The Curse of T'sen-Ang"
 {30060}{Alexander the Acolyte} // Alexander the Acolyte
 {30070}{Gunther Willhelm} // Gunther Willhelm
@@ -138,8 +138,8 @@
 {30196}{Muggs} // Muggs
 {30197}{Larrs} // Larrs
 {30198}{Caleb Malloy} // Caleb Malloy
-{30199}{[Quest] Ale you are supposed to get to Pullock Clan.} // Case of ale
-{30200}{[Quest] Maloy has been waiting for this delivery.} // Case of whiskey
+{30199}{[Quest] Ale you are supposed to get to Pollock Clan.} // Case of ale
+{30200}{[Quest] Malloy has been waiting for this delivery.} // Case of whiskey
 {30201}{Vermillion Station} // Vermillion Station
 {30202}{Castleton's General Store} // Castleton's General Store
 {30203}{Vorman Fine Clothes & Tailor} // Vorman Fine Clothes & Tailor
@@ -398,7 +398,7 @@
 {30457}{Librarian} // Librarian
 {30458}{Mr. Victor Wright} // Mr. Victor Wright
 {30459}{Well-to-do business man} // Well-to-do business man
-{30460}{[Quest] This is just empty book for you.} // Divinations and Magicks for the Adept Wizard
+{30460}{[Quest] This is just an empty book for you.} // Divinations and Magicks for the Adept Wizard
 {30461}{Beauty:(+2) MC:40 [Quest]} // Complexity +40 // Necklace of Queen K'na S'ea
 {30462}{Clue to find Liam.} //Quest Liam Cameron's Journal
 {30463}{Thieves Underground Package} // Thieves Underground Package
@@ -451,7 +451,7 @@
 {30510}{Jason C. Guy} // Jason C. Guy
 {30511}{Scholarly Gentleman} // Scholarly Gentleman
 {30512}{Key to Bates' Factory} // Key to Bates' Factory
-{30513}{[Quest] Thieves underground wanna have their hands on it.} // Map of Tarantian Sewers
+{30513}{[Quest] Thieves underground wanna get their hands on it.} // Map of Tarantian Sewers 
 {30514}{Nicholas Longfoot} // Nicholas Longfoot
 {30515}{Madam's Bartender/Bouncer} // Madam's Bartender/Bouncer
 {30516}{Lianna} // Lianna
@@ -531,7 +531,7 @@
 {30801}{DR:5 D:+3 AR:(+100%) PR(-200%) DOT:FT,PD MC:30 ROCH:Self-PD:1-10} //ROCH doesn't fit Baneful Gauntlets //critical misses or receiving critical hits deal Self-PD:1-10
 {30802}{DR:+20% Heal Rate -100%, FT:-90%} //UNUSED INGAME Chill Plate Mail
 {30803}{AC:15 DR:36 FR:30 DR(+%20) DOT:FT crit:Self-FTdmg ER:-10 NP:-80 MC:50} //ER doesn't fit Consuming Plate Mail //critical misses or receiving critical hits deal Self-FTdmg:100%
-{30806}{AC:11 DR:20 AR:(+20%) ST:DX:PE:(-3) Dodge:(-3/20) NP:-25 MC:25} //NP doesn't fit UNUSED INGAME Hexed Barbarian Armour
+{30806}{AC:11 DR:20 AR:(+20%) ST:DX:PE:(-3) Dodge:(-3/20) NP:-25 MC:25} //NP doesn't fit Hexed Barbarian Armour
 {30807}{AC:11(+20) DR:16 AR:(+30) DR(+20%)PR:MR(-100%) NP:-25 MC:100} //NP doesn't fit//doesn't give PR:MR:(+30) but those are zeroed by the penalty Hero's Weakness Barbarian Armour
 {30815}{AC:30 AR(+20%) ST:DX:WP(-3) MaxFT(-95%) MC:20} // Chill Shield
 {30817}{DR:MR:(-50%) PE:(+4) Bow:(+2/20) maxHP:FT(-20%) AC:10 DR:5 MC:50} //AC doesn't fit, Helmet of Yzar's Cost, not pixel of a space left c
@@ -562,7 +562,7 @@
 {30913}{D:10-25(10) TH:10(21) CR:(30) SPD:(20) MSR:5/7(+5) FT:1-4 MC:40} //FT doesn't fit Torian Kel's Ancestral Sword
 {30916}{[Quest] Dwarven family heirlom is just a toy.}//Toy Train
 {30918}{[Quest]}//Silver Boot Buckles
-{30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18} // Kryggird's Falchion
+{30924}{D:35-50 FT:10-20 TH:+20 MSR:14/18 [Quest]} // Kryggird's Falchion 
 {30934}{[Quest]}//Robbery Heirloom Statue
 {30936}{AC:(+10) PR:(+20) MC:20} // Ring of Poison Resistance
 {30957}{[Quest] Yuck.}//Eyes of Sir Garrick Stout
@@ -694,7 +694,7 @@
 {40028}{[Junk] Thieves must have grabbed whatever lied around.} // Music Box - Stolen goods obtained from D'ak Taan the thief
 {40029}{[Junk] Thieves must have grabbed whatever lied around.} // Candle Stick - Stolen goods obtained from D'ak Taan the thief
 {40030}{[Quest] Looks like a replica of elven statues.} // Hedgewizard's statue
-{40031}{[Quest] Distorted reflection of your face.} // Crystal Ball
+{40031}{[Quest] You see a distorted reflection of your face.} // Crystal Ball
 {40032}{[Quest]} // Empty Vial
 {40033}{[Crafting: Guns] Does it still work?} // Ancient Gun Chassis
 {40034}{[Quest] Small trap to catch the giant.} // Stillwater Trap
@@ -715,7 +715,7 @@
 {40049}{[Quest] Matthew Jameson's lost ring.} // Matthew Jameson's Wedding Ring
 {40050}{AC:20 DR:30 FR:10 ER:-20 NP:-80 TC:60 [Quest]} //Ashbury Theodore's Technological Plate / Basic Machined Plate
 {40051}{[Quest] Note from Maximillian.} // Note from Maximillian confirming receipt of Moonshine
-{40052}{[Quest] A newspaper.} // Newspaper with editorial on Arland-Tarant difficulties
+{40052}{[Quest] Newspaper editorial on Arland-Tarant difficulties} // Newspaper with editorial on Arland-Tarant difficulties
 {40053}{[Quest]} // The Journal of Kraka-tur
 {40054}{[Quest] Perception:-1} // Wheel Clan Spectacles (Thorvald's)
 {40055}{[Quest]} // Arronax Warden's Medallion
