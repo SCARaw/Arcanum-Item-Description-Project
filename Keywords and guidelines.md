@@ -25,7 +25,6 @@ Short descriptors pointing to the usage of the item designed to be intuitive and
 [Gift] - this item is a gift for disgruntled companions 
 [Valuable] - this item sells decently  
 [Junk] - this item is useless (please do not call bread and water junk)  
-AR - All Resistances for items that cover every single resistance to not type DR:FR:ER:MR:PR or other weird incantations
 [MSR:x/y] - minimal strength requirement without/with off-hand item  
 [Chop]- currently axe exclusive, property of breaking wood without damaging weapon  
 [Untraceable] - usage of this item for any purpose is impossible for the game logic to be traced back to you 
@@ -38,6 +37,20 @@ AR - All Resistances for items that cover every single resistance to not type DR
 [TH] - to hit bonus (increase hit and crit chance)     
 [RNG] - Range of the item  
 [Axe] - Chop exist in vanilla, just not described anywhere  
+
+### Other potentially confusing words:
+
+AR - short for All Resistances - includes DR, FR, ER, PR, MR  
+OtherRes - Other Resistances - any resistances not included previously in description  
+MA:-Res - some of the technological armors have penalties scaled with magical aptitude  
+CR - Critical Rate (chance to land a critical hit, flat bonus added to your total critical hit chance)   
+(Brackets) - implies the bonus is affected by magickal aptitude (usually scaled), already used in vanilla game, mod makes it consistent  
+MC - Magic Complexity, determines power level of magical items  
+TC - Technological Complexity, it's the tech equivalent of Magic Complexity, determines power level of tech items  
+ROH - Random on Hit, vanilla term, but defined only in scripts, it's effect has a chance to be triggered with a successful hit  
+SPD - Weapon Speed, adds to the speed of the weapon, can lower AP cost per hit  
+Speed - Global speed, add on top of your base speed  
+AoE - Area of Effect, it means its damage hits multiple targets around contact point  
 
 ![image](https://github.com/user-attachments/assets/903f90ea-efeb-4d64-9d17-6b1a72b5e1f0)
 
