@@ -320,7 +320,7 @@
 {8196}{AC:Evil Alignment/2 MC:40} Shadow Shield
 {8197}{AC:17 DR:40 FR:15 ER:-20 NP:-80 TC:15} Dwarven Platemail
 {8198}{AC:20(5) DR:15(7) FR:10(10) ER:-20 Heal Rate:(+%40) NP:-80 MC:40} //NP doesn't fit Minute Platemail of Regeneration
-{8199}{AC:3 DR:7 Perception:-1 TC:20 [Crafting]} Great Helm
+{8199}{AC:18 DR:0 Perception:-1 TC:20 [Crafting]} Great Helm
 {8200}{AC:2 DR:1 NP:-10 Reaction:+20} Sunday's Best Dress
 {8201}{} Officer's Uniform
 {8202}{} Small Officer's Uniform
