@@ -667,8 +667,8 @@
 {31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect MC:75} //  Complexity +75 // Fawn's Bow
 {31212}{AC:30(+10) DR:10 Bolt of Lightning MC:40} // Complexity +40 // Screaming Shield
 {40000}{PE <8 +1 else -1 [Quest]} // Location: Caladon Inn Room 4, Quest: Master Prowler, Property: Only glass that can reveal the painting
-{40001}{D:1-8 FT:1-4 TH:(+5) SPD:(+2) MSR:2/4} MC:10// Doc Roberts' magickal sword (quest reward)
-{40002}{D:2-9 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (quest reward)
+{40001}{D:1-8 FT:1-4 TH:(+5) SPD:(+2) MSR:2/4 MC:10}// Doc Roberts' magickal sword (quest reward)
+{40002}{D:2-9 FT:2-5 TH:+3 MSR:5/7 TC:10} // Doc Roberts' finely made pistol (quest reward)
 {40003}{D:1-12 FT:1-9 MSR:8/10} // Doc Roberts' battle axe (quest reward)
 {40004}{D:2-9 FT:2-5 TH:+3 MSR:5/7} // Doc Roberts' finely made pistol (his own pistol)
 {40005}{D:1-7 FT:1-10 MSR:6/8} // Malloy's Peacemaker
